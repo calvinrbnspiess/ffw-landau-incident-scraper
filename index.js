@@ -352,10 +352,10 @@ const synchronizeAllIncidents = async () => {
         `data/incidents-details/${nextToSync}.json`,
         JSON.stringify(populated, null, 2)
       );
-      await sleep(5 * 1000);
+      await sleep(20 * 1000);
     }
     console.log("Batch done.");
-    await sleep(20 * 1000);
+    await sleep(60 * 1000);
   }
   console.log("Sync done.");
 };
