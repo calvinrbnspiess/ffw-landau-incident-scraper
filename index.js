@@ -29,6 +29,7 @@ mkdirSync("data/raw/", { recursive: true });
 mkdirSync("data/incidents/", { recursive: true });
 mkdirSync("data/incidents-details/", { recursive: true });
 
+// used to delay requests in order to not overwhelm the server
 const sleep = ms => {
   return new Promise(resolve => {
     setTimeout(resolve, ms);
