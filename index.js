@@ -265,6 +265,15 @@ const synchronizeAllIncidents = async () => {
         console.log(
           `(!) Warning: There is no general information for this incident [id=${nextToSync}]. Skipping.`
         );
+
+        syncState = generateSyncState(
+          undefined,
+          undefined,
+          batchIdStart,
+          batchIdEnd,
+          nextToSync
+        );
+        writeSyncState(syncState);
         continue;
       }
 

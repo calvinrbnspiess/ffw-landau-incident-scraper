@@ -140,3 +140,4 @@ temp/
 .env
 data.zip
 data
+docker_command.sh
