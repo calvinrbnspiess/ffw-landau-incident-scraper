@@ -4,6 +4,7 @@ import { URL } from "url";
 import parser from "xml2js";
 import { mkdirSync, readFileSync, writeFileSync } from "fs";
 import dotenv from "dotenv";
+import fns from "date-fns";
 
 console.log(`
 ███████╗██╗    ██╗    ██╗      █████╗ ███╗   ██╗██████╗  █████╗ ██╗   ██╗    ███████╗██╗███╗   ██╗███████╗ █████╗ ███████╗████████╗███████╗███████╗
@@ -22,6 +23,12 @@ dotenv.config();
 if (!process.env.GOOGLE_MAPS_API_KEY) {
   console.log(
     "(!) Warning: There is no GOOGLE_MAPS_API_KEY defined in .env file. Incidents won't be geocoded.\n"
+  );
+}
+
+if (!process.env.METEOSTAT_API_KEY) {
+  console.log(
+    "(!) Warning: There is no METEOSTAT_API_KEY defined in .env file. Incidents won't get historical weather data.\n"
   );
 }
 
@@ -120,6 +127,27 @@ const getGeocodeInformation = place => {
   url.search = querystring.stringify({
     address: `${place}, Landau`,
     key: process.env.GOOGLE_MAPS_API_KEY
+  });
+
+  const parsed = url.toString();
+
+  console.log(parsed);
+  return fetch(parsed);
+};
+
+const getWeatherInformation = dateString => {
+  const url = new URL("https://api.meteostat.net/v1/history/daily");
+
+  const dateFormatted = fns.format(new Date(dateString), "yyyy-MM-dd");
+
+  // The weather station has the id=10724 and is in Weinbiet (Neustadt, Weinstraße). It is on a height of 553m above NN.
+  // Alternative would be station D0377 in Bad Bergzabern (would be closer to elevation in Landau), but there is less data available.
+
+  url.search = querystring.stringify({
+    station: "10724",
+    start: dateFormatted,
+    end: dateFormatted,
+    key: process.env.METEOSTAT_API_KEY
   });
 
   const parsed = url.toString();
@@ -278,6 +306,24 @@ const synchronizeAllIncidents = async () => {
         }
       }
 
+      let historicalWeather = undefined;
+      if (
+        process.env.METEOSTAT_API_KEY &&
+        generalIncidentInformation["general:date"] !== undefined
+      ) {
+        let request = await getWeatherInformation(
+          generalIncidentInformation["general:date"]
+        ).then(res => res.json());
+
+        let data = request["data"];
+
+        if (data.length === 0) {
+          console.log("Could not find weather information for this incident.");
+        } else {
+          historicalWeather = data[0];
+        }
+      }
+
       const {
         $: headerDetails,
         "general:einsatzid": einsatzid,
@@ -298,7 +344,8 @@ const synchronizeAllIncidents = async () => {
       const populated = {
         ...filteredGeneral,
         ...filteredDetails,
-        "geocode:location": incidentCoordinates
+        "meta:geolocation": incidentCoordinates,
+        "meta:weather": historicalWeather
       };
 
       writeFileSync(
