@@ -37,8 +37,8 @@ mkdirSync("data/incidents/", { recursive: true });
 mkdirSync("data/incidents-details/", { recursive: true });
 
 // used to delay requests in order to not overwhelm the server
-const sleep = ms => {
-  return new Promise(resolve => {
+const sleep = (ms) => {
+  return new Promise((resolve) => {
     setTimeout(resolve, ms);
   });
 };
@@ -57,13 +57,13 @@ const generateSyncState = (
     lastResponseFile,
     idStart,
     idEnd,
-    idDetails
+    idDetails,
   };
 };
 
 const SYNC_FILE = "data/sync.json";
 
-const writeSyncState = syncState => {
+const writeSyncState = (syncState) => {
   writeFileSync(SYNC_FILE, JSON.stringify(syncState, null, 2));
 };
 
@@ -80,8 +80,8 @@ const readSyncState = () => {
   return syncState;
 };
 
-const parseXMLtoJSON = xml =>
-  new Promise(resolve => {
+const parseXMLtoJSON = (xml) =>
+  new Promise((resolve) => {
     parser.parseString(xml, { explicitArray: false }, (err, parsed) =>
       resolve(parsed)
     );
@@ -109,7 +109,7 @@ const getIncidents = async (idStart, idEnd) => {
   return fetch(parsed);
 };
 
-const getIncidentDetails = id => {
+const getIncidentDetails = (id) => {
   const url = new URL(
     "https://www.feuerwehr-landau.de/mobile/einsatzDetails.php"
   );
@@ -121,12 +121,12 @@ const getIncidentDetails = id => {
   return fetch(parsed);
 };
 
-const getGeocodeInformation = place => {
+const getGeocodeInformation = (place) => {
   const url = new URL("https://maps.googleapis.com/maps/api/geocode/json");
 
   url.search = querystring.stringify({
     address: `${place}, Landau`,
-    key: process.env.GOOGLE_MAPS_API_KEY
+    key: process.env.GOOGLE_MAPS_API_KEY,
   });
 
   const parsed = url.toString();
@@ -135,7 +135,7 @@ const getGeocodeInformation = place => {
   return fetch(parsed);
 };
 
-const getWeatherInformation = dateString => {
+const getWeatherInformation = (dateString) => {
   const url = new URL("https://api.meteostat.net/v1/history/daily");
 
   const dateFormatted = fns.format(new Date(dateString), "yyyy-MM-dd");
@@ -147,7 +147,7 @@ const getWeatherInformation = dateString => {
     station: "10724",
     start: dateFormatted,
     end: dateFormatted,
-    key: process.env.METEOSTAT_API_KEY
+    key: process.env.METEOSTAT_API_KEY,
   });
 
   const parsed = url.toString();
@@ -157,12 +157,12 @@ const getWeatherInformation = dateString => {
 };
 
 // saves raw request result with current timestamp, pathname as an api-call indicator and the used search query
-const saveRequest = res =>
+const saveRequest = (res) =>
   new Promise((resolve, reject) => {
     res
       .clone()
       .text()
-      .then(text => {
+      .then((text) => {
         const url = new URL(res.url);
         const filename = `data/raw/${Date.now()}-${url.pathname
           .split("/")
@@ -179,7 +179,7 @@ const synchronizeAllIncidents = async () => {
   // step 1 - handshake
   const parsedHandshake = await getIncidents()
     .then(saveRequest)
-    .then(res => {
+    .then((res) => {
       syncState = generateSyncState(
         res.url,
         res.responseFile,
@@ -191,7 +191,7 @@ const synchronizeAllIncidents = async () => {
 
       return res;
     })
-    .then(res => res.text())
+    .then((res) => res.text())
     .then(parseXMLtoJSON);
 
   const incidents = parsedHandshake["Einsaetze"]["Einsatz"];
@@ -209,7 +209,7 @@ const synchronizeAllIncidents = async () => {
   //  - fetch geocode location
   //  - aggregate (create json file with merged data)
 
-  while (syncState.idEnd < newestIncidentId) {
+  while (syncState.idDetails < newestIncidentId) {
     // now we should have a batch available
     let batchIdStart, batchIdEnd;
     if (syncState.idDetails < syncState.idEnd) {
@@ -224,7 +224,7 @@ const synchronizeAllIncidents = async () => {
 
     const parsed = await getIncidents(batchIdStart, batchIdEnd)
       .then(saveRequest)
-      .then(res => {
+      .then((res) => {
         syncState = generateSyncState(
           res.url,
           res.responseFile,
@@ -236,7 +236,7 @@ const synchronizeAllIncidents = async () => {
 
         return res;
       })
-      .then(res => res.text())
+      .then((res) => res.text())
       .then(parseXMLtoJSON);
 
     const incidentsBatch = parsed["Einsaetze"]["Einsatz"];
@@ -257,8 +257,15 @@ const synchronizeAllIncidents = async () => {
       nextToSync <= batchIdEnd;
       nextToSync++
     ) {
+      if (nextToSync > newestIncidentId) {
+        console.log(
+          `(!) Warning: Reached newest incident. Next incident would have [id=${nextToSync}]. Aborting.`
+        );
+        break;
+      }
+
       const generalIncidentInformation = incidentsBatch.find(
-        incident => parseInt(incident["general:einsatzid"]) === nextToSync
+        (incident) => parseInt(incident["general:einsatzid"]) === nextToSync
       );
 
       if (generalIncidentInformation === undefined) {
@@ -279,7 +286,7 @@ const synchronizeAllIncidents = async () => {
 
       let details = await getIncidentDetails(nextToSync)
         .then(saveRequest)
-        .then(res => {
+        .then((res) => {
           syncState = generateSyncState(
             res.url,
             res.responseFile,
@@ -290,7 +297,7 @@ const synchronizeAllIncidents = async () => {
           writeSyncState(syncState);
           return res;
         })
-        .then(res => res.text())
+        .then((res) => res.text())
         .then(parseXMLtoJSON);
 
       let incidentPlace = generalIncidentInformation["general:location"];
@@ -300,7 +307,7 @@ const synchronizeAllIncidents = async () => {
         incidentPlace !== undefined &&
         incidentPlace !== ""
       ) {
-        let request = await getGeocodeInformation(incidentPlace).then(res =>
+        let request = await getGeocodeInformation(incidentPlace).then((res) =>
           res.json()
         );
 
@@ -322,7 +329,7 @@ const synchronizeAllIncidents = async () => {
       ) {
         let request = await getWeatherInformation(
           generalIncidentInformation["general:date"]
-        ).then(res => res.json());
+        ).then((res) => res.json());
 
         let data = request["data"];
 
@@ -354,7 +361,7 @@ const synchronizeAllIncidents = async () => {
         ...filteredGeneral,
         ...filteredDetails,
         "meta:geolocation": incidentCoordinates,
-        "meta:weather": historicalWeather
+        "meta:weather": historicalWeather,
       };
 
       writeFileSync(
