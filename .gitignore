@@ -139,5 +139,6 @@ temp/
 # End of https://www.gitignore.io/api/node,macos
 .env
 data.zip
-data
 docker_command.sh
+*.tar.gz
+data/raw
