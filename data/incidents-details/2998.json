@@ -1,0 +1,138 @@
+{
+  "general:einsatzid": "2998",
+  "general:title": "Amtshilfe - Personensuche",
+  "general:date": "2012-04-29T01:16:00+02:00",
+  "general:location": "Bahngelände",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.0",
+  "general:dateFormatted": "29.04.2012 01:16",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "98",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "13",
+  "general:EinsatzDescription": "",
+  "general:visits": "499",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "1",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "ELW 1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-207.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-207.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Einsatzleitwagen",
+        "general:vehicleChassis": "VW LT",
+        "general:vehicleBuild": "<a href=\"http://www.hensel-fahrzeugbau.de\" target=\"new\">Hensel</a>",
+        "general:vehicleMobilization": "12/04"
+      },
+      {
+        "general:vehicleid": "45",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "KdoW",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-299.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-299.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kommandowagen",
+        "general:vehicleChassis": "VW Passat",
+        "general:vehicleBuild": "VW",
+        "general:vehicleMobilization": "03/05"
+      },
+      {
+        "general:vehicleid": "65",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MTF 1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1513.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1513.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "Ford Transit",
+        "general:vehicleBuild": "<a href=\"http://www.compoint-fahrzeugbau.de\" target=\"new\">Compoint</a>",
+        "general:vehicleMobilization": "06/11"
+      },
+      {
+        "general:vehicleid": "14",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MTF 3 (heute: MTF Dammheim)",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-304.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-304.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "Mercedes",
+        "general:vehicleBuild": "Eigen",
+        "general:vehicleMobilization": "12/87"
+      },
+      {
+        "general:vehicleid": "17",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "Mef-G",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-258.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-258.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Messtruppfahrzeug",
+        "general:vehicleChassis": "VW Bus",
+        "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+        "general:vehicleMobilization": "08/91"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "29",
+        "general:HiOrgName": "Bundespolizei",
+        "general:HiOrgLink": "http://www.bundespolizei.de/cln_049/nn_250566/DE/BPOLP__West/Abteilungen/Bad__Bergzabern/BPOLABT__bad__bergzabern__node.html?__nnn=true"
+      },
+      {
+        "general:HiOrgId": "63",
+        "general:HiOrgName": "Rettungshundestaffel VII (FF SÜW)",
+        "general:HiOrgLink": "http://www.rettungshunde-facheinheit-rhot-7.org"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.19888599999999,
+    "lng": 8.1185622
+  },
+  "meta:weather": {
+    "date": "2012-04-28",
+    "temperature": 20.6,
+    "temperature_min": 14,
+    "temperature_max": 26.3,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 19.1,
+    "peakgust": 47.2,
+    "sunshine": 660,
+    "pressure": null
+  }
+}

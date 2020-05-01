@@ -1,0 +1,101 @@
+{
+  "general:einsatzid": "4657",
+  "general:title": "Gasaustritt nach VU",
+  "general:date": "2017-04-22T12:33:00+02:00",
+  "general:location": "B10",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "22.04.2017 12:33",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "134",
+  "picture:Picture": {
+    "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/1704/4657-1.jpeg",
+    "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/1704/4657-1.jpeg",
+    "picture:PictureFormat": "quer",
+    "picture:PictureDescription": "",
+    "picture:BufferPreview": "true",
+    "picture:BufferPicture": "false"
+  },
+  "general:changed_on": "2017-04-22T12:50:09+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "10",
+  "general:EinsatzDescription": "<p>Die Polizei hat die Feuerwehr zu einem Unfall mit einem Wohnanh&auml;nger auf die B10 hinzugerufen, da nach einem Unfall zwischen einem LKW und einem Wohnwagengespann Gas zu riechen war. Die Feuerwehr kontrollierte den v&ouml;llig zerst&ouml;rten Anh&auml;nger, die Gasbeh&auml;lter waren alle dicht.</p>",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "75",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "GW-Mess",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1558.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1558.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Gerätewagen-Messtechnik",
+        "general:vehicleChassis": "Mercedes Sprinter 316 CDI, Automatik",
+        "general:vehicleBuild": "<a href=\"http://www.binz-automotive.com/\" target=\"New\">Binz, Ilmenau</a>",
+        "general:vehicleMobilization": "10/14"
+      },
+      {
+        "general:vehicleid": "2",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "HLF 20/16-2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-204.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-204.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+        "general:vehicleChassis": "IVECO 135E24W",
+        "general:vehicleBuild": "<a href=\"http://www.iveco-magirus.de/\" target=\"new\">Iveco-Magirus</a>",
+        "general:vehicleMobilization": "03/02"
+      }
+    ]
+  },
+  "picture:Pictures": {
+    "picture:Picture": [
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/1704/4657-1.jpeg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/1704/4657-1.jpeg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      },
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/1704/4657-2.jpeg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/1704/4657-2.jpeg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      }
+    ]
+  },
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.21279850000001,
+    "lng": 8.1152669
+  },
+  "meta:weather": {
+    "date": "2017-04-22",
+    "temperature": 7.8,
+    "temperature_min": 2.9,
+    "temperature_max": 12.9,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 23,
+    "peakgust": 61.9,
+    "sunshine": 80,
+    "pressure": null
+  }
+}

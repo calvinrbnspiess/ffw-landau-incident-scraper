@@ -1,0 +1,113 @@
+{
+  "general:einsatzid": "1139",
+  "general:title": "OrgLeiter-Transport",
+  "general:date": "2007-06-27T11:11:00+02:00",
+  "general:location": "Annweiler-Sarnstall",
+  "general:categorie": "LNA",
+  "general:length": "1.0",
+  "general:dateFormatted": "27.06.2007 11:11",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "223",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": " Transport des Orl-Leiters von Landau nach Annweiler-Sarnstall. ",
+  "general:visits": "1357",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "67",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "GW-A",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2056.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2056.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Gerätewagen Atemschutz",
+      "general:vehicleChassis": "MAN TGL 12.220",
+      "general:vehicleBuild": "<a href=\"http://www.hensel-fahrzeugbau.de\" target=\"new\">Hensel</a>",
+      "general:vehicleMobilization": "2011"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "45",
+        "general:HiOrgName": "Deutsche Bahn AG",
+        "general:HiOrgLink": "http://www.db.de"
+      },
+      {
+        "general:HiOrgId": "42",
+        "general:HiOrgName": "Straßenmeisterei",
+        "general:HiOrgLink": "http://www.lbm.rlp.de/icc/Internet/nav/c81/c815b7fe-563c-4216-0f1d-8770a7fd7276.htm"
+      },
+      {
+        "general:HiOrgId": "38",
+        "general:HiOrgName": "Untere Wasserbehörde",
+        "general:HiOrgLink": "http://www.landau.de/Verwaltung-Politik/Was-erledige-ich-wo-/index.php?ModID=9&object=tx%7c2644.1&FID=343.228.1&NavID=2644.16&La=1"
+      },
+      {
+        "general:HiOrgId": "33",
+        "general:HiOrgName": "Org-Leiter",
+        "general:HiOrgLink": "https://www.suedliche-weinstrasse.de/de/landkreis/brandschutz/notarzt_orgaleiter.php"
+      },
+      {
+        "general:HiOrgId": "32",
+        "general:HiOrgName": "LNA",
+        "general:HiOrgLink": "https://www.suedliche-weinstrasse.de/de/landkreis/brandschutz/notarzt_orgaleiter.php"
+      },
+      {
+        "general:HiOrgId": "31",
+        "general:HiOrgName": "Rettungsdienst",
+        "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+      },
+      {
+        "general:HiOrgId": "29",
+        "general:HiOrgName": "Bundespolizei",
+        "general:HiOrgLink": "http://www.bundespolizei.de/cln_049/nn_250566/DE/BPOLP__West/Abteilungen/Bad__Bergzabern/BPOLABT__bad__bergzabern__node.html?__nnn=true"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "46",
+        "general:HiOrgName": "Notfallmanager DBAG",
+        "general:HiOrgLink": "http://www.db.de/site/bahn/de/standardnavigation/faq/notfallmanagement.html"
+      },
+      {
+        "general:HiOrgId": "48",
+        "general:HiOrgName": "FF Annweiler",
+        "general:HiOrgLink": "http://www.feuerwehr-annweiler.de/"
+      },
+      {
+        "general:HiOrgId": "69",
+        "general:HiOrgName": "Polizeihubschrauber",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/ueber-uns/die-organisation/polizeihubschrauber/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.2087453,
+    "lng": 7.935705599999999
+  },
+  "meta:weather": {
+    "date": "2007-06-27",
+    "temperature": 10.3,
+    "temperature_min": 7.3,
+    "temperature_max": 15.4,
+    "precipitation": 0.3,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 29.5,
+    "peakgust": 61.9,
+    "sunshine": 234,
+    "pressure": null
+  }
+}

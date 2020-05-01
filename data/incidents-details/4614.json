@@ -1,0 +1,250 @@
+{
+  "general:einsatzid": "4614",
+  "general:title": "Personensuche",
+  "general:date": "2017-03-08T23:23:00+01:00",
+  "general:location": "Bodelschwinghstraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "5.5",
+  "general:dateFormatted": "08.03.2017 23:23",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "93",
+  "general:changed_on": "2017-03-09T09:22:52+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "54",
+  "general:EinsatzDescription": "<p>Die Feuerwehr Landau unterst&uuml;tzte zusammen mit den Hundestaffeln aus S&Uuml;W und Frankenthal die Polizei Landau bei der Personensuche eines 95-j&auml;hrigen Bewohners eines Altersheimes im Geb&auml;ude und im n&auml;heren Umfeld mit den Einhieten aus Landau, Godramstein und Nu&szlig;dorf.</p>\n<p><a href=\"http://www.swr.de/swraktuell/rp/ludwigshafen/landau-suchaktion-nach-95-jaehrigem/-/id=1652/did=19151978/nid=1652/1397m93/index.html\" target=\"_blank\">Bericht </a>auf SWR.de</p>",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "78",
+        "general:vehicleVersion": "3",
+        "general:vehicleName": "stellv. SFI",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/kam/default.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/kam/default.jpg",
+          "picture:PictureFormat": "hoch",
+          "picture:PictureDescription": "Bild folgt",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "",
+        "general:vehicleChassis": "",
+        "general:vehicleBuild": "",
+        "general:vehicleMobilization": ""
+      },
+      {
+        "general:vehicleid": "1",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "ELW 1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-207.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-207.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Einsatzleitwagen",
+        "general:vehicleChassis": "VW LT",
+        "general:vehicleBuild": "<a href=\"http://www.hensel-fahrzeugbau.de\" target=\"new\">Hensel</a>",
+        "general:vehicleMobilization": "12/04"
+      },
+      {
+        "general:vehicleid": "60",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "HLF 20/16-1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+        "general:vehicleChassis": "IVECO FF 160 E 30",
+        "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+        "general:vehicleMobilization": "03/09"
+      },
+      {
+        "general:vehicleid": "65",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MTF 1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1513.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1513.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "Ford Transit",
+        "general:vehicleBuild": "<a href=\"http://www.compoint-fahrzeugbau.de\" target=\"new\">Compoint</a>",
+        "general:vehicleMobilization": "06/11"
+      },
+      {
+        "general:vehicleid": "11",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MTF 2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-220.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-220.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "VW LT",
+        "general:vehicleBuild": "Massong",
+        "general:vehicleMobilization": "12/04"
+      },
+      {
+        "general:vehicleid": "77",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MTF 3",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1517.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1517.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "Opem Movano",
+        "general:vehicleBuild": "Compoint",
+        "general:vehicleMobilization": "10/15"
+      },
+      {
+        "general:vehicleid": "75",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "GW-Mess",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1558.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1558.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Gerätewagen-Messtechnik",
+        "general:vehicleChassis": "Mercedes Sprinter 316 CDI, Automatik",
+        "general:vehicleBuild": "<a href=\"http://www.binz-automotive.com/\" target=\"New\">Binz, Ilmenau</a>",
+        "general:vehicleMobilization": "10/14"
+      },
+      {
+        "general:vehicleid": "57",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "TSF-W Godramstein",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1503.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1503.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Tragkraftspritzenfahrzeug-Wasser",
+        "general:vehicleChassis": "IVECO Daily 65C18D",
+        "general:vehicleBuild": "Iveco Magirus Brandschutztechnik, jetzt: <a href=\"http://www.btg-goerlitz.biz/\" target=\"new\">Brandschutztechnik Görlitz</a>",
+        "general:vehicleMobilization": "06/08"
+      },
+      {
+        "general:vehicleid": "63",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MTF Godramstein",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1505.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1505.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "VW T5",
+        "general:vehicleBuild": "<a href=\"http://www.auto-zotz.de\" target=\"new\">Auto Zotz</a>; Weschenfelder",
+        "general:vehicleMobilization": "02/08"
+      },
+      {
+        "general:vehicleid": "66",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MTF Nussdorf",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1514.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1514.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "Ford Transit",
+        "general:vehicleBuild": "<a href=\"http://www.compoint-fahrzeugbau.de\" target=\"new\">Compoint</a>",
+        "general:vehicleMobilization": "06/11"
+      },
+      {
+        "general:vehicleid": "55",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "TSF-W Nußdorf",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1504.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1504.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Tragkraftspritzenfahrzeug-Wasser",
+        "general:vehicleChassis": "IVECO Daily 65C18D",
+        "general:vehicleBuild": "Iveco Magirus Brandschutztechnik, jetzt: <a href=\"http://www.btg-goerlitz.biz/\" target=\"new\">Brandschutztechnik Görlitz</a>",
+        "general:vehicleMobilization": "06/08"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "63",
+        "general:HiOrgName": "Rettungshundestaffel VII (FF SÜW)",
+        "general:HiOrgLink": "http://www.rettungshunde-facheinheit-rhot-7.org"
+      },
+      {
+        "general:HiOrgId": "64",
+        "general:HiOrgName": "Rettungshundestaffel IV (FF FT)",
+        "general:HiOrgLink": "http://www.rettungshundestaffel4.de/"
+      },
+      {
+        "general:HiOrgId": "69",
+        "general:HiOrgName": "Polizeihubschrauber",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/ueber-uns/die-organisation/polizeihubschrauber/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.20617050000001,
+    "lng": 8.106986
+  },
+  "meta:weather": {
+    "date": "2017-03-08",
+    "temperature": 3.6,
+    "temperature_min": 0.7,
+    "temperature_max": 7.8,
+    "precipitation": 6.9,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 29.2,
+    "peakgust": 74.9,
+    "sunshine": 59,
+    "pressure": null
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "general:einsatzid": "1902",
+  "general:title": "Keller unter Wasser",
+  "general:date": "2009-07-03T12:59:00+02:00",
+  "general:location": "Kirchstraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.5",
+  "general:dateFormatted": "03.07.2009 12:59",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "138",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "",
+  "general:AmountPeople": "10",
+  "general:EinsatzDescription": "",
+  "general:visits": "290",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "59",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "LF 10/6",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1060.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1060.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Löschgruppenfahrzeug Nußdorf",
+        "general:vehicleChassis": "IVECO MAGIRUS FF 90 E 18 4x2",
+        "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"new\">Iveco Magirus</a>",
+        "general:vehicleMobilization": "11/08"
+      },
+      {
+        "general:vehicleid": "35",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MTF Nussdorf - alt",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-241.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-241.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "VW Bus",
+        "general:vehicleBuild": "",
+        "general:vehicleMobilization": "06/83"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2252501,
+    "lng": 8.110655699999999
+  },
+  "meta:weather": {
+    "date": "2009-07-03",
+    "temperature": 18.9,
+    "temperature_min": 15.4,
+    "temperature_max": 26.2,
+    "precipitation": 20,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 13,
+    "peakgust": 49.7,
+    "sunshine": 372,
+    "pressure": null
+  }
+}

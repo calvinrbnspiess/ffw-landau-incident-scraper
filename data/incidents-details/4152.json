@@ -1,0 +1,108 @@
+{
+  "general:einsatzid": "4152",
+  "general:title": "Gebäudebrand",
+  "general:date": "2016-01-01T00:38:00+01:00",
+  "general:location": "Helmbachstraße",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.0",
+  "general:dateFormatted": "01.01.2016 00:38",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "2",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "27",
+  "general:EinsatzDescription": "",
+  "general:visits": "103",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "45",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "KdoW",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-299.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-299.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kommandowagen",
+        "general:vehicleChassis": "VW Passat",
+        "general:vehicleBuild": "VW",
+        "general:vehicleMobilization": "03/05"
+      },
+      {
+        "general:vehicleid": "2",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "HLF 20/16-2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-204.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-204.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+        "general:vehicleChassis": "IVECO 135E24W",
+        "general:vehicleBuild": "<a href=\"http://www.iveco-magirus.de/\" target=\"new\">Iveco-Magirus</a>",
+        "general:vehicleMobilization": "03/02"
+      },
+      {
+        "general:vehicleid": "59",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "LF 10/6",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1060.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1060.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Löschgruppenfahrzeug Nußdorf",
+        "general:vehicleChassis": "IVECO MAGIRUS FF 90 E 18 4x2",
+        "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"new\">Iveco Magirus</a>",
+        "general:vehicleMobilization": "11/08"
+      },
+      {
+        "general:vehicleid": "66",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MTF Nussdorf",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1514.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1514.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "Ford Transit",
+        "general:vehicleBuild": "<a href=\"http://www.compoint-fahrzeugbau.de\" target=\"new\">Compoint</a>",
+        "general:vehicleMobilization": "06/11"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2047555,
+    "lng": 8.1392962
+  },
+  "meta:weather": {
+    "date": "2015-12-31",
+    "temperature": 3.4,
+    "temperature_min": -0.4,
+    "temperature_max": 6.2,
+    "precipitation": 0.9,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 24.5,
+    "peakgust": 53.6,
+    "sunshine": 89,
+    "pressure": null
+  }
+}

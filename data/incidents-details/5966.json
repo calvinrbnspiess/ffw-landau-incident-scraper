@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "5966",
+  "general:title": "Person in Zwangslage",
+  "general:date": "2019-06-15T19:13:00+02:00",
+  "general:location": "Stadtgebiet",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "15.06.2019 19:13",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "201",
+  "general:changed_on": "2019-06-15T19:27:09+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.19888599999999,
+    "lng": 8.1185622
+  },
+  "meta:weather": {
+    "date": "2019-06-15",
+    "temperature": 17.7,
+    "temperature_min": 12.8,
+    "temperature_max": 23.4,
+    "precipitation": 12.5,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": 221,
+    "windspeed": 25,
+    "peakgust": 76,
+    "sunshine": 405,
+    "pressure": 1013.2
+  }
+}

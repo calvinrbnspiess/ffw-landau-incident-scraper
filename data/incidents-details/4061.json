@@ -1,0 +1,91 @@
+{
+  "general:einsatzid": "4061",
+  "general:title": "Brennender Baum",
+  "general:date": "2015-09-09T17:59:00+02:00",
+  "general:location": "Kapbachstraße",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "0.5",
+  "general:dateFormatted": "09.09.2015 17:59",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "216",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "15",
+  "general:EinsatzDescription": "",
+  "general:visits": "71",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "56",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "TSF-W Mörzheim",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1502.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1502.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Tragkraftspritzenfahrzeug-Wasser",
+        "general:vehicleChassis": "IVECO Daily 65C18D",
+        "general:vehicleBuild": "Iveco Magirus Brandschutztechnik, jetzt: <a href=\"http://www.btg-goerlitz.biz/\" target=\"new\">Brandschutztechnik Görlitz</a>",
+        "general:vehicleMobilization": "06/08"
+      },
+      {
+        "general:vehicleid": "62",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "TSF-W Wollmesheim",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1512.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1512.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Tragkraftspritzenfahrzeug-Wasser",
+        "general:vehicleChassis": "IVECO Daily 65C17D",
+        "general:vehicleBuild": "<a href=\"http://www.adik-fahrzeugbau.de\" target=\"new\">ADIK Fahrzeugbau</a>",
+        "general:vehicleMobilization": "04/11"
+      },
+      {
+        "general:vehicleid": "73",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MTF Wollmesheim",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1507.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1507.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "Ford Transit",
+        "general:vehicleBuild": "<a href=\"http://www.compoint-fahrzeugbau.de\" target=\"new\">Compoint</a>",
+        "general:vehicleMobilization": "04/14"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1689024,
+    "lng": 8.078676399999999
+  },
+  "meta:weather": {
+    "date": "2015-09-09",
+    "temperature": 15,
+    "temperature_min": 10,
+    "temperature_max": 20,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": null,
+    "peakgust": null,
+    "sunshine": 600,
+    "pressure": null
+  }
+}

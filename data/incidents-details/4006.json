@@ -1,0 +1,114 @@
+{
+  "general:einsatzid": "4006",
+  "general:title": "Flächenbrand",
+  "general:date": "2015-07-15T12:02:00+02:00",
+  "general:location": "BAB65 Landau-Zentrum",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.0",
+  "general:dateFormatted": "15.07.2015 12:02",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "162",
+  "picture:Picture": {
+    "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/1507/4006-1.jpeg",
+    "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/1507/4006-1.jpeg",
+    "picture:PictureFormat": "quer",
+    "picture:PictureDescription": "",
+    "picture:BufferPreview": "true",
+    "picture:BufferPicture": "false"
+  },
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "16",
+  "general:EinsatzDescription": " An der Autobahnausfahrt Landau-Mitte brannte der Grünstreifen neben dem Verzögerungsstreifen. Mit einem Strahlrohr hatte die Feuerwehr den Brand rasch abgelöscht.",
+  "general:visits": "188",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "60",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "HLF 20/16-1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+        "general:vehicleChassis": "IVECO FF 160 E 30",
+        "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+        "general:vehicleMobilization": "03/09"
+      },
+      {
+        "general:vehicleid": "58",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "PTLF 4000",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2040.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2040.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Pulvertanklöschfahrzeug",
+        "general:vehicleChassis": "MB 1832 AK 4x4 \"Actros\"",
+        "general:vehicleBuild": "<a href=\"http://www.lentner-gmbh.de\" target=\"new\">Lentner</a>",
+        "general:vehicleMobilization": "09/08"
+      },
+      {
+        "general:vehicleid": "5",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "LF 16-12 (heute: )",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-256.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-256.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Löschgruppenfahrzeug",
+        "general:vehicleChassis": "MB 1222",
+        "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+        "general:vehicleMobilization": "06/88"
+      }
+    ]
+  },
+  "picture:Pictures": {
+    "picture:Picture": {
+      "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/1507/4006-1.jpeg",
+      "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/1507/4006-1.jpeg",
+      "picture:PictureFormat": "quer",
+      "picture:PictureDescription": "",
+      "picture:BufferPreview": "true",
+      "picture:BufferPicture": "false"
+    }
+  },
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.2003727,
+    "lng": 8.148304600000001
+  },
+  "meta:weather": {
+    "date": "2015-07-15",
+    "temperature": 20.9,
+    "temperature_min": 14.7,
+    "temperature_max": 28.5,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 11.9,
+    "peakgust": 30.6,
+    "sunshine": 507,
+    "pressure": null
+  }
+}

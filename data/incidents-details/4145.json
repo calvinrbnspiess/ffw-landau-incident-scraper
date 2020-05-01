@@ -1,0 +1,68 @@
+{
+  "general:einsatzid": "4145",
+  "general:title": "Amtshilfe für Polizei",
+  "general:date": "2015-12-21T08:59:00+01:00",
+  "general:location": "Wollmesheimer Höhe",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "4.0",
+  "general:dateFormatted": "21.12.2015 08:59",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "299",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "",
+  "general:visits": "40",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "45",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "KdoW",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-299.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-299.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kommandowagen",
+      "general:vehicleChassis": "VW Passat",
+      "general:vehicleBuild": "VW",
+      "general:vehicleMobilization": "03/05"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "75",
+        "general:HiOrgName": "Kampfmittelräumdienst RLP (KMRD)",
+        "general:HiOrgLink": "http://www.add.rlp.de/Kommunale-und-hoheitliche-Aufgaben,-Soziales/Kampfmittelraeumdienst/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.1867464,
+    "lng": 8.093309099999999
+  },
+  "meta:weather": {
+    "date": "2015-12-21",
+    "temperature": 7.4,
+    "temperature_min": 5.5,
+    "temperature_max": 9.7,
+    "precipitation": 1,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 41.4,
+    "peakgust": 103,
+    "sunshine": 46,
+    "pressure": null
+  }
+}

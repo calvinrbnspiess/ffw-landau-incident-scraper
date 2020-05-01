@@ -1,0 +1,114 @@
+{
+  "general:einsatzid": "6366",
+  "general:title": "Waldbrand",
+  "general:date": "2020-04-06T16:26:00+02:00",
+  "general:location": "Queichheimer Hauptstraße",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.5",
+  "general:dateFormatted": "06.04.2020 16:26",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "115",
+  "general:changed_on": "2020-04-06T17:12:54+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "12",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "1",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "ELW 1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-207.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-207.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Einsatzleitwagen",
+        "general:vehicleChassis": "VW LT",
+        "general:vehicleBuild": "<a href=\"http://www.hensel-fahrzeugbau.de\" target=\"new\">Hensel</a>",
+        "general:vehicleMobilization": "12/04"
+      },
+      {
+        "general:vehicleid": "45",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "KdoW",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-299.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-299.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kommandowagen",
+        "general:vehicleChassis": "VW Passat",
+        "general:vehicleBuild": "VW",
+        "general:vehicleMobilization": "03/05"
+      },
+      {
+        "general:vehicleid": "79",
+        "general:vehicleVersion": "2",
+        "general:vehicleName": "TLF 3000",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1231.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1231.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Tanklöschfahrzeug 3000",
+        "general:vehicleChassis": "Mercedes Atego 1527 AF 4x4, Teligent-Schaltung",
+        "general:vehicleBuild": "<a href=\"https://www.magirusgroup.com/de/de/home/\">Magirus</a>, Ulm",
+        "general:vehicleMobilization": "07/18"
+      },
+      {
+        "general:vehicleid": "70",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "LF-KatS",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD8045.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD8045.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Löschgruppenfahrzeug Katastrophenschutz",
+        "general:vehicleChassis": "MAN TGM 13.250 4x4 BL FW",
+        "general:vehicleBuild": "<a href=\"http://www.lentner-gmbh.de\" target=\"new\">Josef Lentner GmbH</a>",
+        "general:vehicleMobilization": "09/12"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1959657,
+    "lng": 8.1448155
+  },
+  "meta:weather": {
+    "date": "2020-04-06",
+    "temperature": 14.8,
+    "temperature_min": 9.9,
+    "temperature_max": 22.3,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 219,
+    "windspeed": 19.3,
+    "peakgust": 44,
+    "sunshine": 739,
+    "pressure": 1021.6
+  }
+}

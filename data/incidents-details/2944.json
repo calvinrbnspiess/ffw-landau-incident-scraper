@@ -1,0 +1,78 @@
+{
+  "general:einsatzid": "2944",
+  "general:title": "LNA-Transport",
+  "general:date": "2012-02-16T22:40:00+01:00",
+  "general:location": "Maximillianstraße",
+  "general:categorie": "LNA",
+  "general:length": "1.0",
+  "general:dateFormatted": "16.02.2012 22:40",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "44",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "",
+  "general:visits": "725",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "11",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "MTF 2",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-220.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-220.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+      "general:vehicleChassis": "VW LT",
+      "general:vehicleBuild": "Massong",
+      "general:vehicleMobilization": "12/04"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "33",
+        "general:HiOrgName": "Org-Leiter",
+        "general:HiOrgLink": "https://www.suedliche-weinstrasse.de/de/landkreis/brandschutz/notarzt_orgaleiter.php"
+      },
+      {
+        "general:HiOrgId": "32",
+        "general:HiOrgName": "LNA",
+        "general:HiOrgLink": "https://www.suedliche-weinstrasse.de/de/landkreis/brandschutz/notarzt_orgaleiter.php"
+      },
+      {
+        "general:HiOrgId": "31",
+        "general:HiOrgName": "Rettungsdienst",
+        "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.1983579,
+    "lng": 8.1251786
+  },
+  "meta:weather": {
+    "date": "2012-02-16",
+    "temperature": 0.4,
+    "temperature_min": -1.5,
+    "temperature_max": 3.5,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 50,
+    "winddirection": null,
+    "windspeed": 20.9,
+    "peakgust": 41.8,
+    "sunshine": 60,
+    "pressure": null
+  }
+}

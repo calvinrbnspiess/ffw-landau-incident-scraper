@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "323",
+  "general:title": "Alarmierung THW",
+  "general:date": "2005-03-11T23:04:00+01:00",
+  "general:location": "Horstring",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "11.03.2005 23:04",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "40",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": " Siehe unter Eins?tze auf <a target=\"_new\" href=\"http://www.thw-landau.de\"> THW Landau</a>  ",
+  "general:visits": "399",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.20813159999999,
+    "lng": 8.1366753
+  },
+  "meta:weather": {
+    "date": "2005-03-11",
+    "temperature": -0.3,
+    "temperature_min": -3.2,
+    "temperature_max": 2.4,
+    "precipitation": 1.6,
+    "snowfall": null,
+    "snowdepth": 140,
+    "winddirection": null,
+    "windspeed": 47.2,
+    "peakgust": 94.7,
+    "sunshine": 36,
+    "pressure": null
+  }
+}

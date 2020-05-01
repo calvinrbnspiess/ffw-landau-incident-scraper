@@ -1,0 +1,91 @@
+{
+  "general:einsatzid": "919",
+  "general:title": "Baum über Straße",
+  "general:date": "2007-01-18T13:15:00+01:00",
+  "general:location": "Georg-Reiß-Straße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.0",
+  "general:dateFormatted": "18.01.2007 13:15",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "16",
+  "picture:Picture": {
+    "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0701/070118_20.jpg",
+    "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0701/070118_20.jpg",
+    "picture:PictureFormat": "quer",
+    "picture:PictureDescription": "",
+    "picture:BufferPreview": "true",
+    "picture:BufferPicture": "false"
+  },
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "5",
+  "general:EinsatzDescription": " Siehe Bild",
+  "general:visits": "1141",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "45",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "KdoW",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-299.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-299.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kommandowagen",
+        "general:vehicleChassis": "VW Passat",
+        "general:vehicleBuild": "VW",
+        "general:vehicleMobilization": "03/05"
+      },
+      {
+        "general:vehicleid": "51",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "RW (heute: RW 2)",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-209.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-209.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Rüstwagen",
+        "general:vehicleChassis": "MB 1425 4x4",
+        "general:vehicleBuild": "<a href=\"http://www.weschenfelder.com\" target=\"new\">Weschenfelder</a>",
+        "general:vehicleMobilization": "07/05"
+      }
+    ]
+  },
+  "picture:Pictures": {
+    "picture:Picture": {
+      "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0701/070118_20.jpg",
+      "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0701/070118_20.jpg",
+      "picture:PictureFormat": "quer",
+      "picture:PictureDescription": "",
+      "picture:BufferPreview": "true",
+      "picture:BufferPicture": "false"
+    }
+  },
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2096232,
+    "lng": 8.1050854
+  },
+  "meta:weather": {
+    "date": "2007-01-18",
+    "temperature": 8.8,
+    "temperature_min": 7.5,
+    "temperature_max": 10.8,
+    "precipitation": 12,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 79.2,
+    "peakgust": 163.4,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

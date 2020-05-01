@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "4012",
+  "general:title": "Mülleimer-Brand",
+  "general:date": "2015-07-21T21:31:00+02:00",
+  "general:location": "An 44",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.0",
+  "general:dateFormatted": "21.07.2015 21:31",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "168",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "5",
+  "general:EinsatzDescription": "Aus dem Polizeibericht:<br><br><b>Brennender Müll</b><br><br>\r\nAm Montagabend wurde ein Brand in der An 44, Höhe des Schillerparks gemeldet. Beim Eintreffen der Feuerwehr brannten eine Restmülltonne und mehrere Müllsäcke. Der Brand war schnell gelöscht. Zeugen gaben an, dass sich in der Nähe des Brandortes zwei Jugendliche mit weißen T-Shirts und hellen Hosen aufhielten und anschließend in Richtung Stadion wegliefen.",
+  "general:visits": "98",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "60",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "HLF 20/16-1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+      "general:vehicleChassis": "IVECO FF 160 E 30",
+      "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+      "general:vehicleMobilization": "03/09"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1984013,
+    "lng": 8.107522699999999
+  },
+  "meta:weather": {
+    "date": "2015-07-21",
+    "temperature": 23.8,
+    "temperature_min": 17.2,
+    "temperature_max": 31.4,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 19.8,
+    "peakgust": 40,
+    "sunshine": 721,
+    "pressure": null
+  }
+}

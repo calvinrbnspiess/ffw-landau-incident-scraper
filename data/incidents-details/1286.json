@@ -1,0 +1,96 @@
+{
+  "general:einsatzid": "1286",
+  "general:title": "PKW-Brand",
+  "general:date": "2007-11-24T09:09:00+01:00",
+  "general:location": "Westring",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.0",
+  "general:dateFormatted": "24.11.2007 09:09",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "365",
+  "picture:Picture": {
+    "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0711/071124_01.jpg",
+    "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0711/071124_01.jpg",
+    "picture:PictureFormat": "quer",
+    "picture:PictureDescription": "",
+    "picture:BufferPreview": "true",
+    "picture:BufferPicture": "false"
+  },
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "2",
+  "general:AmountPeople": "9",
+  "general:EinsatzDescription": " Beim Abstellen seines Fahrzeuges bemerkte der Fahrer dass sein VW Bus aus dem Motorraum brannte. Bis zum Eintreffen der Feuerwehr konnte er seine Unterlagen aus dem Fahrzeug retten. Unter Atemschutz gingen zwei Mann vor und konnten den Brand auf den Motorraum und das Armaturenbrett begrenzen. ",
+  "general:visits": "1104",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "2",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "LF 16-12-1 (heute: HLF 20/16-2)",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-204.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-204.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Löschgruppenfahrzeug",
+      "general:vehicleChassis": "IVECO 135E24W",
+      "general:vehicleBuild": "<a href=\"http://www.iveco-magirus.de/\" target=\"new\">Iveco-Magirus</a>",
+      "general:vehicleMobilization": "03/02"
+    }
+  },
+  "picture:Pictures": {
+    "picture:Picture": [
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0711/071124_01.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0711/071124_01.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      },
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0711/071124_02.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0711/071124_02.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      },
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0711/071124_03.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0711/071124_03.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      }
+    ]
+  },
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1973002,
+    "lng": 8.1088168
+  },
+  "meta:weather": {
+    "date": "2007-11-24",
+    "temperature": 0.7,
+    "temperature_min": -2.1,
+    "temperature_max": 3.1,
+    "precipitation": 0.3,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 17.3,
+    "peakgust": 48.2,
+    "sunshine": 450,
+    "pressure": null
+  }
+}

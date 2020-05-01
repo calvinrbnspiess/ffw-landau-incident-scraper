@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "62",
+  "general:title": "Wasserrohrbruch",
+  "general:date": "2004-03-19T19:44:00+01:00",
+  "general:location": "Marktstraße 51",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.0",
+  "general:dateFormatted": "19.03.2004 19:44",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "53",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "7",
+  "general:EinsatzDescription": "",
+  "general:visits": "412",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.19921,
+    "lng": 8.11191
+  },
+  "meta:weather": {
+    "date": "2004-03-19",
+    "temperature": 9.8,
+    "temperature_min": 7.2,
+    "temperature_max": 12.3,
+    "precipitation": 3.8,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 42.1,
+    "peakgust": 92.9,
+    "sunshine": 204,
+    "pressure": null
+  }
+}

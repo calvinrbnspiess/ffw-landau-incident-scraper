@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "596",
+  "general:title": "Verständigung Baubetriebshof",
+  "general:date": "2006-02-24T15:20:00+01:00",
+  "general:location": "Nußdorfer Weg",
+  "general:categorie": "LNA",
+  "general:length": "1.0",
+  "general:dateFormatted": "24.02.2006 15:20",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "39",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "387",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2090609,
+    "lng": 8.1089293
+  },
+  "meta:weather": {
+    "date": "2006-02-24",
+    "temperature": -1.2,
+    "temperature_min": -2.9,
+    "temperature_max": 1.7,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 27.4,
+    "peakgust": 57.6,
+    "sunshine": 72,
+    "pressure": null
+  }
+}

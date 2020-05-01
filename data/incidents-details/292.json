@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "292",
+  "general:title": "Alarmierung THW",
+  "general:date": "2005-01-24T18:18:00+01:00",
+  "general:location": "B 10   Hauenstein",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "24.01.2005 18:18",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "12",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "416",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2180496,
+    "lng": 8.0033159
+  },
+  "meta:weather": {
+    "date": "2005-01-24",
+    "temperature": -3.9,
+    "temperature_min": -5.4,
+    "temperature_max": -2.4,
+    "precipitation": 0.1,
+    "snowfall": null,
+    "snowdepth": 30,
+    "winddirection": null,
+    "windspeed": 27.7,
+    "peakgust": 66.6,
+    "sunshine": 204,
+    "pressure": null
+  }
+}

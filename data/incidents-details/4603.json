@@ -1,0 +1,189 @@
+{
+  "general:einsatzid": "4603",
+  "general:title": "Brandmeldeanlage",
+  "general:date": "2017-03-01T06:07:00+01:00",
+  "general:location": "In den Waldstücken",
+  "general:categorie": "Brandmeldeanlage",
+  "general:length": "3.0",
+  "general:dateFormatted": "01.03.2017 06:07",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "82",
+  "general:changed_on": "2017-03-01T10:39:14+01:00",
+  "general:AmountPA": "6",
+  "general:AmountPeople": "25",
+  "general:EinsatzDescription": "<p>Der Brand in einer Druckmaschine durch die interne CO2-L&ouml;schanlage weitestgehend gel&ouml;scht. Die Feuerwehr Landau hat mit weiteren CO2 L&ouml;schern die Glutnester endg&uuml;ltig abl&ouml;schen k&ouml;nnen. Die Geb&auml;ude wurden anschlie&szlig;end zwangsbel&uuml;ftet und wieder f&uuml;r die Mitarbeiter freigegeben.</p>",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "1",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "ELW 1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-207.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-207.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Einsatzleitwagen",
+        "general:vehicleChassis": "VW LT",
+        "general:vehicleBuild": "<a href=\"http://www.hensel-fahrzeugbau.de\" target=\"new\">Hensel</a>",
+        "general:vehicleMobilization": "12/04"
+      },
+      {
+        "general:vehicleid": "24",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "SFI",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/kam/default.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/kam/default.jpg",
+          "picture:PictureFormat": "hoch",
+          "picture:PictureDescription": "Bild folgt",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "",
+        "general:vehicleChassis": "",
+        "general:vehicleBuild": "",
+        "general:vehicleMobilization": ""
+      },
+      {
+        "general:vehicleid": "78",
+        "general:vehicleVersion": "3",
+        "general:vehicleName": "stellv. SFI",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/kam/default.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/kam/default.jpg",
+          "picture:PictureFormat": "hoch",
+          "picture:PictureDescription": "Bild folgt",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "",
+        "general:vehicleChassis": "",
+        "general:vehicleBuild": "",
+        "general:vehicleMobilization": ""
+      },
+      {
+        "general:vehicleid": "74",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "TGM 23-12",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1538.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1538.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Teleskopgelenkmast",
+        "general:vehicleChassis": "Mercedes Atego 1629, Teligent-Schaltung",
+        "general:vehicleBuild": "<a href=\"http://www.metz-online.de/\">Metz</a>",
+        "general:vehicleMobilization": "10/14"
+      },
+      {
+        "general:vehicleid": "51",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "RW 2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-209.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-209.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Rüstwagen",
+        "general:vehicleChassis": "MB 1425 4x4",
+        "general:vehicleBuild": "<a href=\"http://www.weschenfelder.com\" target=\"new\">Weschenfelder</a>",
+        "general:vehicleMobilization": "07/05"
+      },
+      {
+        "general:vehicleid": "58",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "PTLF 4000",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2040.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2040.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Pulvertanklöschfahrzeug",
+        "general:vehicleChassis": "MB 1832 AK 4x4 \"Actros\"",
+        "general:vehicleBuild": "<a href=\"http://www.lentner-gmbh.de\" target=\"new\">Lentner</a>",
+        "general:vehicleMobilization": "09/08"
+      },
+      {
+        "general:vehicleid": "2",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "HLF 20/16-2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-204.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-204.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+        "general:vehicleChassis": "IVECO 135E24W",
+        "general:vehicleBuild": "<a href=\"http://www.iveco-magirus.de/\" target=\"new\">Iveco-Magirus</a>",
+        "general:vehicleMobilization": "03/02"
+      },
+      {
+        "general:vehicleid": "75",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "GW-Mess",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1558.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1558.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Gerätewagen-Messtechnik",
+        "general:vehicleChassis": "Mercedes Sprinter 316 CDI, Automatik",
+        "general:vehicleBuild": "<a href=\"http://www.binz-automotive.com/\" target=\"New\">Binz, Ilmenau</a>",
+        "general:vehicleMobilization": "10/14"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "31",
+        "general:HiOrgName": "Rettungsdienst",
+        "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.2060973,
+    "lng": 8.170582399999999
+  },
+  "meta:weather": {
+    "date": "2017-03-01",
+    "temperature": 3.1,
+    "temperature_min": 0.5,
+    "temperature_max": 5.3,
+    "precipitation": 6.2,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 45.7,
+    "peakgust": 89.3,
+    "sunshine": 51,
+    "pressure": null
+  }
+}

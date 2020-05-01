@@ -1,0 +1,87 @@
+{
+  "general:einsatzid": "3842",
+  "general:title": "Unterstützung Rettungsdienst",
+  "general:date": "2014-12-31T17:33:00+01:00",
+  "general:location": "Feuerbachstraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.5",
+  "general:dateFormatted": "31.12.2014 17:33",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "293",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "13",
+  "general:EinsatzDescription": " Aus dem Polizeibericht:<Br><br><b>Glück im Unglück</b><br><br>\r\n\r\nWeil Rettungssanitäter am 31.12.2014, gegen 17.47 Uhr, einen desorientierten 65-jährigen Mann aus Landau nicht  aus der Badewanne heben konnten, forderten sie zur Unterstützung die Feuerwehr an. Beim Betreten der Wohnung schlug der Koholenmonoxidsensor der Feuerwehrmänner Alarm. Als Ursache der überhöhten Kohlenmonoxidkonzentration wurde eine offensichtlich defekte Heiztherme in der Wohnung festgestellt. Wahrscheinlich wurde auch die Gesundheitsbeeinträchtigung des 65-jährigen durch das ausgetretene Kohlenmonoxid verursacht.<br><br>\r\n\r\nDie Feuerwehr legte die Heiztherme still und überprüfte zur Sicherheit noch die Nachbarwohnungen nach vorhandenem Kohlenmonoxid. Nachdem dies ausgeschlossen und der 65-jährige Wohnungsinhaber mit einem RTW ins Krankenhaus verbracht war, rückte die Feuerwehr mit ihren zwei Fahrzeugen und 13 Einsatzkräften ab.\r\n<br><br>\r\nDie Ehefrau des Wohnungsinhabers kommt bis zur weiteren Klärung und Ursachenbeseitigung bei Freunden unter. ",
+  "general:visits": "72",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "60",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "HLF 20/16-1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+        "general:vehicleChassis": "IVECO FF 160 E 30",
+        "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+        "general:vehicleMobilization": "03/09"
+      },
+      {
+        "general:vehicleid": "74",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "TGM 23-12",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1538.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1538.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Teleskopgelenkmast",
+        "general:vehicleChassis": "Mercedes Atego 1629, Teligent-Schaltung",
+        "general:vehicleBuild": "<a href=\"http://www.metz-online.de/\">Metz</a>",
+        "general:vehicleMobilization": "10/14"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "31",
+        "general:HiOrgName": "Rettungsdienst",
+        "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.2059789,
+    "lng": 8.1194276
+  },
+  "meta:weather": {
+    "date": "2014-12-31",
+    "temperature": -0.9,
+    "temperature_min": -1.5,
+    "temperature_max": 0.3,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 100,
+    "winddirection": null,
+    "windspeed": 12.6,
+    "peakgust": 24.1,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

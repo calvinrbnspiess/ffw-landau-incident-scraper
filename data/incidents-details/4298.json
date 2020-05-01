@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "4298",
+  "general:title": "LNA-Transport",
+  "general:date": "2016-06-29T20:12:00+02:00",
+  "general:location": "Schlettstadter Straße",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "29.06.2016 20:12",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "140",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "77",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "MTF 3",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1517.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1517.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+      "general:vehicleChassis": "Opem Movano",
+      "general:vehicleBuild": "Compoint",
+      "general:vehicleMobilization": "10/15"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "32",
+      "general:HiOrgName": "LNA",
+      "general:HiOrgLink": "https://www.suedliche-weinstrasse.de/de/landkreis/brandschutz/notarzt_orgaleiter.php"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1933932,
+    "lng": 8.0885043
+  },
+  "meta:weather": {
+    "date": "2016-06-29",
+    "temperature": 16.9,
+    "temperature_min": 14.1,
+    "temperature_max": 22.2,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 25.9,
+    "peakgust": 56.9,
+    "sunshine": 537,
+    "pressure": null
+  }
+}

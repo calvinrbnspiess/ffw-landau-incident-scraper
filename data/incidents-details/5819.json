@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "5819",
+  "general:title": "Technische Hilfeleistung kleinerer Art",
+  "general:date": "2019-02-20T10:51:00+01:00",
+  "general:location": "An 44 / Jahnstraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.0",
+  "general:dateFormatted": "20.02.2019 10:51",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "58",
+  "general:changed_on": "2019-02-20T10:55:28+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "51",
+      "general:vehicleVersion": "2",
+      "general:vehicleName": "RW 2",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-209.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-209.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Rüstwagen",
+      "general:vehicleChassis": "MB 1425 4x4",
+      "general:vehicleBuild": "<a href=\"http://www.weschenfelder.com\" target=\"new\">Weschenfelder</a>",
+      "general:vehicleMobilization": "07/05"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1964463,
+    "lng": 8.1075421
+  },
+  "meta:weather": {
+    "date": "2019-02-20",
+    "temperature": 5.2,
+    "temperature_min": 2,
+    "temperature_max": 10.5,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 249,
+    "windspeed": 17.5,
+    "peakgust": 33,
+    "sunshine": 414,
+    "pressure": 1025
+  }
+}

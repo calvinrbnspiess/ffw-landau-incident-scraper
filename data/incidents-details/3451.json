@@ -1,0 +1,43 @@
+{
+  "general:einsatzid": "3451",
+  "general:title": "Ölspur",
+  "general:date": "2013-08-23T15:43:00+02:00",
+  "general:location": "Wollmesheimer Hauptstraße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "0.5",
+  "general:dateFormatted": "23.08.2013 15:43",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "244",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "176",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "27",
+      "general:HiOrgName": "Fachfirma Straßenreinigung",
+      "general:HiOrgLink": "http://www.brechtel-fahrbahnreinigung.de"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1799382,
+    "lng": 8.077109
+  },
+  "meta:weather": {
+    "date": "2013-08-23",
+    "temperature": 18.1,
+    "temperature_min": 15.2,
+    "temperature_max": 23.8,
+    "precipitation": 0.1,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 16.9,
+    "peakgust": 45,
+    "sunshine": 300,
+    "pressure": null
+  }
+}

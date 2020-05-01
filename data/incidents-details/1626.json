@@ -1,0 +1,97 @@
+{
+  "general:einsatzid": "1626",
+  "general:title": "Technische Hilfeleistung - Bergung",
+  "general:date": "2008-11-02T00:59:00+01:00",
+  "general:location": "Schwanenweiher",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "2.0",
+  "general:dateFormatted": "02.11.2008 00:59",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "291",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "6",
+  "general:EinsatzDescription": "",
+  "general:visits": "1207",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "45",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "KdoW",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-299.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-299.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kommandowagen",
+        "general:vehicleChassis": "VW Passat",
+        "general:vehicleBuild": "VW",
+        "general:vehicleMobilization": "03/05"
+      },
+      {
+        "general:vehicleid": "51",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "RW (heute: RW 2)",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-209.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-209.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Rüstwagen",
+        "general:vehicleChassis": "MB 1425 4x4",
+        "general:vehicleBuild": "<a href=\"http://www.weschenfelder.com\" target=\"new\">Weschenfelder</a>",
+        "general:vehicleMobilization": "07/05"
+      },
+      {
+        "general:vehicleid": "46",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MZF",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-259.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-259.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mehrzweckfahrzeug",
+        "general:vehicleChassis": "MB 1425 4x4",
+        "general:vehicleBuild": "<a href=\"http://www.weschenfelder.com\" target=\"new\">Weschenfelder</a>",
+        "general:vehicleMobilization": "04/05"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.19664239999999,
+    "lng": 8.121863
+  },
+  "meta:weather": {
+    "date": "2008-11-01",
+    "temperature": 5.8,
+    "temperature_min": 3.6,
+    "temperature_max": 8.5,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 18,
+    "peakgust": 47.9,
+    "sunshine": 96,
+    "pressure": null
+  }
+}

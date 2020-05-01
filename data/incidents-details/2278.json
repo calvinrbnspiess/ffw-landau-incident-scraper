@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "2278",
+  "general:title": "Ausgelaufenes Heiz?l",
+  "general:date": "2010-03-11T12:02:00+01:00",
+  "general:location": "Queichheimer Hauptstraße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "0.5",
+  "general:dateFormatted": "11.03.2010 12:02",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "132",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "",
+  "general:visits": "307",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1959657,
+    "lng": 8.1448155
+  },
+  "meta:weather": {
+    "date": "2010-03-11",
+    "temperature": -2,
+    "temperature_min": -4.7,
+    "temperature_max": 1.5,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 50,
+    "winddirection": null,
+    "windspeed": 23.8,
+    "peakgust": 54,
+    "sunshine": 402,
+    "pressure": null
+  }
+}

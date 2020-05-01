@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "2971",
+  "general:title": "Rauchentwicklung",
+  "general:date": "2012-03-23T19:35:00+01:00",
+  "general:location": "In den Grabengärten",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "0.5",
+  "general:dateFormatted": "23.03.2012 19:35",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "71",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "5",
+  "general:EinsatzDescription": "",
+  "general:visits": "287",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "2",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "LF 16-12-1 (heute: HLF 20/16-2)",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-204.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-204.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Löschgruppenfahrzeug",
+      "general:vehicleChassis": "IVECO 135E24W",
+      "general:vehicleBuild": "<a href=\"http://www.iveco-magirus.de/\" target=\"new\">Iveco-Magirus</a>",
+      "general:vehicleMobilization": "03/02"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1954195,
+    "lng": 8.1280021
+  },
+  "meta:weather": {
+    "date": "2012-03-23",
+    "temperature": 12,
+    "temperature_min": 7.8,
+    "temperature_max": 16.9,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 15.5,
+    "peakgust": 34.2,
+    "sunshine": 684,
+    "pressure": null
+  }
+}

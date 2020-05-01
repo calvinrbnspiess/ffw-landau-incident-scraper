@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "6286",
+  "general:title": "Person in Aufzug",
+  "general:date": "2020-01-31T07:33:00+01:00",
+  "general:location": "An der Kreuzmühle",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "31.01.2020 07:33",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "36",
+  "general:changed_on": "2020-01-31T07:44:47+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "10",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "60",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "HLF 20/16-1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+      "general:vehicleChassis": "IVECO FF 160 E 30",
+      "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+      "general:vehicleMobilization": "03/09"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1984326,
+    "lng": 8.0897483
+  },
+  "meta:weather": {
+    "date": "2020-01-31",
+    "temperature": 9.1,
+    "temperature_min": 8.3,
+    "temperature_max": 11.1,
+    "precipitation": 0.3,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 248,
+    "windspeed": 48.9,
+    "peakgust": 105,
+    "sunshine": 104,
+    "pressure": 1011.7
+  }
+}

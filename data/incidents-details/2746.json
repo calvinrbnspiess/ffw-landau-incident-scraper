@@ -1,0 +1,49 @@
+{
+  "general:einsatzid": "2746",
+  "general:title": "Verständigung Polizei",
+  "general:date": "2011-05-21T07:45:00+02:00",
+  "general:location": "Haardtstraße",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "21.05.2011 07:45",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "137",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "",
+  "general:visits": "438",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "57",
+        "general:HiOrgName": "Tierarzt"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.2023372,
+    "lng": 8.1176815
+  },
+  "meta:weather": {
+    "date": "2011-05-21",
+    "temperature": 18.1,
+    "temperature_min": 12.9,
+    "temperature_max": 24,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 11.2,
+    "peakgust": 30.6,
+    "sunshine": 516,
+    "pressure": null
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "general:einsatzid": "2693",
+  "general:title": "Technische Hilfeleistung",
+  "general:date": "2011-03-28T17:51:00+02:00",
+  "general:location": "Wollmesheimer Straße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.0",
+  "general:dateFormatted": "28.03.2011 17:51",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "85",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "7",
+  "general:EinsatzDescription": " Der Kranausleger eines LKW blieb beim Durchfahren einer Schilderbr?cke an dieser h?ngen. <br>Die Schilderbr?cke knickte zum Teil um und drohte auf die Fahrbahn zu fallen. <br>Um die Reste beseitigen zu k?nnen wurde die Br?cke mit dem Plasmaschneidger?t an der Halterung abgeschnitten.  ",
+  "general:visits": "1443",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "4",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "TGM 23-12",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-243.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-243.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Teleskopgelenkmast",
+        "general:vehicleChassis": "MAN 15.264",
+        "general:vehicleBuild": "<a href=\"http://www.bronto.ch/\" target=\"new\">Bronto Skylift</a>",
+        "general:vehicleMobilization": "11/98"
+      },
+      {
+        "general:vehicleid": "51",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "RW (heute: RW 2)",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-209.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-209.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Rüstwagen",
+        "general:vehicleChassis": "MB 1425 4x4",
+        "general:vehicleBuild": "<a href=\"http://www.weschenfelder.com\" target=\"new\">Weschenfelder</a>",
+        "general:vehicleMobilization": "07/05"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "43",
+        "general:HiOrgName": "Energie Südwest AG",
+        "general:HiOrgLink": "http://www.energie-suedwest.de/"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.18972249999999,
+    "lng": 8.1013672
+  },
+  "meta:weather": {
+    "date": "2011-03-28",
+    "temperature": 9.1,
+    "temperature_min": 6.2,
+    "temperature_max": 13.6,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 12.6,
+    "peakgust": 34.2,
+    "sunshine": 294,
+    "pressure": null
+  }
+}

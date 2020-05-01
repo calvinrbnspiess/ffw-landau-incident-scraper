@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "6307",
+  "general:title": "Technische Hilfeleistung kleinerer Art",
+  "general:date": "2020-02-10T07:42:00+01:00",
+  "general:location": "Herrenstraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.0",
+  "general:dateFormatted": "10.02.2020 07:42",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "57",
+  "general:changed_on": "2020-02-10T07:57:23+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "5",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "15",
+      "general:vehicleVersion": "2",
+      "general:vehicleName": "KLAF",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-263.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-263.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kleinalarmfahrzeug",
+      "general:vehicleChassis": "MB Sprinter",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "03/12"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1694624,
+    "lng": 8.0756413
+  },
+  "meta:weather": {
+    "date": "2020-02-10",
+    "temperature": 5.8,
+    "temperature_min": 2.5,
+    "temperature_max": 10.2,
+    "precipitation": 13,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 246,
+    "windspeed": 65.9,
+    "peakgust": 150,
+    "sunshine": 172,
+    "pressure": 1002.3
+  }
+}

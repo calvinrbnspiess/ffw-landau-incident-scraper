@@ -1,0 +1,177 @@
+{
+  "general:einsatzid": "3473",
+  "general:title": "Verkehrsunfall, eingeklemmte Personen",
+  "general:date": "2013-10-03T09:31:00+02:00",
+  "general:location": "BAB 65 Landau Nord Richtung Ludwigshafen",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "2.0",
+  "general:dateFormatted": "03.10.2013 09:31",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "265",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "25",
+  "general:EinsatzDescription": "Die Feuerwehr Landau wurde zu einem Verkehrsunfall auf die BAB 65 Fahrtrichtung Ludwigshafen gerufen. Hier hatte sich in Folge einer Kollision ein Fahrzeug überschlagen. Eine technische Rettung war hier nicht nötig. Der Rettungsdienst, der mit drei RTWs vor Ort war, wurde unterstützt. Die Einsatzstelle bis zum Eintreffen der Autobahnmeisterrei abgesichert. Auf der Rückfahrt von dieser Einsatzstelle wurde im Stau ein weiteren Unfall gesichtet. Die Kräfte mussten in der Abfahrt Landau-Nord drehen und die neue Einsatzstelle anfahren.\r\n\r\nAus dem Onlineangebot von <a href=\"http://www.swr.de\" target=\"new\">www.swr.de</a><br><br><b>Acht Verletzte nach Doppel-Unfall<br><br>\r\n\r\nBei schweren Unfällen auf der Autobahn 65 nahe Edesheim (Kreis Südliche Weinstraße) sind acht Menschen verletzt worden - fünf von ihnen schwer. Zunächst hatte ein Autofahrer einen anderen Wagen gerammt. In der Folge kam es zu einem weiteren Unglück.\r\n</b><br><br>\r\nDas gerammte Auto kam ins Schleudern und überschlug sich mehrmals. Die 42-jährige Fahrerin und ihre beiden Kinder wurden schwer verletzt in ein Krankenhaus gebracht. Der 45-jährige Fahrer, der den Unfall ausgelöst hatte, blieb unverletzt - seine Beifahrerin nicht. Sie musste mit Verletzungen in eine Klinik. \r\n<br><br>\r\nDurch den Unfall bildete sich ein Stau, an dessen Ende es kurze Zeit später zu einer Karambolage kam. Ein 73-jähriger Autofahrer raste mit seinem Fahrzeug ungebremst in einen Wagen am Stauende. Dabei wurde ein Auto in ein auf der rechten Fahrspur stehendes Fahrzeug geschleudert.\r\n<br><br>\r\nDessen Fahrer und der Unfallverursacher verletzten sich leicht. Die beiden Insassen des gerammten Autos wurden mit schweren Verletzungen in ein Krankenhaus geflogen. \r\n",
+  "general:visits": "1922",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "1",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "ELW 1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-207.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-207.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Einsatzleitwagen",
+        "general:vehicleChassis": "VW LT",
+        "general:vehicleBuild": "<a href=\"http://www.hensel-fahrzeugbau.de\" target=\"new\">Hensel</a>",
+        "general:vehicleMobilization": "12/04"
+      },
+      {
+        "general:vehicleid": "45",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "KdoW",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-299.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-299.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kommandowagen",
+        "general:vehicleChassis": "VW Passat",
+        "general:vehicleBuild": "VW",
+        "general:vehicleMobilization": "03/05"
+      },
+      {
+        "general:vehicleid": "53",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "KdoW 2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1501.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1501.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kommandowagen - Fahrzeug für den feuerwehrtechnischen Bediensteten",
+        "general:vehicleChassis": "Fiat Grande Punto",
+        "general:vehicleBuild": "Michael Schmidt mobile Kommunikation GmbH",
+        "general:vehicleMobilization": "12/07"
+      },
+      {
+        "general:vehicleid": "60",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "HLF 20/16-1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+        "general:vehicleChassis": "IVECO FF 160 E 30",
+        "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+        "general:vehicleMobilization": "03/09"
+      },
+      {
+        "general:vehicleid": "51",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "RW 2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-209.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-209.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Rüstwagen",
+        "general:vehicleChassis": "MB 1425 4x4",
+        "general:vehicleBuild": "<a href=\"http://www.weschenfelder.com\" target=\"new\">Weschenfelder</a>",
+        "general:vehicleMobilization": "07/05"
+      },
+      {
+        "general:vehicleid": "58",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "PTLF 4000",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2040.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2040.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Pulvertanklöschfahrzeug",
+        "general:vehicleChassis": "MB 1832 AK 4x4 \"Actros\"",
+        "general:vehicleBuild": "<a href=\"http://www.lentner-gmbh.de\" target=\"new\">Lentner</a>",
+        "general:vehicleMobilization": "09/08"
+      },
+      {
+        "general:vehicleid": "15",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "KLAF",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-263.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-263.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kleinalarmfahrzeug",
+        "general:vehicleChassis": "MB Sprinter",
+        "general:vehicleBuild": "Eigen",
+        "general:vehicleMobilization": "03/12"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "41",
+        "general:HiOrgName": "Autobahnmeisterei",
+        "general:HiOrgLink": "http://www.lbm.rlp.de/icc/Internet/nav/fd1/fd15b7fe-563c-4216-0f1d-8770a7fd7276.htm"
+      },
+      {
+        "general:HiOrgId": "31",
+        "general:HiOrgName": "Rettungsdienst",
+        "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.2003727,
+    "lng": 8.148304600000001
+  },
+  "meta:weather": {
+    "date": "2013-10-03",
+    "temperature": 7.9,
+    "temperature_min": 3,
+    "temperature_max": 12.9,
+    "precipitation": 0.3,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 33.5,
+    "peakgust": 55.4,
+    "sunshine": 465,
+    "pressure": null
+  }
+}

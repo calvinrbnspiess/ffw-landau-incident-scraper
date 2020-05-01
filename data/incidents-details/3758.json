@@ -1,0 +1,74 @@
+{
+  "general:einsatzid": "3758",
+  "general:title": "Gefahrstoffe",
+  "general:date": "2014-09-18T10:00:00+02:00",
+  "general:location": "Queichheim Friedhof",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "18.09.2014 10:00",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "215",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "5",
+  "general:EinsatzDescription": "",
+  "general:visits": "76",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "45",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "KdoW",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-299.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-299.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kommandowagen",
+        "general:vehicleChassis": "VW Passat",
+        "general:vehicleBuild": "VW",
+        "general:vehicleMobilization": "03/05"
+      },
+      {
+        "general:vehicleid": "17",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "Mef-G",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-258.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-258.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Messtruppfahrzeug",
+        "general:vehicleChassis": "VW Bus",
+        "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+        "general:vehicleMobilization": "08/91"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1958727,
+    "lng": 8.1370559
+  },
+  "meta:weather": {
+    "date": "2014-09-18",
+    "temperature": 18.3,
+    "temperature_min": 15,
+    "temperature_max": 23.5,
+    "precipitation": 1.5,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 14,
+    "peakgust": 29.5,
+    "sunshine": 182,
+    "pressure": null
+  }
+}

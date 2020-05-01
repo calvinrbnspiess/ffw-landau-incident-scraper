@@ -1,0 +1,68 @@
+{
+  "general:einsatzid": "3123",
+  "general:title": "Ölspur",
+  "general:date": "2012-10-12T12:15:00+02:00",
+  "general:location": "K13 --> Alte Bahnhofstraße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.5",
+  "general:dateFormatted": "12.10.2012 12:15",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "220",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "329",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "15",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "GW-Öl (heute: KLAF)",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-263.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-263.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Gerätewagen-Öl",
+      "general:vehicleChassis": "MB Sprinter",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "02/96"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "27",
+        "general:HiOrgName": "Fachfirma Straßenreinigung",
+        "general:HiOrgLink": "http://www.brechtel-fahrbahnreinigung.de"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.2173509,
+    "lng": 8.1522014
+  },
+  "meta:weather": {
+    "date": "2012-10-12",
+    "temperature": 9.6,
+    "temperature_min": 6.1,
+    "temperature_max": 12.9,
+    "precipitation": 1.6,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 31,
+    "peakgust": 92.9,
+    "sunshine": 48,
+    "pressure": null
+  }
+}

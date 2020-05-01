@@ -1,0 +1,50 @@
+{
+  "general:einsatzid": "6166",
+  "general:title": "Verständigung Fachfirma",
+  "general:date": "2019-11-04T15:33:00+01:00",
+  "general:location": "Neustadter Straße",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "04.11.2019 15:33",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "394",
+  "general:changed_on": "2019-11-04T15:43:16+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "27",
+        "general:HiOrgName": "Fachfirma Straßenreinigung",
+        "general:HiOrgLink": "http://www.brechtel-fahrbahnreinigung.de"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.2038773,
+    "lng": 8.1153846
+  },
+  "meta:weather": {
+    "date": "2019-11-04",
+    "temperature": 7.6,
+    "temperature_min": 6.1,
+    "temperature_max": 9.3,
+    "precipitation": 9,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 232,
+    "windspeed": 33.3,
+    "peakgust": 77,
+    "sunshine": 109,
+    "pressure": 992.6
+  }
+}

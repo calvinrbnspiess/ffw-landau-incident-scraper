@@ -1,0 +1,87 @@
+{
+  "general:einsatzid": "1279",
+  "general:title": "PKW-Brand nach Verkehrsunfall",
+  "general:date": "2007-11-17T16:17:00+01:00",
+  "general:location": "BAB 65",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.0",
+  "general:dateFormatted": "17.11.2007 16:17",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "358",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "8",
+  "general:EinsatzDescription": "",
+  "general:visits": "937",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "45",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "KdoW",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-299.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-299.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kommandowagen",
+        "general:vehicleChassis": "VW Passat",
+        "general:vehicleBuild": "VW",
+        "general:vehicleMobilization": "03/05"
+      },
+      {
+        "general:vehicleid": "2",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "LF 16-12-1 (heute: HLF 20/16-2)",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-204.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-204.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Löschgruppenfahrzeug",
+        "general:vehicleChassis": "IVECO 135E24W",
+        "general:vehicleBuild": "<a href=\"http://www.iveco-magirus.de/\" target=\"new\">Iveco-Magirus</a>",
+        "general:vehicleMobilization": "03/02"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "41",
+        "general:HiOrgName": "Autobahnmeisterei",
+        "general:HiOrgLink": "http://www.lbm.rlp.de/icc/Internet/nav/fd1/fd15b7fe-563c-4216-0f1d-8770a7fd7276.htm"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.2542676,
+    "lng": 8.1502734
+  },
+  "meta:weather": {
+    "date": "2007-11-17",
+    "temperature": 0,
+    "temperature_min": -1.5,
+    "temperature_max": 1,
+    "precipitation": 0.1,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 13,
+    "peakgust": 28.8,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

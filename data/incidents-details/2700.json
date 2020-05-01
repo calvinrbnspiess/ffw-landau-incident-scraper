@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "2700",
+  "general:title": "PKW-Brand",
+  "general:date": "2011-04-12T16:01:00+02:00",
+  "general:location": "B 10",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "0.5",
+  "general:dateFormatted": "12.04.2011 16:01",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "92",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "8",
+  "general:EinsatzDescription": "",
+  "general:visits": "665",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 48.9471857,
+    "lng": 8.8519586
+  },
+  "meta:weather": {
+    "date": "2011-04-12",
+    "temperature": 6.4,
+    "temperature_min": 1.4,
+    "temperature_max": 13,
+    "precipitation": 5.3,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 34.9,
+    "peakgust": 74.5,
+    "sunshine": 276,
+    "pressure": null
+  }
+}

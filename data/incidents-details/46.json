@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "46",
+  "general:title": "Wasserschaden",
+  "general:date": "2004-02-24T21:46:00+01:00",
+  "general:location": "K?lner Straße 9",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "24.02.2004 21:46",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "40",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "609",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 53.955893,
+    "lng": -1.083607
+  },
+  "meta:weather": {
+    "date": "2004-02-24",
+    "temperature": -3.2,
+    "temperature_min": -6.8,
+    "temperature_max": 1.1,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 20,
+    "winddirection": null,
+    "windspeed": 19.8,
+    "peakgust": 50.4,
+    "sunshine": 486,
+    "pressure": null
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "3192",
+  "general:title": "Ausgelaufene Betriebsmittel nach Unfall",
+  "general:date": "2012-12-27T13:58:00+01:00",
+  "general:location": "Nordring, Hindenburgstrasse",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "0.5",
+  "general:dateFormatted": "27.12.2012 13:58",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "286",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "",
+  "general:visits": "237",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "65",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "MTF 1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1513.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1513.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+      "general:vehicleChassis": "Ford Transit",
+      "general:vehicleBuild": "<a href=\"http://www.compoint-fahrzeugbau.de\" target=\"new\">Compoint</a>",
+      "general:vehicleMobilization": "06/11"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.2008276,
+    "lng": 8.1116608
+  },
+  "meta:weather": {
+    "date": "2012-12-27",
+    "temperature": 4.7,
+    "temperature_min": 2.8,
+    "temperature_max": 5.6,
+    "precipitation": 16.2,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 49.3,
+    "peakgust": 106.9,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

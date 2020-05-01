@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "5110",
+  "general:title": "Brandsicherheitswache",
+  "general:date": "2018-04-25T18:45:00+02:00",
+  "general:location": "Xylanderstraße",
+  "general:categorie": "Brandsicherheitswache",
+  "general:length": "2.0",
+  "general:dateFormatted": "25.04.2018 18:45",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "159",
+  "general:changed_on": "2018-04-25T19:06:38+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1937656,
+    "lng": 8.112399
+  },
+  "meta:weather": {
+    "date": "2018-04-25",
+    "temperature": 12.5,
+    "temperature_min": 7.3,
+    "temperature_max": 18,
+    "precipitation": 2.8,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 256,
+    "windspeed": 37.4,
+    "peakgust": 89,
+    "sunshine": 542,
+    "pressure": 1012.9
+  }
+}

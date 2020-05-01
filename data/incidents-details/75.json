@@ -1,0 +1,143 @@
+{
+  "general:einsatzid": "75",
+  "general:title": "PKW-Brand",
+  "general:date": "2004-03-31T13:31:00+02:00",
+  "general:location": "A 65, Anschlußstelle LD-Mitte",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "3.0",
+  "general:dateFormatted": "31.03.2004 13:31",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "64",
+  "picture:Picture": {
+    "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0403/040331_02.jpg",
+    "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0403/040331_02.jpg",
+    "picture:PictureFormat": "quer",
+    "picture:PictureDescription": "Beim Abl?schen",
+    "picture:BufferPreview": "true",
+    "picture:BufferPicture": "false"
+  },
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "2",
+  "general:AmountPeople": "26",
+  "general:EinsatzDescription": "Drei Ordnensschwestern verbrennen in Ihrem Fahrzeug<br><br>\r\n\r\nVermutlich durch einen Unterlegkeil wurde die Kraftstoffleitung eines Chrysler beschädigt und das Fahrzeug von vier Ordnensschwestern aus dem Bereich Karlsruhe fing auf der BAB 65 Höhe Landau in der Pfalz Feuer. Die Fahrerin konnte sich noch retten und wurde in ein Krankenhaus geliefert, die drei Mitinsassen verbrennen im Fahrzeug.<br><br>\r\n\r\nDie Feuerwehr Landau wurde zu einem PKW-Brand auf die A65 Landau-Mitte Fahrtrichtung Ludwigshafen gerufen. Auf der Anfahrt wurde schon mitgeteilt, daß sich noch drei Personen im Fahrzeug befinden. Beim Eintreffen des ersten Löschgruppenfahrzeuges sechs Minuten nach der Alarmierung stand der Chrysler in Vollbrand. Für die drei Ordensschwestern war jede Hilfe zu spät, die Fahrerin war schon aus dem Fahrzeug und dem Rettungsdienst übergeben. Unter Atemschutz wurde mit einem Strahlrohr das Feuer abgelöscht. Nach den Ermittlungsarbeiten der Sachverständigen unterstützte die Feuerwehr das Bestattungsunternehmen beim Bergen der Leichen. Hierzu wurde mit hydraulischem Rettungsgerät das Dach und die Türen entfernt. Die Absperrungen nahm die Autobahnmeisterei vor, es kam während der dreistündigen Vollsperrung der Richtungsfahrbahn zu erheblichen Behinderungen in und um Landau. <br>\r\nLaut Meldungen der Polizei soll das Fahrzeug über einen verlorenen Unterlegkeil eines vorausfahrenden LKW gefahren sein und dieser hat die Kraftstoffleitung aufgerissen. Die 74 Jahre alte Fahrerin hatte den in Brand geratenen Wagen laut Polizei noch stoppen und sich in Sicherheit bringen können. Sie erlitt einen Schock und wurde in ein Landauer Krankenhaus gebracht. Die 68, 69, und 80 Jahre alten Mitfahrerrinnen kamen im brennenden Auto ums Leben. <br>\r\n<p align=\"center\">\r\n<font face=\"Arial\">\r\n<a href=\"http://www.swr.de/meta/nachrichten/rp/20040331/85209.28_64s.rm.ram\" style=\"text-decoration: none; font-weight: 700\">\r\nText aus SWR-Radio</a></font></p><br><a href=\"../einsaetze_2004/0331_01_presse.htm\" target=\"_self\">Zeitungsartikel</a></br></br>\r\n ",
+  "general:visits": "1007",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "53",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "KdoW 2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1501.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1501.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kommandowagen - Fahrzeug für den feuerwehrtechnischen Bediensteten",
+        "general:vehicleChassis": "Fiat Grande Punto",
+        "general:vehicleBuild": "Michael Schmidt mobile Kommunikation GmbH",
+        "general:vehicleMobilization": "12/07"
+      },
+      {
+        "general:vehicleid": "2",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "LF 16-12-1 (heute: HLF 20/16-2)",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-204.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-204.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Löschgruppenfahrzeug",
+        "general:vehicleChassis": "IVECO 135E24W",
+        "general:vehicleBuild": "<a href=\"http://www.iveco-magirus.de/\" target=\"new\">Iveco-Magirus</a>",
+        "general:vehicleMobilization": "03/02"
+      },
+      {
+        "general:vehicleid": "6",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "TLF 24-50",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-264.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-264.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Tanklöschfahrzeug",
+        "general:vehicleChassis": "MB 1626",
+        "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+        "general:vehicleMobilization": "02/81"
+      },
+      {
+        "general:vehicleid": "0",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "KdoW2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-308.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-308.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kommandowagen",
+        "general:vehicleChassis": "VW Passat",
+        "general:vehicleBuild": "Eigen",
+        "general:vehicleMobilization": "09/88"
+      }
+    ]
+  },
+  "picture:Pictures": {
+    "picture:Picture": [
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0403/040331_02.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0403/040331_02.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "Beim Abl?schen",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      },
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0403/040331_12.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0403/040331_12.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "Das Fahrzeug kam direkt an der Anschlu?stelle Landau-Mitte zum Stehen",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      },
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0403/040331_13.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0403/040331_13.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "Das Fahrzeug kam direkt an der Anschlu?stelle Landau-Mitte zum Stehen",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      }
+    ]
+  },
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2003727,
+    "lng": 8.148304600000001
+  },
+  "meta:weather": {
+    "date": "2004-03-31",
+    "temperature": 9,
+    "temperature_min": 4,
+    "temperature_max": 15.1,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 15.8,
+    "peakgust": 37.4,
+    "sunshine": 570,
+    "pressure": null
+  }
+}

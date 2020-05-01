@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "4240",
+  "general:title": "Person droht zu springen",
+  "general:date": "2016-05-02T20:04:00+02:00",
+  "general:location": "Robert-Koch-Str.",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "02.05.2016 20:04",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "85",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "6",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1905949,
+    "lng": 8.109771499999999
+  },
+  "meta:weather": {
+    "date": "2016-05-02",
+    "temperature": 12.3,
+    "temperature_min": 7.5,
+    "temperature_max": 17.5,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 17.6,
+    "peakgust": 51.1,
+    "sunshine": 812,
+    "pressure": null
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "general:einsatzid": "6033",
+  "general:title": "Gasausströmung",
+  "general:date": "2019-07-21T05:44:00+02:00",
+  "general:location": "Annweiler",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.5",
+  "general:dateFormatted": "21.07.2019 05:44",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "263",
+  "general:changed_on": "2019-07-21T06:46:00+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "15",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "16",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "GW-G 2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-225.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-225.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Gerätewagen Gefahrgut 2",
+        "general:vehicleChassis": "MAN 9.163",
+        "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+        "general:vehicleMobilization": "08/96"
+      },
+      {
+        "general:vehicleid": "75",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "GW-Mess",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1558.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1558.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Gerätewagen-Messtechnik",
+        "general:vehicleChassis": "Mercedes Sprinter 316 CDI, Automatik",
+        "general:vehicleBuild": "<a href=\"http://www.binz-automotive.com/\" target=\"New\">Binz, Ilmenau</a>",
+        "general:vehicleMobilization": "10/14"
+      },
+      {
+        "general:vehicleid": "63",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "MTF Godramstein",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1505.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1505.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "VW T5",
+        "general:vehicleBuild": "<a href=\"http://www.auto-zotz.de\" target=\"new\">Auto Zotz</a>; Weschenfelder",
+        "general:vehicleMobilization": "02/08"
+      },
+      {
+        "general:vehicleid": "71",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "MZF-Dekon",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1553.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1553.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mehrzweckfahrzeug Dekontamination",
+        "general:vehicleChassis": "MAN 8.180",
+        "general:vehicleBuild": "<a href=\"http://www.ziegler.de\" target=\"New\">Ziegler Brandschutztechnik</a>, Rendsburg",
+        "general:vehicleMobilization": "01/13"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "31",
+        "general:HiOrgName": "Rettungsdienst",
+        "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "48",
+        "general:HiOrgName": "FF Annweiler",
+        "general:HiOrgLink": "http://www.feuerwehr-annweiler.de/"
+      },
+      {
+        "general:HiOrgId": "50",
+        "general:HiOrgName": "FF Edenkoben",
+        "general:HiOrgLink": "http://www.feuerwehr-edenkoben.de/"
+      },
+      {
+        "general:HiOrgId": "51",
+        "general:HiOrgName": "FF Herxheim",
+        "general:HiOrgLink": "http://www.feuerwehr-herxheim.de/"
+      },
+      {
+        "general:HiOrgId": "53",
+        "general:HiOrgName": "GSZ Südliche Weinstraße",
+        "general:HiOrgLink": "http://www.suedliche-weinstrasse.de/weinstrasse/verwaltung/feuerwehr/gefahrstoffzug.php?navid=6"
+      },
+      {
+        "general:HiOrgId": "55",
+        "general:HiOrgName": "Eigentümer"
+      },
+      {
+        "general:HiOrgId": "74",
+        "general:HiOrgName": "FF Landau -Land-",
+        "general:HiOrgLink": "http://www.feuerwehr-landau-land.de"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.2062599,
+    "lng": 7.972605300000001
+  },
+  "meta:weather": {
+    "date": "2019-07-21",
+    "temperature": 20.8,
+    "temperature_min": 16.6,
+    "temperature_max": 28.4,
+    "precipitation": 0.5,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": 266,
+    "windspeed": 22.9,
+    "peakgust": 47,
+    "sunshine": 583,
+    "pressure": 1019.3
+  }
+}

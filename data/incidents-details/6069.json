@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "6069",
+  "general:title": "Wassereinbruch",
+  "general:date": "2019-08-25T09:02:00+02:00",
+  "general:location": "Reiterstraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.0",
+  "general:dateFormatted": "25.08.2019 09:02",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "299",
+  "general:changed_on": "2019-08-25T09:27:21+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "11",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "60",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "HLF 20/16-1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+      "general:vehicleChassis": "IVECO FF 160 E 30",
+      "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+      "general:vehicleMobilization": "03/09"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1949325,
+    "lng": 8.1142441
+  },
+  "meta:weather": {
+    "date": "2019-08-25",
+    "temperature": 24,
+    "temperature_min": 19.2,
+    "temperature_max": 30.2,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": 130,
+    "windspeed": 7.1,
+    "peakgust": 28,
+    "sunshine": 740,
+    "pressure": 1017.7
+  }
+}

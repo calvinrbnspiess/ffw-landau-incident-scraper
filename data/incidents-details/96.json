@@ -1,0 +1,74 @@
+{
+  "general:einsatzid": "96",
+  "general:title": "Brand Spielhaus",
+  "general:date": "2004-05-12T10:27:00+02:00",
+  "general:location": "Badstraße 2",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "0.5",
+  "general:dateFormatted": "12.05.2004 10:27",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "83",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "10",
+  "general:EinsatzDescription": "",
+  "general:visits": "623",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "53",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "KdoW 2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1501.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1501.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kommandowagen - Fahrzeug für den feuerwehrtechnischen Bediensteten",
+        "general:vehicleChassis": "Fiat Grande Punto",
+        "general:vehicleBuild": "Michael Schmidt mobile Kommunikation GmbH",
+        "general:vehicleMobilization": "12/07"
+      },
+      {
+        "general:vehicleid": "2",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "LF 16-12-1 (heute: HLF 20/16-2)",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-204.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-204.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Löschgruppenfahrzeug",
+        "general:vehicleChassis": "IVECO 135E24W",
+        "general:vehicleBuild": "<a href=\"http://www.iveco-magirus.de/\" target=\"new\">Iveco-Magirus</a>",
+        "general:vehicleMobilization": "03/02"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1971979,
+    "lng": 8.1084899
+  },
+  "meta:weather": {
+    "date": "2004-05-12",
+    "temperature": 9,
+    "temperature_min": 6.6,
+    "temperature_max": 14.1,
+    "precipitation": 0.2,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 16.9,
+    "peakgust": 46.4,
+    "sunshine": 246,
+    "pressure": null
+  }
+}

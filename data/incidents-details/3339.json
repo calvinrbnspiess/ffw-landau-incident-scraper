@@ -1,0 +1,92 @@
+{
+  "general:einsatzid": "3339",
+  "general:title": "Auslaufende Betriebsmittel nach Unfall",
+  "general:date": "2013-06-01T00:15:00+02:00",
+  "general:location": "Neustadter Straße / Zeppelinstraße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "0.5",
+  "general:dateFormatted": "01.06.2013 00:15",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "135",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "7",
+  "general:EinsatzDescription": "",
+  "general:visits": "213",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "51",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "RW 2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-209.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-209.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Rüstwagen",
+        "general:vehicleChassis": "MB 1425 4x4",
+        "general:vehicleBuild": "<a href=\"http://www.weschenfelder.com\" target=\"new\">Weschenfelder</a>",
+        "general:vehicleMobilization": "07/05"
+      },
+      {
+        "general:vehicleid": "15",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "KLAF",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-263.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-263.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kleinalarmfahrzeug",
+        "general:vehicleChassis": "MB Sprinter",
+        "general:vehicleBuild": "Eigen",
+        "general:vehicleMobilization": "03/12"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "31",
+        "general:HiOrgName": "Rettungsdienst",
+        "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "27",
+        "general:HiOrgName": "Fachfirma Straßenreinigung",
+        "general:HiOrgLink": "http://www.brechtel-fahrbahnreinigung.de"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.2037906,
+    "lng": 8.1153737
+  },
+  "meta:weather": {
+    "date": "2013-05-31",
+    "temperature": 9.9,
+    "temperature_min": 6.8,
+    "temperature_max": 12.4,
+    "precipitation": 16.9,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 41.4,
+    "peakgust": 80.6,
+    "sunshine": 2,
+    "pressure": null
+  }
+}

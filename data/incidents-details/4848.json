@@ -1,0 +1,108 @@
+{
+  "general:einsatzid": "4848",
+  "general:title": "Auslaufende Betriebsmittel aus LKW",
+  "general:date": "2017-10-11T21:08:00+02:00",
+  "general:location": "Queichheimer Hauptstraße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "2.5",
+  "general:dateFormatted": "11.10.2017 21:08",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "319",
+  "general:changed_on": "2017-10-13T11:01:42+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "13",
+  "general:EinsatzDescription": "Die Feuerwehr Landau musste das auslaufende Diesel auffangen und den tank provisorisch abdichten. Weiterhin wurde die Reinigung der Verkehrsflächen koordiniert.\r\n\r\n\r\nAus dem Polizeibericht:\r\n\r\n\r\nImpflingen (ots) - 11. Oktober 2017, 20.46 Uhr Ein 32-jähriger Lkw-Fahrer aus der Ukraine überfuhr auf der B 38 bei Impflingen ein kurz zuvor durch einen Unfall getötetes Wildschwein. Der Lkw-Fahrer bemerkte den Anstoß nicht und fuhr weiter. Durch das Überfahren des Tieres wurde der Schlauch am Dieseltank gelöst und verursachte eine Ölspur. Die Ölspur zog sich dann über rund 8 Kilometer hin über die L 509, die Autobahn A65 bis zum Anhalteort des Lkw's in Landau-Queichheim. Die Straßenmeisterei und die Feuerwehr Landau wurden verständigt zwecks Reinigung der Straßen. Während der Reinigung kam es zu keinen nennenswerten Verkehrsbehinderungen. ",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "1",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "ELW 1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-207.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-207.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Einsatzleitwagen",
+        "general:vehicleChassis": "VW LT",
+        "general:vehicleBuild": "<a href=\"http://www.hensel-fahrzeugbau.de\" target=\"new\">Hensel</a>",
+        "general:vehicleMobilization": "12/04"
+      },
+      {
+        "general:vehicleid": "15",
+        "general:vehicleVersion": "2",
+        "general:vehicleName": "KLAF",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-263.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-263.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kleinalarmfahrzeug",
+        "general:vehicleChassis": "MB Sprinter",
+        "general:vehicleBuild": "Eigen",
+        "general:vehicleMobilization": "03/12"
+      },
+      {
+        "general:vehicleid": "16",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "GW-G 2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-225.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-225.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Gerätewagen Gefahrgut 2",
+        "general:vehicleChassis": "MAN 9.163",
+        "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+        "general:vehicleMobilization": "08/96"
+      },
+      {
+        "general:vehicleid": "58",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "PTLF 4000",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2040.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2040.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Pulvertanklöschfahrzeug",
+        "general:vehicleChassis": "MB 1832 AK 4x4 \"Actros\"",
+        "general:vehicleBuild": "<a href=\"http://www.lentner-gmbh.de\" target=\"new\">Lentner</a>",
+        "general:vehicleMobilization": "09/08"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1959657,
+    "lng": 8.1448155
+  },
+  "meta:weather": {
+    "date": "2017-10-11",
+    "temperature": 11.6,
+    "temperature_min": 9.2,
+    "temperature_max": 14.5,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 31.7,
+    "peakgust": 63,
+    "sunshine": 213,
+    "pressure": null
+  }
+}

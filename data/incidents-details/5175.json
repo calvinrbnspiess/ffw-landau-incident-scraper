@@ -1,0 +1,74 @@
+{
+  "general:einsatzid": "5175",
+  "general:title": "Rauchentwicklung aus Gebäude",
+  "general:date": "2018-06-08T16:04:00+02:00",
+  "general:location": "Erlenbachstraße",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.0",
+  "general:dateFormatted": "08.06.2018 16:04",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "223",
+  "general:changed_on": "2018-06-08T16:05:30+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "9",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "78",
+        "general:vehicleVersion": "4",
+        "general:vehicleName": "stellv. SFI",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/kam/default.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/kam/default.jpg",
+          "picture:PictureFormat": "hoch",
+          "picture:PictureDescription": "Bild folgt",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "",
+        "general:vehicleChassis": "",
+        "general:vehicleBuild": "",
+        "general:vehicleMobilization": ""
+      },
+      {
+        "general:vehicleid": "60",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "HLF 20/16-1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+        "general:vehicleChassis": "IVECO FF 160 E 30",
+        "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+        "general:vehicleMobilization": "03/09"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2022815,
+    "lng": 8.1211661
+  },
+  "meta:weather": {
+    "date": "2018-06-08",
+    "temperature": 19.5,
+    "temperature_min": 16.7,
+    "temperature_max": 24.1,
+    "precipitation": 0.9,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": 188,
+    "windspeed": 9.1,
+    "peakgust": 30,
+    "sunshine": 240,
+    "pressure": 1012.2
+  }
+}

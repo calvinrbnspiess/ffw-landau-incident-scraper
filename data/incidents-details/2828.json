@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "2828",
+  "general:title": "Auslaufende Betriebsmittel",
+  "general:date": "2011-09-03T12:27:00+02:00",
+  "general:location": "Reduitstraße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "03.09.2011 12:27",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "219",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "306",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "0",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "KdoW2",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-308.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-308.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kommandowagen",
+      "general:vehicleChassis": "VW Passat",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "09/88"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1979871,
+    "lng": 8.1176629
+  },
+  "meta:weather": {
+    "date": "2011-09-03",
+    "temperature": 22.1,
+    "temperature_min": 18.1,
+    "temperature_max": 26.5,
+    "precipitation": 1.4,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 13.3,
+    "peakgust": 51.5,
+    "sunshine": 666,
+    "pressure": null
+  }
+}

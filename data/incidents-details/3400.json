@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "3400",
+  "general:title": "Notfalltüröffnung",
+  "general:date": "2013-07-23T10:15:00+02:00",
+  "general:location": "Schloßstraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "23.07.2013 10:15",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "193",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "232",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "60",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "HLF 20/16-1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+      "general:vehicleChassis": "IVECO FF 160 E 30",
+      "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+      "general:vehicleMobilization": "03/09"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "31",
+      "general:HiOrgName": "Rettungsdienst",
+      "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.19223969999999,
+    "lng": 8.112768599999999
+  },
+  "meta:weather": {
+    "date": "2013-07-23",
+    "temperature": 22.8,
+    "temperature_min": 16.7,
+    "temperature_max": 30.1,
+    "precipitation": 8.3,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 16.6,
+    "peakgust": 68.4,
+    "sunshine": 298,
+    "pressure": null
+  }
+}

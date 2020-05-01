@@ -1,0 +1,97 @@
+{
+  "general:einsatzid": "6372",
+  "general:title": "Flächenbrand klein",
+  "general:date": "2020-04-11T17:10:00+02:00",
+  "general:location": "Dörrenbergstraße -> Wollmesheim",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.5",
+  "general:dateFormatted": "11.04.2020 17:10",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "121",
+  "picture:Picture": {
+    "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/2004/6372-1.jpeg",
+    "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/2004/6372-1.jpeg",
+    "picture:PictureFormat": "quer",
+    "picture:PictureDescription": "",
+    "picture:BufferPreview": "true",
+    "picture:BufferPicture": "false"
+  },
+  "general:changed_on": "2020-04-14T11:06:13+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "9",
+  "general:EinsatzDescription": "<p>POL-PDLD: Landau, Feldweg am Birnbach, 11.4.20, 17.10 Uhr Sachbesch&auml;digung; brennender Baum</p>\n<div class=\"story-sharing\">&nbsp;</div>\n<p><em><a class=\"story-city event-trigger\" title=\"News aus Landau \" href=\"https://www.presseportal.de/blaulicht/r/Landau\" data-category=\"citylink-story-view\" data-action=\"click\" data-label=\"Citylink in Meldungsansicht\">Landau</a> (ots)</em></p>\n<p>Am fr&uuml;hen Samstagabend (11.4.20) gegen 17.10 Uhr wurde die Polizei &uuml;ber einen brennenden Baum bei einem Feldweg beim Birnbach am &ouml;stlichen Stadtrand in Landau informiert. Es konnte festgestellt werden, dass der Baum angez&uuml;ndet worden war. Durch Zeugen konnten unmittelbar vor entstehen der Rauchs&auml;ule zwei M&auml;nner festgestellt werden, die sich z&uuml;gig von der Brandstelle entfernten. Der Sachschaden am Baum wird auf ca. 500EUR gesch&auml;tzt. Der Feldweg war zum Brandzeitpunkt durch Spazierg&auml;nger und Radfahrer gut benutzt.</p>\n<p>Hinweise von Zeugen erbittet die Polizei Landau unter Tel. Nr. 06341/2870 oder per Email <a class=\"uri-mailto\" href=\"mailto:pilandau@polizei.rlp.de\">pilandau@polizei.rlp.de</a></p>\n<p>R&uuml;ckfragen bitte an:</p>\n<p>Polizeidirektion Landau</p>",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "70",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "LF-KatS",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD8045.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD8045.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Löschgruppenfahrzeug Katastrophenschutz",
+        "general:vehicleChassis": "MAN TGM 13.250 4x4 BL FW",
+        "general:vehicleBuild": "<a href=\"http://www.lentner-gmbh.de\" target=\"new\">Josef Lentner GmbH</a>",
+        "general:vehicleMobilization": "09/12"
+      },
+      {
+        "general:vehicleid": "79",
+        "general:vehicleVersion": "2",
+        "general:vehicleName": "TLF 3000",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1231.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1231.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Tanklöschfahrzeug 3000",
+        "general:vehicleChassis": "Mercedes Atego 1527 AF 4x4, Teligent-Schaltung",
+        "general:vehicleBuild": "<a href=\"https://www.magirusgroup.com/de/de/home/\">Magirus</a>, Ulm",
+        "general:vehicleMobilization": "07/18"
+      }
+    ]
+  },
+  "picture:Pictures": {
+    "picture:Picture": {
+      "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/2004/6372-1.jpeg",
+      "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/2004/6372-1.jpeg",
+      "picture:PictureFormat": "quer",
+      "picture:PictureDescription": "",
+      "picture:BufferPreview": "true",
+      "picture:BufferPicture": "false"
+    }
+  },
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1859879,
+    "lng": 8.1123505
+  },
+  "meta:weather": {
+    "date": "2020-04-11",
+    "temperature": 14.8,
+    "temperature_min": 9.8,
+    "temperature_max": 20.1,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 60,
+    "windspeed": 15,
+    "peakgust": 31,
+    "sunshine": 755,
+    "pressure": 1022.9
+  }
+}

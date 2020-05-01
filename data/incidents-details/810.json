@@ -1,0 +1,108 @@
+{
+  "general:einsatzid": "810",
+  "general:title": "Öl auf Gewässer",
+  "general:date": "2006-09-05T16:28:00+02:00",
+  "general:location": "Birnbach Wollmesheim",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "2.0",
+  "general:dateFormatted": "05.09.2006 16:28",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "242",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "12",
+  "general:EinsatzDescription": "",
+  "general:visits": "613",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "0",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "KdoW2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-308.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-308.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kommandowagen",
+        "general:vehicleChassis": "VW Passat",
+        "general:vehicleBuild": "Eigen",
+        "general:vehicleMobilization": "09/88"
+      },
+      {
+        "general:vehicleid": "53",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "KdoW 2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1501.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1501.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kommandowagen - Fahrzeug für den feuerwehrtechnischen Bediensteten",
+        "general:vehicleChassis": "Fiat Grande Punto",
+        "general:vehicleBuild": "Michael Schmidt mobile Kommunikation GmbH",
+        "general:vehicleMobilization": "12/07"
+      },
+      {
+        "general:vehicleid": "17",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "Mef-G",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-258.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-258.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Messtruppfahrzeug",
+        "general:vehicleChassis": "VW Bus",
+        "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+        "general:vehicleMobilization": "08/91"
+      },
+      {
+        "general:vehicleid": "36",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "TSF Wollmesheim",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-270.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-270.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Tragkraftspritzenfahrzeug",
+        "general:vehicleChassis": "VW LT",
+        "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+        "general:vehicleMobilization": "12/87"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1797705,
+    "lng": 8.082148799999999
+  },
+  "meta:weather": {
+    "date": "2006-09-05",
+    "temperature": 17.9,
+    "temperature_min": 14.2,
+    "temperature_max": 23.3,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 11.2,
+    "peakgust": 31.3,
+    "sunshine": 558,
+    "pressure": null
+  }
+}

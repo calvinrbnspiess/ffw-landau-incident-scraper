@@ -1,0 +1,74 @@
+{
+  "general:einsatzid": "4874",
+  "general:title": "Gefahrstoffeinsatz kleinerer Art",
+  "general:date": "2017-10-28T23:35:00+02:00",
+  "general:location": "Kanalweg",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "28.10.2017 23:35",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "345",
+  "general:changed_on": "2017-10-28T23:52:34+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "13",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "60",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "HLF 20/16-1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+        "general:vehicleChassis": "IVECO FF 160 E 30",
+        "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+        "general:vehicleMobilization": "03/09"
+      },
+      {
+        "general:vehicleid": "75",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "GW-Mess",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1558.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1558.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Gerätewagen-Messtechnik",
+        "general:vehicleChassis": "Mercedes Sprinter 316 CDI, Automatik",
+        "general:vehicleBuild": "<a href=\"http://www.binz-automotive.com/\" target=\"New\">Binz, Ilmenau</a>",
+        "general:vehicleMobilization": "10/14"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1962951,
+    "lng": 8.098228299999999
+  },
+  "meta:weather": {
+    "date": "2017-10-28",
+    "temperature": 5.7,
+    "temperature_min": 3.3,
+    "temperature_max": 7.1,
+    "precipitation": 0.4,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 45.7,
+    "peakgust": 99.4,
+    "sunshine": 30,
+    "pressure": null
+  }
+}

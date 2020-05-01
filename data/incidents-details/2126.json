@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "2126",
+  "general:title": "Verständigung Leitstelle",
+  "general:date": "2009-12-23T08:55:00+01:00",
+  "general:location": "Essingen",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "23.12.2009 08:55",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "359",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "415",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2355961,
+    "lng": 8.1691431
+  },
+  "meta:weather": {
+    "date": "2009-12-23",
+    "temperature": -0.4,
+    "temperature_min": -0.8,
+    "temperature_max": 0.7,
+    "precipitation": 1.8,
+    "snowfall": null,
+    "snowdepth": 70,
+    "winddirection": null,
+    "windspeed": 13.3,
+    "peakgust": 27.7,
+    "sunshine": 36,
+    "pressure": null
+  }
+}

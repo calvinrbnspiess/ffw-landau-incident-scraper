@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "6207",
+  "general:title": "Ölfleck",
+  "general:date": "2019-12-04T13:01:00+01:00",
+  "general:location": "Horstring",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "0.5",
+  "general:dateFormatted": "04.12.2019 13:01",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "435",
+  "general:changed_on": "2019-12-04T13:24:31+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "15",
+      "general:vehicleVersion": "2",
+      "general:vehicleName": "KLAF",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-263.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-263.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kleinalarmfahrzeug",
+      "general:vehicleChassis": "MB Sprinter",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "03/12"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.20813159999999,
+    "lng": 8.1366753
+  },
+  "meta:weather": {
+    "date": "2019-12-04",
+    "temperature": -0.1,
+    "temperature_min": -1.6,
+    "temperature_max": 1.7,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 82,
+    "windspeed": 23.9,
+    "peakgust": 42,
+    "sunshine": 447,
+    "pressure": 1023.5
+  }
+}

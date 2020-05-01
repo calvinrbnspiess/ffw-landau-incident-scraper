@@ -1,0 +1,80 @@
+{
+  "general:einsatzid": "5811",
+  "general:title": "Tragehilfe RD",
+  "general:date": "2019-02-13T13:12:00+01:00",
+  "general:location": "Mozartstraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.5",
+  "general:dateFormatted": "13.02.2019 13:12",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "50",
+  "general:changed_on": "2019-02-13T14:42:45+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "11",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "60",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "HLF 20/16-1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+        "general:vehicleChassis": "IVECO FF 160 E 30",
+        "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+        "general:vehicleMobilization": "03/09"
+      },
+      {
+        "general:vehicleid": "74",
+        "general:vehicleVersion": "2",
+        "general:vehicleName": "TGM 23-12",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1538.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1538.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Teleskopgelenkmast",
+        "general:vehicleChassis": "Mercedes Atego 1629, Teligent-Schaltung",
+        "general:vehicleBuild": "<a href=\"http://www.metz-online.de/\">Metz</a>",
+        "general:vehicleMobilization": "10/14"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "31",
+      "general:HiOrgName": "Rettungsdienst",
+      "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1925122,
+    "lng": 8.120295000000002
+  },
+  "meta:weather": {
+    "date": "2019-02-13",
+    "temperature": 2.6,
+    "temperature_min": -1.1,
+    "temperature_max": 6.5,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 187,
+    "windspeed": 12.1,
+    "peakgust": 27,
+    "sunshine": 514,
+    "pressure": 1037.9
+  }
+}

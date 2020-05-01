@@ -1,0 +1,74 @@
+{
+  "general:einsatzid": "328",
+  "general:title": "Ölspur",
+  "general:date": "2005-03-20T20:41:00+01:00",
+  "general:location": "Lindenbergstraße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "0.5",
+  "general:dateFormatted": "20.03.2005 20:41",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "45",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "7",
+  "general:EinsatzDescription": "",
+  "general:visits": "390",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "34",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "TSF Nussdorf",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-272.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-272.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Tragkraftspritzenfahrzeug",
+        "general:vehicleChassis": "VW LT",
+        "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+        "general:vehicleMobilization": "04/80"
+      },
+      {
+        "general:vehicleid": "35",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MTF Nussdorf - alt",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-241.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-241.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "VW Bus",
+        "general:vehicleBuild": "",
+        "general:vehicleMobilization": "06/83"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2225086,
+    "lng": 8.105749
+  },
+  "meta:weather": {
+    "date": "2005-03-20",
+    "temperature": 5.8,
+    "temperature_min": 1.8,
+    "temperature_max": 10.1,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 15.5,
+    "peakgust": 36,
+    "sunshine": 252,
+    "pressure": null
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "641",
+  "general:title": "Verständigung Baubetriebshof",
+  "general:date": "2006-03-28T11:45:00+02:00",
+  "general:location": "Godramsteiner Straße 50 b",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "28.03.2006 11:45",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "83",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "390",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2058208,
+    "lng": 8.10226
+  },
+  "meta:weather": {
+    "date": "2006-03-28",
+    "temperature": 7.8,
+    "temperature_min": 4.1,
+    "temperature_max": 11.8,
+    "precipitation": 0.3,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 32.8,
+    "peakgust": 69.8,
+    "sunshine": 120,
+    "pressure": null
+  }
+}

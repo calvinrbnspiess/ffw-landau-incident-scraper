@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "6364",
+  "general:title": "Auslaufende Betriebsmittel aus LKW",
+  "general:date": "2020-04-03T14:52:00+02:00",
+  "general:location": "Waldhambach",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "0.5",
+  "general:dateFormatted": "03.04.2020 14:52",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "113",
+  "general:changed_on": "2020-04-03T15:00:53+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1658389,
+    "lng": 7.990275800000001
+  },
+  "meta:weather": {
+    "date": "2020-04-03",
+    "temperature": 5.2,
+    "temperature_min": 1.5,
+    "temperature_max": 10.5,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 262,
+    "windspeed": 20.7,
+    "peakgust": 41,
+    "sunshine": 126,
+    "pressure": 1016.8
+  }
+}

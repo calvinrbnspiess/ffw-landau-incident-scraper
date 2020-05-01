@@ -1,0 +1,91 @@
+{
+  "general:einsatzid": "5646",
+  "general:title": "Brandmeldeanlage",
+  "general:date": "2018-10-16T09:24:00+02:00",
+  "general:location": "Rodenweg",
+  "general:categorie": "Brandmeldeanlage",
+  "general:length": "1.0",
+  "general:dateFormatted": "16.10.2018 09:24",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "691",
+  "general:changed_on": "2018-10-16T09:42:53+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "18",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "60",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "HLF 20/16-1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+        "general:vehicleChassis": "IVECO FF 160 E 30",
+        "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+        "general:vehicleMobilization": "03/09"
+      },
+      {
+        "general:vehicleid": "74",
+        "general:vehicleVersion": "2",
+        "general:vehicleName": "TGM 23-12",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1538.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1538.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Teleskopgelenkmast",
+        "general:vehicleChassis": "Mercedes Atego 1629, Teligent-Schaltung",
+        "general:vehicleBuild": "<a href=\"http://www.metz-online.de/\">Metz</a>",
+        "general:vehicleMobilization": "10/14"
+      },
+      {
+        "general:vehicleid": "58",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "PTLF 4000",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2040.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2040.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Pulvertanklöschfahrzeug",
+        "general:vehicleChassis": "MB 1832 AK 4x4 \"Actros\"",
+        "general:vehicleBuild": "<a href=\"http://www.lentner-gmbh.de\" target=\"new\">Lentner</a>",
+        "general:vehicleMobilization": "09/08"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2122701,
+    "lng": 8.1331899
+  },
+  "meta:weather": {
+    "date": "2018-10-16",
+    "temperature": 17.7,
+    "temperature_min": 14.8,
+    "temperature_max": 21.9,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 53,
+    "windspeed": 14.7,
+    "peakgust": 35,
+    "sunshine": 587,
+    "pressure": 1017.8
+  }
+}

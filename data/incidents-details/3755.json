@@ -1,0 +1,87 @@
+{
+  "general:einsatzid": "3755",
+  "general:title": "Auslaufende Betriebsmittel nach Unfall",
+  "general:date": "2014-09-17T07:41:00+02:00",
+  "general:location": "Godramsteiner Straße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "2.0",
+  "general:dateFormatted": "17.09.2014 07:41",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "212",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "6",
+  "general:EinsatzDescription": " Aus dem Polizeibericht:<br>\r\n<br>\r\nAm Mittwochmorgen wollte eine Mitsubishi-Fahrerin von ihrem Wohnanwesen nach links in der Godramsteinerstraße einfahren. Dabei übersah sie einen auf der Vorfahrtstraße befindlichen 20 jährigen Motorradfahrer. Der Motorradfahrer versuchte noch nach links auszuweichen, stieß aber an die Fronthaube und Stoßstange des Autos und kam zu Fall. Er verletzte sich leicht am Bein. Ein entgegenkommender Traktor mit Maischeanhänger konnte noch rechtzeitig bremsen, verlor aber rund 300 Liter seiner Ladung, die sich auf die Fahrbahn ergoss. Durch die Feuerwehr Landau wurde der Belag von der Fahrbahn gespritzt und eine Spezialfirma reinigte die Straße vom auslaufenden Öl des Motorrades. Die Godramsteiner Straße war bis 9.30 Uhr halbseitig gesperrt und die Polizei regelte den Verkehr an der Unfallstelle.",
+  "general:visits": "81",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "58",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "PTLF 4000",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2040.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2040.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Pulvertanklöschfahrzeug",
+        "general:vehicleChassis": "MB 1832 AK 4x4 \"Actros\"",
+        "general:vehicleBuild": "<a href=\"http://www.lentner-gmbh.de\" target=\"new\">Lentner</a>",
+        "general:vehicleMobilization": "09/08"
+      },
+      {
+        "general:vehicleid": "15",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "KLAF",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-263.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-263.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kleinalarmfahrzeug",
+        "general:vehicleChassis": "MB Sprinter",
+        "general:vehicleBuild": "Eigen",
+        "general:vehicleMobilization": "03/12"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "27",
+        "general:HiOrgName": "Fachfirma Straßenreinigung",
+        "general:HiOrgLink": "http://www.brechtel-fahrbahnreinigung.de"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.20725969999999,
+    "lng": 8.1085247
+  },
+  "meta:weather": {
+    "date": "2014-09-17",
+    "temperature": 17.3,
+    "temperature_min": 13.5,
+    "temperature_max": 22.3,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 17.6,
+    "peakgust": 38.9,
+    "sunshine": 663,
+    "pressure": null
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "6215",
+  "general:title": "einfache Hilfeleistung",
+  "general:date": "2019-12-08T10:59:00+01:00",
+  "general:location": "Bodelschwinghstraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "08.12.2019 10:59",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "443",
+  "general:changed_on": "2019-12-08T11:49:56+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "0",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.20617050000001,
+    "lng": 8.106986
+  },
+  "meta:weather": {
+    "date": "2019-12-08",
+    "temperature": 6.5,
+    "temperature_min": 5.1,
+    "temperature_max": 8.2,
+    "precipitation": 2.7,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 244,
+    "windspeed": 50.2,
+    "peakgust": 95,
+    "sunshine": 0,
+    "pressure": 1009.8
+  }
+}

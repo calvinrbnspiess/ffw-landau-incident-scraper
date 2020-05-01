@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "3200",
+  "general:title": "Mülleimer-Brand",
+  "general:date": "2013-01-01T03:17:00+01:00",
+  "general:location": "Waffenstrasse",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "0.5",
+  "general:dateFormatted": "01.01.2013 03:17",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "1",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "8",
+  "general:EinsatzDescription": "",
+  "general:visits": "651",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "60",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "HLF 20/16-1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+      "general:vehicleChassis": "IVECO FF 160 E 30",
+      "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+      "general:vehicleMobilization": "03/09"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1975954,
+    "lng": 8.1108788
+  },
+  "meta:weather": {
+    "date": "2013-01-01",
+    "temperature": 3.6,
+    "temperature_min": 0.2,
+    "temperature_max": 4.9,
+    "precipitation": 2.3,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 34.9,
+    "peakgust": 69.8,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

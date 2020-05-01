@@ -1,0 +1,74 @@
+{
+  "general:einsatzid": "4709",
+  "general:title": "Wasser im Keller",
+  "general:date": "2017-06-03T15:55:00+02:00",
+  "general:location": "Jakob-Becker-Straße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.0",
+  "general:dateFormatted": "03.06.2017 15:55",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "186",
+  "general:changed_on": "2017-06-03T18:34:55+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "0",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "56",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "TSF-W Mörzheim",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1502.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1502.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Tragkraftspritzenfahrzeug-Wasser",
+        "general:vehicleChassis": "IVECO Daily 65C18D",
+        "general:vehicleBuild": "Iveco Magirus Brandschutztechnik, jetzt: <a href=\"http://www.btg-goerlitz.biz/\" target=\"new\">Brandschutztechnik Görlitz</a>",
+        "general:vehicleMobilization": "06/08"
+      },
+      {
+        "general:vehicleid": "72",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "MTF Mörzheim",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1506.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1506.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "Ford Transit",
+        "general:vehicleBuild": "<a href=\"http://www.compoint-fahrzeugbau.de\" target=\"new\">Compoint</a>",
+        "general:vehicleMobilization": "04/14"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1655324,
+    "lng": 8.076685399999999
+  },
+  "meta:weather": {
+    "date": "2017-06-03",
+    "temperature": 19.5,
+    "temperature_min": 14.1,
+    "temperature_max": 27.1,
+    "precipitation": 32.7,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 13.3,
+    "peakgust": 41.8,
+    "sunshine": 389,
+    "pressure": null
+  }
+}

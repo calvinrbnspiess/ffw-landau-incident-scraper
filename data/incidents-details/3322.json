@@ -1,0 +1,114 @@
+{
+  "general:einsatzid": "3322",
+  "general:title": "Flächenbrand",
+  "general:date": "2013-05-07T00:56:00+02:00",
+  "general:location": "L509 Wollmesheim-Ilbesheim",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.5",
+  "general:dateFormatted": "07.05.2013 00:56",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "118",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "12",
+  "general:EinsatzDescription": "",
+  "general:visits": "529",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "53",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "KdoW 2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1501.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1501.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kommandowagen - Fahrzeug für den feuerwehrtechnischen Bediensteten",
+        "general:vehicleChassis": "Fiat Grande Punto",
+        "general:vehicleBuild": "Michael Schmidt mobile Kommunikation GmbH",
+        "general:vehicleMobilization": "12/07"
+      },
+      {
+        "general:vehicleid": "58",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "PTLF 4000",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2040.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2040.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Pulvertanklöschfahrzeug",
+        "general:vehicleChassis": "MB 1832 AK 4x4 \"Actros\"",
+        "general:vehicleBuild": "<a href=\"http://www.lentner-gmbh.de\" target=\"new\">Lentner</a>",
+        "general:vehicleMobilization": "09/08"
+      },
+      {
+        "general:vehicleid": "2",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "HLF 20/16-2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-204.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-204.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+        "general:vehicleChassis": "IVECO 135E24W",
+        "general:vehicleBuild": "<a href=\"http://www.iveco-magirus.de/\" target=\"new\">Iveco-Magirus</a>",
+        "general:vehicleMobilization": "03/02"
+      },
+      {
+        "general:vehicleid": "62",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "TSF-W Wollmesheim",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1512.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1512.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Tragkraftspritzenfahrzeug-Wasser",
+        "general:vehicleChassis": "IVECO Daily 65C17D",
+        "general:vehicleBuild": "<a href=\"http://www.adik-fahrzeugbau.de\" target=\"new\">ADIK Fahrzeugbau</a>",
+        "general:vehicleMobilization": "04/11"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.18197480000001,
+    "lng": 8.0764864
+  },
+  "meta:weather": {
+    "date": "2013-05-06",
+    "temperature": 15.6,
+    "temperature_min": 11.9,
+    "temperature_max": 20.6,
+    "precipitation": 0.2,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 16.2,
+    "peakgust": 38.9,
+    "sunshine": 684,
+    "pressure": null
+  }
+}

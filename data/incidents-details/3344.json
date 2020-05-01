@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "3344",
+  "general:title": "Technische Hilfeleistung",
+  "general:date": "2013-06-05T17:40:00+02:00",
+  "general:location": "Woogstraße Ecke Schneiderstraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "05.06.2013 17:40",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "140",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "345",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1969706,
+    "lng": 8.131306
+  },
+  "meta:weather": {
+    "date": "2013-06-05",
+    "temperature": 16.4,
+    "temperature_min": 11.6,
+    "temperature_max": 22.1,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 15.8,
+    "peakgust": 42.8,
+    "sunshine": 800,
+    "pressure": null
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "general:einsatzid": "4745",
+  "general:title": "Person in Zwangslage",
+  "general:date": "2017-07-07T12:16:00+02:00",
+  "general:location": "Queichheim",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.5",
+  "general:dateFormatted": "07.07.2017 12:16",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "219",
+  "general:changed_on": "2017-07-08T12:42:09+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "9",
+  "general:EinsatzDescription": "<p>Polizeimeldung:</p>\n<p>&nbsp;</p>\n<p>Landau: 07.07.2017, 12:15 Uhr (ots) - Bei der Polizei wurde mitgeteilt, dass es auf einem Feld hinter dem Mitfahrerparkplatz in der Queichheimer Hauptstra&szlig;e zu einem Arbeitsunfall gekommen sei, bei dem ein Erntehelfer verletzt wurde. Ermittlungen ergaben, dass sich ein 47-j&auml;hriger Erntehelfer bei Reinigungsarbeiten der Kartoffelerntemaschine mit dem Arm auf dem dortigen F&ouml;rderband abst&uuml;tzte, als dieses aus ungekl&auml;rter Ursache von einem Arbeitskollegen zugeschaltet wurde. Der Arbeiter wurde durch das das F&ouml;rderband mit dem Arm in die Erntemaschine gezogen und verlor kurzzeitig das Bewusstsein. Durch die Feuerwehr konnte der Mann aus seiner Lage befreit werden und wurde mit dem Rettungshelikopter zur BG-Klinik nach Ludwigshafen geflogen. Nach derzeitigem Erkenntnisstand erlitt der Arbeiter bei dem Unfall lediglich Armquetschungen und die Entlassung aus der Klinik am Folgetag wurde in Aussicht gestellt.</p>",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "60",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "HLF 20/16-1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+        "general:vehicleChassis": "IVECO FF 160 E 30",
+        "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+        "general:vehicleMobilization": "03/09"
+      },
+      {
+        "general:vehicleid": "78",
+        "general:vehicleVersion": "4",
+        "general:vehicleName": "stellv. SFI",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/kam/default.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/kam/default.jpg",
+          "picture:PictureFormat": "hoch",
+          "picture:PictureDescription": "Bild folgt",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "",
+        "general:vehicleChassis": "",
+        "general:vehicleBuild": "",
+        "general:vehicleMobilization": ""
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1927107,
+    "lng": 8.1424399
+  },
+  "meta:weather": {
+    "date": "2017-07-07",
+    "temperature": 23.3,
+    "temperature_min": 15.8,
+    "temperature_max": 30.4,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 27.4,
+    "peakgust": 63,
+    "sunshine": 663,
+    "pressure": null
+  }
+}

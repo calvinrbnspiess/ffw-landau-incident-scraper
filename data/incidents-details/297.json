@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "297",
+  "general:title": "Ge?st im Bachlauf",
+  "general:date": "2005-02-04T14:38:00+01:00",
+  "general:location": "Weißenburger Str. 28",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "04.02.2005 14:38",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "16",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "",
+  "general:visits": "381",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "53",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "KdoW 2",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1501.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1501.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kommandowagen - Fahrzeug für den feuerwehrtechnischen Bediensteten",
+      "general:vehicleChassis": "Fiat Grande Punto",
+      "general:vehicleBuild": "Michael Schmidt mobile Kommunikation GmbH",
+      "general:vehicleMobilization": "12/07"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.18457979999999,
+    "lng": 8.1141664
+  },
+  "meta:weather": {
+    "date": "2005-02-04",
+    "temperature": 0.2,
+    "temperature_min": -3.5,
+    "temperature_max": 3.7,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 22.3,
+    "peakgust": 51.1,
+    "sunshine": 534,
+    "pressure": null
+  }
+}

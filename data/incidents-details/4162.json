@@ -1,0 +1,78 @@
+{
+  "general:einsatzid": "4162",
+  "general:title": "PKW-Brand",
+  "general:date": "2016-01-19T12:54:00+01:00",
+  "general:location": "Nordring",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "0.5",
+  "general:dateFormatted": "19.01.2016 12:54",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "10",
+  "picture:Picture": {
+    "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/1601/4162-1.jpeg",
+    "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/1601/4162-1.jpeg",
+    "picture:PictureFormat": "quer",
+    "picture:PictureDescription": "",
+    "picture:BufferPreview": "true",
+    "picture:BufferPicture": "false"
+  },
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "2",
+  "general:AmountPeople": "6",
+  "general:EinsatzDescription": "<p>Die Feuerwehr Landau wurde zu einem PKW Brand gerufen, der Kleinbrand im Motorbereich wurde mit dem Schnellangriff abgel&ouml;scht.</p>",
+  "general:visits": "40",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "60",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "HLF 20/16-1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+      "general:vehicleChassis": "IVECO FF 160 E 30",
+      "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+      "general:vehicleMobilization": "03/09"
+    }
+  },
+  "picture:Pictures": {
+    "picture:Picture": {
+      "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/1601/4162-1.jpeg",
+      "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/1601/4162-1.jpeg",
+      "picture:PictureFormat": "quer",
+      "picture:PictureDescription": "",
+      "picture:BufferPreview": "true",
+      "picture:BufferPicture": "false"
+    }
+  },
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.2009173,
+    "lng": 8.1149723
+  },
+  "meta:weather": {
+    "date": "2016-01-19",
+    "temperature": -8.1,
+    "temperature_min": -9.3,
+    "temperature_max": -6.5,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 30,
+    "winddirection": null,
+    "windspeed": 7.2,
+    "peakgust": 18,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

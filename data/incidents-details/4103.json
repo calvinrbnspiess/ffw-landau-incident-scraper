@@ -1,0 +1,68 @@
+{
+  "general:einsatzid": "4103",
+  "general:title": "Ausgelaufene Betriebsmittel nach Unfall",
+  "general:date": "2015-10-25T09:25:00+01:00",
+  "general:location": "Pestalozzistraße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "25.10.2015 09:25",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "258",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "19",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "15",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "KLAF",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-263.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-263.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kleinalarmfahrzeug",
+      "general:vehicleChassis": "MB Sprinter",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "03/12"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "27",
+        "general:HiOrgName": "Fachfirma Straßenreinigung",
+        "general:HiOrgLink": "http://www.brechtel-fahrbahnreinigung.de"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.19988550000001,
+    "lng": 8.108835700000002
+  },
+  "meta:weather": {
+    "date": "2015-10-25",
+    "temperature": 10.3,
+    "temperature_min": 8.5,
+    "temperature_max": 12.1,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 18,
+    "peakgust": 46.8,
+    "sunshine": 26,
+    "pressure": null
+  }
+}

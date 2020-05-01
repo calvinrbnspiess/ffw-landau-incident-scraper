@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "2088",
+  "general:title": "Med. Notfall",
+  "general:date": "2009-11-26T19:28:00+01:00",
+  "general:location": "Haardtstraße",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "26.11.2009 19:28",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "323",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "569",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2023372,
+    "lng": 8.1176815
+  },
+  "meta:weather": {
+    "date": "2009-11-26",
+    "temperature": 5.9,
+    "temperature_min": 4.4,
+    "temperature_max": 7.9,
+    "precipitation": 1.7,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 42.8,
+    "peakgust": 75.2,
+    "sunshine": 84,
+    "pressure": null
+  }
+}

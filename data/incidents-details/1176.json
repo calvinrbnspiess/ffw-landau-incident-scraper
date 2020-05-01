@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "1176",
+  "general:title": "Tierrettung",
+  "general:date": "2007-08-02T10:33:00+02:00",
+  "general:location": "Landeckstrasse",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.0",
+  "general:dateFormatted": "02.08.2007 10:33",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "260",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "644",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "0",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "KdoW2",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-308.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-308.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kommandowagen",
+      "general:vehicleChassis": "VW Passat",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "09/88"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1909149,
+    "lng": 8.1022226
+  },
+  "meta:weather": {
+    "date": "2007-08-02",
+    "temperature": 16.4,
+    "temperature_min": 13.6,
+    "temperature_max": 19.9,
+    "precipitation": 6.6,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 31,
+    "peakgust": 71.3,
+    "sunshine": 258,
+    "pressure": null
+  }
+}

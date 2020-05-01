@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "3479",
+  "general:title": "Verschmutzte Verkehrsfläche",
+  "general:date": "2013-10-15T19:55:00+02:00",
+  "general:location": "Speyerer Straße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.5",
+  "general:dateFormatted": "15.10.2013 19:55",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "271",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "330",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "55",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "TSF-W Dammheim (heute: TSF-W Nußdorf)",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1504.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1504.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Tragkraftspritzenfahrzeug-Wasser",
+      "general:vehicleChassis": "IVECO Daily 65C18D",
+      "general:vehicleBuild": "Iveco Magirus Brandschutztechnik, jetzt: <a href=\"http://www.btg-goerlitz.biz/\" target=\"new\">Brandschutztechnik Görlitz</a>",
+      "general:vehicleMobilization": "06/08"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.21990479999999,
+    "lng": 8.1439032
+  },
+  "meta:weather": {
+    "date": "2013-10-15",
+    "temperature": 8.6,
+    "temperature_min": 6.5,
+    "temperature_max": 10.8,
+    "precipitation": 0.3,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 29.5,
+    "peakgust": 65.9,
+    "sunshine": 20,
+    "pressure": null
+  }
+}

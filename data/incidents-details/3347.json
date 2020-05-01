@@ -1,0 +1,83 @@
+{
+  "general:einsatzid": "3347",
+  "general:title": "LNA-Transport",
+  "general:date": "2013-06-10T15:17:00+02:00",
+  "general:location": "BAB 65",
+  "general:categorie": "LNA",
+  "general:length": "1.0",
+  "general:dateFormatted": "10.06.2013 15:17",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "143",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "672",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "65",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "MTF 1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1513.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1513.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+      "general:vehicleChassis": "Ford Transit",
+      "general:vehicleBuild": "<a href=\"http://www.compoint-fahrzeugbau.de\" target=\"new\">Compoint</a>",
+      "general:vehicleMobilization": "06/11"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "33",
+        "general:HiOrgName": "Org-Leiter",
+        "general:HiOrgLink": "https://www.suedliche-weinstrasse.de/de/landkreis/brandschutz/notarzt_orgaleiter.php"
+      },
+      {
+        "general:HiOrgId": "32",
+        "general:HiOrgName": "LNA",
+        "general:HiOrgLink": "https://www.suedliche-weinstrasse.de/de/landkreis/brandschutz/notarzt_orgaleiter.php"
+      },
+      {
+        "general:HiOrgId": "31",
+        "general:HiOrgName": "Rettungsdienst",
+        "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "51",
+        "general:HiOrgName": "FF Herxheim",
+        "general:HiOrgLink": "http://www.feuerwehr-herxheim.de/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.2542676,
+    "lng": 8.1502734
+  },
+  "meta:weather": {
+    "date": "2013-06-10",
+    "temperature": 11.5,
+    "temperature_min": 10.1,
+    "temperature_max": 13.2,
+    "precipitation": 3.6,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 15.8,
+    "peakgust": 29.5,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

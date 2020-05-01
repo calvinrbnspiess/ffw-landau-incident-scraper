@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "4198",
+  "general:title": "Geruchsbelästigung",
+  "general:date": "2016-03-08T23:47:00+01:00",
+  "general:location": "Pestalozzistraße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "0.5",
+  "general:dateFormatted": "08.03.2016 23:47",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "45",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "13",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "75",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "GW-Mess",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1558.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1558.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Gerätewagen-Messtechnik",
+      "general:vehicleChassis": "Mercedes Sprinter 316 CDI, Automatik",
+      "general:vehicleBuild": "<a href=\"http://www.binz-automotive.com/\" target=\"New\">Binz, Ilmenau</a>",
+      "general:vehicleMobilization": "10/14"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.19988550000001,
+    "lng": 8.108835700000002
+  },
+  "meta:weather": {
+    "date": "2016-03-08",
+    "temperature": -0.2,
+    "temperature_min": -2.2,
+    "temperature_max": 4.4,
+    "precipitation": 0.2,
+    "snowfall": null,
+    "snowdepth": 10,
+    "winddirection": null,
+    "windspeed": 14.4,
+    "peakgust": 33.1,
+    "sunshine": 175,
+    "pressure": null
+  }
+}

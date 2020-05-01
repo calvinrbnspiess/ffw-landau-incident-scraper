@@ -1,0 +1,159 @@
+{
+  "general:einsatzid": "4922",
+  "general:title": "Verkehrsunfall",
+  "general:date": "2017-12-12T08:01:00+01:00",
+  "general:location": "L 510",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.5",
+  "general:dateFormatted": "12.12.2017 08:01",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "390",
+  "general:changed_on": "2017-12-12T11:12:37+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "24",
+  "general:EinsatzDescription": "<p><strong>Aus dem Polizeibericht:</strong></p>\n<p><em>Landau-M&ouml;rzheim (ots)</em> - 12. Dezember 2017, 7.58 Uhr Am Dienstagmorgen befuhr eine 18-j&auml;hrige Frau aus Landau-M&ouml;rzheim in ihrem Opel Astra die Landstra&szlig;e 510 zwischen M&ouml;rzheim und Heuchelheim. Auf der absch&uuml;ssigen und kurvenreichen Strecke kam sie auf der nassen Fahrbahn in einer Rechtskurve von der Stra&szlig;e ab. Das Auto fuhr in einen Wassergraben, der wie ein Katapult wirkte. Das Fahrzeug wurde in die Luft geschleudert und &uuml;berschlug sich mehrfach und kam dann auf der Seite liegend in einem Weinberg zum Stillstand, nachdem das Fahrzeug noch einen Baum ber&uuml;hrte (siehe Bild). Die Fahrerin wurde im Auto eingeklemmt und konnte sich aus eigener Hilfe nicht mehr befreien. Durch die Feuerwehr Landau, die mit sieben Fahrzeugen und 24 Einsatzkr&auml;ften vor Ort war, wurde sie aus dem total zerst&ouml;rten Auto herausgeschnitten. Die Fahrerin war ansprechbar. Sie klagte &uuml;ber Schmerzen an der Halswirbels&auml;ule und &uuml;ber Schmerzen im Arm. Die Frau wurde in ein Landauer Krankenhaus gebracht. Eine Lebensgefahr besteht zurzeit nicht. W&auml;hrend der Unfallaufnahme und Bergung der verletzten Person war die Landstra&szlig;e f&uuml;r ca. 40 Minuten gesperrt und ab 9 Uhr wieder befahrbar.</p>",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "45",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "KdoW",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-299.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-299.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kommandowagen",
+        "general:vehicleChassis": "VW Passat",
+        "general:vehicleBuild": "VW",
+        "general:vehicleMobilization": "03/05"
+      },
+      {
+        "general:vehicleid": "60",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "HLF 20/16-1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+        "general:vehicleChassis": "IVECO FF 160 E 30",
+        "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+        "general:vehicleMobilization": "03/09"
+      },
+      {
+        "general:vehicleid": "51",
+        "general:vehicleVersion": "2",
+        "general:vehicleName": "RW 2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-209.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-209.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Rüstwagen",
+        "general:vehicleChassis": "MB 1425 4x4",
+        "general:vehicleBuild": "<a href=\"http://www.weschenfelder.com\" target=\"new\">Weschenfelder</a>",
+        "general:vehicleMobilization": "07/05"
+      },
+      {
+        "general:vehicleid": "15",
+        "general:vehicleVersion": "2",
+        "general:vehicleName": "KLAF",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-263.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-263.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kleinalarmfahrzeug",
+        "general:vehicleChassis": "MB Sprinter",
+        "general:vehicleBuild": "Eigen",
+        "general:vehicleMobilization": "03/12"
+      },
+      {
+        "general:vehicleid": "56",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "TSF-W Mörzheim",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1502.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1502.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Tragkraftspritzenfahrzeug-Wasser",
+        "general:vehicleChassis": "IVECO Daily 65C18D",
+        "general:vehicleBuild": "Iveco Magirus Brandschutztechnik, jetzt: <a href=\"http://www.btg-goerlitz.biz/\" target=\"new\">Brandschutztechnik Görlitz</a>",
+        "general:vehicleMobilization": "06/08"
+      },
+      {
+        "general:vehicleid": "62",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "TSF-W Wollmesheim",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1512.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1512.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Tragkraftspritzenfahrzeug-Wasser",
+        "general:vehicleChassis": "IVECO Daily 65C17D",
+        "general:vehicleBuild": "<a href=\"http://www.adik-fahrzeugbau.de\" target=\"new\">ADIK Fahrzeugbau</a>",
+        "general:vehicleMobilization": "04/11"
+      },
+      {
+        "general:vehicleid": "73",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "MTF Wollmesheim",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1507.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1507.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "Ford Transit",
+        "general:vehicleBuild": "<a href=\"http://www.compoint-fahrzeugbau.de\" target=\"new\">Compoint</a>",
+        "general:vehicleMobilization": "04/14"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1881456,
+    "lng": 8.0747447
+  },
+  "meta:weather": {
+    "date": "2017-12-12",
+    "temperature": -0.1,
+    "temperature_min": -1.8,
+    "temperature_max": 2.5,
+    "precipitation": 0.2,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 40.3,
+    "peakgust": 114.8,
+    "sunshine": 173,
+    "pressure": null
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "4281",
+  "general:title": "Notfalltüröffnung",
+  "general:date": "2016-06-11T20:10:00+02:00",
+  "general:location": "Zweibrücker Straße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.0",
+  "general:dateFormatted": "11.06.2016 20:10",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "123",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "7",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.19209679999999,
+    "lng": 8.1094755
+  },
+  "meta:weather": {
+    "date": "2016-06-11",
+    "temperature": 15.1,
+    "temperature_min": 13,
+    "temperature_max": 17.3,
+    "precipitation": 12,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 12.2,
+    "peakgust": 25.6,
+    "sunshine": 67,
+    "pressure": null
+  }
+}

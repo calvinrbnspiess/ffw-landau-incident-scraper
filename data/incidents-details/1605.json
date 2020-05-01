@@ -1,0 +1,74 @@
+{
+  "general:einsatzid": "1605",
+  "general:title": "Flächenbrand",
+  "general:date": "2008-10-07T19:25:00+02:00",
+  "general:location": "Nußdorf Richtung Walsheim",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.0",
+  "general:dateFormatted": "07.10.2008 19:25",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "270",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "9",
+  "general:EinsatzDescription": "",
+  "general:visits": "642",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "33",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "TLF 16/25 Nussdorf",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-261.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-261.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Tanklöschfahrzeug",
+        "general:vehicleChassis": "MB 1113",
+        "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+        "general:vehicleMobilization": "10/76"
+      },
+      {
+        "general:vehicleid": "35",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MTF Nussdorf - alt",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-241.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-241.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "VW Bus",
+        "general:vehicleBuild": "",
+        "general:vehicleMobilization": "06/83"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2244064,
+    "lng": 8.1085298
+  },
+  "meta:weather": {
+    "date": "2008-10-07",
+    "temperature": 12.8,
+    "temperature_min": 10.6,
+    "temperature_max": 17.1,
+    "precipitation": 0.3,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 15.8,
+    "peakgust": 31.3,
+    "sunshine": 114,
+    "pressure": null
+  }
+}

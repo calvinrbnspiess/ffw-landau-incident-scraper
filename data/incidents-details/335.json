@@ -1,0 +1,74 @@
+{
+  "general:einsatzid": "335",
+  "general:title": "Amtshilfe für Polizei, Messungen",
+  "general:date": "2005-03-23T21:16:00+01:00",
+  "general:location": "Horstring",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "23.03.2005 21:16",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "50",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "6",
+  "general:EinsatzDescription": " Messungen f?r Polizei mit Tenax-R?hrchen durchgef?hrt und zur Auswertung zur BF Mannheim gefahren. <br>\r\n<br>\r\nPressemitteilung von der <a target=\"_new\" href=\"http://www.polizei.rlp.de\"> Polizei Landau</a>:<br><br>\r\n\r\nMit Hustenreiz ins Krankenhaus<br>\r\nLandau Zwei 14 ? j?hrige Jungen und ein 36 ? j?hriger Vater mit seinem dreij?hrigen Sohn wurden am Mittwochabend mit Hustenreiz in ein Landauer Krankenhaus eingeliefert. Sie hielten sich zuvor im Au?enthermalbecken des LAOLA am dortigen Luftsprudler auf. Die Feuerwehr Landau nahm Wasserproben, die noch in der Nacht bei der Berufsfeuerwehr in Mannheim untersucht wurden. Dabei konnten keine Schadstoffe gefunden werden. Warum es bei den Badeg?sten zum Hustenreiz kam, konnte noch nicht gekl?rt werden. Die Ermittlungen dauern an. ",
+  "general:visits": "461",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "1",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "ELW 1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-207.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-207.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Einsatzleitwagen",
+        "general:vehicleChassis": "VW LT",
+        "general:vehicleBuild": "<a href=\"http://www.hensel-fahrzeugbau.de\" target=\"new\">Hensel</a>",
+        "general:vehicleMobilization": "12/04"
+      },
+      {
+        "general:vehicleid": "17",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "Mef-G",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-258.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-258.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Messtruppfahrzeug",
+        "general:vehicleChassis": "VW Bus",
+        "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+        "general:vehicleMobilization": "08/91"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.20813159999999,
+    "lng": 8.1366753
+  },
+  "meta:weather": {
+    "date": "2005-03-23",
+    "temperature": 10.7,
+    "temperature_min": 8.2,
+    "temperature_max": 15.9,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 19.4,
+    "peakgust": 44.6,
+    "sunshine": 240,
+    "pressure": null
+  }
+}

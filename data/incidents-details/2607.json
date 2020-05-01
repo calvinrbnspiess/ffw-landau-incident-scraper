@@ -1,0 +1,602 @@
+{
+  "general:einsatzid": "2607",
+  "general:title": "Gebäudebrand",
+  "general:date": "2011-01-01T07:56:00+01:00",
+  "general:location": "Vogesenstraße/Rheinstraße",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "8.5",
+  "general:dateFormatted": "01.01.2011 07:56",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "3",
+  "picture:Picture": {
+    "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/1101/110101_05.jpg",
+    "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/1101/110101_05.jpg",
+    "picture:PictureFormat": "quer",
+    "picture:PictureDescription": "  Bild: Polizei",
+    "picture:BufferPreview": "true",
+    "picture:BufferPicture": "false"
+  },
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "20",
+  "general:AmountPeople": "215",
+  "general:EinsatzDescription": "<b>Am Mittag des 2. Januar hat die Feuerwehr Landau nach 29 Stunden die Nachlöscharbeiten bis auf weiteres nach dem Großbrand einer Lagerhalle soweit abgeschlossen.</b>\r\n<br><br>\r\nAm Neujahrsmorgen wurde die Feuerwehr Landau zu einem Brand in der Rheinstraße gerufen. Eine ca.2500qm große Lagerhalle stand über vier Stockwerke in Vollbrand. Sogleich hat die Einsatzleitung unter Stadtfeuerwehrinspekteur Dirk Hargesheimer Vollalarm für alle Einheiten der Stadt geben lassen und mehrere Hubrettungsfahrzeuge aus der Südpfalz nachgefordert. Die Einsatzstelle wurde in Abschnitte eingeteilt, von Süden und Osten bekämpfte die Einheit Landau-Stadt und Kandel, von Norden Herxheim, Nussdorf und Offenbach sowie aus der Vogesenstraße die Kr?fte aus Annweiler zusammen mit Arzheim das Feuer. <br><br>\r\n\r\nIn der Vogesenstraße war es auch, dass über einen Innenangriff in eine weitere Lagerhalle das Übergreifen der Flammen unter Atemschutz abgewehrt werden musste. Aus Vorsichtsmaßnahmen wurden zwei angrenzende Gebäude in der Vogesenstraße und in der Rheinstraße evakuiert. Die ca. 27 Bewohner konnten im Laufe des Einsatzes wieder ohne Probleme in Ihre Wohnungen zurückkehren. <br><br>\r\n\r\nDie umfangreiche Löschmaßnahmen über die Wenderohre der Hubrettungsfahrzeuge aus Annweiler, Herxheim, Kandel, Landau und Offenbach sowie dem Monitor des Tanklöschfahrzeuges aus Landau erforderte eine umfang-reiche Löschwasserversorgung über mehrere Leitungen vom Schwanenweiher aus. Hier sind die tragbaren Pumpen von vier Stadtteilen und der Schlauchwagen aus Offenbach in den Einsatz gekommen. <br><br>\r\n\r\nDie Führungsarbeit wurde durch die gemeinsame Technische Einsatzleitung des Landkreises SÜW und der Stadt Landau im Einsatzleitwagen 2 unterstützt. <br><br>\r\n\r\nNach vier Stunden konnten die ersten Kräfte die Einsatzstelle verlassen. Mit allen Nachlöscharbeiten über die ganze Nacht und bis in den Sonntagmittag war die Feuerwehr in Spitzenzeiten mit ca. 215 Einsatzkräften im Einsatz. <br><br>\r\n \r\nVor Ort wurden die Kräfte die ganze Einsatzdauer über unter anderem vom den Kollegen aus dem nahen DRK-Heim und der Schnelleinsatzgruppe-Verpflegung der Feuerwehr  mit warmen Getränken und Speisen versorgt. <br><br>\r\n\r\nOberbürgermeister Hans-Dieter Schlimmer machte sich noch am Samstagmorgen selbst ein Bild an der Einsatzstelle. Er danke alle Kräften für diesen reibungslosen und koordinierten Einsatz. \"Hier zeige sich wieder wie wichtig ein Miteinander und vor allem die gemeinsamen Ausbildungen und Beschaffungen der südpfalzischen Feuerwehren ist.\" <br><br>\r\n\r\nDie Lagerhalle ist komplett ausgebrannt und ein Teil der östlichen Mauer ist am Neujahrsmittag auf ca. 15m eingestürzt. Bis auf die oben erwähnte Lagerhalle in der Vogesenstraße konnte ein Übergreifen der Flammen auf weitere Gebäude durch den massiven Einsatz verhindert werden. Personen wurden bei dem Einsatz nicht verletzt. Die Anwohner der evakuierten Gebäude konnten auch unversehrt zurückkehren. Der Rettungsdienst war zum Eigenschutz vor Ort. <br><br>\r\n\r\nDie Schadenshöhe und die Brandursache sind noch nicht genau zu definieren. Die Ermittlungen können erst nach Prüfung durch einen Statiker eingeleitet werden.\r\n        ",
+  "general:visits": "19213",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "1",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "ELW 1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-207.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-207.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Einsatzleitwagen",
+        "general:vehicleChassis": "VW LT",
+        "general:vehicleBuild": "<a href=\"http://www.hensel-fahrzeugbau.de\" target=\"new\">Hensel</a>",
+        "general:vehicleMobilization": "12/04"
+      },
+      {
+        "general:vehicleid": "45",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "KdoW",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-299.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-299.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kommandowagen",
+        "general:vehicleChassis": "VW Passat",
+        "general:vehicleBuild": "VW",
+        "general:vehicleMobilization": "03/05"
+      },
+      {
+        "general:vehicleid": "60",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "HLF 20/16-1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+        "general:vehicleChassis": "IVECO FF 160 E 30",
+        "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+        "general:vehicleMobilization": "03/09"
+      },
+      {
+        "general:vehicleid": "4",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "TGM 23-12",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-243.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-243.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Teleskopgelenkmast",
+        "general:vehicleChassis": "MAN 15.264",
+        "general:vehicleBuild": "<a href=\"http://www.bronto.ch/\" target=\"new\">Bronto Skylift</a>",
+        "general:vehicleMobilization": "11/98"
+      },
+      {
+        "general:vehicleid": "58",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "TLF 20/40 SL (heute: PTLF 4000)",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2040.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2040.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Tanklöschfahrzeug",
+        "general:vehicleChassis": "MB 1832 AK 4x4 \"Actros\"",
+        "general:vehicleBuild": "<a href=\"http://www.lentner-gmbh.de\" target=\"new\">Lentner</a>",
+        "general:vehicleMobilization": "09/08"
+      },
+      {
+        "general:vehicleid": "2",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "LF 16-12-1 (heute: HLF 20/16-2)",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-204.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-204.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Löschgruppenfahrzeug",
+        "general:vehicleChassis": "IVECO 135E24W",
+        "general:vehicleBuild": "<a href=\"http://www.iveco-magirus.de/\" target=\"new\">Iveco-Magirus</a>",
+        "general:vehicleMobilization": "03/02"
+      },
+      {
+        "general:vehicleid": "5",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "LF 16-12-2 (heute: )",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-256.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-256.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Löschgruppenfahrzeug",
+        "general:vehicleChassis": "MB 1222",
+        "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+        "general:vehicleMobilization": "06/88"
+      },
+      {
+        "general:vehicleid": "54",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MTF 1 - alt",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1505.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1505.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "VW T5",
+        "general:vehicleBuild": "<a href=\"http://www.auto-zotz.de\" target=\"new\">Auto Zotz</a>; Weschenfelder",
+        "general:vehicleMobilization": "02/08"
+      },
+      {
+        "general:vehicleid": "27",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MTF Arzheim - alt",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-252.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-252.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "VW Bus",
+        "general:vehicleBuild": "",
+        "general:vehicleMobilization": "08/85"
+      },
+      {
+        "general:vehicleid": "9",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "SW 1000",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-254.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-254.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Schlauchwagen",
+        "general:vehicleChassis": "MB Sprinter",
+        "general:vehicleBuild": "<a href=\"http://www.gimaex-schmitz.de/\" target=\"new\">Schmitz</a>",
+        "general:vehicleMobilization": "02/96"
+      },
+      {
+        "general:vehicleid": "46",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MZF",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-259.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-259.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mehrzweckfahrzeug",
+        "general:vehicleChassis": "MB 1425 4x4",
+        "general:vehicleBuild": "<a href=\"http://www.weschenfelder.com\" target=\"new\">Weschenfelder</a>",
+        "general:vehicleMobilization": "04/05"
+      },
+      {
+        "general:vehicleid": "14",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MTF 3 (heute: MTF Dammheim)",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-304.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-304.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "Mercedes",
+        "general:vehicleBuild": "Eigen",
+        "general:vehicleMobilization": "12/87"
+      },
+      {
+        "general:vehicleid": "8",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "LKW",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-262.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-262.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Lastkraftwagen",
+        "general:vehicleChassis": "MB Unimog",
+        "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+        "general:vehicleMobilization": "02/77"
+      },
+      {
+        "general:vehicleid": "25",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "TSF Arzheim",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-266.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-266.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Tragkraftspritzenfahrzeug",
+        "general:vehicleChassis": "VW LT",
+        "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+        "general:vehicleMobilization": "02/89"
+      },
+      {
+        "general:vehicleid": "55",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "TSF-W Dammheim (heute: TSF-W Nußdorf)",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1504.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1504.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Tragkraftspritzenfahrzeug-Wasser",
+        "general:vehicleChassis": "IVECO Daily 65C18D",
+        "general:vehicleBuild": "Iveco Magirus Brandschutztechnik, jetzt: <a href=\"http://www.btg-goerlitz.biz/\" target=\"new\">Brandschutztechnik Görlitz</a>",
+        "general:vehicleMobilization": "06/08"
+      },
+      {
+        "general:vehicleid": "40",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MTF Dammheim",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-273.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-273.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "VW Bus",
+        "general:vehicleBuild": "",
+        "general:vehicleMobilization": "11/81"
+      },
+      {
+        "general:vehicleid": "57",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "TSF-W Godramstein",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1503.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1503.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Tragkraftspritzenfahrzeug-Wasser",
+        "general:vehicleChassis": "IVECO Daily 65C18D",
+        "general:vehicleBuild": "Iveco Magirus Brandschutztechnik, jetzt: <a href=\"http://www.btg-goerlitz.biz/\" target=\"new\">Brandschutztechnik Görlitz</a>",
+        "general:vehicleMobilization": "06/08"
+      },
+      {
+        "general:vehicleid": "30",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MTF Godramstein - alt",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-236.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-236.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "VW Bus",
+        "general:vehicleBuild": "",
+        "general:vehicleMobilization": "05/81"
+      },
+      {
+        "general:vehicleid": "56",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "TSF-W Mörzheim",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1502.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1502.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Tragkraftspritzenfahrzeug-Wasser",
+        "general:vehicleChassis": "IVECO Daily 65C18D",
+        "general:vehicleBuild": "Iveco Magirus Brandschutztechnik, jetzt: <a href=\"http://www.btg-goerlitz.biz/\" target=\"new\">Brandschutztechnik Görlitz</a>",
+        "general:vehicleMobilization": "06/08"
+      },
+      {
+        "general:vehicleid": "32",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MTF Mörzheim - alt",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-246.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-246.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "VW Bus",
+        "general:vehicleBuild": "",
+        "general:vehicleMobilization": "03/87"
+      },
+      {
+        "general:vehicleid": "59",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "LF 10/6",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1060.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1060.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Löschgruppenfahrzeug Nußdorf",
+        "general:vehicleChassis": "IVECO MAGIRUS FF 90 E 18 4x2",
+        "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"new\">Iveco Magirus</a>",
+        "general:vehicleMobilization": "11/08"
+      },
+      {
+        "general:vehicleid": "35",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MTF Nussdorf - alt",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-241.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-241.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "VW Bus",
+        "general:vehicleBuild": "",
+        "general:vehicleMobilization": "06/83"
+      },
+      {
+        "general:vehicleid": "36",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "TSF Wollmesheim",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-270.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-270.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Tragkraftspritzenfahrzeug",
+        "general:vehicleChassis": "VW LT",
+        "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+        "general:vehicleMobilization": "12/87"
+      },
+      {
+        "general:vehicleid": "37",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MTF Wollmesheim",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-271.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-271.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "VW Bus",
+        "general:vehicleBuild": "",
+        "general:vehicleMobilization": "07/82"
+      },
+      {
+        "general:vehicleid": "0",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "KdoW2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-308.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-308.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kommandowagen",
+        "general:vehicleChassis": "VW Passat",
+        "general:vehicleBuild": "Eigen",
+        "general:vehicleMobilization": "09/88"
+      },
+      {
+        "general:vehicleid": "52",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "ELW 2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/SUEW-2000.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/SUEW-2000.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Einsatzleitwagen 2",
+        "general:vehicleChassis": "MB 1223",
+        "general:vehicleBuild": "<a href=\"http://www.hensel-fahrzeugbau.de\" target=\"new\">Hensel</a>",
+        "general:vehicleMobilization": "2006"
+      }
+    ]
+  },
+  "picture:Pictures": {
+    "picture:Picture": [
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/1101/110101_05.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/1101/110101_05.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "  Bild: Polizei",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      },
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/1101/110101_06.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/1101/110101_06.jpg",
+        "picture:PictureFormat": "hoch",
+        "picture:PictureDescription": "Bild: Polizei",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      },
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/1101/110101_07.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/1101/110101_07.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "  Bild: Polizei",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      },
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/1101/110101_08.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/1101/110101_08.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "Beim Eintreffen der Feuerwehr schlugen die Flammen aus dem gesamten Geb?ude.",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      },
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/1101/110101_09.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/1101/110101_09.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "Brand drohte auf das Nachbaranwesen ?berzugreifen",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      },
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/1101/110101_10.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/1101/110101_10.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "Wasserversorgung mit mehreren Pumpen aus dem Schwanenweiher",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      },
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/1101/110101_11.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/1101/110101_11.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "Das Geb?ude brannte komplett aus",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      }
+    ]
+  },
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "31",
+        "general:HiOrgName": "Rettungsdienst",
+        "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "48",
+        "general:HiOrgName": "FF Annweiler",
+        "general:HiOrgLink": "http://www.feuerwehr-annweiler.de/"
+      },
+      {
+        "general:HiOrgId": "50",
+        "general:HiOrgName": "FF Edenkoben",
+        "general:HiOrgLink": "http://www.feuerwehr-edenkoben.de/"
+      },
+      {
+        "general:HiOrgId": "51",
+        "general:HiOrgName": "FF Herxheim",
+        "general:HiOrgLink": "http://www.feuerwehr-herxheim.de/"
+      },
+      {
+        "general:HiOrgId": "52",
+        "general:HiOrgName": "FF Offenbach/Queich",
+        "general:HiOrgLink": "http://www.feuerwehroffenbach.de/"
+      },
+      {
+        "general:HiOrgId": "54",
+        "general:HiOrgName": "FüGr-TEL",
+        "general:HiOrgLink": "http://www.suedwein12.de/index.php?option=com_content&view=article&id=38&Itemid=6"
+      },
+      {
+        "general:HiOrgId": "79",
+        "general:HiOrgName": "WF Pfalzklinikum",
+        "general:HiOrgLink": "http://www.pfalzklinikum.de/zentrale-dienste/werkfeuerwehr/index.html"
+      },
+      {
+        "general:HiOrgId": "90",
+        "general:HiOrgName": "FF Kandel",
+        "general:HiOrgLink": "http://www.feuerwehr-kandel.de/"
+      },
+      {
+        "general:HiOrgId": "91",
+        "general:HiOrgName": "IuK-Gruppe",
+        "general:HiOrgLink": "http://www.suedwein12.de/index.php?option=com_content&view=article&id=36&Itemid=7"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.195495,
+    "lng": 8.1239551
+  },
+  "meta:weather": {
+    "date": "2011-01-01",
+    "temperature": -1.5,
+    "temperature_min": -2.7,
+    "temperature_max": -1,
+    "precipitation": 0.5,
+    "snowfall": null,
+    "snowdepth": 200,
+    "winddirection": null,
+    "windspeed": 11.2,
+    "peakgust": 24.8,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

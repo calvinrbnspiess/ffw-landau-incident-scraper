@@ -1,0 +1,74 @@
+{
+  "general:einsatzid": "5619",
+  "general:title": "umgestürzter Baum",
+  "general:date": "2018-09-23T18:37:00+02:00",
+  "general:location": "Helmbachstraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.0",
+  "general:dateFormatted": "23.09.2018 18:37",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "665",
+  "general:changed_on": "2018-09-23T18:46:48+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "6",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "24",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "SFI",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/kam/default.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/kam/default.jpg",
+          "picture:PictureFormat": "hoch",
+          "picture:PictureDescription": "Bild folgt",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "",
+        "general:vehicleChassis": "",
+        "general:vehicleBuild": "",
+        "general:vehicleMobilization": ""
+      },
+      {
+        "general:vehicleid": "51",
+        "general:vehicleVersion": "2",
+        "general:vehicleName": "RW 2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-209.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-209.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Rüstwagen",
+        "general:vehicleChassis": "MB 1425 4x4",
+        "general:vehicleBuild": "<a href=\"http://www.weschenfelder.com\" target=\"new\">Weschenfelder</a>",
+        "general:vehicleMobilization": "07/05"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2047555,
+    "lng": 8.1392962
+  },
+  "meta:weather": {
+    "date": "2018-09-23",
+    "temperature": 12.4,
+    "temperature_min": 5.6,
+    "temperature_max": 18.6,
+    "precipitation": 8.7,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": 248,
+    "windspeed": 44.6,
+    "peakgust": 158,
+    "sunshine": 11,
+    "pressure": 1013
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "general:einsatzid": "1120",
+  "general:title": "Bienenschwarm",
+  "general:date": "2007-06-02T14:20:00+02:00",
+  "general:location": "Im Grünen Winkel",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.0",
+  "general:dateFormatted": "02.06.2007 14:20",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "205",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "",
+  "general:visits": "844",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "45",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "KdoW",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-299.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-299.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kommandowagen",
+      "general:vehicleChassis": "VW Passat",
+      "general:vehicleBuild": "VW",
+      "general:vehicleMobilization": "03/05"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "80",
+      "general:HiOrgName": "Imker"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1854344,
+    "lng": 8.1110005
+  },
+  "meta:weather": {
+    "date": "2007-06-02",
+    "temperature": 14.9,
+    "temperature_min": 10.8,
+    "temperature_max": 19.6,
+    "precipitation": 0.2,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 19.4,
+    "peakgust": 46.1,
+    "sunshine": 348,
+    "pressure": null
+  }
+}

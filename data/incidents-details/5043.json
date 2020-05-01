@@ -1,0 +1,74 @@
+{
+  "general:einsatzid": "5043",
+  "general:title": "Gefahrstoffe mittlerer Art",
+  "general:date": "2018-02-27T10:46:00+01:00",
+  "general:location": "Mörlheimer Hauptstraße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "27.02.2018 10:46",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "93",
+  "general:changed_on": "2018-02-27T11:06:47+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "8",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "75",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "GW-Mess",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1558.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1558.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Gerätewagen-Messtechnik",
+        "general:vehicleChassis": "Mercedes Sprinter 316 CDI, Automatik",
+        "general:vehicleBuild": "<a href=\"http://www.binz-automotive.com/\" target=\"New\">Binz, Ilmenau</a>",
+        "general:vehicleMobilization": "10/14"
+      },
+      {
+        "general:vehicleid": "60",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "HLF 20/16-1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+        "general:vehicleChassis": "IVECO FF 160 E 30",
+        "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+        "general:vehicleMobilization": "03/09"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1900713,
+    "lng": 8.164149199999999
+  },
+  "meta:weather": {
+    "date": "2018-02-27",
+    "temperature": -9.9,
+    "temperature_min": -11.8,
+    "temperature_max": -7.2,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 20,
+    "winddirection": 58,
+    "windspeed": 19.7,
+    "peakgust": 46,
+    "sunshine": 505,
+    "pressure": 1020.3
+  }
+}

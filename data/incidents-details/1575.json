@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "1575",
+  "general:title": "Ausgelaufene Betriebsmittel nach Unfall",
+  "general:date": "2008-08-17T13:05:00+02:00",
+  "general:location": "Waffenstraße Ecke Westbahnstraße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "0.5",
+  "general:dateFormatted": "17.08.2008 13:05",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "242",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "424",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "0",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "KdoW2",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-308.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-308.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kommandowagen",
+      "general:vehicleChassis": "VW Passat",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "09/88"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1961861,
+    "lng": 8.1107557
+  },
+  "meta:weather": {
+    "date": "2008-08-17",
+    "temperature": 16.6,
+    "temperature_min": 11.5,
+    "temperature_max": 22.8,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 15.5,
+    "peakgust": 38.5,
+    "sunshine": 600,
+    "pressure": null
+  }
+}

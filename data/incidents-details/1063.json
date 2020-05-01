@@ -1,0 +1,109 @@
+{
+  "general:einsatzid": "1063",
+  "general:title": "Tierrettung",
+  "general:date": "2007-05-09T06:57:00+02:00",
+  "general:location": "Westring 23",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.5",
+  "general:dateFormatted": "09.05.2007 06:57",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "154",
+  "picture:Picture": {
+    "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0705/070509_01.jpg",
+    "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0705/070509_01.jpg",
+    "picture:PictureFormat": "quer",
+    "picture:PictureDescription": "",
+    "picture:BufferPreview": "true",
+    "picture:BufferPicture": "false"
+  },
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "6",
+  "general:EinsatzDescription": " Eine Katze war in den Hohlraum zwischen der R?ckwand einer Garage und einer Mauer gest?rzt und zwischen diesen eingeklemmt.\r\n<br> Die Kr?fte der Feuerwehr Landau mussten zur Befreiung der Katze die Wand der Garage mit Stemmwerkzeug ?ffnen. \r\n<br> Die Katze wurde ?u?erlich unverletzt, allerdings etwas staubig, zu einem Tierarzt zur Untersuchung gebracht.",
+  "general:visits": "1091",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "1",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "ELW 1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-207.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-207.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Einsatzleitwagen",
+        "general:vehicleChassis": "VW LT",
+        "general:vehicleBuild": "<a href=\"http://www.hensel-fahrzeugbau.de\" target=\"new\">Hensel</a>",
+        "general:vehicleMobilization": "12/04"
+      },
+      {
+        "general:vehicleid": "51",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "RW (heute: RW 2)",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-209.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-209.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Rüstwagen",
+        "general:vehicleChassis": "MB 1425 4x4",
+        "general:vehicleBuild": "<a href=\"http://www.weschenfelder.com\" target=\"new\">Weschenfelder</a>",
+        "general:vehicleMobilization": "07/05"
+      }
+    ]
+  },
+  "picture:Pictures": {
+    "picture:Picture": [
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0705/070509_01.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0705/070509_01.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      },
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0705/070509_02.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0705/070509_02.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      },
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0705/070509_03.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0705/070509_03.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      }
+    ]
+  },
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.19527,
+    "lng": 8.109589999999999
+  },
+  "meta:weather": {
+    "date": "2007-05-09",
+    "temperature": 10.3,
+    "temperature_min": 8.2,
+    "temperature_max": 12.1,
+    "precipitation": 8.7,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 42.5,
+    "peakgust": 88.2,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "general:einsatzid": "124",
+  "general:title": "PKW-Brand",
+  "general:date": "2004-06-13T05:53:00+02:00",
+  "general:location": "Kramstraße 9",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.5",
+  "general:dateFormatted": "13.06.2004 05:53",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "111",
+  "picture:Picture": {
+    "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0406/040613_01.jpg",
+    "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0406/040613_01.jpg",
+    "picture:PictureFormat": "quer",
+    "picture:PictureDescription": "",
+    "picture:BufferPreview": "true",
+    "picture:BufferPicture": "false"
+  },
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "1",
+  "general:AmountPeople": "6",
+  "general:EinsatzDescription": "Brennender Motorraum des Audi 80 abgel?scht.",
+  "general:visits": "458",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "2",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "LF 16-12-1 (heute: HLF 20/16-2)",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-204.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-204.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Löschgruppenfahrzeug",
+      "general:vehicleChassis": "IVECO 135E24W",
+      "general:vehicleBuild": "<a href=\"http://www.iveco-magirus.de/\" target=\"new\">Iveco-Magirus</a>",
+      "general:vehicleMobilization": "03/02"
+    }
+  },
+  "picture:Pictures": {
+    "picture:Picture": {
+      "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0406/040613_01.jpg",
+      "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0406/040613_01.jpg",
+      "picture:PictureFormat": "quer",
+      "picture:PictureDescription": "",
+      "picture:BufferPreview": "true",
+      "picture:BufferPicture": "false"
+    }
+  },
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2001662,
+    "lng": 8.1129417
+  },
+  "meta:weather": {
+    "date": "2004-06-13",
+    "temperature": 10.9,
+    "temperature_min": 8.1,
+    "temperature_max": 14.2,
+    "precipitation": 1.4,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 18.4,
+    "peakgust": 44.6,
+    "sunshine": 84,
+    "pressure": null
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "general:einsatzid": "3790",
+  "general:title": "Technische Hilfeleistung",
+  "general:date": "2014-10-20T18:15:00+02:00",
+  "general:location": "Am Kaiserbrunnen",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "20.10.2014 18:15",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "242",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "5",
+  "general:EinsatzDescription": "Pressemeldung:<br><br><b> Sirenengeräusche im Horst / Landau / \"Entwarnung\"\r\n</b><br><br>\r\nAm Montag den 20.10.2014 kam es in der Zeit von 18:00  18:25 Uhr zu einem vermutlich technischen Defekt an einer Sirenenanlage im Landauer Horst. Das sehr laute, durchgehend erklingende Signalgeräusch ähnlich dem Alarm bei einem Katastrophenfall führt zu Verunsicherungen in der Bevölkerung und unzähligen, telefonischen Anfragen bei der Polizei Landau und der Rettungsleitstelle. Die Feuerwehr Landau konnte den Defekt beheben, gegen 18:25 Uhr verstummte die Sirenenanlage wieder. Der Grund des Defekts ist nicht bekannt.",
+  "general:visits": "130",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "45",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "KdoW",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-299.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-299.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kommandowagen",
+        "general:vehicleChassis": "VW Passat",
+        "general:vehicleBuild": "VW",
+        "general:vehicleMobilization": "03/05"
+      },
+      {
+        "general:vehicleid": "65",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MTF 1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1513.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1513.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "Ford Transit",
+        "general:vehicleBuild": "<a href=\"http://www.compoint-fahrzeugbau.de\" target=\"new\">Compoint</a>",
+        "general:vehicleMobilization": "06/11"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.2039334,
+    "lng": 8.1353062
+  },
+  "meta:weather": {
+    "date": "2014-10-20",
+    "temperature": 13.9,
+    "temperature_min": 9.8,
+    "temperature_max": 17.2,
+    "precipitation": 0.3,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 29.5,
+    "peakgust": 61.2,
+    "sunshine": 87,
+    "pressure": null
+  }
+}

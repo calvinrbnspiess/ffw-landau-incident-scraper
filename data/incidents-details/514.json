@@ -1,0 +1,72 @@
+{
+  "general:einsatzid": "514",
+  "general:title": "PKW-Brand",
+  "general:date": "2005-11-05T02:48:00+01:00",
+  "general:location": "Waffenstraße",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.0",
+  "general:dateFormatted": "05.11.2005 02:48",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "225",
+  "picture:Picture": {
+    "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0511/051105_02.jpg",
+    "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0511/051105_02.jpg",
+    "picture:PictureFormat": "quer",
+    "picture:PictureDescription": "Motorraum des Polo",
+    "picture:BufferPreview": "true",
+    "picture:BufferPicture": "false"
+  },
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "1",
+  "general:AmountPeople": "10",
+  "general:EinsatzDescription": " Brand im Motorraum mit Schnellangriff unter PA abgel?scht.",
+  "general:visits": "439",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "2",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "LF 16-12-1 (heute: HLF 20/16-2)",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-204.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-204.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Löschgruppenfahrzeug",
+      "general:vehicleChassis": "IVECO 135E24W",
+      "general:vehicleBuild": "<a href=\"http://www.iveco-magirus.de/\" target=\"new\">Iveco-Magirus</a>",
+      "general:vehicleMobilization": "03/02"
+    }
+  },
+  "picture:Pictures": {
+    "picture:Picture": {
+      "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0511/051105_02.jpg",
+      "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0511/051105_02.jpg",
+      "picture:PictureFormat": "quer",
+      "picture:PictureDescription": "Motorraum des Polo",
+      "picture:BufferPreview": "true",
+      "picture:BufferPicture": "false"
+    }
+  },
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1975954,
+    "lng": 8.1108788
+  },
+  "meta:weather": {
+    "date": "2005-11-05",
+    "temperature": 7.2,
+    "temperature_min": 5.5,
+    "temperature_max": 10.1,
+    "precipitation": 0.1,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 27,
+    "peakgust": 53.3,
+    "sunshine": 336,
+    "pressure": null
+  }
+}

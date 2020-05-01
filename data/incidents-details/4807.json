@@ -1,0 +1,91 @@
+{
+  "general:einsatzid": "4807",
+  "general:title": "Brandmeldeanlage",
+  "general:date": "2017-09-04T20:23:00+02:00",
+  "general:location": "Prießnitzweg",
+  "general:categorie": "Brandmeldeanlage",
+  "general:length": "0.5",
+  "general:dateFormatted": "04.09.2017 20:23",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "278",
+  "general:changed_on": "2017-09-04T20:38:28+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "18",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "78",
+        "general:vehicleVersion": "4",
+        "general:vehicleName": "stellv. SFI",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/kam/default.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/kam/default.jpg",
+          "picture:PictureFormat": "hoch",
+          "picture:PictureDescription": "Bild folgt",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "",
+        "general:vehicleChassis": "",
+        "general:vehicleBuild": "",
+        "general:vehicleMobilization": ""
+      },
+      {
+        "general:vehicleid": "60",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "HLF 20/16-1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+        "general:vehicleChassis": "IVECO FF 160 E 30",
+        "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+        "general:vehicleMobilization": "03/09"
+      },
+      {
+        "general:vehicleid": "70",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "LF-KatS",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD8045.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD8045.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Löschgruppenfahrzeug Katastrophenschutz",
+        "general:vehicleChassis": "MAN TGM 13.250 4x4 BL FW",
+        "general:vehicleBuild": "<a href=\"http://www.lentner-gmbh.de\" target=\"new\">Josef Lentner GmbH</a>",
+        "general:vehicleMobilization": "09/12"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1970217,
+    "lng": 8.104546
+  },
+  "meta:weather": {
+    "date": "2017-09-04",
+    "temperature": 13.7,
+    "temperature_min": 9.5,
+    "temperature_max": 17,
+    "precipitation": 0.2,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 11.5,
+    "peakgust": 26.3,
+    "sunshine": 226,
+    "pressure": null
+  }
+}

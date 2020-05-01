@@ -1,0 +1,91 @@
+{
+  "general:einsatzid": "321",
+  "general:title": "Ölspur",
+  "general:date": "2005-03-11T16:27:00+01:00",
+  "general:location": "Lindenbergstraße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "11.03.2005 16:27",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "38",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "10",
+  "general:EinsatzDescription": "",
+  "general:visits": "385",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "33",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "TLF 16/25 Nussdorf",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-261.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-261.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Tanklöschfahrzeug",
+        "general:vehicleChassis": "MB 1113",
+        "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+        "general:vehicleMobilization": "10/76"
+      },
+      {
+        "general:vehicleid": "34",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "TSF Nussdorf",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-272.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-272.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Tragkraftspritzenfahrzeug",
+        "general:vehicleChassis": "VW LT",
+        "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+        "general:vehicleMobilization": "04/80"
+      },
+      {
+        "general:vehicleid": "35",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MTF Nussdorf - alt",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-241.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-241.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "VW Bus",
+        "general:vehicleBuild": "",
+        "general:vehicleMobilization": "06/83"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2225086,
+    "lng": 8.105749
+  },
+  "meta:weather": {
+    "date": "2005-03-11",
+    "temperature": -0.3,
+    "temperature_min": -3.2,
+    "temperature_max": 2.4,
+    "precipitation": 1.6,
+    "snowfall": null,
+    "snowdepth": 140,
+    "winddirection": null,
+    "windspeed": 47.2,
+    "peakgust": 94.7,
+    "sunshine": 36,
+    "pressure": null
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "general:einsatzid": "5726",
+  "general:title": "Eigentumsicherung",
+  "general:date": "2018-12-09T11:27:00+01:00",
+  "general:location": "Horststraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "09.12.2018 11:27",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "767",
+  "general:changed_on": "2018-12-09T11:32:05+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "47",
+      "general:HiOrgName": "THW OV Landau",
+      "general:HiOrgLink": "http://www.thw-landau.de"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.2034551,
+    "lng": 8.128521899999999
+  },
+  "meta:weather": {
+    "date": "2018-12-09",
+    "temperature": 4.7,
+    "temperature_min": 3,
+    "temperature_max": 6.9,
+    "precipitation": 2.5,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": 263,
+    "windspeed": 55.9,
+    "peakgust": 117,
+    "sunshine": 28,
+    "pressure": 1004.6
+  }
+}

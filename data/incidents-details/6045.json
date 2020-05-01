@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "6045",
+  "general:title": "Fahrzeugbrand klein",
+  "general:date": "2019-07-28T13:25:00+02:00",
+  "general:location": "Johannes-Kopp-Straße",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "0.5",
+  "general:dateFormatted": "28.07.2019 13:25",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "275",
+  "general:changed_on": "2019-07-28T13:32:44+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1930957,
+    "lng": 8.1310571
+  },
+  "meta:weather": {
+    "date": "2019-07-28",
+    "temperature": 17.4,
+    "temperature_min": 15,
+    "temperature_max": 22.9,
+    "precipitation": 2.7,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": 272,
+    "windspeed": 24.6,
+    "peakgust": 60,
+    "sunshine": 41,
+    "pressure": 1002.3
+  }
+}

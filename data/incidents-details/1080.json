@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "1080",
+  "general:title": "Ausgelaufene Betriebsmittel",
+  "general:date": "2007-05-17T13:15:00+02:00",
+  "general:location": "Godramsteiner Straße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "0.5",
+  "general:dateFormatted": "17.05.2007 13:15",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "171",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "545",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "0",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "KdoW2",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-308.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-308.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kommandowagen",
+      "general:vehicleChassis": "VW Passat",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "09/88"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.20725969999999,
+    "lng": 8.1085247
+  },
+  "meta:weather": {
+    "date": "2007-05-17",
+    "temperature": 7.8,
+    "temperature_min": 6.1,
+    "temperature_max": 10,
+    "precipitation": 3.8,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 14,
+    "peakgust": 47.2,
+    "sunshine": 6,
+    "pressure": null
+  }
+}

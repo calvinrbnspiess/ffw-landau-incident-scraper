@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "1452",
+  "general:title": "Verständigung Leitstelle",
+  "general:date": "2008-05-26T15:40:00+02:00",
+  "general:location": "Offenbach",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "26.05.2008 15:40",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "124",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "556",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2,
+    "lng": 8.2
+  },
+  "meta:weather": {
+    "date": "2008-05-26",
+    "temperature": 18.7,
+    "temperature_min": 16.1,
+    "temperature_max": 22.9,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 16.2,
+    "peakgust": 34.6,
+    "sunshine": 174,
+    "pressure": null
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "2105",
+  "general:title": "Ausgelaufene Betriebsmittel",
+  "general:date": "2009-12-10T10:35:00+01:00",
+  "general:location": "Reduitstraße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "0.5",
+  "general:dateFormatted": "10.12.2009 10:35",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "339",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "279",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "45",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "KdoW",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-299.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-299.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kommandowagen",
+      "general:vehicleChassis": "VW Passat",
+      "general:vehicleBuild": "VW",
+      "general:vehicleMobilization": "03/05"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1979871,
+    "lng": 8.1176629
+  },
+  "meta:weather": {
+    "date": "2009-12-10",
+    "temperature": 5.8,
+    "temperature_min": 3.6,
+    "temperature_max": 7.6,
+    "precipitation": 4,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 36.4,
+    "peakgust": 73.8,
+    "sunshine": 120,
+    "pressure": null
+  }
+}

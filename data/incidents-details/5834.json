@@ -1,0 +1,68 @@
+{
+  "general:einsatzid": "5834",
+  "general:title": "Technische Hilfeleistung kleinerer Art",
+  "general:date": "2019-03-09T11:57:00+01:00",
+  "general:location": "Reiterstraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.0",
+  "general:dateFormatted": "09.03.2019 11:57",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "73",
+  "general:changed_on": "2019-03-09T12:32:09+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "79",
+      "general:vehicleVersion": "2",
+      "general:vehicleName": "TLF 3000",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1231.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1231.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Tanklöschfahrzeug 3000",
+      "general:vehicleChassis": "Mercedes Atego 1527 AF 4x4, Teligent-Schaltung",
+      "general:vehicleBuild": "<a href=\"https://www.magirusgroup.com/de/de/home/\">Magirus</a>, Ulm",
+      "general:vehicleMobilization": "07/18"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "94",
+        "general:HiOrgName": "Ordnungsabteilung",
+        "general:HiOrgLink": "http://www.landau.de/index.phtml?object=tx|1815.345.1&ModID=9&FID=343.49.1&sNavID=1815.54&mNavID=1815.3&La=1&TypSel=1.100"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.1949325,
+    "lng": 8.1142441
+  },
+  "meta:weather": {
+    "date": "2019-03-09",
+    "temperature": 6.1,
+    "temperature_min": 3.7,
+    "temperature_max": 8.2,
+    "precipitation": 4.2,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 251,
+    "windspeed": 54.5,
+    "peakgust": 111,
+    "sunshine": 17,
+    "pressure": 1015.7
+  }
+}

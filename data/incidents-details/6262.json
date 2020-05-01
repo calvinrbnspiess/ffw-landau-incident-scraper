@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "6262",
+  "general:title": "Unterstützung Rettungsdienst",
+  "general:date": "2020-01-10T19:36:00+01:00",
+  "general:location": "Thomas-Nast-Straße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "10.01.2020 19:36",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "13",
+  "general:changed_on": "2020-01-10T19:45:27+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "6",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "60",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "HLF 20/16-1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+      "general:vehicleChassis": "IVECO FF 160 E 30",
+      "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+      "general:vehicleMobilization": "03/09"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "31",
+      "general:HiOrgName": "Rettungsdienst",
+      "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.20792240000001,
+    "lng": 8.1192777
+  },
+  "meta:weather": {
+    "date": "2020-01-10",
+    "temperature": 5.3,
+    "temperature_min": 2.6,
+    "temperature_max": 7.4,
+    "precipitation": 1.3,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 254,
+    "windspeed": 40.5,
+    "peakgust": 85,
+    "sunshine": 147,
+    "pressure": 1020.5
+  }
+}

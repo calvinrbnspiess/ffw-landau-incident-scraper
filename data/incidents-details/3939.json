@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "3939",
+  "general:title": "Auslaufende Betriebsmittel",
+  "general:date": "2015-05-02T14:48:00+02:00",
+  "general:location": "Jahnstraße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "0.5",
+  "general:dateFormatted": "02.05.2015 14:48",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "96",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "54",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "15",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "KLAF",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-263.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-263.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kleinalarmfahrzeug",
+      "general:vehicleChassis": "MB Sprinter",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "03/12"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.19640649999999,
+    "lng": 8.1049777
+  },
+  "meta:weather": {
+    "date": "2015-05-02",
+    "temperature": 9.1,
+    "temperature_min": 5.3,
+    "temperature_max": 13.1,
+    "precipitation": 4.9,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 11.2,
+    "peakgust": 25.2,
+    "sunshine": 250,
+    "pressure": null
+  }
+}

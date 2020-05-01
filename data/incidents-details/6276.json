@@ -1,0 +1,43 @@
+{
+  "general:einsatzid": "6276",
+  "general:title": "einfache Hilfeleistung",
+  "general:date": "2020-01-23T18:27:00+01:00",
+  "general:location": "Ostbahnstraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "23.01.2020 18:27",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "26",
+  "general:changed_on": "2020-01-23T18:36:14+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "47",
+      "general:HiOrgName": "THW OV Landau",
+      "general:HiOrgLink": "http://www.thw-landau.de"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.197701,
+    "lng": 8.1197948
+  },
+  "meta:weather": {
+    "date": "2020-01-23",
+    "temperature": -2.1,
+    "temperature_min": -3.1,
+    "temperature_max": -1.5,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 75,
+    "windspeed": 13.5,
+    "peakgust": 36,
+    "sunshine": 0,
+    "pressure": 1032.6
+  }
+}

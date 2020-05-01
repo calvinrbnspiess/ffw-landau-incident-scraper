@@ -1,0 +1,108 @@
+{
+  "general:einsatzid": "84",
+  "general:title": "Ölspur",
+  "general:date": "2004-04-16T22:08:00+02:00",
+  "general:location": "Rheinstraße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "2.5",
+  "general:dateFormatted": "16.04.2004 22:08",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "73",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "8",
+  "general:EinsatzDescription": "",
+  "general:visits": "416",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "6",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "TLF 24-50",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-264.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-264.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Tanklöschfahrzeug",
+        "general:vehicleChassis": "MB 1626",
+        "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+        "general:vehicleMobilization": "02/81"
+      },
+      {
+        "general:vehicleid": "0",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "KdoW2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-308.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-308.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kommandowagen",
+        "general:vehicleChassis": "VW Passat",
+        "general:vehicleBuild": "Eigen",
+        "general:vehicleMobilization": "09/88"
+      },
+      {
+        "general:vehicleid": "18",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "DTF",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-309.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-309.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Dekontaminationstransportfahrzeug",
+        "general:vehicleChassis": "MB L 410",
+        "general:vehicleBuild": "",
+        "general:vehicleMobilization": "03/85"
+      },
+      {
+        "general:vehicleid": "4",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "TGM 23-12",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-243.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-243.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Teleskopgelenkmast",
+        "general:vehicleChassis": "MAN 15.264",
+        "general:vehicleBuild": "<a href=\"http://www.bronto.ch/\" target=\"new\">Bronto Skylift</a>",
+        "general:vehicleMobilization": "11/98"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1950013,
+    "lng": 8.1214256
+  },
+  "meta:weather": {
+    "date": "2004-04-16",
+    "temperature": 13.5,
+    "temperature_min": 8.8,
+    "temperature_max": 19.4,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 18.4,
+    "peakgust": 42.5,
+    "sunshine": 708,
+    "pressure": null
+  }
+}

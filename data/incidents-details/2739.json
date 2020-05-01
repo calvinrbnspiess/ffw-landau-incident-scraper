@@ -1,0 +1,68 @@
+{
+  "general:einsatzid": "2739",
+  "general:title": "LNA-Transport",
+  "general:date": "2011-05-15T21:26:00+02:00",
+  "general:location": "Kandel",
+  "general:categorie": "LNA",
+  "general:length": "2.5",
+  "general:dateFormatted": "15.05.2011 21:26",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "131",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": " Transport des Leitenden Notarztes zu einem Wohnungsbrand in Kandel. Mehr siehe <a href=\"http://www.feuerwehr-kandel.de/index.php?option=com_content&view=article&id=384:30-2011-15052011-gebaeudebrand-kandel&catid=42:einsaetze-2011&Itemid=6\" target=\"new\">hier</a>.",
+  "general:visits": "1708",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "54",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "MTF 1 - alt",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1505.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1505.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+      "general:vehicleChassis": "VW T5",
+      "general:vehicleBuild": "<a href=\"http://www.auto-zotz.de\" target=\"new\">Auto Zotz</a>; Weschenfelder",
+      "general:vehicleMobilization": "02/08"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "32",
+        "general:HiOrgName": "LNA",
+        "general:HiOrgLink": "https://www.suedliche-weinstrasse.de/de/landkreis/brandschutz/notarzt_orgaleiter.php"
+      },
+      {
+        "general:HiOrgId": "90",
+        "general:HiOrgName": "FF Kandel",
+        "general:HiOrgLink": "http://www.feuerwehr-kandel.de/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.083333,
+    "lng": 8.2
+  },
+  "meta:weather": {
+    "date": "2011-05-15",
+    "temperature": 8.2,
+    "temperature_min": 4.8,
+    "temperature_max": 15.2,
+    "precipitation": 2.3,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 19.8,
+    "peakgust": 55.1,
+    "sunshine": 408,
+    "pressure": null
+  }
+}

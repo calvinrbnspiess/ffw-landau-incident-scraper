@@ -1,0 +1,43 @@
+{
+  "general:einsatzid": "3491",
+  "general:title": "Amtshilfe - Personensuche",
+  "general:date": "2013-10-31T21:30:00+01:00",
+  "general:location": "Stadtgebiet",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "31.10.2013 21:30",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "283",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "34",
+  "general:EinsatzDescription": "",
+  "general:visits": "373",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.19888599999999,
+    "lng": 8.1185622
+  },
+  "meta:weather": {
+    "date": "2013-10-31",
+    "temperature": 6.8,
+    "temperature_min": 4.1,
+    "temperature_max": 10.7,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 15.5,
+    "peakgust": 39.2,
+    "sunshine": 541,
+    "pressure": null
+  }
+}

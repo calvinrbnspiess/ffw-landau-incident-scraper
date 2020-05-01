@@ -1,0 +1,80 @@
+{
+  "general:einsatzid": "3247",
+  "general:title": "Unterstützung Rettungsdienst",
+  "general:date": "2013-02-15T19:45:00+01:00",
+  "general:location": "Heegerweg",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.0",
+  "general:dateFormatted": "15.02.2013 19:45",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "46",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "7",
+  "general:EinsatzDescription": "",
+  "general:visits": "377",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "60",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "HLF 20/16-1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+        "general:vehicleChassis": "IVECO FF 160 E 30",
+        "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+        "general:vehicleMobilization": "03/09"
+      },
+      {
+        "general:vehicleid": "4",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "TGM 23-12",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-243.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-243.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Teleskopgelenkmast",
+        "general:vehicleChassis": "MAN 15.264",
+        "general:vehicleBuild": "<a href=\"http://www.bronto.ch/\" target=\"new\">Bronto Skylift</a>",
+        "general:vehicleMobilization": "11/98"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "31",
+      "general:HiOrgName": "Rettungsdienst",
+      "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.2070856,
+    "lng": 8.1193439
+  },
+  "meta:weather": {
+    "date": "2013-02-15",
+    "temperature": -1.7,
+    "temperature_min": -4.5,
+    "temperature_max": 0,
+    "precipitation": 0.2,
+    "snowfall": null,
+    "snowdepth": 100,
+    "winddirection": null,
+    "windspeed": 15.5,
+    "peakgust": 33.8,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

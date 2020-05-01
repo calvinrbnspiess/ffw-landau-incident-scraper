@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "715",
+  "general:title": "Tierrettung",
+  "general:date": "2006-06-02T14:58:00+02:00",
+  "general:location": "Klaus-von-Klitzing-Strasse",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.0",
+  "general:dateFormatted": "02.06.2006 14:58",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "151",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "605",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "0",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "KdoW2",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-308.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-308.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kommandowagen",
+      "general:vehicleChassis": "VW Passat",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "09/88"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1938718,
+    "lng": 8.1295255
+  },
+  "meta:weather": {
+    "date": "2006-06-02",
+    "temperature": 8.5,
+    "temperature_min": 4.5,
+    "temperature_max": 13.8,
+    "precipitation": 0.4,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 17.6,
+    "peakgust": 48.6,
+    "sunshine": 318,
+    "pressure": null
+  }
+}

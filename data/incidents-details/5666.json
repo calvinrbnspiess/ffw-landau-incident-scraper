@@ -1,0 +1,74 @@
+{
+  "general:einsatzid": "5666",
+  "general:title": "Flächenbrand klein",
+  "general:date": "2018-10-27T16:16:00+02:00",
+  "general:location": "Gustav-Hertz-Straße",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.0",
+  "general:dateFormatted": "27.10.2018 16:16",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "707",
+  "general:changed_on": "2018-10-27T16:37:45+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "14",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "79",
+        "general:vehicleVersion": "2",
+        "general:vehicleName": "TLF 3000",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1231.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1231.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Tanklöschfahrzeug 3000",
+        "general:vehicleChassis": "Mercedes Atego 1527 AF 4x4, Teligent-Schaltung",
+        "general:vehicleBuild": "<a href=\"https://www.magirusgroup.com/de/de/home/\">Magirus</a>, Ulm",
+        "general:vehicleMobilization": "07/18"
+      },
+      {
+        "general:vehicleid": "70",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "LF-KatS",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD8045.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD8045.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Löschgruppenfahrzeug Katastrophenschutz",
+        "general:vehicleChassis": "MAN TGM 13.250 4x4 BL FW",
+        "general:vehicleBuild": "<a href=\"http://www.lentner-gmbh.de\" target=\"new\">Josef Lentner GmbH</a>",
+        "general:vehicleMobilization": "09/12"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.18818,
+    "lng": 8.1396915
+  },
+  "meta:weather": {
+    "date": "2018-10-27",
+    "temperature": 4.9,
+    "temperature_min": 3,
+    "temperature_max": 8.2,
+    "precipitation": 1.6,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 191,
+    "windspeed": 19.2,
+    "peakgust": 55,
+    "sunshine": 165,
+    "pressure": 1009
+  }
+}

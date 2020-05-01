@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "980",
+  "general:title": "Lose Dachziegeln",
+  "general:date": "2007-01-22T12:25:00+01:00",
+  "general:location": "Maximilianstraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "22.01.2007 12:25",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "75",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "546",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "4",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "TGM 23-12",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-243.JPG",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-243.JPG",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Teleskopgelenkmast",
+      "general:vehicleChassis": "MAN 15.264",
+      "general:vehicleBuild": "<a href=\"http://www.bronto.ch/\" target=\"new\">Bronto Skylift</a>",
+      "general:vehicleMobilization": "11/98"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1983579,
+    "lng": 8.1251786
+  },
+  "meta:weather": {
+    "date": "2007-01-22",
+    "temperature": 1.2,
+    "temperature_min": -3.1,
+    "temperature_max": 3.1,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 22.3,
+    "peakgust": 69.1,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "2865",
+  "general:title": "Technische Hilfeleistung",
+  "general:date": "2011-10-17T12:34:00+02:00",
+  "general:location": "Cornichonstraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "2.0",
+  "general:dateFormatted": "17.10.2011 12:34",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "256",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "633",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "4",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "TGM 23-12",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-243.JPG",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-243.JPG",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Teleskopgelenkmast",
+      "general:vehicleChassis": "MAN 15.264",
+      "general:vehicleBuild": "<a href=\"http://www.bronto.ch/\" target=\"new\">Bronto Skylift</a>",
+      "general:vehicleMobilization": "11/98"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1907881,
+    "lng": 8.119440599999999
+  },
+  "meta:weather": {
+    "date": "2011-10-17",
+    "temperature": 9.8,
+    "temperature_min": 6.8,
+    "temperature_max": 13.7,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 15.8,
+    "peakgust": 60.1,
+    "sunshine": 282,
+    "pressure": null
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "131",
+  "general:title": "Amtshilfe für Polizei",
+  "general:date": "2004-06-19T12:29:00+02:00",
+  "general:location": "Arzheim",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "19.06.2004 12:29",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "118",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "589",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1934579,
+    "lng": 8.0685603
+  },
+  "meta:weather": {
+    "date": "2004-06-19",
+    "temperature": 9.8,
+    "temperature_min": 7.8,
+    "temperature_max": 13.2,
+    "precipitation": 4.3,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 21.2,
+    "peakgust": 60.8,
+    "sunshine": 180,
+    "pressure": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "1409",
+  "general:title": "Ausgelaufene Betriebsmittel nach Unfall",
+  "general:date": "2008-04-11T19:32:00+02:00",
+  "general:location": "Ramburg - Emich von Leiningen Straße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "11.04.2008 19:32",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "84",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "501",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "0",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "KdoW2",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-308.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-308.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kommandowagen",
+      "general:vehicleChassis": "VW Passat",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "09/88"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 42.2506803,
+    "lng": -83.624089
+  },
+  "meta:weather": {
+    "date": "2008-04-11",
+    "temperature": 5,
+    "temperature_min": 3.2,
+    "temperature_max": 7.4,
+    "precipitation": 6.7,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 17.6,
+    "peakgust": 57.6,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

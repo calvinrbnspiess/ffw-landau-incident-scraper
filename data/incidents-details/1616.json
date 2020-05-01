@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "1616",
+  "general:title": "Tierrettung",
+  "general:date": "2008-10-22T19:20:00+02:00",
+  "general:location": "Waffenstraße - Queich",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.0",
+  "general:dateFormatted": "22.10.2008 19:20",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "281",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "",
+  "general:visits": "586",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "1",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "ELW 1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-207.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-207.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Einsatzleitwagen",
+      "general:vehicleChassis": "VW LT",
+      "general:vehicleBuild": "<a href=\"http://www.hensel-fahrzeugbau.de\" target=\"new\">Hensel</a>",
+      "general:vehicleMobilization": "12/04"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1975954,
+    "lng": 8.1108788
+  },
+  "meta:weather": {
+    "date": "2008-10-22",
+    "temperature": 5,
+    "temperature_min": 3.9,
+    "temperature_max": 5.8,
+    "precipitation": 2.2,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 15.8,
+    "peakgust": 37.8,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

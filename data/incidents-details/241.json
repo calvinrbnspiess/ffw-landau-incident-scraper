@@ -1,0 +1,126 @@
+{
+  "general:einsatzid": "241",
+  "general:title": "Brennt PKW in Tankstelle",
+  "general:date": "2004-11-21T14:16:00+01:00",
+  "general:location": "Weißenburger Str.",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.5",
+  "general:dateFormatted": "21.11.2004 14:16",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "224",
+  "picture:Picture": {
+    "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0411/041121_01.jpg",
+    "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0411/041121_01.jpg",
+    "picture:PictureFormat": "quer",
+    "picture:PictureDescription": "",
+    "picture:BufferPreview": "true",
+    "picture:BufferPicture": "false"
+  },
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "2",
+  "general:AmountPeople": "13",
+  "general:EinsatzDescription": "Brennender Pkw auf Tankstellengel?nde mit 2 C-Rohren und Schaumrohr abgel?scht. \r\n<br><br>\r\nAus <a href=\"http://www.rheinpfalz.de\" target=\"_new\"> Die Rheinpfalz</a>:<br><b>\r\nAuto ausgebrannt und Tankstelle evakuiert</b><br>\r\nVermutlich, weil ein Autofahrer gestern gegen 14 Uhr eine brennende Zigarette im Auto liegen lie?, w?hrend er selbst f?r mehrere Minuten den Verkaufsraum einer Tankstelle in der Wei?enburger Stra?e aufsuchte, fing der Wagen Feuer und brannte v?llig aus. Das teilte die Polizei gestern auf Anfrage mit. Der Wagen war zwar nicht an einer Zapfs?ule, sondern in der N?he der Waschanlage abgestellt worden, doch musste wegen des Feuers der Verkaufsbetrieb kurzzeitig eingestellt, die Tankstelle evakuiert und die Wei?enburger Stra?e gesperrt werden, so die Polizei weiter. Ein ?bergreifen des Feuers und weitere Sch?den konnten von der Feuerwehr verhindert werden. Gegen 14.45 Uhr wurde die Stra?ensperrung aufgehoben, der Betrieb an der Tankstelle ging weiter. (mk)<br><br>\r\n  ",
+  "general:visits": "608",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "2",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "LF 16-12-1 (heute: HLF 20/16-2)",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-204.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-204.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Löschgruppenfahrzeug",
+        "general:vehicleChassis": "IVECO 135E24W",
+        "general:vehicleBuild": "<a href=\"http://www.iveco-magirus.de/\" target=\"new\">Iveco-Magirus</a>",
+        "general:vehicleMobilization": "03/02"
+      },
+      {
+        "general:vehicleid": "6",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "TLF 24-50",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-264.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-264.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Tanklöschfahrzeug",
+        "general:vehicleChassis": "MB 1626",
+        "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+        "general:vehicleMobilization": "02/81"
+      },
+      {
+        "general:vehicleid": "53",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "KdoW 2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1501.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1501.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kommandowagen - Fahrzeug für den feuerwehrtechnischen Bediensteten",
+        "general:vehicleChassis": "Fiat Grande Punto",
+        "general:vehicleBuild": "Michael Schmidt mobile Kommunikation GmbH",
+        "general:vehicleMobilization": "12/07"
+      }
+    ]
+  },
+  "picture:Pictures": {
+    "picture:Picture": [
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0411/041121_01.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0411/041121_01.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      },
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0411/041121_02.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0411/041121_02.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      },
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0411/041121_04.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0411/041121_04.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      }
+    ]
+  },
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1873759,
+    "lng": 8.113896
+  },
+  "meta:weather": {
+    "date": "2004-11-21",
+    "temperature": -0.9,
+    "temperature_min": -4.4,
+    "temperature_max": 3.3,
+    "precipitation": 2.4,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 17.6,
+    "peakgust": 47.5,
+    "sunshine": 366,
+    "pressure": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "2286",
+  "general:title": "Ölspur",
+  "general:date": "2010-03-18T18:09:00+01:00",
+  "general:location": "Barbarossastraße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "0.5",
+  "general:dateFormatted": "18.03.2010 18:09",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "140",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "",
+  "general:visits": "288",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "1",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "ELW 1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-207.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-207.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Einsatzleitwagen",
+      "general:vehicleChassis": "VW LT",
+      "general:vehicleBuild": "<a href=\"http://www.hensel-fahrzeugbau.de\" target=\"new\">Hensel</a>",
+      "general:vehicleMobilization": "12/04"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1913645,
+    "lng": 8.0919221
+  },
+  "meta:weather": {
+    "date": "2010-03-18",
+    "temperature": 10.3,
+    "temperature_min": 6.5,
+    "temperature_max": 14.8,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 19.8,
+    "peakgust": 61.6,
+    "sunshine": 498,
+    "pressure": null
+  }
+}

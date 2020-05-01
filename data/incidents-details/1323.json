@@ -1,0 +1,82 @@
+{
+  "general:einsatzid": "1323",
+  "general:title": "Containerbrand",
+  "general:date": "2008-01-03T20:46:00+01:00",
+  "general:location": "Königstraße",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.0",
+  "general:dateFormatted": "03.01.2008 20:46",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "4",
+  "picture:Picture": {
+    "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0801/080103_01.jpg",
+    "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0801/080103_01.jpg",
+    "picture:PictureFormat": "quer",
+    "picture:PictureDescription": "",
+    "picture:BufferPreview": "true",
+    "picture:BufferPicture": "false"
+  },
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "1",
+  "general:AmountPeople": "9",
+  "general:EinsatzDescription": " Brand von Plastikkisten abgel?scht.",
+  "general:visits": "1605",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "2",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "LF 16-12-1 (heute: HLF 20/16-2)",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-204.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-204.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Löschgruppenfahrzeug",
+      "general:vehicleChassis": "IVECO 135E24W",
+      "general:vehicleBuild": "<a href=\"http://www.iveco-magirus.de/\" target=\"new\">Iveco-Magirus</a>",
+      "general:vehicleMobilization": "03/02"
+    }
+  },
+  "picture:Pictures": {
+    "picture:Picture": [
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0801/080103_01.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0801/080103_01.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      },
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0801/080103_03.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0801/080103_03.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      }
+    ]
+  },
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1976123,
+    "lng": 8.1154257
+  },
+  "meta:weather": {
+    "date": "2008-01-03",
+    "temperature": -3.6,
+    "temperature_min": -5.3,
+    "temperature_max": -2,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 30.2,
+    "peakgust": 49.7,
+    "sunshine": 12,
+    "pressure": null
+  }
+}

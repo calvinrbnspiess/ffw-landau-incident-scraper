@@ -1,0 +1,43 @@
+{
+  "general:einsatzid": "5630",
+  "general:title": "Tür Öffnung",
+  "general:date": "2018-10-05T15:30:00+02:00",
+  "general:location": "Löhlstraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "05.10.2018 15:30",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "676",
+  "general:changed_on": "2018-10-05T15:54:57+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.2000848,
+    "lng": 8.104880999999999
+  },
+  "meta:weather": {
+    "date": "2018-10-05",
+    "temperature": 13.2,
+    "temperature_min": 7.9,
+    "temperature_max": 19,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 126,
+    "windspeed": 17.4,
+    "peakgust": 31,
+    "sunshine": 635,
+    "pressure": 1020.5
+  }
+}

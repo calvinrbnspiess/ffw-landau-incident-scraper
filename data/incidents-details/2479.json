@@ -1,0 +1,74 @@
+{
+  "general:einsatzid": "2479",
+  "general:title": "Flächenbrand",
+  "general:date": "2010-07-11T21:38:00+02:00",
+  "general:location": "Lindenbergstraße",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.0",
+  "general:dateFormatted": "11.07.2010 21:38",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "328",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "12",
+  "general:EinsatzDescription": "",
+  "general:visits": "530",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "59",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "LF 10/6",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1060.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1060.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Löschgruppenfahrzeug Nußdorf",
+        "general:vehicleChassis": "IVECO MAGIRUS FF 90 E 18 4x2",
+        "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"new\">Iveco Magirus</a>",
+        "general:vehicleMobilization": "11/08"
+      },
+      {
+        "general:vehicleid": "9",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "SW 1000",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-254.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-254.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Schlauchwagen",
+        "general:vehicleChassis": "MB Sprinter",
+        "general:vehicleBuild": "<a href=\"http://www.gimaex-schmitz.de/\" target=\"new\">Schmitz</a>",
+        "general:vehicleMobilization": "02/96"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2225086,
+    "lng": 8.105749
+  },
+  "meta:weather": {
+    "date": "2010-07-11",
+    "temperature": 23.7,
+    "temperature_min": 17.7,
+    "temperature_max": 30.7,
+    "precipitation": 0.2,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 17.6,
+    "peakgust": 56.9,
+    "sunshine": 522,
+    "pressure": null
+  }
+}

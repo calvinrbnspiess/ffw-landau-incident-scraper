@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "2465",
+  "general:title": "Loser Ast",
+  "general:date": "2010-06-29T12:49:00+02:00",
+  "general:location": "Hainbachstraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "29.06.2010 12:49",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "314",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "338",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "4",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "TGM 23-12",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-243.JPG",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-243.JPG",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Teleskopgelenkmast",
+      "general:vehicleChassis": "MAN 15.264",
+      "general:vehicleBuild": "<a href=\"http://www.bronto.ch/\" target=\"new\">Bronto Skylift</a>",
+      "general:vehicleMobilization": "11/98"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2076803,
+    "lng": 8.124348
+  },
+  "meta:weather": {
+    "date": "2010-06-29",
+    "temperature": 22,
+    "temperature_min": 18.6,
+    "temperature_max": 27.1,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 14,
+    "peakgust": 33.5,
+    "sunshine": 384,
+    "pressure": null
+  }
+}

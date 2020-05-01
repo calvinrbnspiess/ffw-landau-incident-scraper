@@ -1,0 +1,72 @@
+{
+  "general:einsatzid": "556",
+  "general:title": "PKW-Brand",
+  "general:date": "2006-01-06T03:42:00+01:00",
+  "general:location": "Badstraße 10 a",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.0",
+  "general:dateFormatted": "06.01.2006 03:42",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "2",
+  "picture:Picture": {
+    "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0601/060106_03.jpg",
+    "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0601/060106_03.jpg",
+    "picture:PictureFormat": "quer",
+    "picture:PictureDescription": "Ausgebrannter Motorraum",
+    "picture:BufferPreview": "true",
+    "picture:BufferPicture": "false"
+  },
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "1",
+  "general:AmountPeople": "10",
+  "general:EinsatzDescription": " Beim Eintreffen der Feuerwehr brannte der Motorraum eines geparkten Opel komplett. Das Feuer hatte schon auf den Fahrgastraum ?bergegriffen. Unter Atemschutz konnte das Feuer rasch unter Kontrolle gebracht werden. Mit einem Strahlrohr wurde der Brand abgel?scht. Ein nebenstehender Kleinwagen wurde durch die W?rmestrahlung auch besch?digt. <br> Noch w?hrend der Aufr?umarbeiten wurde zu einem Zimmerbrand in unmittelbarer N?he gerufen. Siehe <a href=\"einsatz.php?nr=557\">hier</a>. <br><br>Siehe auch Meldung auf <a href=\"http://www.swr.de\" target=\"new\">www.swr.de</a>:<br><br><b>Landau<br>\r\nFeuerteufel</b><br><br>\r\nIn der Nacht hat in der Innenstadt wieder der sogenannte Feuerteufel von Landau zugeschlagen.<br>\r\nDer Brandstifter z?ndete zwei Autos an, die komplett ausbrannten. Nur wenige Minuten sp?ter legte er erstmals auch in einem Wohn- und ?rztehaus Feuer. Eine 75-j?hrige und eine 22-j?hrige Bewohnerin mussten mit Verdacht auf Rauchvergiftung behandelt werden. Die Feuerwehr konnte den Brand schnell l?schen und ein weiteres ?bergreifen der Flammen verhindern.<br>\r\nDer Landauer Feuerteufel hat in den vergangenen 3 Jahren ?ber 80 Br?nde in der Innenstadt gelegt. <br>\r\nDie Polizei hat f?r Hinweise, die zur Ergreifung des Brandstifters f?hren, eine Belohnung von 3000 Euro ausgesetzt.\r\n\r\n",
+  "general:visits": "616",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "2",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "LF 16-12-1 (heute: HLF 20/16-2)",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-204.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-204.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Löschgruppenfahrzeug",
+      "general:vehicleChassis": "IVECO 135E24W",
+      "general:vehicleBuild": "<a href=\"http://www.iveco-magirus.de/\" target=\"new\">Iveco-Magirus</a>",
+      "general:vehicleMobilization": "03/02"
+    }
+  },
+  "picture:Pictures": {
+    "picture:Picture": {
+      "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0601/060106_03.jpg",
+      "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0601/060106_03.jpg",
+      "picture:PictureFormat": "quer",
+      "picture:PictureDescription": "Ausgebrannter Motorraum",
+      "picture:BufferPreview": "true",
+      "picture:BufferPicture": "false"
+    }
+  },
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.19677,
+    "lng": 8.10982
+  },
+  "meta:weather": {
+    "date": "2006-01-06",
+    "temperature": -1.7,
+    "temperature_min": -2.7,
+    "temperature_max": -1.2,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 10,
+    "winddirection": null,
+    "windspeed": 22.3,
+    "peakgust": 37.1,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

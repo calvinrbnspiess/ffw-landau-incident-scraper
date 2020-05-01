@@ -1,0 +1,74 @@
+{
+  "general:einsatzid": "6311",
+  "general:title": "einfache Hilfeleistung",
+  "general:date": "2020-02-11T16:03:00+01:00",
+  "general:location": "K9 Arzheim / Godramstein",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "11.02.2020 16:03",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "61",
+  "general:changed_on": "2020-02-11T16:20:41+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "9",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "61",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "TSF-W Arzheim",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1511.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1511.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Tragkraftspritzenfahrzeug-Wasser",
+        "general:vehicleChassis": "IVECO Daily 65C17D",
+        "general:vehicleBuild": "<a href=\"http://www.adik-fahrzeugbau.de\" target=\"new\">ADIK Fahrzeugbau</a>",
+        "general:vehicleMobilization": "04/11"
+      },
+      {
+        "general:vehicleid": "63",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "MTF Godramstein",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1505.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1505.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "VW T5",
+        "general:vehicleBuild": "<a href=\"http://www.auto-zotz.de\" target=\"new\">Auto Zotz</a>; Weschenfelder",
+        "general:vehicleMobilization": "02/08"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.210894,
+    "lng": 8.0793672
+  },
+  "meta:weather": {
+    "date": "2020-02-11",
+    "temperature": 2.2,
+    "temperature_min": -0.2,
+    "temperature_max": 5.1,
+    "precipitation": 1.1,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 254,
+    "windspeed": 51.6,
+    "peakgust": 109,
+    "sunshine": 172,
+    "pressure": 1009.4
+  }
+}

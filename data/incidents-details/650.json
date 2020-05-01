@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "650",
+  "general:title": "Verständigung Baubetriebshof",
+  "general:date": "2006-04-06T14:13:00+02:00",
+  "general:location": "Queichanger/ LaOla",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "06.04.2006 14:13",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "90",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "464",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2024517,
+    "lng": 8.1404686
+  },
+  "meta:weather": {
+    "date": "2006-04-06",
+    "temperature": 3.3,
+    "temperature_min": -1.4,
+    "temperature_max": 8.3,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 14,
+    "peakgust": 29.5,
+    "sunshine": 732,
+    "pressure": null
+  }
+}

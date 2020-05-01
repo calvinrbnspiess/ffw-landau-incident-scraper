@@ -1,0 +1,87 @@
+{
+  "general:einsatzid": "3279",
+  "general:title": "Ausgelaufene Betriebsmittel",
+  "general:date": "2013-03-14T14:34:00+01:00",
+  "general:location": "Godramsteiner Straße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.5",
+  "general:dateFormatted": "14.03.2013 14:34",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "77",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "6",
+  "general:EinsatzDescription": "Aus dem Polizeibericht:<br><br><b>Benzinleitung abgerissen</b><br>\r\nGegen 14.30 Uhr ?berfuhr ein PKW-Fahrer, der die B 10 von Annweiler kommend in Richtung Landau befuhr, in H?he der AS Godramstein, einen unbekannten Gegenstand und riss sich hierbei die Benzinleitung ab. Durch den Verlust von Kraftstoff blieb das Fahrzeug schlie?lich liegen und musste abgeschleppt werden. Durch die Feuerwehr Landau, die mit 3 Einsatzfahrzeugen vor Ort war, wurde der auslaufende Kraftstoff aufgefangen und Verschmutzung beseitigt. ",
+  "general:visits": "791",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "15",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "KLAF",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-263.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-263.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kleinalarmfahrzeug",
+        "general:vehicleChassis": "MB Sprinter",
+        "general:vehicleBuild": "Eigen",
+        "general:vehicleMobilization": "03/12"
+      },
+      {
+        "general:vehicleid": "16",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "GW-G 2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-225.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-225.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Gerätewagen Gefahrgut 2",
+        "general:vehicleChassis": "MAN 9.163",
+        "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+        "general:vehicleMobilization": "08/96"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "27",
+        "general:HiOrgName": "Fachfirma Straßenreinigung",
+        "general:HiOrgLink": "http://www.brechtel-fahrbahnreinigung.de"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.20725969999999,
+    "lng": 8.1085247
+  },
+  "meta:weather": {
+    "date": "2013-03-14",
+    "temperature": -4.8,
+    "temperature_min": -8.1,
+    "temperature_max": 0.2,
+    "precipitation": 0.7,
+    "snowfall": null,
+    "snowdepth": 50,
+    "winddirection": null,
+    "windspeed": 9.7,
+    "peakgust": 26.3,
+    "sunshine": 138,
+    "pressure": null
+  }
+}

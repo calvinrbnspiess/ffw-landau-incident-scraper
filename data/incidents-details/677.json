@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "677",
+  "general:title": "Verständigung Baubetriebshof",
+  "general:date": "2006-05-02T10:45:00+02:00",
+  "general:location": "Pfarrei Sankt Maria",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "02.05.2006 10:45",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "114",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "0",
+  "general:EinsatzDescription": "",
+  "general:visits": "497",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1930124,
+    "lng": 8.115089
+  },
+  "meta:weather": {
+    "date": "2006-05-02",
+    "temperature": 12.1,
+    "temperature_min": 5.8,
+    "temperature_max": 18.2,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 17.6,
+    "peakgust": 35.3,
+    "sunshine": 762,
+    "pressure": null
+  }
+}

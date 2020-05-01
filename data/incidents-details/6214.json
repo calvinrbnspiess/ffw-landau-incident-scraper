@@ -1,0 +1,80 @@
+{
+  "general:einsatzid": "6214",
+  "general:title": "einfache Hilfeleistung",
+  "general:date": "2019-12-08T10:23:00+01:00",
+  "general:location": "Schlachthofstraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "08.12.2019 10:23",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "442",
+  "general:changed_on": "2019-12-08T10:38:25+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "14",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "60",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "HLF 20/16-1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+        "general:vehicleChassis": "IVECO FF 160 E 30",
+        "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+        "general:vehicleMobilization": "03/09"
+      },
+      {
+        "general:vehicleid": "51",
+        "general:vehicleVersion": "2",
+        "general:vehicleName": "RW 2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-209.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-209.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Rüstwagen",
+        "general:vehicleChassis": "MB 1425 4x4",
+        "general:vehicleBuild": "<a href=\"http://www.weschenfelder.com\" target=\"new\">Weschenfelder</a>",
+        "general:vehicleMobilization": "07/05"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "31",
+      "general:HiOrgName": "Rettungsdienst",
+      "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.199396,
+    "lng": 8.1202644
+  },
+  "meta:weather": {
+    "date": "2019-12-08",
+    "temperature": 6.5,
+    "temperature_min": 5.1,
+    "temperature_max": 8.2,
+    "precipitation": 2.7,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 244,
+    "windspeed": 50.2,
+    "peakgust": 95,
+    "sunshine": 0,
+    "pressure": 1009.8
+  }
+}

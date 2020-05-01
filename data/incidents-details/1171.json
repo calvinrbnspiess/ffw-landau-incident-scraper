@@ -1,0 +1,43 @@
+{
+  "general:einsatzid": "1171",
+  "general:title": "Alarmierung THW",
+  "general:date": "2007-07-25T05:02:00+02:00",
+  "general:location": "Ostbahnstraße",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "25.07.2007 05:02",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "255",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "758",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "47",
+      "general:HiOrgName": "THW OV Landau",
+      "general:HiOrgLink": "http://www.thw-landau.de"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.197701,
+    "lng": 8.1197948
+  },
+  "meta:weather": {
+    "date": "2007-07-25",
+    "temperature": 16.4,
+    "temperature_min": 10.4,
+    "temperature_max": 22.2,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 23,
+    "peakgust": 46.8,
+    "sunshine": 804,
+    "pressure": null
+  }
+}

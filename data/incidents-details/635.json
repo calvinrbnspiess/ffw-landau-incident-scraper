@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "635",
+  "general:title": "Verständigung Baubetriebshof",
+  "general:date": "2006-03-24T08:22:00+01:00",
+  "general:location": "Nordring 27",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "24.03.2006 08:22",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "77",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "382",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2011036,
+    "lng": 8.1168879
+  },
+  "meta:weather": {
+    "date": "2006-03-24",
+    "temperature": 2.6,
+    "temperature_min": -1.5,
+    "temperature_max": 8.5,
+    "precipitation": 3.6,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 25.6,
+    "peakgust": 52.2,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

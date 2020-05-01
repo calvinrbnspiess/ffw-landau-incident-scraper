@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "5136",
+  "general:title": "Unterstützung Feuerwehrarzt",
+  "general:date": "2018-05-08T20:25:00+02:00",
+  "general:location": "Insheim",
+  "general:categorie": "LNA",
+  "general:length": "2.0",
+  "general:dateFormatted": "08.05.2018 20:25",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "185",
+  "general:changed_on": "2018-05-09T19:49:11+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "65",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "MTF 1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1513.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1513.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+      "general:vehicleChassis": "Ford Transit",
+      "general:vehicleBuild": "<a href=\"http://www.compoint-fahrzeugbau.de\" target=\"new\">Compoint</a>",
+      "general:vehicleMobilization": "06/11"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1572343,
+    "lng": 8.143958999999999
+  },
+  "meta:weather": {
+    "date": "2018-05-08",
+    "temperature": 18.8,
+    "temperature_min": 13.9,
+    "temperature_max": 25,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": 82,
+    "windspeed": 21,
+    "peakgust": 48,
+    "sunshine": 841,
+    "pressure": 1010.3
+  }
+}

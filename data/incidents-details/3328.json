@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "3328",
+  "general:title": "Umweltverschmutzung",
+  "general:date": "2013-05-16T11:35:00+02:00",
+  "general:location": "Wohnpark Mandelhain",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "16.05.2013 11:35",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "124",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "420",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "15",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "KLAF",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-263.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-263.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kleinalarmfahrzeug",
+      "general:vehicleChassis": "MB Sprinter",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "03/12"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.19888599999999,
+    "lng": 8.1185622
+  },
+  "meta:weather": {
+    "date": "2013-05-16",
+    "temperature": 11,
+    "temperature_min": 8.4,
+    "temperature_max": 13.5,
+    "precipitation": 2.5,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 17.3,
+    "peakgust": 37.4,
+    "sunshine": 44,
+    "pressure": null
+  }
+}

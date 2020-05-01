@@ -1,0 +1,158 @@
+{
+  "general:einsatzid": "6269",
+  "general:title": "Personensuche",
+  "general:date": "2020-01-16T15:44:00+01:00",
+  "general:location": "Annweiler",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "4.0",
+  "general:dateFormatted": "16.01.2020 15:44",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "20",
+  "general:changed_on": "2020-01-16T19:20:46+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "19",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "78",
+        "general:vehicleVersion": "4",
+        "general:vehicleName": "stellv. SFI",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/kam/default.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/kam/default.jpg",
+          "picture:PictureFormat": "hoch",
+          "picture:PictureDescription": "Bild folgt",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "",
+        "general:vehicleChassis": "",
+        "general:vehicleBuild": "",
+        "general:vehicleMobilization": ""
+      },
+      {
+        "general:vehicleid": "11",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MTF 2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-220.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-220.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "VW LT",
+        "general:vehicleBuild": "Massong",
+        "general:vehicleMobilization": "12/04"
+      },
+      {
+        "general:vehicleid": "46",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "MZF",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-259.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-259.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mehrzweckfahrzeug",
+        "general:vehicleChassis": "MB 1425 4x4",
+        "general:vehicleBuild": "<a href=\"http://www.weschenfelder.com\" target=\"new\">Weschenfelder</a>",
+        "general:vehicleMobilization": "04/05"
+      },
+      {
+        "general:vehicleid": "63",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "MTF Godramstein",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1505.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1505.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "VW T5",
+        "general:vehicleBuild": "<a href=\"http://www.auto-zotz.de\" target=\"new\">Auto Zotz</a>; Weschenfelder",
+        "general:vehicleMobilization": "02/08"
+      },
+      {
+        "general:vehicleid": "73",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "MTF Wollmesheim",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1507.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1507.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "Ford Transit",
+        "general:vehicleBuild": "<a href=\"http://www.compoint-fahrzeugbau.de\" target=\"new\">Compoint</a>",
+        "general:vehicleMobilization": "04/14"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "31",
+        "general:HiOrgName": "Rettungsdienst",
+        "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "48",
+        "general:HiOrgName": "FF Annweiler",
+        "general:HiOrgLink": "http://www.feuerwehr-annweiler.de/"
+      },
+      {
+        "general:HiOrgId": "54",
+        "general:HiOrgName": "FüGr-TEL",
+        "general:HiOrgLink": "http://www.suedwein12.de/index.php?option=com_content&view=article&id=38&Itemid=6"
+      },
+      {
+        "general:HiOrgId": "63",
+        "general:HiOrgName": "Rettungshundestaffel VII (FF SÜW)",
+        "general:HiOrgLink": "http://www.rettungshunde-facheinheit-rhot-7.org"
+      },
+      {
+        "general:HiOrgId": "91",
+        "general:HiOrgName": "IuK-Gruppe",
+        "general:HiOrgLink": "http://www.suedwein12.de/index.php?option=com_content&view=article&id=36&Itemid=7"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.2062599,
+    "lng": 7.972605300000001
+  },
+  "meta:weather": {
+    "date": "2020-01-16",
+    "temperature": 8.1,
+    "temperature_min": 5.3,
+    "temperature_max": 11.1,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 191,
+    "windspeed": 19,
+    "peakgust": 60,
+    "sunshine": 448,
+    "pressure": 1026.6
+  }
+}

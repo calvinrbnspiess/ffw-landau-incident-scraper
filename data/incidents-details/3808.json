@@ -1,0 +1,68 @@
+{
+  "general:einsatzid": "3808",
+  "general:title": "Überörtliche Hilfe - Technische Hilfe",
+  "general:date": "2014-11-09T14:49:00+01:00",
+  "general:location": "Hauptstraße  Albersweiler",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.0",
+  "general:dateFormatted": "09.11.2014 14:49",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "259",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": " Weitere Infos auf der <a href=\"http://www.feuerwehr-annweiler.de/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=1617&cntnt01dateformat=%25d.%25m.%25Y&cntnt01returnid=15\" target=\"new\">Homepage</a> der FF Annweiler.",
+  "general:visits": "95",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "4",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "TGM 23-12-1 (heute: TGM 23-12)",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-243.JPG",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-243.JPG",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Teleskopgelenkmast",
+      "general:vehicleChassis": "MAN 15.264",
+      "general:vehicleBuild": "<a href=\"http://www.bronto.ch/\" target=\"new\">Bronto Skylift</a>",
+      "general:vehicleMobilization": "11/98"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "31",
+        "general:HiOrgName": "Rettungsdienst",
+        "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+      },
+      {
+        "general:HiOrgId": "48",
+        "general:HiOrgName": "FF Annweiler",
+        "general:HiOrgLink": "http://www.feuerwehr-annweiler.de/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.2196205,
+    "lng": 8.032028
+  },
+  "meta:weather": {
+    "date": "2014-11-09",
+    "temperature": 6.4,
+    "temperature_min": 3.5,
+    "temperature_max": 9.4,
+    "precipitation": 0.1,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 16.9,
+    "peakgust": 33.1,
+    "sunshine": 228,
+    "pressure": null
+  }
+}

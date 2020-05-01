@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "400",
+  "general:title": "Auslaufende Betriebsmittel nach Unfall",
+  "general:date": "2005-06-24T13:30:00+02:00",
+  "general:location": "Hindenburgstraße - Nordring",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "0.5",
+  "general:dateFormatted": "24.06.2005 13:30",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "112",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "385",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "0",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "KdoW2",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-308.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-308.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kommandowagen",
+      "general:vehicleChassis": "VW Passat",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "09/88"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2008276,
+    "lng": 8.1116608
+  },
+  "meta:weather": {
+    "date": "2005-06-24",
+    "temperature": 25.3,
+    "temperature_min": 19.2,
+    "temperature_max": 31.4,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 16.6,
+    "peakgust": 68,
+    "sunshine": 654,
+    "pressure": null
+  }
+}

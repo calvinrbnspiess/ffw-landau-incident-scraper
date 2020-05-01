@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "1538",
+  "general:title": "Brandmeldeanlage",
+  "general:date": "2008-07-13T22:00:00+02:00",
+  "general:location": "Haardtstraße",
+  "general:categorie": "Brandmeldeanlage",
+  "general:length": "0.5",
+  "general:dateFormatted": "13.07.2008 22:00",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "208",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "",
+  "general:visits": "429",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2023372,
+    "lng": 8.1176815
+  },
+  "meta:weather": {
+    "date": "2008-07-13",
+    "temperature": 14.9,
+    "temperature_min": 11.5,
+    "temperature_max": 19.7,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 14,
+    "peakgust": 35.6,
+    "sunshine": 276,
+    "pressure": null
+  }
+}

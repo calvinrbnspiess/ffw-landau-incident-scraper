@@ -1,0 +1,68 @@
+{
+  "general:einsatzid": "3059",
+  "general:title": "Technische Hilfeleistung",
+  "general:date": "2012-07-12T14:38:00+02:00",
+  "general:location": "Industriestraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "12.07.2012 14:38",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "158",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "15",
+  "general:EinsatzDescription": " Person in M?llbeh?lter eingeklemmt. Beim Eintreffen des Rettungsdienstes und der Feuerwehr bereits befreit. Keine T?tigkeit mehr f?r die Feuerwehr n?tig.",
+  "general:visits": "868",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "45",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "KdoW",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-299.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-299.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kommandowagen",
+      "general:vehicleChassis": "VW Passat",
+      "general:vehicleBuild": "VW",
+      "general:vehicleMobilization": "03/05"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "31",
+        "general:HiOrgName": "Rettungsdienst",
+        "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.19977429999999,
+    "lng": 8.1217226
+  },
+  "meta:weather": {
+    "date": "2012-07-12",
+    "temperature": 11.7,
+    "temperature_min": 9.6,
+    "temperature_max": 16.6,
+    "precipitation": 9.6,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 30.2,
+    "peakgust": 75.6,
+    "sunshine": 282,
+    "pressure": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "554",
+  "general:title": "Ausgelaufene Betriebsmittel",
+  "general:date": "2005-12-31T17:44:00+01:00",
+  "general:location": "Jahnstraße / Spitalmühlweg",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "0.5",
+  "general:dateFormatted": "31.12.2005 17:44",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "263",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "420",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "0",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "KdoW2",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-308.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-308.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kommandowagen",
+      "general:vehicleChassis": "VW Passat",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "09/88"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1962297,
+    "lng": 8.1024166
+  },
+  "meta:weather": {
+    "date": "2005-12-31",
+    "temperature": 1.7,
+    "temperature_min": -5.1,
+    "temperature_max": 3.5,
+    "precipitation": 1,
+    "snowfall": null,
+    "snowdepth": 190,
+    "winddirection": null,
+    "windspeed": 36.7,
+    "peakgust": 77.4,
+    "sunshine": 6,
+    "pressure": null
+  }
+}

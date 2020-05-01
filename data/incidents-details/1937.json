@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "1937",
+  "general:title": "Tierrettung",
+  "general:date": "2009-07-04T21:59:00+02:00",
+  "general:location": "Waffenstraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.0",
+  "general:dateFormatted": "04.07.2009 21:59",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "173",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "453",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "51",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "RW (heute: RW 2)",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-209.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-209.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Rüstwagen",
+      "general:vehicleChassis": "MB 1425 4x4",
+      "general:vehicleBuild": "<a href=\"http://www.weschenfelder.com\" target=\"new\">Weschenfelder</a>",
+      "general:vehicleMobilization": "07/05"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1975954,
+    "lng": 8.1108788
+  },
+  "meta:weather": {
+    "date": "2009-07-04",
+    "temperature": 20.3,
+    "temperature_min": 16,
+    "temperature_max": 24.8,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 10.4,
+    "peakgust": 31,
+    "sunshine": 582,
+    "pressure": null
+  }
+}

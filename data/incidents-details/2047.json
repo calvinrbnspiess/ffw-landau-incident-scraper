@@ -1,0 +1,43 @@
+{
+  "general:einsatzid": "2047",
+  "general:title": "Verständigung Energie Südwest",
+  "general:date": "2009-09-08T22:09:00+02:00",
+  "general:location": "Godramsteiner Hauptstrasse",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "08.09.2009 22:09",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "282",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "497",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "43",
+      "general:HiOrgName": "Energie Südwest AG",
+      "general:HiOrgLink": "http://www.energie-suedwest.de/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.2107795,
+    "lng": 8.078094799999999
+  },
+  "meta:weather": {
+    "date": "2009-09-08",
+    "temperature": 18.3,
+    "temperature_min": 13.7,
+    "temperature_max": 23.5,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 15.1,
+    "peakgust": 29.2,
+    "sunshine": 726,
+    "pressure": null
+  }
+}

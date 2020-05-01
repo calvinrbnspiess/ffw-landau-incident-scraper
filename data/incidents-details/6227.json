@@ -1,0 +1,73 @@
+{
+  "general:einsatzid": "6227",
+  "general:title": "Tür Öffnung",
+  "general:date": "2019-12-15T06:57:00+01:00",
+  "general:location": "Leipziger Straße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.5",
+  "general:dateFormatted": "15.12.2019 06:57",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "455",
+  "general:changed_on": "2019-12-15T07:49:12+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "10",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "60",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "HLF 20/16-1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+      "general:vehicleChassis": "IVECO FF 160 E 30",
+      "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+      "general:vehicleMobilization": "03/09"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "31",
+        "general:HiOrgName": "Rettungsdienst",
+        "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "47",
+        "general:HiOrgName": "THW OV Landau",
+        "general:HiOrgLink": "http://www.thw-landau.de"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.2045525,
+    "lng": 8.146454799999999
+  },
+  "meta:weather": {
+    "date": "2019-12-15",
+    "temperature": 6.2,
+    "temperature_min": 4.7,
+    "temperature_max": 8.2,
+    "precipitation": 10.1,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 238,
+    "windspeed": 37.6,
+    "peakgust": 91,
+    "sunshine": 0,
+    "pressure": 1005
+  }
+}

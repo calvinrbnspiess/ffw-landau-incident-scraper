@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "1038",
+  "general:title": "Verständigung Leitstelle",
+  "general:date": "2007-04-08T09:20:00+02:00",
+  "general:location": "Lustadt",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "08.04.2007 09:20",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "132",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "763",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2446061,
+    "lng": 8.2735506
+  },
+  "meta:weather": {
+    "date": "2007-04-08",
+    "temperature": 8.4,
+    "temperature_min": 3.5,
+    "temperature_max": 13.7,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 17.3,
+    "peakgust": 43.2,
+    "sunshine": 762,
+    "pressure": null
+  }
+}

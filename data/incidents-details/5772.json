@@ -1,0 +1,74 @@
+{
+  "general:einsatzid": "5772",
+  "general:title": "einfache Hilfeleistung",
+  "general:date": "2019-01-04T10:33:00+01:00",
+  "general:location": "Bachgasse",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.5",
+  "general:dateFormatted": "04.01.2019 10:33",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "11",
+  "general:changed_on": "2019-01-04T11:30:45+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "6",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "15",
+        "general:vehicleVersion": "2",
+        "general:vehicleName": "KLAF",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-263.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-263.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kleinalarmfahrzeug",
+        "general:vehicleChassis": "MB Sprinter",
+        "general:vehicleBuild": "Eigen",
+        "general:vehicleMobilization": "03/12"
+      },
+      {
+        "general:vehicleid": "51",
+        "general:vehicleVersion": "2",
+        "general:vehicleName": "RW 2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-209.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-209.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Rüstwagen",
+        "general:vehicleChassis": "MB 1425 4x4",
+        "general:vehicleBuild": "<a href=\"http://www.weschenfelder.com\" target=\"new\">Weschenfelder</a>",
+        "general:vehicleMobilization": "07/05"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1969567,
+    "lng": 8.1143581
+  },
+  "meta:weather": {
+    "date": "2019-01-04",
+    "temperature": -1,
+    "temperature_min": -2.3,
+    "temperature_max": 0.6,
+    "precipitation": 3.7,
+    "snowfall": null,
+    "snowdepth": 10,
+    "winddirection": 276,
+    "windspeed": 18.5,
+    "peakgust": 44,
+    "sunshine": 33,
+    "pressure": 1037.4
+  }
+}

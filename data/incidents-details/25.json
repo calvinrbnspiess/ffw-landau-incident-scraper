@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "25",
+  "general:title": "Brandmeldeanlage",
+  "general:date": "2004-02-03T22:26:00+01:00",
+  "general:location": "Großflächenmarkt SBK",
+  "general:categorie": "Brandmeldeanlage",
+  "general:length": "1.0",
+  "general:dateFormatted": "03.02.2004 22:26",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "20",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "23",
+  "general:EinsatzDescription": "",
+  "general:visits": "459",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.19888599999999,
+    "lng": 8.1185622
+  },
+  "meta:weather": {
+    "date": "2004-02-03",
+    "temperature": 9.2,
+    "temperature_min": 6.3,
+    "temperature_max": 11.9,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 28.1,
+    "peakgust": 63,
+    "sunshine": 192,
+    "pressure": null
+  }
+}

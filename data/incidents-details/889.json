@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "889",
+  "general:title": "Ausgelaufene Betriebsmittel",
+  "general:date": "2006-12-10T06:57:00+01:00",
+  "general:location": "L 509",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "10.12.2006 06:57",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "318",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "645",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "0",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "KdoW2",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-308.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-308.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kommandowagen",
+      "general:vehicleChassis": "VW Passat",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "09/88"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1949993,
+    "lng": 8.162709800000002
+  },
+  "meta:weather": {
+    "date": "2006-12-10",
+    "temperature": 1.5,
+    "temperature_min": -0.6,
+    "temperature_max": 3,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 19.8,
+    "peakgust": 35.3,
+    "sunshine": 12,
+    "pressure": null
+  }
+}

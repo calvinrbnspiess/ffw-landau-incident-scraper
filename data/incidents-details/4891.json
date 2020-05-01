@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "4891",
+  "general:title": "Brandsicherheitswache",
+  "general:date": "2017-11-17T19:00:00+01:00",
+  "general:location": "Mahlastraße",
+  "general:categorie": "Brandsicherheitswache",
+  "general:length": "3.0",
+  "general:dateFormatted": "17.11.2017 19:00",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "362",
+  "general:changed_on": "2017-11-17T19:32:26+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "66",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "MTF Nussdorf",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1514.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1514.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+      "general:vehicleChassis": "Ford Transit",
+      "general:vehicleBuild": "<a href=\"http://www.compoint-fahrzeugbau.de\" target=\"new\">Compoint</a>",
+      "general:vehicleMobilization": "06/11"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.19641679999999,
+    "lng": 8.120505399999999
+  },
+  "meta:weather": {
+    "date": "2017-11-17",
+    "temperature": 2.8,
+    "temperature_min": -0.2,
+    "temperature_max": 4.8,
+    "precipitation": 0.1,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 10.8,
+    "peakgust": 25.6,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

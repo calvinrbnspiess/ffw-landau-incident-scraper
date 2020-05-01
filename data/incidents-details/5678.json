@@ -1,0 +1,138 @@
+{
+  "general:einsatzid": "5678",
+  "general:title": "Gebäudebrand",
+  "general:date": "2018-11-09T15:15:00+01:00",
+  "general:location": "Lindenstraße",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.5",
+  "general:dateFormatted": "09.11.2018 15:15",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "719",
+  "general:changed_on": "2018-11-12T10:17:49+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "26",
+  "general:EinsatzDescription": "<p>Pressemitteilung der Polizei:</p>\n<div class=\"grid-row\">\n<div class=\"grid-col-3\">\n<h2 class=\"story-company\"><a title=\"weiter zum newsroom von Polizeidirektion Landau\" href=\"https://www.presseportal.de/blaulicht/nr/117686\">Polizeidirektion Landau</a></h2>\n<h1 class=\"story-headline\">POL-PDLD: Landau, Lindenstra&szlig;e, Freitag, 09.11.2018, 15:15 Uhr</h1>\n<div class=\"story-meta\"><span class=\"story-date sans\">10.11.2018 &ndash; 08:54</span></div>\n<div class=\"story-sharing cf\">&nbsp;</div>\n</div>\n<div class=\"grid-col-1\">&nbsp;</div>\n</div>\n<p><em><a class=\"story-city event-trigger\" title=\"News aus Landau \" href=\"https://www.presseportal.de/blaulicht/r/Landau\" data-category=\"citylink-story-view\" data-action=\"click\" data-label=\"Citylink in Meldungsansicht\">Landau</a> (ots)</em> - Durch die Rettungsleitstelle wurde ein Brand in einem Mehrfamilienhaus in Landau, Lindenstra&szlig;e gemeldet. Die eingesetzte Feuerwehr konnte den Brand schnell l&ouml;schen. Als Brandursache konnte eine Pfanne mit &Ouml;l festgestellt werden. Durch die Rauchentwicklung musste die Wohnung zun&auml;chst bel&uuml;ftet werden. Ein Geb&auml;udeschaden entstand nicht; eine Evakuierung der restlichen Bewohner war ebenso nicht erforderlich. Verletzt wurde niemand. Die entstandene Schadensh&ouml;he war zum Berichtszeitpunkt noch nicht bekannt.</p>",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "1",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "ELW 1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-207.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-207.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Einsatzleitwagen",
+        "general:vehicleChassis": "VW LT",
+        "general:vehicleBuild": "<a href=\"http://www.hensel-fahrzeugbau.de\" target=\"new\">Hensel</a>",
+        "general:vehicleMobilization": "12/04"
+      },
+      {
+        "general:vehicleid": "60",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "HLF 20/16-1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+        "general:vehicleChassis": "IVECO FF 160 E 30",
+        "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+        "general:vehicleMobilization": "03/09"
+      },
+      {
+        "general:vehicleid": "74",
+        "general:vehicleVersion": "2",
+        "general:vehicleName": "TGM 23-12",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1538.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1538.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Teleskopgelenkmast",
+        "general:vehicleChassis": "Mercedes Atego 1629, Teligent-Schaltung",
+        "general:vehicleBuild": "<a href=\"http://www.metz-online.de/\">Metz</a>",
+        "general:vehicleMobilization": "10/14"
+      },
+      {
+        "general:vehicleid": "2",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "HLF 20/16-2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-204.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-204.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+        "general:vehicleChassis": "IVECO 135E24W",
+        "general:vehicleBuild": "<a href=\"http://www.iveco-magirus.de/\" target=\"new\">Iveco-Magirus</a>",
+        "general:vehicleMobilization": "03/02"
+      },
+      {
+        "general:vehicleid": "78",
+        "general:vehicleVersion": "4",
+        "general:vehicleName": "stellv. SFI",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/kam/default.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/kam/default.jpg",
+          "picture:PictureFormat": "hoch",
+          "picture:PictureDescription": "Bild folgt",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "",
+        "general:vehicleChassis": "",
+        "general:vehicleBuild": "",
+        "general:vehicleMobilization": ""
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "31",
+        "general:HiOrgName": "Rettungsdienst",
+        "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.2047652,
+    "lng": 8.133034799999999
+  },
+  "meta:weather": {
+    "date": "2018-11-09",
+    "temperature": 9.2,
+    "temperature_min": 6.7,
+    "temperature_max": 13.9,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 148,
+    "windspeed": 20.6,
+    "peakgust": 40,
+    "sunshine": 301,
+    "pressure": 1015.6
+  }
+}

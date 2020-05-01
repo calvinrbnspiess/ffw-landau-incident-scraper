@@ -1,0 +1,68 @@
+{
+  "general:einsatzid": "3142",
+  "general:title": "Transport Notarzt",
+  "general:date": "2012-11-02T08:55:00+01:00",
+  "general:location": "Hermann-Sauter-Straße",
+  "general:categorie": "LNA",
+  "general:length": "1.0",
+  "general:dateFormatted": "02.11.2012 08:55",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "239",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "753",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "65",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "MTF 1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1513.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1513.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+      "general:vehicleChassis": "Ford Transit",
+      "general:vehicleBuild": "<a href=\"http://www.compoint-fahrzeugbau.de\" target=\"new\">Compoint</a>",
+      "general:vehicleMobilization": "06/11"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "34",
+        "general:HiOrgName": "RTH Christoph 5 (LU)",
+        "general:HiOrgLink": "http://www.christoph5.info/"
+      },
+      {
+        "general:HiOrgId": "31",
+        "general:HiOrgName": "Rettungsdienst",
+        "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.2046218,
+    "lng": 8.1187889
+  },
+  "meta:weather": {
+    "date": "2012-11-02",
+    "temperature": 5.1,
+    "temperature_min": 3.4,
+    "temperature_max": 8,
+    "precipitation": 14.3,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 44.3,
+    "peakgust": 89.3,
+    "sunshine": 210,
+    "pressure": null
+  }
+}

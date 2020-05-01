@@ -1,0 +1,74 @@
+{
+  "general:einsatzid": "851",
+  "general:title": "Ausgelaufene Betriebsmittel",
+  "general:date": "2006-10-23T10:10:00+02:00",
+  "general:location": "Hainbachstraße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "23.10.2006 10:10",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "281",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "6",
+  "general:EinsatzDescription": "",
+  "general:visits": "452",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "3",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "TLF 16-25",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-312.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-312.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Tanklöschfahrzeug",
+        "general:vehicleChassis": "MB 1222",
+        "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+        "general:vehicleMobilization": "02/86"
+      },
+      {
+        "general:vehicleid": "6",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "TLF 24-50",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-264.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-264.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Tanklöschfahrzeug",
+        "general:vehicleChassis": "MB 1626",
+        "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+        "general:vehicleMobilization": "02/81"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2076803,
+    "lng": 8.124348
+  },
+  "meta:weather": {
+    "date": "2006-10-23",
+    "temperature": 13.5,
+    "temperature_min": 12.6,
+    "temperature_max": 15.3,
+    "precipitation": 21.6,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 30.2,
+    "peakgust": 69.5,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

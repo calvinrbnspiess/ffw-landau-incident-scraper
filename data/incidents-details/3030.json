@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "3030",
+  "general:title": "Überörtliche Hilfe",
+  "general:date": "2012-06-07T18:35:00+02:00",
+  "general:location": "Göcklingen",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.5",
+  "general:dateFormatted": "07.06.2012 18:35",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "130",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "5",
+  "general:EinsatzDescription": "",
+  "general:visits": "816",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "4",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "TGM 23-12",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-243.JPG",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-243.JPG",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Teleskopgelenkmast",
+      "general:vehicleChassis": "MAN 15.264",
+      "general:vehicleBuild": "<a href=\"http://www.bronto.ch/\" target=\"new\">Bronto Skylift</a>",
+      "general:vehicleMobilization": "11/98"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "74",
+      "general:HiOrgName": "FF Landau -Land-",
+      "general:HiOrgLink": "http://www.feuerwehr-landau-land.de"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1619829,
+    "lng": 8.037785399999999
+  },
+  "meta:weather": {
+    "date": "2012-06-07",
+    "temperature": 16.5,
+    "temperature_min": 13,
+    "temperature_max": 22.2,
+    "precipitation": 4.2,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 19.4,
+    "peakgust": 43.6,
+    "sunshine": 186,
+    "pressure": null
+  }
+}

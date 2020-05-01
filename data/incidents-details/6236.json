@@ -1,0 +1,74 @@
+{
+  "general:einsatzid": "6236",
+  "general:title": "Führungsunterstützung",
+  "general:date": "2019-12-19T22:57:00+01:00",
+  "general:location": "Edenkoben",
+  "general:categorie": "LNA",
+  "general:length": "2.0",
+  "general:dateFormatted": "19.12.2019 22:57",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "464",
+  "general:changed_on": "2019-12-20T16:15:52+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "6",
+  "general:EinsatzDescription": "<p>Angefordert zur F&uuml;hrungsunterst&uuml;tzung mit unserem MTF AL f&uuml;r den Abschnitt Gesundheit beim Brand in Edenkoben.</p>",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "78",
+        "general:vehicleVersion": "4",
+        "general:vehicleName": "stellv. SFI",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/kam/default.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/kam/default.jpg",
+          "picture:PictureFormat": "hoch",
+          "picture:PictureDescription": "Bild folgt",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "",
+        "general:vehicleChassis": "",
+        "general:vehicleBuild": "",
+        "general:vehicleMobilization": ""
+      },
+      {
+        "general:vehicleid": "66",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "MTF Nussdorf",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1514.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1514.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "Ford Transit",
+        "general:vehicleBuild": "<a href=\"http://www.compoint-fahrzeugbau.de\" target=\"new\">Compoint</a>",
+        "general:vehicleMobilization": "06/11"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.283333,
+    "lng": 8.133333
+  },
+  "meta:weather": {
+    "date": "2019-12-19",
+    "temperature": 7.5,
+    "temperature_min": 4.7,
+    "temperature_max": 10.3,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 128,
+    "windspeed": 18,
+    "peakgust": 31,
+    "sunshine": 174,
+    "pressure": 1013.2
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "6270",
+  "general:title": "Person im Aufzug",
+  "general:date": "2020-01-17T14:58:00+01:00",
+  "general:location": "Klaus-von-Klitzing-Straße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.0",
+  "general:dateFormatted": "17.01.2020 14:58",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "21",
+  "general:changed_on": "2020-01-17T15:29:51+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "8",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "60",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "HLF 20/16-1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+      "general:vehicleChassis": "IVECO FF 160 E 30",
+      "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+      "general:vehicleMobilization": "03/09"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1938718,
+    "lng": 8.1295255
+  },
+  "meta:weather": {
+    "date": "2020-01-17",
+    "temperature": 6.4,
+    "temperature_min": 3.5,
+    "temperature_max": 8.1,
+    "precipitation": 0.1,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 233,
+    "windspeed": 28.1,
+    "peakgust": 63,
+    "sunshine": 69,
+    "pressure": 1020.5
+  }
+}

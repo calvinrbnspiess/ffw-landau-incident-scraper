@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "890",
+  "general:title": "Verständigung Baubetriebshof",
+  "general:date": "2006-12-12T10:20:00+01:00",
+  "general:location": "Nordring / Westring",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "12.12.2006 10:20",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "319",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "540",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2007422,
+    "lng": 8.108838
+  },
+  "meta:weather": {
+    "date": "2006-12-12",
+    "temperature": 2.4,
+    "temperature_min": 1.1,
+    "temperature_max": 3.7,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 33.5,
+    "peakgust": 72.7,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

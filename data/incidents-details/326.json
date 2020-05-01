@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "326",
+  "general:title": "Alarmierung THW",
+  "general:date": "2005-03-17T05:07:00+01:00",
+  "general:location": "Gerberstraße 32",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "17.03.2005 05:07",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "43",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "378",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1974,
+    "lng": 8.11435
+  },
+  "meta:weather": {
+    "date": "2005-03-17",
+    "temperature": 11.8,
+    "temperature_min": 9,
+    "temperature_max": 14.9,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 47.5,
+    "peakgust": 89.6,
+    "sunshine": 540,
+    "pressure": null
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "general:einsatzid": "3235",
+  "general:title": "LNA-Transport",
+  "general:date": "2013-02-04T13:52:00+01:00",
+  "general:location": "BAB 65",
+  "general:categorie": "LNA",
+  "general:length": "1.0",
+  "general:dateFormatted": "04.02.2013 13:52",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "34",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": " Siehe <a href=\"http://www.feuerwehr-kandel.de/index.php?option=com_reports2&Itemid=99&view=show&id=187\" target=\"new\">Einsatzbericht</a> bei der Feuerwehr Kandel.",
+  "general:visits": "1230",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "65",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "MTF 1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1513.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1513.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+      "general:vehicleChassis": "Ford Transit",
+      "general:vehicleBuild": "<a href=\"http://www.compoint-fahrzeugbau.de\" target=\"new\">Compoint</a>",
+      "general:vehicleMobilization": "06/11"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "33",
+        "general:HiOrgName": "Org-Leiter",
+        "general:HiOrgLink": "https://www.suedliche-weinstrasse.de/de/landkreis/brandschutz/notarzt_orgaleiter.php"
+      },
+      {
+        "general:HiOrgId": "32",
+        "general:HiOrgName": "LNA",
+        "general:HiOrgLink": "https://www.suedliche-weinstrasse.de/de/landkreis/brandschutz/notarzt_orgaleiter.php"
+      },
+      {
+        "general:HiOrgId": "31",
+        "general:HiOrgName": "Rettungsdienst",
+        "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "90",
+        "general:HiOrgName": "FF Kandel",
+        "general:HiOrgLink": "http://www.feuerwehr-kandel.de/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.2542676,
+    "lng": 8.1502734
+  },
+  "meta:weather": {
+    "date": "2013-02-04",
+    "temperature": 2.1,
+    "temperature_min": -1.1,
+    "temperature_max": 4.7,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 10,
+    "winddirection": null,
+    "windspeed": 47.2,
+    "peakgust": 89.3,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

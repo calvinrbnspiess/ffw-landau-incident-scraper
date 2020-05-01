@@ -1,0 +1,104 @@
+{
+  "general:einsatzid": "3685",
+  "general:title": "CO- Austritt",
+  "general:date": "2014-07-11T01:49:00+02:00",
+  "general:location": "Birnbaumstraße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "2.0",
+  "general:dateFormatted": "11.07.2014 01:49",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "148",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "16",
+  "general:EinsatzDescription": "Polizeibericht:<br><br><b> Kohlenmonoxidvergiftung</b><br>\r\nIn der Nacht von Donnerstag auf Freitag wurden die Rettungsdienste bestehend aus Feuerwehr, DRK und Polizei in die Birnbaumstraße geschickt. Nachdem ein 81 jähriger Hausbewohner über Schwindelgefühle klagte und ins Krankenhaus eingeliefert wurde, stellte man bei dem Mann eine CO-Intoxikation fest. Auch vor Ort konnte im Gebäude eine erhöhte CO- Konzentration gemessen werden. Bei der Begehung der Wohnung durch die Feuerwehr mit Atemschutzgerät konnte der schlafende Sohn aufgefunden werden. Er wurde geweckt und umgehend zur weiteren Untersuchung ins Krankenhaus gebracht. Bei dem Sohn wurde eine leichte Intoxikation festgestellt. Beim Vater besteht dagegen Lebensgefahr, so dass dieser in eine Spezialklinik transportiert wurde. Nach Entlüftung der Wohnung war das Anwesen wieder betretbar. Als Ursache kommt ein technischer Defekt an der Gas-Therme in Frage. Die Gasanlage wurde heruntergefahren und die Gaszufuhr abgestellt.<br><br>\r\nNachtrag der Polizei:<br> Wie soeben die Spezialklinik meldet besteht bei dem 81 jährigen Patienten keine Lebensgefahr mehr.",
+  "general:visits": "1257",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "1",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "ELW 1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-207.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-207.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Einsatzleitwagen",
+        "general:vehicleChassis": "VW LT",
+        "general:vehicleBuild": "<a href=\"http://www.hensel-fahrzeugbau.de\" target=\"new\">Hensel</a>",
+        "general:vehicleMobilization": "12/04"
+      },
+      {
+        "general:vehicleid": "60",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "HLF 20/16-1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+        "general:vehicleChassis": "IVECO FF 160 E 30",
+        "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+        "general:vehicleMobilization": "03/09"
+      },
+      {
+        "general:vehicleid": "17",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "Mef-G",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-258.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-258.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Messtruppfahrzeug",
+        "general:vehicleChassis": "VW Bus",
+        "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+        "general:vehicleMobilization": "08/91"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "31",
+        "general:HiOrgName": "Rettungsdienst",
+        "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.1957825,
+    "lng": 8.136271599999999
+  },
+  "meta:weather": {
+    "date": "2014-07-10",
+    "temperature": 13,
+    "temperature_min": 9.9,
+    "temperature_max": 18.4,
+    "precipitation": 13.5,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 12.6,
+    "peakgust": 38.2,
+    "sunshine": 100,
+    "pressure": null
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "general:einsatzid": "2681",
+  "general:title": "Verkehrsunfall",
+  "general:date": "2011-03-21T08:39:00+01:00",
+  "general:location": "L 512",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "21.03.2011 08:39",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "73",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "",
+  "general:visits": "688",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "45",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "KdoW",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-299.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-299.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kommandowagen",
+      "general:vehicleChassis": "VW Passat",
+      "general:vehicleBuild": "VW",
+      "general:vehicleMobilization": "03/05"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "31",
+        "general:HiOrgName": "Rettungsdienst",
+        "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.26416099999999,
+    "lng": 8.104877799999999
+  },
+  "meta:weather": {
+    "date": "2011-03-21",
+    "temperature": 5.6,
+    "temperature_min": 1.3,
+    "temperature_max": 10,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 17.3,
+    "peakgust": 37.1,
+    "sunshine": 684,
+    "pressure": null
+  }
+}

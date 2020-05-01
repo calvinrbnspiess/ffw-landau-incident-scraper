@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "2593",
+  "general:title": "Wasserrohrbruch",
+  "general:date": "2010-12-13T11:05:00+01:00",
+  "general:location": "Reduitstraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.0",
+  "general:dateFormatted": "13.12.2010 11:05",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "435",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "391",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "1",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "ELW 1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-207.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-207.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Einsatzleitwagen",
+      "general:vehicleChassis": "VW LT",
+      "general:vehicleBuild": "<a href=\"http://www.hensel-fahrzeugbau.de\" target=\"new\">Hensel</a>",
+      "general:vehicleMobilization": "12/04"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "43",
+      "general:HiOrgName": "Energie Südwest AG",
+      "general:HiOrgLink": "http://www.energie-suedwest.de/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1979871,
+    "lng": 8.1176629
+  },
+  "meta:weather": {
+    "date": "2010-12-13",
+    "temperature": -5.9,
+    "temperature_min": -7.9,
+    "temperature_max": -2.7,
+    "precipitation": 0.6,
+    "snowfall": null,
+    "snowdepth": 130,
+    "winddirection": null,
+    "windspeed": 18.4,
+    "peakgust": 52.2,
+    "sunshine": 378,
+    "pressure": null
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "general:einsatzid": "1628",
+  "general:title": "Einsatz der Wärmebildkamera",
+  "general:date": "2008-11-05T20:50:00+01:00",
+  "general:location": "Rohrbach, Hauptstraße",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "2.5",
+  "general:dateFormatted": "05.11.2008 20:50",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "293",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "1083",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "54",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "MTF 1 - alt",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1505.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1505.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+      "general:vehicleChassis": "VW T5",
+      "general:vehicleBuild": "<a href=\"http://www.auto-zotz.de\" target=\"new\">Auto Zotz</a>; Weschenfelder",
+      "general:vehicleMobilization": "02/08"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "51",
+        "general:HiOrgName": "FF Herxheim",
+        "general:HiOrgLink": "http://www.feuerwehr-herxheim.de/"
+      },
+      {
+        "general:HiOrgId": "89",
+        "general:HiOrgName": "FF Rohrbach",
+        "general:HiOrgLink": "http://www.ffw-rohrbach.de/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.13685210000001,
+    "lng": 8.1303549
+  },
+  "meta:weather": {
+    "date": "2008-11-05",
+    "temperature": 8,
+    "temperature_min": 6,
+    "temperature_max": 10.9,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 15.5,
+    "peakgust": 50.8,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

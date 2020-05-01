@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "790",
+  "general:title": "Alarmierung THW",
+  "general:date": "2006-08-07T19:35:00+02:00",
+  "general:location": "Eutzinger Straße",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "07.08.2006 19:35",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "223",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "697",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.186347,
+    "lng": 8.117978
+  },
+  "meta:weather": {
+    "date": "2006-08-07",
+    "temperature": 18.1,
+    "temperature_min": 13.2,
+    "temperature_max": 24.3,
+    "precipitation": 16,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 18.7,
+    "peakgust": 40.7,
+    "sunshine": 570,
+    "pressure": null
+  }
+}

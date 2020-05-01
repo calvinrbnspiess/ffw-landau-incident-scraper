@@ -1,0 +1,95 @@
+{
+  "general:einsatzid": "1254",
+  "general:title": "Überörtliche Hilfe",
+  "general:date": "2007-10-13T20:25:00+02:00",
+  "general:location": "Annweiler",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "2.5",
+  "general:dateFormatted": "13.10.2007 20:25",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "334",
+  "picture:Picture": {
+    "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0710/071013_03.jpg",
+    "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0710/071013_03.jpg",
+    "picture:PictureFormat": "quer",
+    "picture:PictureDescription": "",
+    "picture:BufferPreview": "true",
+    "picture:BufferPicture": "false"
+  },
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": " Beim Einsatz der Feuerwehr Annweiler wurden die Rollwagen der Feuerwehr Landau f?r den Transport im Gleisbereich angefordert. Mehr <a href=\"http://www.feuerwehr-annweiler.de/index.php?module=News&id=cntnt01&cntnt01action=detail&cntnt01articleid=571&cntnt01dateformat=%25d.%25m.%25Y&cntnt01returnid=15\" target=\"new\">hier</a> auf der Seite der Feuerwehr Annweiler. <br><br>Die Bilder wurden uns dankenswerter Weise von der Feuerwehr Annweiler zur Verf?gung gestellt.",
+  "general:visits": "1593",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "46",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "MZF",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-259.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-259.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Mehrzweckfahrzeug",
+      "general:vehicleChassis": "MB 1425 4x4",
+      "general:vehicleBuild": "<a href=\"http://www.weschenfelder.com\" target=\"new\">Weschenfelder</a>",
+      "general:vehicleMobilization": "04/05"
+    }
+  },
+  "picture:Pictures": {
+    "picture:Picture": [
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0710/071013_03.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0710/071013_03.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      },
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0710/071013_04.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0710/071013_04.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      }
+    ]
+  },
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "48",
+        "general:HiOrgName": "FF Annweiler",
+        "general:HiOrgLink": "http://www.feuerwehr-annweiler.de/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.2062599,
+    "lng": 7.972605300000001
+  },
+  "meta:weather": {
+    "date": "2007-10-13",
+    "temperature": 10.1,
+    "temperature_min": 7.1,
+    "temperature_max": 13.8,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 17.6,
+    "peakgust": 41,
+    "sunshine": 198,
+    "pressure": null
+  }
+}

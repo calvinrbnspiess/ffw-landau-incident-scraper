@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "4000",
+  "general:title": "Nachlöscharbeiten",
+  "general:date": "2015-07-11T20:00:00+02:00",
+  "general:location": "Rheinstraße / Paul-von-Denis-Straße",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "0.5",
+  "general:dateFormatted": "11.07.2015 20:00",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "156",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "80",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "74",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "TGM 23-12",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1538.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1538.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Teleskopgelenkmast",
+      "general:vehicleChassis": "Mercedes Atego 1629, Teligent-Schaltung",
+      "general:vehicleBuild": "<a href=\"http://www.metz-online.de/\">Metz</a>",
+      "general:vehicleMobilization": "10/14"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1929702,
+    "lng": 8.1253016
+  },
+  "meta:weather": {
+    "date": "2015-07-11",
+    "temperature": 22,
+    "temperature_min": 14.3,
+    "temperature_max": 30.4,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 23.8,
+    "peakgust": 63,
+    "sunshine": 835,
+    "pressure": null
+  }
+}

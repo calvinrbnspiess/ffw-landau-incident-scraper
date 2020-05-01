@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "8",
+  "general:title": "Umweltverschmutzung",
+  "general:date": "2004-01-09T17:26:00+01:00",
+  "general:location": "Bahnhofstraße / Godramstein",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.5",
+  "general:dateFormatted": "09.01.2004 17:26",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "4",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "7",
+  "general:EinsatzDescription": "",
+  "general:visits": "482",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2080259,
+    "lng": 8.076752899999999
+  },
+  "meta:weather": {
+    "date": "2004-01-09",
+    "temperature": 3.1,
+    "temperature_min": 1.6,
+    "temperature_max": 4.4,
+    "precipitation": 6.9,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 38.9,
+    "peakgust": 82.1,
+    "sunshine": 72,
+    "pressure": null
+  }
+}

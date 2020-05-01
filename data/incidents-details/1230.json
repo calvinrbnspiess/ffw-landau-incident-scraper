@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "1230",
+  "general:title": "LKW-Brand",
+  "general:date": "2007-09-22T18:51:00+02:00",
+  "general:location": "B 10",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "0.5",
+  "general:dateFormatted": "22.09.2007 18:51",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "311",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "807",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "6",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "TLF 24-50",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-264.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-264.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Tanklöschfahrzeug",
+      "general:vehicleChassis": "MB 1626",
+      "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+      "general:vehicleMobilization": "02/81"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 48.9471857,
+    "lng": 8.8519586
+  },
+  "meta:weather": {
+    "date": "2007-09-22",
+    "temperature": 17.3,
+    "temperature_min": 13.8,
+    "temperature_max": 23,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 11.2,
+    "peakgust": 27.4,
+    "sunshine": 612,
+    "pressure": null
+  }
+}

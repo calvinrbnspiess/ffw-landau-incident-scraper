@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "3076",
+  "general:title": "Technische Hilfeleistung",
+  "general:date": "2012-08-04T09:55:00+02:00",
+  "general:location": "Hagenauer Straße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.0",
+  "general:dateFormatted": "04.08.2012 09:55",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "175",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "351",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "53",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "KdoW 2",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1501.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1501.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kommandowagen - Fahrzeug für den feuerwehrtechnischen Bediensteten",
+      "general:vehicleChassis": "Fiat Grande Punto",
+      "general:vehicleBuild": "Michael Schmidt mobile Kommunikation GmbH",
+      "general:vehicleMobilization": "12/07"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1894028,
+    "lng": 8.0894806
+  },
+  "meta:weather": {
+    "date": "2012-08-04",
+    "temperature": 20.3,
+    "temperature_min": 15.8,
+    "temperature_max": 25.1,
+    "precipitation": 0.2,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 10.1,
+    "peakgust": 34.2,
+    "sunshine": 492,
+    "pressure": null
+  }
+}

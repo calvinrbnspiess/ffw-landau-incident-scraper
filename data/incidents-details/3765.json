@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "3765",
+  "general:title": "PKW-Brand",
+  "general:date": "2014-09-27T22:31:00+02:00",
+  "general:location": "Kraftgasse",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.0",
+  "general:dateFormatted": "27.09.2014 22:31",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "221",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "2",
+  "general:AmountPeople": "8",
+  "general:EinsatzDescription": "Aus dem Polizeibericht:<br><br><b> Pkw-Brand\r\n</b><br><br>\r\nAls ein Autobesitzer am Samstagabend in Landau-Queichheim nach Hause kam, sah er im Innenhof sein Auto im Bereich des Motorraumes brennen. Während er versuchte sein Auto mittels Feuerlöscher zu löschen, traf auch die von ihm verständigte Feuerwehr ein. Ein technischer Defekt gilt als wahrscheinlich. ",
+  "general:visits": "116",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "60",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "HLF 20/16-1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+      "general:vehicleChassis": "IVECO FF 160 E 30",
+      "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+      "general:vehicleMobilization": "03/09"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1920945,
+    "lng": 8.1409814
+  },
+  "meta:weather": {
+    "date": "2014-09-27",
+    "temperature": 14.7,
+    "temperature_min": 12.2,
+    "temperature_max": 19.6,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 14.8,
+    "peakgust": 37.8,
+    "sunshine": 518,
+    "pressure": null
+  }
+}

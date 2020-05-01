@@ -1,0 +1,43 @@
+{
+  "general:einsatzid": "3085",
+  "general:title": "Verständigung Energie Südwest",
+  "general:date": "2012-08-22T22:34:00+02:00",
+  "general:location": "Türkheimer Strasse",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "22.08.2012 22:34",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "184",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "339",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "43",
+      "general:HiOrgName": "Energie Südwest AG",
+      "general:HiOrgLink": "http://www.energie-suedwest.de/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1898837,
+    "lng": 8.0873865
+  },
+  "meta:weather": {
+    "date": "2012-08-22",
+    "temperature": 20.5,
+    "temperature_min": 15.3,
+    "temperature_max": 25.2,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 23.8,
+    "peakgust": 50.8,
+    "sunshine": 558,
+    "pressure": null
+  }
+}

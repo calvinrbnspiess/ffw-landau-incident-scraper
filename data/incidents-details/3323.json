@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "3323",
+  "general:title": "Ölspur",
+  "general:date": "2013-05-07T10:10:00+02:00",
+  "general:location": "Kirchgasse",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "07.05.2013 10:10",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "119",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "",
+  "general:visits": "235",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "65",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "MTF 1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1513.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1513.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+      "general:vehicleChassis": "Ford Transit",
+      "general:vehicleBuild": "<a href=\"http://www.compoint-fahrzeugbau.de\" target=\"new\">Compoint</a>",
+      "general:vehicleMobilization": "06/11"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "27",
+      "general:HiOrgName": "Fachfirma Straßenreinigung",
+      "general:HiOrgLink": "http://www.brechtel-fahrbahnreinigung.de"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.2116598,
+    "lng": 8.0818849
+  },
+  "meta:weather": {
+    "date": "2013-05-07",
+    "temperature": 12.8,
+    "temperature_min": 10.6,
+    "temperature_max": 18.3,
+    "precipitation": 5.1,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 18.7,
+    "peakgust": 39.2,
+    "sunshine": 252,
+    "pressure": null
+  }
+}

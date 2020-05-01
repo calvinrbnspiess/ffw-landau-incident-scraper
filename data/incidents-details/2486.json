@@ -1,0 +1,43 @@
+{
+  "general:einsatzid": "2486",
+  "general:title": "Alarmierung THW",
+  "general:date": "2010-07-19T01:55:00+02:00",
+  "general:location": "Ostbahnstrasse",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "19.07.2010 01:55",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "335",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "601",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "47",
+      "general:HiOrgName": "THW OV Landau",
+      "general:HiOrgLink": "http://www.thw-landau.de"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.197701,
+    "lng": 8.1197948
+  },
+  "meta:weather": {
+    "date": "2010-07-18",
+    "temperature": 17.4,
+    "temperature_min": 12.4,
+    "temperature_max": 22.6,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 14,
+    "peakgust": 38.9,
+    "sunshine": 666,
+    "pressure": null
+  }
+}

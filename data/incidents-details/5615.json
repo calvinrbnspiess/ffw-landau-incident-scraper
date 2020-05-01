@@ -1,0 +1,87 @@
+{
+  "general:einsatzid": "5615",
+  "general:title": "Rauchwarnmelder",
+  "general:date": "2018-09-21T14:33:00+02:00",
+  "general:location": "Thomas-Nast-Straße",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.0",
+  "general:dateFormatted": "21.09.2018 14:33",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "661",
+  "general:changed_on": "2018-09-21T14:57:02+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "14",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "60",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "HLF 20/16-1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+        "general:vehicleChassis": "IVECO FF 160 E 30",
+        "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+        "general:vehicleMobilization": "03/09"
+      },
+      {
+        "general:vehicleid": "79",
+        "general:vehicleVersion": "2",
+        "general:vehicleName": "TLF 3000",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1231.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1231.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Tanklöschfahrzeug 3000",
+        "general:vehicleChassis": "Mercedes Atego 1527 AF 4x4, Teligent-Schaltung",
+        "general:vehicleBuild": "<a href=\"https://www.magirusgroup.com/de/de/home/\">Magirus</a>, Ulm",
+        "general:vehicleMobilization": "07/18"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "31",
+        "general:HiOrgName": "Rettungsdienst",
+        "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.20792240000001,
+    "lng": 8.1192777
+  },
+  "meta:weather": {
+    "date": "2018-09-21",
+    "temperature": 17.4,
+    "temperature_min": 8.8,
+    "temperature_max": 21.3,
+    "precipitation": 1.1,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": 241,
+    "windspeed": 38,
+    "peakgust": 95,
+    "sunshine": 120,
+    "pressure": 1012.2
+  }
+}

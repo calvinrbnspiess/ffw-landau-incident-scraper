@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "4592",
+  "general:title": "Wasserschaden",
+  "general:date": "2017-02-19T20:18:00+01:00",
+  "general:location": "Haardtstraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "19.02.2017 20:18",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "71",
+  "general:changed_on": "2017-02-19T20:46:00+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2023372,
+    "lng": 8.1176815
+  },
+  "meta:weather": {
+    "date": "2017-02-19",
+    "temperature": 3.5,
+    "temperature_min": 0.1,
+    "temperature_max": 8,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 23.8,
+    "peakgust": 65.5,
+    "sunshine": 268,
+    "pressure": null
+  }
+}

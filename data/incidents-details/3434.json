@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "3434",
+  "general:title": "Verständigung ESW",
+  "general:date": "2013-08-02T23:35:00+02:00",
+  "general:location": "Röntgenstraße",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "02.08.2013 23:35",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "227",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "334",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1904647,
+    "lng": 8.1076655
+  },
+  "meta:weather": {
+    "date": "2013-08-02",
+    "temperature": 28,
+    "temperature_min": 22.3,
+    "temperature_max": 34.3,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 21.2,
+    "peakgust": 52.2,
+    "sunshine": 745,
+    "pressure": null
+  }
+}

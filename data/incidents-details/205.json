@@ -1,0 +1,91 @@
+{
+  "general:einsatzid": "205",
+  "general:title": "Ausgelaufener Gefahrstoff",
+  "general:date": "2004-10-08T09:42:00+02:00",
+  "general:location": "Bodelschwinghstraße 11",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "4.0",
+  "general:dateFormatted": "08.10.2004 09:42",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "191",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "5",
+  "general:EinsatzDescription": " In einer Zisterne ist ein Keramikschwimmer gebrochen. Aus diesem sind ca. 250ml Quecksilber ausgelaufen. <br> Die Feuerwehr Landau hat die Einsatzstelle abgesichert und die BASF-Werkfeuerwehr informiert. Diese haben sich im Rahmen von TUIS Stufe 3 angeboten, das Quecksilber aufzunehmen und fachgerecht zu entsorgen. Unterst?tzt durch die Feuerwehr Landau, wurde in der trockenen Zisterne das auf ca. 10 qm verteilte Quecksilber durch die Einsatzkr?fte der BASF-Werkfeuerwehr aufgenommen.  ",
+  "general:visits": "539",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "53",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "KdoW 2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1501.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1501.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kommandowagen - Fahrzeug für den feuerwehrtechnischen Bediensteten",
+        "general:vehicleChassis": "Fiat Grande Punto",
+        "general:vehicleBuild": "Michael Schmidt mobile Kommunikation GmbH",
+        "general:vehicleMobilization": "12/07"
+      },
+      {
+        "general:vehicleid": "54",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MTF 1 - alt",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1505.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1505.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "VW T5",
+        "general:vehicleBuild": "<a href=\"http://www.auto-zotz.de\" target=\"new\">Auto Zotz</a>; Weschenfelder",
+        "general:vehicleMobilization": "02/08"
+      },
+      {
+        "general:vehicleid": "17",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "Mef-G",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-258.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-258.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Messtruppfahrzeug",
+        "general:vehicleChassis": "VW Bus",
+        "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+        "general:vehicleMobilization": "08/91"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.20558,
+    "lng": 8.10503
+  },
+  "meta:weather": {
+    "date": "2004-10-08",
+    "temperature": 7.8,
+    "temperature_min": 6.5,
+    "temperature_max": 10,
+    "precipitation": 7.6,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 17.3,
+    "peakgust": 34.9,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

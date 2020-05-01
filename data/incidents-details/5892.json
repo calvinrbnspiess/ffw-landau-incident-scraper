@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "5892",
+  "general:title": "Müllbrand",
+  "general:date": "2019-04-16T02:22:00+02:00",
+  "general:location": "Nordring",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "0.5",
+  "general:dateFormatted": "16.04.2019 02:22",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "129",
+  "general:changed_on": "2019-04-16T02:44:04+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "9",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "2",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "HLF 20/16-2",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-204.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-204.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+      "general:vehicleChassis": "IVECO 135E24W",
+      "general:vehicleBuild": "<a href=\"http://www.iveco-magirus.de/\" target=\"new\">Iveco-Magirus</a>",
+      "general:vehicleMobilization": "03/02"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.2009173,
+    "lng": 8.1149723
+  },
+  "meta:weather": {
+    "date": "2019-04-16",
+    "temperature": 10,
+    "temperature_min": 4,
+    "temperature_max": 14.3,
+    "precipitation": 3.8,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": null,
+    "peakgust": null,
+    "sunshine": 300,
+    "pressure": null
+  }
+}

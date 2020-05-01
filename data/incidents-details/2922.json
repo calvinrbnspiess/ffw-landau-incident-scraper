@@ -1,0 +1,43 @@
+{
+  "general:einsatzid": "2922",
+  "general:title": "Verständigung Baubetriebshof",
+  "general:date": "2012-02-05T10:08:00+01:00",
+  "general:location": "Dammühlstraße",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "05.02.2012 10:08",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "22",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "264",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.2024142,
+    "lng": 8.1245308
+  },
+  "meta:weather": {
+    "date": "2012-02-05",
+    "temperature": -12,
+    "temperature_min": -15.5,
+    "temperature_max": -8.4,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 10,
+    "winddirection": null,
+    "windspeed": 21.6,
+    "peakgust": 39.2,
+    "sunshine": 510,
+    "pressure": null
+  }
+}

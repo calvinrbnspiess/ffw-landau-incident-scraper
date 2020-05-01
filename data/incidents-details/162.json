@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "162",
+  "general:title": "Ölspur",
+  "general:date": "2004-08-06T19:15:00+02:00",
+  "general:location": "Königstraße 8",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "0.5",
+  "general:dateFormatted": "06.08.2004 19:15",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "148",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "653",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "0",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "KdoW2",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-308.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-308.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kommandowagen",
+      "general:vehicleChassis": "VW Passat",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "09/88"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.19976,
+    "lng": 8.11463
+  },
+  "meta:weather": {
+    "date": "2004-08-06",
+    "temperature": 21.1,
+    "temperature_min": 16.9,
+    "temperature_max": 27.4,
+    "precipitation": 22.1,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 17.3,
+    "peakgust": 57.2,
+    "sunshine": 336,
+    "pressure": null
+  }
+}

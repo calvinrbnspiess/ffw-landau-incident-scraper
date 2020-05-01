@@ -1,0 +1,68 @@
+{
+  "general:einsatzid": "3083",
+  "general:title": "Ausgelaufene Betriebsmittel",
+  "general:date": "2012-08-18T07:56:00+02:00",
+  "general:location": "Kronstraße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "18.08.2012 07:56",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "182",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "",
+  "general:visits": "272",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "1",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "ELW 1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-207.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-207.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Einsatzleitwagen",
+      "general:vehicleChassis": "VW LT",
+      "general:vehicleBuild": "<a href=\"http://www.hensel-fahrzeugbau.de\" target=\"new\">Hensel</a>",
+      "general:vehicleMobilization": "12/04"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "27",
+        "general:HiOrgName": "Fachfirma Straßenreinigung",
+        "general:HiOrgLink": "http://www.brechtel-fahrbahnreinigung.de"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.1973056,
+    "lng": 8.113515399999999
+  },
+  "meta:weather": {
+    "date": "2012-08-18",
+    "temperature": 23.9,
+    "temperature_min": 17.2,
+    "temperature_max": 30.6,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 18.4,
+    "peakgust": 41.4,
+    "sunshine": 804,
+    "pressure": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "340",
+  "general:title": "Ausgelaufene Betriebsmittel",
+  "general:date": "2005-04-01T12:25:00+02:00",
+  "general:location": "R?ntgenstraße 25",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "0.5",
+  "general:dateFormatted": "01.04.2005 12:25",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "54",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "388",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "0",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "KdoW2",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-308.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-308.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kommandowagen",
+      "general:vehicleChassis": "VW Passat",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "09/88"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.19068000000001,
+    "lng": 8.10737
+  },
+  "meta:weather": {
+    "date": "2005-04-01",
+    "temperature": 7.5,
+    "temperature_min": 3.6,
+    "temperature_max": 13.4,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 21.6,
+    "peakgust": 50.8,
+    "sunshine": 732,
+    "pressure": null
+  }
+}

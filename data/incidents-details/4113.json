@@ -1,0 +1,67 @@
+{
+  "general:einsatzid": "4113",
+  "general:title": "Überörtliche Hilfe",
+  "general:date": "2015-11-05T18:59:00+01:00",
+  "general:location": "Annweiler",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "2.5",
+  "general:dateFormatted": "05.11.2015 18:59",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "268",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "48",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "58",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "PTLF 4000",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2040.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2040.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Pulvertanklöschfahrzeug",
+      "general:vehicleChassis": "MB 1832 AK 4x4 \"Actros\"",
+      "general:vehicleBuild": "<a href=\"http://www.lentner-gmbh.de\" target=\"new\">Lentner</a>",
+      "general:vehicleMobilization": "09/08"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "48",
+        "general:HiOrgName": "FF Annweiler",
+        "general:HiOrgLink": "http://www.feuerwehr-annweiler.de/"
+      },
+      {
+        "general:HiOrgId": "99",
+        "general:HiOrgName": "WF Buchmann"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.2062599,
+    "lng": 7.972605300000001
+  },
+  "meta:weather": {
+    "date": "2015-11-05",
+    "temperature": 12.7,
+    "temperature_min": 10.1,
+    "temperature_max": 16.6,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 14.4,
+    "peakgust": 26.6,
+    "sunshine": 514,
+    "pressure": null
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "35",
+  "general:title": "Ölspur",
+  "general:date": "2004-02-13T07:00:00+01:00",
+  "general:location": "Arzheimer Hauptstraße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.5",
+  "general:dateFormatted": "13.02.2004 07:00",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "29",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "7",
+  "general:EinsatzDescription": "",
+  "general:visits": "463",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1944513,
+    "lng": 8.0678108
+  },
+  "meta:weather": {
+    "date": "2004-02-13",
+    "temperature": 2.3,
+    "temperature_min": -0.4,
+    "temperature_max": 4.7,
+    "precipitation": 0.1,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 10.1,
+    "peakgust": 23,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

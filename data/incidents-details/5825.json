@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "5825",
+  "general:title": "Verständigung ILS",
+  "general:date": "2019-02-26T10:22:00+01:00",
+  "general:location": "Winden / Bahnhofstraße",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "26.02.2019 10:22",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "64",
+  "general:changed_on": "2019-02-26T10:40:49+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.0984007,
+    "lng": 8.1185103
+  },
+  "meta:weather": {
+    "date": "2019-02-26",
+    "temperature": 11.4,
+    "temperature_min": 8,
+    "temperature_max": 15.2,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 75,
+    "windspeed": 15.2,
+    "peakgust": 27,
+    "sunshine": 586,
+    "pressure": 1034.2
+  }
+}

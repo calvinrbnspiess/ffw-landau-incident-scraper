@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "3561",
+  "general:title": "Notfalltüröffnung",
+  "general:date": "2014-02-20T15:13:00+01:00",
+  "general:location": "Oberer Steinweg ",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "20.02.2014 15:13",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "31",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "170",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2124537,
+    "lng": 8.0883171
+  },
+  "meta:weather": {
+    "date": "2014-02-20",
+    "temperature": 6,
+    "temperature_min": 3.5,
+    "temperature_max": 9.8,
+    "precipitation": 0.5,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 23.8,
+    "peakgust": 51.1,
+    "sunshine": 243,
+    "pressure": null
+  }
+}

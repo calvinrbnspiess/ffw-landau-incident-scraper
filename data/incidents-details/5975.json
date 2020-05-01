@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "5975",
+  "general:title": "Verständigung ILS",
+  "general:date": "2019-06-23T12:28:00+02:00",
+  "general:location": "Hatzenbühl",
+  "general:categorie": "LNA",
+  "general:length": "1.0",
+  "general:dateFormatted": "23.06.2019 12:28",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "210",
+  "general:changed_on": "2019-06-23T12:37:25+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.11079729999999,
+    "lng": 8.2426928
+  },
+  "meta:weather": {
+    "date": "2019-06-23",
+    "temperature": 19.4,
+    "temperature_min": 15,
+    "temperature_max": 26,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 18.4,
+    "peakgust": null,
+    "sunshine": 600,
+    "pressure": null
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "1362",
+  "general:title": "Verständigung Baubetriebshof",
+  "general:date": "2008-03-01T09:26:00+01:00",
+  "general:location": "Westring/Nordring",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "01.03.2008 09:26",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "42",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "451",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2007422,
+    "lng": 8.108838
+  },
+  "meta:weather": {
+    "date": "2008-03-01",
+    "temperature": 6.1,
+    "temperature_min": 0.1,
+    "temperature_max": 8,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 62.3,
+    "peakgust": 132.1,
+    "sunshine": 180,
+    "pressure": null
+  }
+}

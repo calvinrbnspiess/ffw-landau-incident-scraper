@@ -1,0 +1,97 @@
+{
+  "general:einsatzid": "3051",
+  "general:title": "Technische Hilfeleistung",
+  "general:date": "2012-07-04T17:25:00+02:00",
+  "general:location": "Westbahnhof",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "2.5",
+  "general:dateFormatted": "04.07.2012 17:25",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "151",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "6",
+  "general:EinsatzDescription": "Aus dem Internetangebot von <a href=\"http://www.swr.de\" target=\"new\">SWR</a>:<br><br><b>Landau<br>\r\nMann von Zug ?berrollt und get?tet<br><br></b>\r\n\r\nEin Mann ist gestern Abend von einem Zug ?berrollt und get?tet worden. Die Polizei geht von einem Unfall aus. Der 89 Jahre alte Mann war an einem Bahn?bergang ?ber die Gleise gelaufen, obwohl sich die Schranken gerade schlossen. Laut Zeugen hatte er noch nach links und rechts geschaut und lief dann los, obwohl ein Zug im Anrollen war. Der Mann ging wahrscheinlich davon aus, dass die Bahn am Westbahnhof vor der Schranke halten w?rde. Durch die Bergungsarbeiten kam es zu erheblichen Behinderungen im Zug- und Autoverkehr.",
+  "general:visits": "2267",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "45",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "KdoW",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-299.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-299.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kommandowagen",
+        "general:vehicleChassis": "VW Passat",
+        "general:vehicleBuild": "VW",
+        "general:vehicleMobilization": "03/05"
+      },
+      {
+        "general:vehicleid": "60",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "HLF 20/16-1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+        "general:vehicleChassis": "IVECO FF 160 E 30",
+        "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+        "general:vehicleMobilization": "03/09"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "31",
+        "general:HiOrgName": "Rettungsdienst",
+        "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+      },
+      {
+        "general:HiOrgId": "29",
+        "general:HiOrgName": "Bundespolizei",
+        "general:HiOrgLink": "http://www.bundespolizei.de/cln_049/nn_250566/DE/BPOLP__West/Abteilungen/Bad__Bergzabern/BPOLABT__bad__bergzabern__node.html?__nnn=true"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "46",
+        "general:HiOrgName": "Notfallmanager DBAG",
+        "general:HiOrgLink": "http://www.db.de/site/bahn/de/standardnavigation/faq/notfallmanagement.html"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.195882,
+    "lng": 8.107351999999999
+  },
+  "meta:weather": {
+    "date": "2012-07-04",
+    "temperature": 20.4,
+    "temperature_min": 15.6,
+    "temperature_max": 25.9,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 10.8,
+    "peakgust": 25.2,
+    "sunshine": 516,
+    "pressure": null
+  }
+}

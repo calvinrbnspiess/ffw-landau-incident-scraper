@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "2630",
+  "general:title": "Ausgelaufene Betriebsmittel",
+  "general:date": "2011-01-22T13:41:00+01:00",
+  "general:location": "Kleiner Sand",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "0.5",
+  "general:dateFormatted": "22.01.2011 13:41",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "25",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "",
+  "general:visits": "318",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "1",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "ELW 1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-207.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-207.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Einsatzleitwagen",
+      "general:vehicleChassis": "VW LT",
+      "general:vehicleBuild": "<a href=\"http://www.hensel-fahrzeugbau.de\" target=\"new\">Hensel</a>",
+      "general:vehicleMobilization": "12/04"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "27",
+      "general:HiOrgName": "Fachfirma Straßenreinigung",
+      "general:HiOrgLink": "http://www.brechtel-fahrbahnreinigung.de"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1965566,
+    "lng": 8.1596716
+  },
+  "meta:weather": {
+    "date": "2011-01-22",
+    "temperature": -3.6,
+    "temperature_min": -5.2,
+    "temperature_max": -1.3,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 14.4,
+    "peakgust": 33.8,
+    "sunshine": 144,
+    "pressure": null
+  }
+}

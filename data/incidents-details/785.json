@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "785",
+  "general:title": "Umgest?rzter Baum",
+  "general:date": "2006-08-05T20:43:00+02:00",
+  "general:location": "Queich / Godramstein",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.0",
+  "general:dateFormatted": "05.08.2006 20:43",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "220",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": " Siehe <a href=\"http://berichte2.thw-landau.de/bericht_lesen.php?jahr=2006&bericht=234&z=3.59061667478E+15\" target=\"new\">Bericht</a> des THW Landau. ",
+  "general:visits": "973",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "0",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "KdoW2",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-308.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-308.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kommandowagen",
+      "general:vehicleChassis": "VW Passat",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "09/88"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "47",
+      "general:HiOrgName": "THW OV Landau",
+      "general:HiOrgLink": "http://www.thw-landau.de"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.2113982,
+    "lng": 8.0760937
+  },
+  "meta:weather": {
+    "date": "2006-08-05",
+    "temperature": 15.8,
+    "temperature_min": 12,
+    "temperature_max": 21.2,
+    "precipitation": 6,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 14,
+    "peakgust": 45,
+    "sunshine": 336,
+    "pressure": null
+  }
+}

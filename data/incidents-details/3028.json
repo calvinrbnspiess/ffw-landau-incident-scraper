@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "3028",
+  "general:title": "Verständigung ILS",
+  "general:date": "2012-06-04T17:20:00+02:00",
+  "general:location": "Insheim",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "04.06.2012 17:20",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "128",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "588",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1572343,
+    "lng": 8.143958999999999
+  },
+  "meta:weather": {
+    "date": "2012-06-04",
+    "temperature": 11.6,
+    "temperature_min": 5.9,
+    "temperature_max": 17.2,
+    "precipitation": 0.7,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 30.2,
+    "peakgust": 74.2,
+    "sunshine": 132,
+    "pressure": null
+  }
+}

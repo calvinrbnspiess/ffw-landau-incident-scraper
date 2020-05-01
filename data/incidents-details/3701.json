@@ -1,0 +1,73 @@
+{
+  "general:einsatzid": "3701",
+  "general:title": "OrgLeiter-Transport",
+  "general:date": "2014-07-21T17:04:00+02:00",
+  "general:location": "Annweiler",
+  "general:categorie": "LNA",
+  "general:length": "1.5",
+  "general:dateFormatted": "21.07.2014 17:04",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "162",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": " Transport des Organisatorischen Leiters Rettungsdienst zu einem Verkehrsunfall auf die B10 bei Annweiler. Weiteres siehe <a href=\"http://www.feuerwehr-annweiler.de/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=1560&cntnt01dateformat=%25d.%25m.%25Y&cntnt01returnid=15\" target=\"new\">hier</a>. ",
+  "general:visits": "809",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "65",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "MTF 1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1513.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1513.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+      "general:vehicleChassis": "Ford Transit",
+      "general:vehicleBuild": "<a href=\"http://www.compoint-fahrzeugbau.de\" target=\"new\">Compoint</a>",
+      "general:vehicleMobilization": "06/11"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "33",
+        "general:HiOrgName": "Org-Leiter",
+        "general:HiOrgLink": "https://www.suedliche-weinstrasse.de/de/landkreis/brandschutz/notarzt_orgaleiter.php"
+      },
+      {
+        "general:HiOrgId": "31",
+        "general:HiOrgName": "Rettungsdienst",
+        "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+      },
+      {
+        "general:HiOrgId": "48",
+        "general:HiOrgName": "FF Annweiler",
+        "general:HiOrgLink": "http://www.feuerwehr-annweiler.de/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.2062599,
+    "lng": 7.972605300000001
+  },
+  "meta:weather": {
+    "date": "2014-07-21",
+    "temperature": 17.3,
+    "temperature_min": 15.6,
+    "temperature_max": 21.5,
+    "precipitation": 7.8,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 23.4,
+    "peakgust": 45.7,
+    "sunshine": 67,
+    "pressure": null
+  }
+}

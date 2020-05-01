@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "23",
+  "general:title": "Kontrolle nach Schwelbrand",
+  "general:date": "2004-02-01T12:19:00+01:00",
+  "general:location": "Nauweg",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.0",
+  "general:dateFormatted": "01.02.2004 12:19",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "18",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "509",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1955389,
+    "lng": 8.0716318
+  },
+  "meta:weather": {
+    "date": "2004-02-01",
+    "temperature": 7.2,
+    "temperature_min": 5.9,
+    "temperature_max": 8.7,
+    "precipitation": 1.8,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 58.7,
+    "peakgust": 126,
+    "sunshine": 126,
+    "pressure": null
+  }
+}

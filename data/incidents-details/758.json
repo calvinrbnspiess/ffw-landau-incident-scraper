@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "758",
+  "general:title": "Auslaufende Betriebsmittel nach Unfall",
+  "general:date": "2006-07-26T16:07:00+02:00",
+  "general:location": "Industriestraße / Ostring",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "26.07.2006 16:07",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "193",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "619",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "0",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "KdoW2",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-308.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-308.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kommandowagen",
+      "general:vehicleChassis": "VW Passat",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "09/88"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.19906659999999,
+    "lng": 8.1189508
+  },
+  "meta:weather": {
+    "date": "2006-07-26",
+    "temperature": 27.6,
+    "temperature_min": 23.5,
+    "temperature_max": 33.5,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 13,
+    "peakgust": 32.8,
+    "sunshine": 486,
+    "pressure": null
+  }
+}

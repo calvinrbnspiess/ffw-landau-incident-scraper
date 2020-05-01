@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "4136",
+  "general:title": "Auslaufende Betriebsmittel",
+  "general:date": "2015-12-07T19:01:00+01:00",
+  "general:location": "Weißenburgerstraße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "07.12.2015 19:01",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "291",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "23",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "15",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "KLAF",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-263.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-263.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kleinalarmfahrzeug",
+      "general:vehicleChassis": "MB Sprinter",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "03/12"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1873759,
+    "lng": 8.113896
+  },
+  "meta:weather": {
+    "date": "2015-12-07",
+    "temperature": 9.1,
+    "temperature_min": 7.3,
+    "temperature_max": 12.7,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 19.8,
+    "peakgust": 49.3,
+    "sunshine": 436,
+    "pressure": null
+  }
+}

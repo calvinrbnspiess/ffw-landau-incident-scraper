@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "3766",
+  "general:title": "Ölspur",
+  "general:date": "2014-09-30T15:55:00+02:00",
+  "general:location": "K 5 / Horstring / Queichanger",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "30.09.2014 15:55",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "222",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "57",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "15",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "KLAF",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-263.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-263.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kleinalarmfahrzeug",
+      "general:vehicleChassis": "MB Sprinter",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "03/12"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "27",
+      "general:HiOrgName": "Fachfirma Straßenreinigung",
+      "general:HiOrgLink": "http://www.brechtel-fahrbahnreinigung.de"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.20283209999999,
+    "lng": 8.1390994
+  },
+  "meta:weather": {
+    "date": "2014-09-30",
+    "temperature": 15.7,
+    "temperature_min": 13.5,
+    "temperature_max": 19.1,
+    "precipitation": 0.3,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 12.2,
+    "peakgust": 33.8,
+    "sunshine": 138,
+    "pressure": null
+  }
+}

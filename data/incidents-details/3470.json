@@ -1,0 +1,74 @@
+{
+  "general:einsatzid": "3470",
+  "general:title": "Messung",
+  "general:date": "2013-09-28T08:16:00+02:00",
+  "general:location": "Harthausen ",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "24.0",
+  "general:dateFormatted": "28.09.2013 08:16",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "262",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "10",
+  "general:EinsatzDescription": " Nach 24 Stunden Einsatz ist die Messeinheit aus Landau wieder eingerückt. Anfangs haben die eingesetzten Kräfte Messungen in der Umgebung durchgeführt, ab Nachmittag wurden bis zum Sonntag morgen die Gasbehälter direkt überprüft und freigemessen. Insgesamt waren zehn Kräfte aus Landau im Einsatz. Wir freuen uns über die kameradschaftliche Zusammenarbeit vor Ort und wünschen den verunfallten Kameraden eine gute und rasche Genesung.",
+  "general:visits": "2231",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "17",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "Mef-G",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-258.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-258.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Messtruppfahrzeug",
+        "general:vehicleChassis": "VW Bus",
+        "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+        "general:vehicleMobilization": "08/91"
+      },
+      {
+        "general:vehicleid": "53",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "KdoW 2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1501.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1501.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kommandowagen - Fahrzeug für den feuerwehrtechnischen Bediensteten",
+        "general:vehicleChassis": "Fiat Grande Punto",
+        "general:vehicleBuild": "Michael Schmidt mobile Kommunikation GmbH",
+        "general:vehicleMobilization": "12/07"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2943219,
+    "lng": 8.3460766
+  },
+  "meta:weather": {
+    "date": "2013-09-28",
+    "temperature": 11.7,
+    "temperature_min": 8.7,
+    "temperature_max": 15.6,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 21.6,
+    "peakgust": 46.8,
+    "sunshine": 63,
+    "pressure": null
+  }
+}

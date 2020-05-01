@@ -1,0 +1,74 @@
+{
+  "general:einsatzid": "41",
+  "general:title": "Ölabscheiden",
+  "general:date": "2004-02-19T18:02:00+01:00",
+  "general:location": "Kläranlage",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "19.02.2004 18:02",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "35",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "563",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "16",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "GW-G 2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-225.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-225.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Gerätewagen Gefahrgut 2",
+        "general:vehicleChassis": "MAN 9.163",
+        "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+        "general:vehicleMobilization": "08/96"
+      },
+      {
+        "general:vehicleid": "22",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "FwA-Öl",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-297.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-297.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Ölsanimatanhänger",
+        "general:vehicleChassis": "",
+        "general:vehicleBuild": "Pfraum",
+        "general:vehicleMobilization": "12/82"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2076664,
+    "lng": 8.174271
+  },
+  "meta:weather": {
+    "date": "2004-02-19",
+    "temperature": -1.9,
+    "temperature_min": -3.6,
+    "temperature_max": 0.3,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 33.1,
+    "peakgust": 72,
+    "sunshine": 174,
+    "pressure": null
+  }
+}

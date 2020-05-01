@@ -1,0 +1,73 @@
+{
+  "general:einsatzid": "3054",
+  "general:title": "Technische Hilfeleistung",
+  "general:date": "2012-07-08T00:21:00+02:00",
+  "general:location": "Marktplatz",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.0",
+  "general:dateFormatted": "08.07.2012 00:21",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "153",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "5",
+  "general:EinsatzDescription": "",
+  "general:visits": "693",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "60",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "HLF 20/16-1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+      "general:vehicleChassis": "IVECO FF 160 E 30",
+      "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+      "general:vehicleMobilization": "03/09"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "31",
+        "general:HiOrgName": "Rettungsdienst",
+        "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "94",
+        "general:HiOrgName": "Ordnungsabteilung",
+        "general:HiOrgLink": "http://www.landau.de/index.phtml?object=tx|1815.345.1&ModID=9&FID=343.49.1&sNavID=1815.54&mNavID=1815.3&La=1&TypSel=1.100"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.1979789,
+    "lng": 8.1130113
+  },
+  "meta:weather": {
+    "date": "2012-07-07",
+    "temperature": 19.1,
+    "temperature_min": 14.5,
+    "temperature_max": 24.3,
+    "precipitation": 0.1,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 15.5,
+    "peakgust": 33.5,
+    "sunshine": 516,
+    "pressure": null
+  }
+}

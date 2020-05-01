@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "1945",
+  "general:title": "Amtshilfe für Polizei",
+  "general:date": "2009-07-12T21:48:00+02:00",
+  "general:location": "Weißenburger Straße",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "12.07.2009 21:48",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "181",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "",
+  "general:visits": "452",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "0",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "KdoW2",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-308.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-308.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kommandowagen",
+      "general:vehicleChassis": "VW Passat",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "09/88"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1873759,
+    "lng": 8.113896
+  },
+  "meta:weather": {
+    "date": "2009-07-12",
+    "temperature": 15.2,
+    "temperature_min": 11.9,
+    "temperature_max": 18.8,
+    "precipitation": 3.5,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 20.2,
+    "peakgust": 52.2,
+    "sunshine": 48,
+    "pressure": null
+  }
+}

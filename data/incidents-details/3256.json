@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "3256",
+  "general:title": "Ölspur",
+  "general:date": "2013-02-27T13:25:00+01:00",
+  "general:location": "Am Heimlichen Eck",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "27.02.2013 13:25",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "54",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "0",
+  "general:EinsatzDescription": "",
+  "general:visits": "230",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "15",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "KLAF",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-263.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-263.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kleinalarmfahrzeug",
+      "general:vehicleChassis": "MB Sprinter",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "03/12"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "27",
+      "general:HiOrgName": "Fachfirma Straßenreinigung",
+      "general:HiOrgLink": "http://www.brechtel-fahrbahnreinigung.de"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.2220925,
+    "lng": 8.1075591
+  },
+  "meta:weather": {
+    "date": "2013-02-27",
+    "temperature": -1.5,
+    "temperature_min": -2.2,
+    "temperature_max": -0.6,
+    "precipitation": 0.1,
+    "snowfall": null,
+    "snowdepth": 80,
+    "winddirection": null,
+    "windspeed": 20.9,
+    "peakgust": 46.4,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

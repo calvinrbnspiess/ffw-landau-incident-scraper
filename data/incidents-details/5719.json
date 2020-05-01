@@ -1,0 +1,50 @@
+{
+  "general:einsatzid": "5719",
+  "general:title": "Ölspur",
+  "general:date": "2018-12-06T11:55:00+01:00",
+  "general:location": "Lina-Kößler-Straße / Weißenburger Straße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "0.5",
+  "general:dateFormatted": "06.12.2018 11:55",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "760",
+  "general:changed_on": "2018-12-06T12:07:02+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "27",
+        "general:HiOrgName": "Fachfirma Straßenreinigung",
+        "general:HiOrgLink": "http://www.brechtel-fahrbahnreinigung.de"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.1888637,
+    "lng": 8.1140816
+  },
+  "meta:weather": {
+    "date": "2018-12-06",
+    "temperature": 7.2,
+    "temperature_min": 4.3,
+    "temperature_max": 9.1,
+    "precipitation": 0.3,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 248,
+    "windspeed": 28.3,
+    "peakgust": 70,
+    "sunshine": 0,
+    "pressure": 1019.3
+  }
+}

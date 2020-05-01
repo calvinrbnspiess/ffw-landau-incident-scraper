@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "1986",
+  "general:title": "Baum auf PKW",
+  "general:date": "2009-07-14T06:22:00+02:00",
+  "general:location": "Wilhelm-Schech-Straße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.0",
+  "general:dateFormatted": "14.07.2009 06:22",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "222",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "",
+  "general:AmountPeople": "0",
+  "general:EinsatzDescription": "",
+  "general:visits": "256",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1883893,
+    "lng": 8.1061209
+  },
+  "meta:weather": {
+    "date": "2009-07-14",
+    "temperature": 17.2,
+    "temperature_min": 14.9,
+    "temperature_max": 21.8,
+    "precipitation": 7,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 22.7,
+    "peakgust": 56.2,
+    "sunshine": 54,
+    "pressure": null
+  }
+}

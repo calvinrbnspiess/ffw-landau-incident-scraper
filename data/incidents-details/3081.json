@@ -1,0 +1,78 @@
+{
+  "general:einsatzid": "3081",
+  "general:title": "PKW-Brand",
+  "general:date": "2012-08-13T12:39:00+02:00",
+  "general:location": "Zweibrücker Straße",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.5",
+  "general:dateFormatted": "13.08.2012 12:39",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "180",
+  "picture:Picture": {
+    "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/1208/120813_01.jpg",
+    "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/1208/120813_01.jpg",
+    "picture:PictureFormat": "quer",
+    "picture:PictureDescription": "",
+    "picture:BufferPreview": "true",
+    "picture:BufferPicture": "false"
+  },
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "2",
+  "general:AmountPeople": "8",
+  "general:EinsatzDescription": "Am Montag kurz vor 13 Uhr machten Passanten den Fahrer eines Oldtimers aufmerksam, da? Flammen aus seinem Fahrzeug schlagen. In H?he des Friedhofes konnte der Fahrer den Citroen CX in der Zweibr?cker Stra?e abstellen. Die sofort hinzugezogenen Feuerwehr Landau l?schte das Feuer unter Atemschutz ab, der Motorbereich brannte v?llig aus. Im Einsatz waren acht Kr?fte mit einem L?schfahrzeug. ",
+  "general:visits": "1573",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "60",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "HLF 20/16-1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+      "general:vehicleChassis": "IVECO FF 160 E 30",
+      "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+      "general:vehicleMobilization": "03/09"
+    }
+  },
+  "picture:Pictures": {
+    "picture:Picture": {
+      "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/1208/120813_01.jpg",
+      "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/1208/120813_01.jpg",
+      "picture:PictureFormat": "quer",
+      "picture:PictureDescription": "",
+      "picture:BufferPreview": "true",
+      "picture:BufferPicture": "false"
+    }
+  },
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.19209679999999,
+    "lng": 8.1094755
+  },
+  "meta:weather": {
+    "date": "2012-08-13",
+    "temperature": 19.8,
+    "temperature_min": 14.2,
+    "temperature_max": 26.1,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 9,
+    "peakgust": 27.4,
+    "sunshine": 600,
+    "pressure": null
+  }
+}

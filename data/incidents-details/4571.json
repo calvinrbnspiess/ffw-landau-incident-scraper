@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "4571",
+  "general:title": "Brennender Baum",
+  "general:date": "2017-02-03T12:53:00+01:00",
+  "general:location": "Brühlgraben",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "0.5",
+  "general:dateFormatted": "03.02.2017 12:53",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "50",
+  "general:changed_on": "2017-02-03T13:12:31+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "56",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "TSF-W Mörzheim",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1502.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1502.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Tragkraftspritzenfahrzeug-Wasser",
+      "general:vehicleChassis": "IVECO Daily 65C18D",
+      "general:vehicleBuild": "Iveco Magirus Brandschutztechnik, jetzt: <a href=\"http://www.btg-goerlitz.biz/\" target=\"new\">Brandschutztechnik Görlitz</a>",
+      "general:vehicleMobilization": "06/08"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.19888599999999,
+    "lng": 8.1185622
+  },
+  "meta:weather": {
+    "date": "2017-02-03",
+    "temperature": 6.5,
+    "temperature_min": 4.4,
+    "temperature_max": 9.6,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 27.4,
+    "peakgust": 70.9,
+    "sunshine": 92,
+    "pressure": null
+  }
+}

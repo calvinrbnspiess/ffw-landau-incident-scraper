@@ -1,0 +1,43 @@
+{
+  "general:einsatzid": "2073",
+  "general:title": "Alarmierung THW",
+  "general:date": "2009-10-23T03:25:00+02:00",
+  "general:location": "Haardtstrasse",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "23.10.2009 03:25",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "308",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "561",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "47",
+      "general:HiOrgName": "THW OV Landau",
+      "general:HiOrgLink": "http://www.thw-landau.de"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.2023372,
+    "lng": 8.1176815
+  },
+  "meta:weather": {
+    "date": "2009-10-23",
+    "temperature": 7.1,
+    "temperature_min": 5.4,
+    "temperature_max": 8.4,
+    "precipitation": 0.3,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 11.5,
+    "peakgust": 23.4,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

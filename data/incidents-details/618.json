@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "618",
+  "general:title": "Verständigung Baubetriebshof",
+  "general:date": "2006-03-09T11:05:00+01:00",
+  "general:location": "Kreisel - Haardtstraße",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "09.03.2006 11:05",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "60",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "388",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2139,
+    "lng": 8.07718
+  },
+  "meta:weather": {
+    "date": "2006-03-09",
+    "temperature": 5.2,
+    "temperature_min": 3.5,
+    "temperature_max": 6.3,
+    "precipitation": 4.2,
+    "snowfall": null,
+    "snowdepth": 70,
+    "winddirection": null,
+    "windspeed": 43.9,
+    "peakgust": 91.1,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

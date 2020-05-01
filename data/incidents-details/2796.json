@@ -1,0 +1,72 @@
+{
+  "general:einsatzid": "2796",
+  "general:title": "Einsatz der Wärmebildkamera",
+  "general:date": "2011-07-22T19:15:00+02:00",
+  "general:location": "Grosse Gasse Walsheim",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "2.0",
+  "general:dateFormatted": "22.07.2011 19:15",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "187",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "947",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "65",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "MTF 1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1513.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1513.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+      "general:vehicleChassis": "Ford Transit",
+      "general:vehicleBuild": "<a href=\"http://www.compoint-fahrzeugbau.de\" target=\"new\">Compoint</a>",
+      "general:vehicleMobilization": "06/11"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "56",
+        "general:HiOrgName": "FF Billigheim-Ingenheim",
+        "general:HiOrgLink": "http://www.feuerwehr-billigheim-ingenheim.de/"
+      },
+      {
+        "general:HiOrgId": "70",
+        "general:HiOrgName": "FF Birkweiler",
+        "general:HiOrgLink": "http://www.feuerwehr-birkweiler.de"
+      },
+      {
+        "general:HiOrgId": "76",
+        "general:HiOrgName": "FF Walsheim"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.23669899999999,
+    "lng": 8.1247966
+  },
+  "meta:weather": {
+    "date": "2011-07-22",
+    "temperature": 13.2,
+    "temperature_min": 11.1,
+    "temperature_max": 18.7,
+    "precipitation": 1.6,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 14.8,
+    "peakgust": 29.2,
+    "sunshine": 114,
+    "pressure": null
+  }
+}

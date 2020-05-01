@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "2010",
+  "general:title": "Brandmeldeanlage",
+  "general:date": "2009-07-22T07:22:00+02:00",
+  "general:location": "Ostbahnstraße",
+  "general:categorie": "Brandmeldeanlage",
+  "general:length": "1.0",
+  "general:dateFormatted": "22.07.2009 07:22",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "246",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "9",
+  "general:EinsatzDescription": "",
+  "general:visits": "474",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "60",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "HLF 20/16-1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+      "general:vehicleChassis": "IVECO FF 160 E 30",
+      "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+      "general:vehicleMobilization": "03/09"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.197701,
+    "lng": 8.1197948
+  },
+  "meta:weather": {
+    "date": "2009-07-22",
+    "temperature": 21.6,
+    "temperature_min": 16.1,
+    "temperature_max": 25.7,
+    "precipitation": 0.8,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 28.8,
+    "peakgust": 88.9,
+    "sunshine": 264,
+    "pressure": null
+  }
+}

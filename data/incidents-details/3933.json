@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "3933",
+  "general:title": "Flächenbrand",
+  "general:date": "2015-04-22T13:08:00+02:00",
+  "general:location": "Schmiedstraße",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.0",
+  "general:dateFormatted": "22.04.2015 13:08",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "90",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": " Aus dem Polizeibericht:<br><br>Am Mittwoch wurde um 13.13 Uhr ein Flächenbrand in der Verlängerung der Schmiedstraße in Landau-Dammheim gemeldet. Die Freiwillige Feuerwehr stellte einen Brand auf einer Fläche von etwa 30 qm fest, auf der abgelagertes Brennholz und Brombeergehölz brande. Das Feuer konnte schnell gelöscht werden. Die Brandursache ist unklar. ",
+  "general:visits": "92",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "58",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "PTLF 4000",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2040.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2040.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Pulvertanklöschfahrzeug",
+      "general:vehicleChassis": "MB 1832 AK 4x4 \"Actros\"",
+      "general:vehicleBuild": "<a href=\"http://www.lentner-gmbh.de\" target=\"new\">Lentner</a>",
+      "general:vehicleMobilization": "09/08"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.2191512,
+    "lng": 8.1484684
+  },
+  "meta:weather": {
+    "date": "2015-04-22",
+    "temperature": 10.9,
+    "temperature_min": 5.3,
+    "temperature_max": 17.6,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 19.8,
+    "peakgust": 47.5,
+    "sunshine": 755,
+    "pressure": null
+  }
+}

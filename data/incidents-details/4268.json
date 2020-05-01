@@ -1,0 +1,107 @@
+{
+  "general:einsatzid": "4268",
+  "general:title": "Überörtliche Hilfe - Grossbrand",
+  "general:date": "2016-05-29T14:12:00+02:00",
+  "general:location": "Edesheim",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "2.0",
+  "general:dateFormatted": "29.05.2016 14:12",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "111",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "58",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "PTLF 4000",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2040.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2040.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Pulvertanklöschfahrzeug",
+      "general:vehicleChassis": "MB 1832 AK 4x4 \"Actros\"",
+      "general:vehicleBuild": "<a href=\"http://www.lentner-gmbh.de\" target=\"new\">Lentner</a>",
+      "general:vehicleMobilization": "09/08"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "50",
+        "general:HiOrgName": "FF Edenkoben",
+        "general:HiOrgLink": "http://www.feuerwehr-edenkoben.de/"
+      },
+      {
+        "general:HiOrgId": "51",
+        "general:HiOrgName": "FF Herxheim",
+        "general:HiOrgLink": "http://www.feuerwehr-herxheim.de/"
+      },
+      {
+        "general:HiOrgId": "52",
+        "general:HiOrgName": "FF Offenbach/Queich",
+        "general:HiOrgLink": "http://www.feuerwehroffenbach.de/"
+      },
+      {
+        "general:HiOrgId": "56",
+        "general:HiOrgName": "FF Billigheim-Ingenheim",
+        "general:HiOrgLink": "http://www.feuerwehr-billigheim-ingenheim.de/"
+      },
+      {
+        "general:HiOrgId": "74",
+        "general:HiOrgName": "FF Landau -Land-",
+        "general:HiOrgLink": "http://www.feuerwehr-landau-land.de"
+      },
+      {
+        "general:HiOrgId": "76",
+        "general:HiOrgName": "FF Walsheim"
+      },
+      {
+        "general:HiOrgId": "84",
+        "general:HiOrgName": "FF Edesheim",
+        "general:HiOrgLink": "http://www.feuerwehr-edesheim.de"
+      },
+      {
+        "general:HiOrgId": "93",
+        "general:HiOrgName": "FF Maikammer",
+        "general:HiOrgLink": "http://www.feuerwehr-maikammer.de/"
+      },
+      {
+        "general:HiOrgId": "96",
+        "general:HiOrgName": "FF Insheim",
+        "general:HiOrgLink": "http://www.feuerwehr-insheim.de"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.26270599999999,
+    "lng": 8.131542399999999
+  },
+  "meta:weather": {
+    "date": "2016-05-29",
+    "temperature": 15.3,
+    "temperature_min": 12.3,
+    "temperature_max": 21.5,
+    "precipitation": 24,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 15.8,
+    "peakgust": 70.6,
+    "sunshine": 167,
+    "pressure": null
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "general:einsatzid": "4172",
+  "general:title": "Amtshilfe - Personensuche",
+  "general:date": "2016-02-05T02:20:00+01:00",
+  "general:location": "Pommernstraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "05.02.2016 02:20",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "20",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "<header class=\"entry-header\">\n<h1 class=\"entry-title\">Landau: Feuerwehr findet 70-j&auml;hrige vermisste Person</h1>\n</header>\n<div class=\"entry-content\">\n<p style=\"text-align: justify;\">Landau (ots) &nbsp;&ndash; &nbsp;Nachdem ein 70-j&auml;hriger Bewohner einer Alten- und Pflegeeinrichtung in der Pommernstra&szlig;e beim n&auml;chtlichen Rundgang der Nachtwache am Donnerstagabend (04.02.) gegen 22 Uhr nicht mehr an seinem Zimmer angetroffen werden konnte, wurde eine Suche nach dem Vermissten eingeleitet. Die ersten Suchma&szlig;nahmen der Polizei verliefen zun&auml;chst erfolglos, weshalb die Suche unter Beteiligung der Feuerwehr ausgeweitet werden sollte. Schlie&szlig;lich konnte der an Demenz erkrankte Mann, zwar ersch&ouml;pft aber wohlbehalten, im Horstring auf einer Mauer sitzend, angetroffen werden. Der Einsatz der Feuerwehr war nicht mehr erforderlich. Der Mann wurde vom hinzugerufenen Rettungsdienst versorgt.</p>\n<p style=\"text-align: justify;\">Text:&nbsp;Polizeidirektion Landau</p>\n</div>",
+  "general:visits": "36",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "45",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "KdoW",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-299.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-299.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kommandowagen",
+      "general:vehicleChassis": "VW Passat",
+      "general:vehicleBuild": "VW",
+      "general:vehicleMobilization": "03/05"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "31",
+        "general:HiOrgName": "Rettungsdienst",
+        "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.2026536,
+    "lng": 8.1333815
+  },
+  "meta:weather": {
+    "date": "2016-02-05",
+    "temperature": 4.3,
+    "temperature_min": 1.9,
+    "temperature_max": 6.4,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 25.2,
+    "peakgust": 58.7,
+    "sunshine": 1,
+    "pressure": null
+  }
+}

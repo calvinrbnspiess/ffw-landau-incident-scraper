@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "5041",
+  "general:title": "Brandsicherheitswache",
+  "general:date": "2018-02-22T19:00:00+01:00",
+  "general:location": "Mahlastraße",
+  "general:categorie": "Brandsicherheitswache",
+  "general:length": "3.5",
+  "general:dateFormatted": "22.02.2018 19:00",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "91",
+  "general:changed_on": "2018-02-22T19:02:24+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "68",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "MTF Arzheim",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1516.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1516.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+      "general:vehicleChassis": "Ford Transit",
+      "general:vehicleBuild": "<a href=\"http://www.compoint-fahrzeugbau.de\" target=\"new\">Compoint</a>",
+      "general:vehicleMobilization": "02/12"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.19641679999999,
+    "lng": 8.120505399999999
+  },
+  "meta:weather": {
+    "date": "2018-02-22",
+    "temperature": -3.1,
+    "temperature_min": -5.4,
+    "temperature_max": 0.4,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 30,
+    "winddirection": 51,
+    "windspeed": 31.2,
+    "peakgust": 61,
+    "sunshine": 574,
+    "pressure": 1019.8
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "general:einsatzid": "461",
+  "general:title": "Alarmierung THW",
+  "general:date": "2005-08-16T00:30:00+02:00",
+  "general:location": "",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "16.08.2005 00:30",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "172",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "393",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:weather": {
+    "date": "2005-08-15",
+    "temperature": 11.6,
+    "temperature_min": 9.4,
+    "temperature_max": 13.8,
+    "precipitation": 8.5,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 22.7,
+    "peakgust": 45.7,
+    "sunshine": 12,
+    "pressure": null
+  }
+}

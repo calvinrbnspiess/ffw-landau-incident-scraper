@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "5187",
+  "general:title": "Technische Hilfeleistung kleinerer Art",
+  "general:date": "2018-06-12T08:48:00+02:00",
+  "general:location": "Königstraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "12.06.2018 08:48",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "235",
+  "general:changed_on": "2018-06-12T09:24:55+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "45",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "KdoW",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-299.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-299.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kommandowagen",
+      "general:vehicleChassis": "VW Passat",
+      "general:vehicleBuild": "VW",
+      "general:vehicleMobilization": "03/05"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1976123,
+    "lng": 8.1154257
+  },
+  "meta:weather": {
+    "date": "2018-06-12",
+    "temperature": 13.8,
+    "temperature_min": 11.9,
+    "temperature_max": 15.4,
+    "precipitation": 8.6,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": 134,
+    "windspeed": 17.7,
+    "peakgust": 49,
+    "sunshine": 0,
+    "pressure": 1010
+  }
+}

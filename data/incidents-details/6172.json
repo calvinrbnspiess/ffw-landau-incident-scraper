@@ -1,0 +1,43 @@
+{
+  "general:einsatzid": "6172",
+  "general:title": "Rauchwarnmelder",
+  "general:date": "2019-11-06T07:02:00+01:00",
+  "general:location": "August-Croissant-Straße",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "0.5",
+  "general:dateFormatted": "06.11.2019 07:02",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "400",
+  "general:changed_on": "2019-11-06T07:14:59+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.2063674,
+    "lng": 8.121995499999999
+  },
+  "meta:weather": {
+    "date": "2019-11-06",
+    "temperature": 6.2,
+    "temperature_min": 5.1,
+    "temperature_max": 8,
+    "precipitation": 0.1,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 250,
+    "windspeed": 22.3,
+    "peakgust": 44,
+    "sunshine": 12,
+    "pressure": 1003.3
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "5856",
+  "general:title": "Brandsicherheitswache",
+  "general:date": "2019-03-17T15:00:00+01:00",
+  "general:location": "Mahlastraße",
+  "general:categorie": "Brandsicherheitswache",
+  "general:length": "3.0",
+  "general:dateFormatted": "17.03.2019 15:00",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "95",
+  "general:changed_on": "2019-03-17T14:38:28+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "11",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "MTF 2",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-220.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-220.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+      "general:vehicleChassis": "VW LT",
+      "general:vehicleBuild": "Massong",
+      "general:vehicleMobilization": "12/04"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.19641679999999,
+    "lng": 8.120505399999999
+  },
+  "meta:weather": {
+    "date": "2019-03-17",
+    "temperature": 5.3,
+    "temperature_min": -0.1,
+    "temperature_max": 9.2,
+    "precipitation": 2.7,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 254,
+    "windspeed": 46.3,
+    "peakgust": 89,
+    "sunshine": 139,
+    "pressure": 1007
+  }
+}

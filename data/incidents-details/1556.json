@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "1556",
+  "general:title": "Brennender Baum",
+  "general:date": "2008-07-30T21:20:00+02:00",
+  "general:location": "Landau Richtung Impflingen",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.5",
+  "general:dateFormatted": "30.07.2008 21:20",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "225",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "7",
+  "general:EinsatzDescription": "",
+  "general:visits": "864",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "3",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "TLF 16-25",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-312.JPG",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-312.JPG",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Tanklöschfahrzeug",
+      "general:vehicleChassis": "MB 1222",
+      "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+      "general:vehicleMobilization": "02/86"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1620078,
+    "lng": 8.1139837
+  },
+  "meta:weather": {
+    "date": "2008-07-30",
+    "temperature": 22.3,
+    "temperature_min": 15.5,
+    "temperature_max": 29.8,
+    "precipitation": 71.8,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 13,
+    "peakgust": 112.3,
+    "sunshine": 504,
+    "pressure": null
+  }
+}

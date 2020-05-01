@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "2505",
+  "general:title": "Alarmierung THW",
+  "general:date": "2010-08-26T17:16:00+02:00",
+  "general:location": "Edesheim",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "26.08.2010 17:16",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "354",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "587",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "47",
+        "general:HiOrgName": "THW OV Landau",
+        "general:HiOrgLink": "http://www.thw-landau.de"
+      },
+      {
+        "general:HiOrgId": "50",
+        "general:HiOrgName": "FF Edenkoben",
+        "general:HiOrgLink": "http://www.feuerwehr-edenkoben.de/"
+      },
+      {
+        "general:HiOrgId": "84",
+        "general:HiOrgName": "FF Edesheim",
+        "general:HiOrgLink": "http://www.feuerwehr-edesheim.de"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.26270599999999,
+    "lng": 8.131542399999999
+  },
+  "meta:weather": {
+    "date": "2010-08-26",
+    "temperature": 19.4,
+    "temperature_min": 16.1,
+    "temperature_max": 24,
+    "precipitation": 16.4,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 35.6,
+    "peakgust": 92.9,
+    "sunshine": 294,
+    "pressure": null
+  }
+}

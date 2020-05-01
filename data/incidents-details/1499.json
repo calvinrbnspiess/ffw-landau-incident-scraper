@@ -1,0 +1,74 @@
+{
+  "general:einsatzid": "1499",
+  "general:title": "Unwetterschaden",
+  "general:date": "2008-06-02T22:15:00+02:00",
+  "general:location": "Weinleseweg",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.5",
+  "general:dateFormatted": "02.06.2008 22:15",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "170",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "10",
+  "general:EinsatzDescription": " Siehe Gesamtbericht <a href=\"http://www.feuerwehr-landau.de/einsatz/einsatz.php?nr=1462&lfdnr=134\">hier</a>. ",
+  "general:visits": "1115",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "8",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "LKW",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-262.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-262.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Lastkraftwagen",
+        "general:vehicleChassis": "MB Unimog",
+        "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+        "general:vehicleMobilization": "02/77"
+      },
+      {
+        "general:vehicleid": "33",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "TLF 16/25 Nussdorf",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-261.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-261.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Tanklöschfahrzeug",
+        "general:vehicleChassis": "MB 1113",
+        "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+        "general:vehicleMobilization": "10/76"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2251568,
+    "lng": 8.1041086
+  },
+  "meta:weather": {
+    "date": "2008-06-02",
+    "temperature": 20.2,
+    "temperature_min": 14,
+    "temperature_max": 28.8,
+    "precipitation": 10.2,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 23.4,
+    "peakgust": 63.4,
+    "sunshine": 510,
+    "pressure": null
+  }
+}

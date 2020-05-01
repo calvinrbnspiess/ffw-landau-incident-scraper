@@ -1,0 +1,68 @@
+{
+  "general:einsatzid": "2842",
+  "general:title": "Messung",
+  "general:date": "2011-09-26T10:30:00+02:00",
+  "general:location": "Speyerer Strasse, Edesheim",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.5",
+  "general:dateFormatted": "26.09.2011 10:30",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "233",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "719",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "46",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "MZF",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-259.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-259.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Mehrzweckfahrzeug",
+      "general:vehicleChassis": "MB 1425 4x4",
+      "general:vehicleBuild": "<a href=\"http://www.weschenfelder.com\" target=\"new\">Weschenfelder</a>",
+      "general:vehicleMobilization": "04/05"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "50",
+        "general:HiOrgName": "FF Edenkoben",
+        "general:HiOrgLink": "http://www.feuerwehr-edenkoben.de/"
+      },
+      {
+        "general:HiOrgId": "84",
+        "general:HiOrgName": "FF Edesheim",
+        "general:HiOrgLink": "http://www.feuerwehr-edesheim.de"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.2645201,
+    "lng": 8.1360586
+  },
+  "meta:weather": {
+    "date": "2011-09-26",
+    "temperature": 19.4,
+    "temperature_min": 17.1,
+    "temperature_max": 23.3,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 9.7,
+    "peakgust": 20.9,
+    "sunshine": 582,
+    "pressure": null
+  }
+}

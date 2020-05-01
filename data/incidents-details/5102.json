@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "5102",
+  "general:title": "Brandsicherheitswache",
+  "general:date": "2018-04-22T18:00:00+02:00",
+  "general:location": "Mahlastraße",
+  "general:categorie": "Brandsicherheitswache",
+  "general:length": "3.5",
+  "general:dateFormatted": "22.04.2018 18:00",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "151",
+  "general:changed_on": "2018-04-22T17:52:41+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.19641679999999,
+    "lng": 8.120505399999999
+  },
+  "meta:weather": {
+    "date": "2018-04-22",
+    "temperature": 20.2,
+    "temperature_min": 15.3,
+    "temperature_max": 26.4,
+    "precipitation": 0.7,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 188,
+    "windspeed": 21.6,
+    "peakgust": 63,
+    "sunshine": 532,
+    "pressure": 1013.9
+  }
+}

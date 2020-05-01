@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "601",
+  "general:title": "Verständigung Baubetriebshof",
+  "general:date": "2006-03-05T15:06:00+01:00",
+  "general:location": "Zweibrücker Straße 41",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "05.03.2006 15:06",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "43",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "384",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1948094,
+    "lng": 8.1051349
+  },
+  "meta:weather": {
+    "date": "2006-03-05",
+    "temperature": -3.4,
+    "temperature_min": -5.6,
+    "temperature_max": -0.2,
+    "precipitation": 0.6,
+    "snowfall": null,
+    "snowdepth": 180,
+    "winddirection": null,
+    "windspeed": 19.4,
+    "peakgust": 51.1,
+    "sunshine": 342,
+    "pressure": null
+  }
+}

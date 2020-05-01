@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "3715",
+  "general:title": "Ausgelaufene Betriebsmittel nach Unfall",
+  "general:date": "2014-08-07T19:24:00+02:00",
+  "general:location": "Lindenbergstraße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "0.5",
+  "general:dateFormatted": "07.08.2014 19:24",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "175",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "",
+  "general:visits": "79",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "66",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "MTF Nussdorf",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1514.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1514.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+      "general:vehicleChassis": "Ford Transit",
+      "general:vehicleBuild": "<a href=\"http://www.compoint-fahrzeugbau.de\" target=\"new\">Compoint</a>",
+      "general:vehicleMobilization": "06/11"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "27",
+      "general:HiOrgName": "Fachfirma Straßenreinigung",
+      "general:HiOrgLink": "http://www.brechtel-fahrbahnreinigung.de"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.2225086,
+    "lng": 8.105749
+  },
+  "meta:weather": {
+    "date": "2014-08-07",
+    "temperature": 18.7,
+    "temperature_min": 13.7,
+    "temperature_max": 24.9,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 12.2,
+    "peakgust": 33.8,
+    "sunshine": 615,
+    "pressure": null
+  }
+}

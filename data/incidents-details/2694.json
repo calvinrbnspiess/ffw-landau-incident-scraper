@@ -1,0 +1,68 @@
+{
+  "general:einsatzid": "2694",
+  "general:title": "Ölspur",
+  "general:date": "2011-03-31T18:01:00+02:00",
+  "general:location": "Mörzheimerstraße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "31.03.2011 18:01",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "86",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "",
+  "general:visits": "362",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "1",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "ELW 1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-207.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-207.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Einsatzleitwagen",
+      "general:vehicleChassis": "VW LT",
+      "general:vehicleBuild": "<a href=\"http://www.hensel-fahrzeugbau.de\" target=\"new\">Hensel</a>",
+      "general:vehicleMobilization": "12/04"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "42",
+        "general:HiOrgName": "Straßenmeisterei",
+        "general:HiOrgLink": "http://www.lbm.rlp.de/icc/Internet/nav/c81/c815b7fe-563c-4216-0f1d-8770a7fd7276.htm"
+      },
+      {
+        "general:HiOrgId": "27",
+        "general:HiOrgName": "Fachfirma Straßenreinigung",
+        "general:HiOrgLink": "http://www.brechtel-fahrbahnreinigung.de"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.1788227,
+    "lng": 8.0841862
+  },
+  "meta:weather": {
+    "date": "2011-03-31",
+    "temperature": 8.8,
+    "temperature_min": 6.9,
+    "temperature_max": 10.5,
+    "precipitation": 2.7,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 32.4,
+    "peakgust": 67.7,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

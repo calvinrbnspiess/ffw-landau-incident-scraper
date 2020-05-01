@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "5812",
+  "general:title": "Person in Aufzug",
+  "general:date": "2019-02-16T15:28:00+01:00",
+  "general:location": "Maximilianstraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "16.02.2019 15:28",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "51",
+  "general:changed_on": "2019-02-16T15:34:15+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "8",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1983579,
+    "lng": 8.1251786
+  },
+  "meta:weather": {
+    "date": "2019-02-16",
+    "temperature": 10,
+    "temperature_min": 6,
+    "temperature_max": 14.6,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 207,
+    "windspeed": 14.1,
+    "peakgust": 33,
+    "sunshine": 564,
+    "pressure": 1028.1
+  }
+}

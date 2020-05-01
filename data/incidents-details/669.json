@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "669",
+  "general:title": "Verständigung Baubetriebshof",
+  "general:date": "2006-04-21T09:50:00+02:00",
+  "general:location": "Ostbahnstrasse",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "21.04.2006 09:50",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "106",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "416",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.197701,
+    "lng": 8.1197948
+  },
+  "meta:weather": {
+    "date": "2006-04-21",
+    "temperature": 15.5,
+    "temperature_min": 10.2,
+    "temperature_max": 21.4,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 11.5,
+    "peakgust": 29.9,
+    "sunshine": 660,
+    "pressure": null
+  }
+}

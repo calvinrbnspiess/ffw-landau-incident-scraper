@@ -1,0 +1,68 @@
+{
+  "general:einsatzid": "3764",
+  "general:title": "Überörtliche Hilfe - Technische Hilfe",
+  "general:date": "2014-09-27T16:03:00+02:00",
+  "general:location": "Leinsweiler",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.5",
+  "general:dateFormatted": "27.09.2014 16:03",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "220",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": " Weiter Infos bei <a href=\"http://www.feuerwehr-landau-land.de/index.php/einsaetze/einsaetze-2014?eid=3694\" target=New\">www.feuerwehr-landau-land.de</a>.",
+  "general:visits": "128",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "11",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "MTF 2",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-220.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-220.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+      "general:vehicleChassis": "VW LT",
+      "general:vehicleBuild": "Massong",
+      "general:vehicleMobilization": "12/04"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "74",
+        "general:HiOrgName": "FF Landau -Land-",
+        "general:HiOrgLink": "http://www.feuerwehr-landau-land.de"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.1848724,
+    "lng": 8.01369
+  },
+  "meta:weather": {
+    "date": "2014-09-27",
+    "temperature": 14.7,
+    "temperature_min": 12.2,
+    "temperature_max": 19.6,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 14.8,
+    "peakgust": 37.8,
+    "sunshine": 518,
+    "pressure": null
+  }
+}

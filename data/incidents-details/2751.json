@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "2751",
+  "general:title": "Wasserschaden",
+  "general:date": "2011-05-25T17:15:00+02:00",
+  "general:location": "M?ller-Thurgau-Strasse",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.0",
+  "general:dateFormatted": "25.05.2011 17:15",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "142",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "409",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "57",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "TSF-W Godramstein",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1503.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1503.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Tragkraftspritzenfahrzeug-Wasser",
+      "general:vehicleChassis": "IVECO Daily 65C18D",
+      "general:vehicleBuild": "Iveco Magirus Brandschutztechnik, jetzt: <a href=\"http://www.btg-goerlitz.biz/\" target=\"new\">Brandschutztechnik Görlitz</a>",
+      "general:vehicleMobilization": "06/08"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "43",
+      "general:HiOrgName": "Energie Südwest AG",
+      "general:HiOrgLink": "http://www.energie-suedwest.de/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.2143734,
+    "lng": 8.0809142
+  },
+  "meta:weather": {
+    "date": "2011-05-25",
+    "temperature": 15,
+    "temperature_min": 8.6,
+    "temperature_max": 20.9,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 19.8,
+    "peakgust": 41.4,
+    "sunshine": 882,
+    "pressure": null
+  }
+}

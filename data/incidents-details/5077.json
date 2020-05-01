@@ -1,0 +1,78 @@
+{
+  "general:einsatzid": "5077",
+  "general:title": "Person im Aufzug",
+  "general:date": "2018-03-31T22:59:00+02:00",
+  "general:location": "Maximilianstraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.0",
+  "general:dateFormatted": "31.03.2018 22:59",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "127",
+  "picture:Picture": {
+    "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/1803/5077-1.jpeg",
+    "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/1803/5077-1.jpeg",
+    "picture:PictureFormat": "quer",
+    "picture:PictureDescription": "",
+    "picture:BufferPreview": "true",
+    "picture:BufferPicture": "false"
+  },
+  "general:changed_on": "2018-04-03T14:03:58+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "7",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "60",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "HLF 20/16-1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+      "general:vehicleChassis": "IVECO FF 160 E 30",
+      "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+      "general:vehicleMobilization": "03/09"
+    }
+  },
+  "picture:Pictures": {
+    "picture:Picture": {
+      "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/1803/5077-1.jpeg",
+      "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/1803/5077-1.jpeg",
+      "picture:PictureFormat": "quer",
+      "picture:PictureDescription": "",
+      "picture:BufferPreview": "true",
+      "picture:BufferPicture": "false"
+    }
+  },
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "29",
+      "general:HiOrgName": "Bundespolizei",
+      "general:HiOrgLink": "http://www.bundespolizei.de/cln_049/nn_250566/DE/BPOLP__West/Abteilungen/Bad__Bergzabern/BPOLABT__bad__bergzabern__node.html?__nnn=true"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1983579,
+    "lng": 8.1251786
+  },
+  "meta:weather": {
+    "date": "2018-03-31",
+    "temperature": 5.9,
+    "temperature_min": 2.3,
+    "temperature_max": 13.1,
+    "precipitation": 0.4,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 284,
+    "windspeed": 18.3,
+    "peakgust": 41,
+    "sunshine": 326,
+    "pressure": 1000.2
+  }
+}

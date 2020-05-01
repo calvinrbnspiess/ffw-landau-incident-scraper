@@ -1,0 +1,43 @@
+{
+  "general:einsatzid": "2754",
+  "general:title": "Verständigung Polizei",
+  "general:date": "2011-05-28T21:09:00+02:00",
+  "general:location": "B10",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "28.05.2011 21:09",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "145",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "507",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.21279850000001,
+    "lng": 8.1152669
+  },
+  "meta:weather": {
+    "date": "2011-05-28",
+    "temperature": 12.6,
+    "temperature_min": 8.1,
+    "temperature_max": 18.8,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 14,
+    "peakgust": 44.6,
+    "sunshine": 318,
+    "pressure": null
+  }
+}

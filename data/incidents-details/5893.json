@@ -1,0 +1,73 @@
+{
+  "general:einsatzid": "5893",
+  "general:title": "CO-Warner",
+  "general:date": "2019-04-16T18:13:00+02:00",
+  "general:location": "Im Wiesengrund, Münchweiler",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.5",
+  "general:dateFormatted": "16.04.2019 18:13",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "130",
+  "general:changed_on": "2019-04-16T19:29:04+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "5",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "75",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "GW-Mess",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1558.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1558.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Gerätewagen-Messtechnik",
+      "general:vehicleChassis": "Mercedes Sprinter 316 CDI, Automatik",
+      "general:vehicleBuild": "<a href=\"http://www.binz-automotive.com/\" target=\"New\">Binz, Ilmenau</a>",
+      "general:vehicleMobilization": "10/14"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "31",
+        "general:HiOrgName": "Rettungsdienst",
+        "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "48",
+        "general:HiOrgName": "FF Annweiler",
+        "general:HiOrgLink": "http://www.feuerwehr-annweiler.de/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.2178378,
+    "lng": 7.7048098
+  },
+  "meta:weather": {
+    "date": "2019-04-16",
+    "temperature": 10,
+    "temperature_min": 4,
+    "temperature_max": 14.3,
+    "precipitation": 3.8,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": null,
+    "peakgust": null,
+    "sunshine": 300,
+    "pressure": null
+  }
+}

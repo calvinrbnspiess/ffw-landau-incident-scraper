@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "2325",
+  "general:title": "Amtshilfe für Polizei",
+  "general:date": "2010-05-26T20:40:00+02:00",
+  "general:location": "L 512, Bereich Anschlussstelle B 10",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "26.05.2010 20:40",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "178",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "5",
+  "general:EinsatzDescription": "",
+  "general:visits": "526",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "51",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "RW (heute: RW 2)",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-209.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-209.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Rüstwagen",
+      "general:vehicleChassis": "MB 1425 4x4",
+      "general:vehicleBuild": "<a href=\"http://www.weschenfelder.com\" target=\"new\">Weschenfelder</a>",
+      "general:vehicleMobilization": "07/05"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.26416099999999,
+    "lng": 8.104877799999999
+  },
+  "meta:weather": {
+    "date": "2010-05-26",
+    "temperature": 12.7,
+    "temperature_min": 10.9,
+    "temperature_max": 15.6,
+    "precipitation": 13.2,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 21.2,
+    "peakgust": 55.4,
+    "sunshine": 30,
+    "pressure": null
+  }
+}

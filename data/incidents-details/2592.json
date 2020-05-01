@@ -1,0 +1,68 @@
+{
+  "general:einsatzid": "2592",
+  "general:title": "Notfalltüröffnung",
+  "general:date": "2010-12-13T09:43:00+01:00",
+  "general:location": "Godramsteiner Straße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "13.12.2010 09:43",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "434",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "345",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "51",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "RW (heute: RW 2)",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-209.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-209.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Rüstwagen",
+      "general:vehicleChassis": "MB 1425 4x4",
+      "general:vehicleBuild": "<a href=\"http://www.weschenfelder.com\" target=\"new\">Weschenfelder</a>",
+      "general:vehicleMobilization": "07/05"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "31",
+        "general:HiOrgName": "Rettungsdienst",
+        "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.20725969999999,
+    "lng": 8.1085247
+  },
+  "meta:weather": {
+    "date": "2010-12-13",
+    "temperature": -5.9,
+    "temperature_min": -7.9,
+    "temperature_max": -2.7,
+    "precipitation": 0.6,
+    "snowfall": null,
+    "snowdepth": 130,
+    "winddirection": null,
+    "windspeed": 18.4,
+    "peakgust": 52.2,
+    "sunshine": 378,
+    "pressure": null
+  }
+}

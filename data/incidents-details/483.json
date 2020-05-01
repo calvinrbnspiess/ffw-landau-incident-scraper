@@ -1,0 +1,91 @@
+{
+  "general:einsatzid": "483",
+  "general:title": "Amtshilfe Polizei",
+  "general:date": "2005-09-18T19:18:00+02:00",
+  "general:location": "Grundschule Wollmesheimer Höhe",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "3.0",
+  "general:dateFormatted": "18.09.2005 19:18",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "194",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "6",
+  "general:EinsatzDescription": "Aus der Tageszeitung <a href=\"http://www.rheinpfalz.de\" target=\"new\">Die Rheinpfalz</a> vom 19.09.2005:<br><br><b> Seltsame Farbreste bei Wahlhelfern</b><br><br>\r\n\r\nZu einem mysteri?sen Vorfall kam es gestern in einem Wahllokal in der Barbarossastra?e im Landauer Stadtteil Wollmesheimer H?he. Ein Polizeisprecher best?tigte Informationen der RHEINPFALZ, dass Wahlhelfer beim Z?hlen der Stimmzettel r?tliche Verf?rbungen an ihren H?nden bemerkt h?tten. Von einem Farbbeutelanschlag wisse er aber nichts, sagte der Polizist - solche Ger?chte waren im Rathaus zu h?ren gewesen. Ob die Farbreste von den Wahlzetteln stammen und um welche Substanz es sich handle, sei noch nicht bekannt. Die Feuerwehr war vor Ort, die Kripo ermittelt. Nach ersten Untersuchungen drohten den Betroffenen keine gesundheitlichen Beeintr?chtigungen, beruhigte der Polizeisprecher. (gau)\r\n\r\nAus der Tageszeitung <a href=\"http://www.rheinpfalz.de\" target=\"new\">Die Rheinpfalz</a> vom 20.09.2005:<br><br><b>Scherzbold f?rbt Wahlzettel mit Intensivfarbstoff</b><br><br>\r\nDas R?tsel um die Farbr?ckst?nde an den H?nden von Wahlhelfern in einem Wahllokal im Stadtteil Wollmesheimer H?he (wir berichteten gestern) ist gel?st: Wie die Polizei gestern mitteilte, brachte offenbar ein unbekannter W?hler den Intensivfarbstoff ?Fuchsin\" mit seinem Stimmzettel in die Wahlurne in der Wollmesheimer Grundschule. Dadurch hatten einige Wahlhelfer bei der Ausz?hlung rote Farbe an ihren Fingern. Die Messtechnik der Berufsfeuerwehr Mannheim habe bei ihrer Untersuchung definitiv festgestellt, dass es sich um Fuchsin handelte, ein Mittel, von dem keinerlei Gesundheitsgefahr ausgehe. Die Farbe habe sich durch wiederholtes Waschen entfernen lassen. (red)\r\n\r\n\r\n ",
+  "general:visits": "536",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "45",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "KdoW",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-299.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-299.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kommandowagen",
+        "general:vehicleChassis": "VW Passat",
+        "general:vehicleBuild": "VW",
+        "general:vehicleMobilization": "03/05"
+      },
+      {
+        "general:vehicleid": "17",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "Mef-G",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-258.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-258.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Messtruppfahrzeug",
+        "general:vehicleChassis": "VW Bus",
+        "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+        "general:vehicleMobilization": "08/91"
+      },
+      {
+        "general:vehicleid": "1",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "ELW 1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-207.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-207.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Einsatzleitwagen",
+        "general:vehicleChassis": "VW LT",
+        "general:vehicleBuild": "<a href=\"http://www.hensel-fahrzeugbau.de\" target=\"new\">Hensel</a>",
+        "general:vehicleMobilization": "12/04"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1914407,
+    "lng": 8.0933146
+  },
+  "meta:weather": {
+    "date": "2005-09-18",
+    "temperature": 9.8,
+    "temperature_min": 5.9,
+    "temperature_max": 15.2,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 27,
+    "peakgust": 54,
+    "sunshine": 708,
+    "pressure": null
+  }
+}

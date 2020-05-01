@@ -1,0 +1,73 @@
+{
+  "general:einsatzid": "1193",
+  "general:title": "Überörtliche Hilfe - Einsatz der Wärmebildkamera",
+  "general:date": "2007-08-23T20:30:00+02:00",
+  "general:location": "Herxheim",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "2.5",
+  "general:dateFormatted": "23.08.2007 20:30",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "275",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": " Einsatz der W?rmebildkamera bei  einem Geb?udebrand im Gewerbegebiet West in Herxheim.<br>Mehr <a href=\"http://www.feuerwehr-herxheim.de/index.php?option=com_content&task=view&id=229&Itemid=9\" target=\"new\">hier</a>.",
+  "general:visits": "1549",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "11",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "MTF 2",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-220.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-220.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+      "general:vehicleChassis": "VW LT",
+      "general:vehicleBuild": "Massong",
+      "general:vehicleMobilization": "12/04"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "47",
+        "general:HiOrgName": "THW OV Landau",
+        "general:HiOrgLink": "http://www.thw-landau.de"
+      },
+      {
+        "general:HiOrgId": "51",
+        "general:HiOrgName": "FF Herxheim",
+        "general:HiOrgLink": "http://www.feuerwehr-herxheim.de/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.1456391,
+    "lng": 8.213586099999999
+  },
+  "meta:weather": {
+    "date": "2007-08-23",
+    "temperature": 17.6,
+    "temperature_min": 14,
+    "temperature_max": 23.7,
+    "precipitation": 0.1,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 14,
+    "peakgust": 34.6,
+    "sunshine": 378,
+    "pressure": null
+  }
+}

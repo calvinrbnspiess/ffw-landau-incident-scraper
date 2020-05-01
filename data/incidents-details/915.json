@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "915",
+  "general:title": "Verständigung Baubetriebshof",
+  "general:date": "2007-01-17T11:03:00+01:00",
+  "general:location": "Pfarrer Lehmann Straße",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "17.01.2007 11:03",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "12",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "577",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2251257,
+    "lng": 8.1090613
+  },
+  "meta:weather": {
+    "date": "2007-01-17",
+    "temperature": 6.8,
+    "temperature_min": 5.3,
+    "temperature_max": 8.5,
+    "precipitation": 3.8,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 40.3,
+    "peakgust": 92.9,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

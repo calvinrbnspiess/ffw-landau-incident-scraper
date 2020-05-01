@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "5122",
+  "general:title": "Tragehilfe Hubrettungsfahrzeug",
+  "general:date": "2018-05-02T14:27:00+02:00",
+  "general:location": "Oberer Steinweg",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.0",
+  "general:dateFormatted": "02.05.2018 14:27",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "171",
+  "general:changed_on": "2018-05-02T14:28:09+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "5",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "74",
+      "general:vehicleVersion": "2",
+      "general:vehicleName": "TGM 23-12",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1538.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1538.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Teleskopgelenkmast",
+      "general:vehicleChassis": "Mercedes Atego 1629, Teligent-Schaltung",
+      "general:vehicleBuild": "<a href=\"http://www.metz-online.de/\">Metz</a>",
+      "general:vehicleMobilization": "10/14"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "31",
+      "general:HiOrgName": "Rettungsdienst",
+      "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.2124537,
+    "lng": 8.0883171
+  },
+  "meta:weather": {
+    "date": "2018-05-02",
+    "temperature": 9.7,
+    "temperature_min": 5.3,
+    "temperature_max": 14.5,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": 143,
+    "windspeed": 10.6,
+    "peakgust": 24,
+    "sunshine": 59,
+    "pressure": 1013.2
+  }
+}

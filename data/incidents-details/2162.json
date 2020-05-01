@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "2162",
+  "general:title": "Verständigung Baubetriebshof",
+  "general:date": "2010-02-01T18:10:00+01:00",
+  "general:location": "Ludowicistraße",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "01.02.2010 18:10",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "19",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "",
+  "general:visits": "448",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "45",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "KdoW",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-299.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-299.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kommandowagen",
+      "general:vehicleChassis": "VW Passat",
+      "general:vehicleBuild": "VW",
+      "general:vehicleMobilization": "03/05"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1952827,
+    "lng": 8.1229128
+  },
+  "meta:weather": {
+    "date": "2010-02-01",
+    "temperature": -4.1,
+    "temperature_min": -5.3,
+    "temperature_max": -2.7,
+    "precipitation": 1.1,
+    "snowfall": null,
+    "snowdepth": 210,
+    "winddirection": null,
+    "windspeed": 16.2,
+    "peakgust": 28.8,
+    "sunshine": 18,
+    "pressure": null
+  }
+}

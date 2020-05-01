@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "3864",
+  "general:title": "Kontrolle nach Brand",
+  "general:date": "2015-01-23T02:00:00+01:00",
+  "general:location": "Im Grein",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.0",
+  "general:dateFormatted": "23.01.2015 02:00",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "22",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "8",
+  "general:EinsatzDescription": "",
+  "general:visits": "191",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "70",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "LF-KatS",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD8045.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD8045.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Löschgruppenfahrzeug Katastrophenschutz",
+      "general:vehicleChassis": "MAN TGM 13.250 4x4 BL FW",
+      "general:vehicleBuild": "<a href=\"http://www.lentner-gmbh.de\" target=\"new\">Josef Lentner GmbH</a>",
+      "general:vehicleMobilization": "09/12"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2112667,
+    "lng": 8.126242699999999
+  },
+  "meta:weather": {
+    "date": "2015-01-23",
+    "temperature": -2,
+    "temperature_min": -3.7,
+    "temperature_max": -1.3,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 11.5,
+    "peakgust": 25.2,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

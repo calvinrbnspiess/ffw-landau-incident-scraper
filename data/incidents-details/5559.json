@@ -1,0 +1,68 @@
+{
+  "general:einsatzid": "5559",
+  "general:title": "Unterstützung Feuerwehr Annweiler",
+  "general:date": "2018-08-07T17:08:00+02:00",
+  "general:location": "Eußerthal",
+  "general:categorie": "LNA",
+  "general:length": "2.0",
+  "general:dateFormatted": "07.08.2018 17:08",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "605",
+  "general:changed_on": "2018-08-07T18:26:35+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "77",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "MTF 3",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1517.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1517.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+      "general:vehicleChassis": "Opem Movano",
+      "general:vehicleBuild": "Compoint",
+      "general:vehicleMobilization": "10/15"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "48",
+        "general:HiOrgName": "FF Annweiler",
+        "general:HiOrgLink": "http://www.feuerwehr-annweiler.de/"
+      },
+      {
+        "general:HiOrgId": "51",
+        "general:HiOrgName": "FF Herxheim",
+        "general:HiOrgLink": "http://www.feuerwehr-herxheim.de/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.2431826,
+    "lng": 7.969540599999999
+  },
+  "meta:weather": {
+    "date": "2018-08-07",
+    "temperature": 27.9,
+    "temperature_min": 21.5,
+    "temperature_max": 34.3,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": 200,
+    "windspeed": 16.1,
+    "peakgust": 46,
+    "sunshine": 610,
+    "pressure": 1010.4
+  }
+}

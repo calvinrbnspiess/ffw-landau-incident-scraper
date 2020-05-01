@@ -1,0 +1,78 @@
+{
+  "general:einsatzid": "2176",
+  "general:title": "Einsatz der Wärmebildkamera",
+  "general:date": "2010-02-19T14:22:00+01:00",
+  "general:location": "Oberhohlstrasse, Herxheim",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.0",
+  "general:dateFormatted": "19.02.2010 14:22",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "31",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "815",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "54",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "MTF 1 - alt",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1505.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1505.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+      "general:vehicleChassis": "VW T5",
+      "general:vehicleBuild": "<a href=\"http://www.auto-zotz.de\" target=\"new\">Auto Zotz</a>; Weschenfelder",
+      "general:vehicleMobilization": "02/08"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "31",
+        "general:HiOrgName": "Rettungsdienst",
+        "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+      },
+      {
+        "general:HiOrgId": "30",
+        "general:HiOrgName": "Kriminalpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "51",
+        "general:HiOrgName": "FF Herxheim",
+        "general:HiOrgLink": "http://www.feuerwehr-herxheim.de/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.1483313,
+    "lng": 8.2106251
+  },
+  "meta:weather": {
+    "date": "2010-02-19",
+    "temperature": 2.4,
+    "temperature_min": -1.9,
+    "temperature_max": 5.3,
+    "precipitation": 1,
+    "snowfall": null,
+    "snowdepth": 100,
+    "winddirection": null,
+    "windspeed": 23.8,
+    "peakgust": 61.9,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

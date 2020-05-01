@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "2646",
+  "general:title": "Messung",
+  "general:date": "2011-02-04T13:50:00+01:00",
+  "general:location": "Am Neuberg",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "04.02.2011 13:50",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "39",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "575",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "17",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "Mef-G",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-258.JPG",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-258.JPG",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Messtruppfahrzeug",
+      "general:vehicleChassis": "VW Bus",
+      "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+      "general:vehicleMobilization": "08/91"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1793203,
+    "lng": 8.0800319
+  },
+  "meta:weather": {
+    "date": "2011-02-04",
+    "temperature": 2.4,
+    "temperature_min": -1.1,
+    "temperature_max": 4.9,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 60,
+    "winddirection": null,
+    "windspeed": 56.5,
+    "peakgust": 124.6,
+    "sunshine": 6,
+    "pressure": null
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "5764",
+  "general:title": "Fahrzeugbrand klein",
+  "general:date": "2019-01-01T04:23:00+01:00",
+  "general:location": "Dorfstraße",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.0",
+  "general:dateFormatted": "01.01.2019 04:23",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "7",
+  "general:changed_on": "2019-01-01T16:39:11+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "11",
+  "general:EinsatzDescription": "<p>Bilanz der Silvesternacht:</p>\n<p>Sieben Br&auml;nde in der Silvesternacht</p>\n<p>Landau. Zu insgesamt sieben Eins&auml;tzen musste die Freiwillige Feuerwehr Landau in der vergangenen Silvesternacht ausr&uuml;cken. Um 00:27 Uhr wurde zun&auml;chst eine unklare Rauchentwicklung im Stadtteil Arzheim gemeldet. Ein Entstehungsbrand an einem Baum konnte von Bewohnern noch vor Eintreffen der Feuerwehr gel&ouml;scht werden, so dass lediglich Nachl&ouml;scharbeiten notwendig waren. Zwischen 00:43 Uhr und 00:59 Uhr mussten drei M&uuml;llbr&auml;nde im Landauer Stadtgebiet abgel&ouml;scht werden. Ein um 01:48 Uhr gemeldeter Fahrzeugbrand entpuppte sich als qualmende Feuerwerksk&ouml;rper unter einem Auto. Um 02:37 Uhr wurden die Einsatzkr&auml;fte dann zu einem Kellerbrand alarmiert. Brennender M&uuml;ll konnte durch einen Trupp unter Atemschutz ebenfalls schnell gel&ouml;scht werden. Verletzt wurde niemand. Schlie&szlig;lich wurde um 04:23 Uhr ein Fahrzeugbrand im Stadtteil Dammheim gemeldet. Aufgrund unsachgem&auml;&szlig;em Umgang mit Feuerwerksk&ouml;rpern musste ein Brand im Kofferraum eines PKW gel&ouml;scht werden. (bhi)</p>",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "60",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "HLF 20/16-1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+      "general:vehicleChassis": "IVECO FF 160 E 30",
+      "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+      "general:vehicleMobilization": "03/09"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.21985979999999,
+    "lng": 8.150514099999999
+  },
+  "meta:weather": {
+    "date": "2019-01-01",
+    "temperature": 3.3,
+    "temperature_min": 0.8,
+    "temperature_max": 4.5,
+    "precipitation": 1.8,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 271,
+    "windspeed": 31.5,
+    "peakgust": 67,
+    "sunshine": 0,
+    "pressure": 1030.7
+  }
+}

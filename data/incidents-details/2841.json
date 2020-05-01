@@ -1,0 +1,78 @@
+{
+  "general:einsatzid": "2841",
+  "general:title": "Überörtliche Hilfe - Technische Hilfe",
+  "general:date": "2011-09-26T00:04:00+02:00",
+  "general:location": "Weinstraße, Siebeldingen",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "2.5",
+  "general:dateFormatted": "26.09.2011 00:04",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "232",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "1230",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "4",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "TGM 23-12",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-243.JPG",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-243.JPG",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Teleskopgelenkmast",
+      "general:vehicleChassis": "MAN 15.264",
+      "general:vehicleBuild": "<a href=\"http://www.bronto.ch/\" target=\"new\">Bronto Skylift</a>",
+      "general:vehicleMobilization": "11/98"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "44",
+        "general:HiOrgName": "Pfalzwerke AG",
+        "general:HiOrgLink": "http://www.pfalzwerke.de/"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "47",
+        "general:HiOrgName": "THW OV Landau",
+        "general:HiOrgLink": "http://www.thw-landau.de"
+      },
+      {
+        "general:HiOrgId": "71",
+        "general:HiOrgName": "FF Siebeldingen",
+        "general:HiOrgLink": "http://www.feuerwehr-siebeldingen.de"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.20967770000001,
+    "lng": 8.052354
+  },
+  "meta:weather": {
+    "date": "2011-09-25",
+    "temperature": 17.9,
+    "temperature_min": 14.6,
+    "temperature_max": 21.5,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 9.4,
+    "peakgust": 21.2,
+    "sunshine": 654,
+    "pressure": null
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "general:einsatzid": "2598",
+  "general:title": "Einsatz der Wärmebildkamera",
+  "general:date": "2010-12-20T21:04:00+01:00",
+  "general:location": "Neugasse Offenbach",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.0",
+  "general:dateFormatted": "20.12.2010 21:04",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "439",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "Die Feuerwehr Landau war zur Unterst?tzung der Feuerwehr Offenbach mit der W?rmebildkamera bei einem Zimmerbrand.<br>N?heres zum Einsatz siehe <a href=\"http://www.feuerwehroffenbach.de\" target=\"new\">Feuerwehr Offenbach</a>.",
+  "general:visits": "1229",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "54",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "MTF 1 - alt",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1505.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1505.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+      "general:vehicleChassis": "VW T5",
+      "general:vehicleBuild": "<a href=\"http://www.auto-zotz.de\" target=\"new\">Auto Zotz</a>; Weschenfelder",
+      "general:vehicleMobilization": "02/08"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "52",
+        "general:HiOrgName": "FF Offenbach/Queich",
+        "general:HiOrgLink": "http://www.feuerwehroffenbach.de/"
+      },
+      {
+        "general:HiOrgId": "78",
+        "general:HiOrgName": "FF Bornheim",
+        "general:HiOrgLink": "http://www.feuerwehroffenbach.de/fwBornheim.htm"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.19158669999999,
+    "lng": 8.188659399999999
+  },
+  "meta:weather": {
+    "date": "2010-12-20",
+    "temperature": -2.1,
+    "temperature_min": -3.6,
+    "temperature_max": 1.9,
+    "precipitation": 13.3,
+    "snowfall": null,
+    "snowdepth": 210,
+    "winddirection": null,
+    "windspeed": 24.8,
+    "peakgust": 126,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

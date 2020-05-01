@@ -1,0 +1,43 @@
+{
+  "general:einsatzid": "1392",
+  "general:title": "Alarmierung THW",
+  "general:date": "2008-03-20T15:39:00+01:00",
+  "general:location": "Wolfsweg",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "20.03.2008 15:39",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "68",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "624",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "47",
+      "general:HiOrgName": "THW OV Landau",
+      "general:HiOrgLink": "http://www.thw-landau.de"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1916373,
+    "lng": 8.119354699999999
+  },
+  "meta:weather": {
+    "date": "2008-03-20",
+    "temperature": 0,
+    "temperature_min": -2.7,
+    "temperature_max": 3.9,
+    "precipitation": 5.3,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 35.6,
+    "peakgust": 91.1,
+    "sunshine": 138,
+    "pressure": null
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "3097",
+  "general:title": "Notfalltüröffnung",
+  "general:date": "2012-09-15T18:20:00+02:00",
+  "general:location": "Marktstraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "15.09.2012 18:20",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "196",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "10",
+  "general:EinsatzDescription": "",
+  "general:visits": "350",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1978936,
+    "lng": 8.1118758
+  },
+  "meta:weather": {
+    "date": "2012-09-15",
+    "temperature": 12,
+    "temperature_min": 9.2,
+    "temperature_max": 15.8,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 14,
+    "peakgust": 60.8,
+    "sunshine": 234,
+    "pressure": null
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "general:einsatzid": "5397",
+  "general:title": "Ölspur",
+  "general:date": "2018-07-25T15:41:00+02:00",
+  "general:location": "Johannes-Kopp-Straße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "2.5",
+  "general:dateFormatted": "25.07.2018 15:41",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "443",
+  "general:changed_on": "2018-07-25T17:35:41+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "5",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "65",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MTF 1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1513.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1513.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "Ford Transit",
+        "general:vehicleBuild": "<a href=\"http://www.compoint-fahrzeugbau.de\" target=\"new\">Compoint</a>",
+        "general:vehicleMobilization": "06/11"
+      },
+      {
+        "general:vehicleid": "77",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MTF 3",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1517.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1517.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "Opem Movano",
+        "general:vehicleBuild": "Compoint",
+        "general:vehicleMobilization": "10/15"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "27",
+        "general:HiOrgName": "Fachfirma Straßenreinigung",
+        "general:HiOrgLink": "http://www.brechtel-fahrbahnreinigung.de"
+      },
+      {
+        "general:HiOrgId": "98",
+        "general:HiOrgName": "Bauhof Landau",
+        "general:HiOrgLink": "http://www.ew-landau.de/index.phtml?mNavID=1804.9&sNavID=1804.85&La=1"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.1930957,
+    "lng": 8.1310571
+  },
+  "meta:weather": {
+    "date": "2018-07-25",
+    "temperature": 27.2,
+    "temperature_min": 23.3,
+    "temperature_max": 32.4,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": 102,
+    "windspeed": 8.6,
+    "peakgust": 33,
+    "sunshine": 822,
+    "pressure": 1013.2
+  }
+}

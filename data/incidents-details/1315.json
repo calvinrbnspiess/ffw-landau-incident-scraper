@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "1315",
+  "general:title": "Alarmierung THW",
+  "general:date": "2007-12-29T09:51:00+01:00",
+  "general:location": "Ostringcenter",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "29.12.2007 09:51",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "391",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "523",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1978958,
+    "lng": 8.1200513
+  },
+  "meta:weather": {
+    "date": "2007-12-29",
+    "temperature": 1.3,
+    "temperature_min": -1.4,
+    "temperature_max": 3.4,
+    "precipitation": 1.4,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 33.8,
+    "peakgust": 74.9,
+    "sunshine": 96,
+    "pressure": null
+  }
+}

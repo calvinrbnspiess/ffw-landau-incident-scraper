@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "2225",
+  "general:title": "Unwetterschaden",
+  "general:date": "2010-02-28T15:44:00+01:00",
+  "general:location": "Dammheim, Speyerer Straße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.0",
+  "general:dateFormatted": "28.02.2010 15:44",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "80",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "0",
+  "general:EinsatzDescription": "",
+  "general:visits": "215",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2211337,
+    "lng": 8.1503258
+  },
+  "meta:weather": {
+    "date": "2010-02-28",
+    "temperature": 5.5,
+    "temperature_min": 2.4,
+    "temperature_max": 11.5,
+    "precipitation": 0.8,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 62.6,
+    "peakgust": 163.8,
+    "sunshine": 354,
+    "pressure": null
+  }
+}

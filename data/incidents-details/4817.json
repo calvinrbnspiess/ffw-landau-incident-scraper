@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "4817",
+  "general:title": "Abgebrochener Ast",
+  "general:date": "2017-09-15T19:34:00+02:00",
+  "general:location": "Raimund Huber Straße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.5",
+  "general:dateFormatted": "15.09.2017 19:34",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "288",
+  "general:changed_on": "2017-09-15T20:16:54+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "5",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1866071,
+    "lng": 8.1075169
+  },
+  "meta:weather": {
+    "date": "2017-09-15",
+    "temperature": 9.2,
+    "temperature_min": 6.7,
+    "temperature_max": 13.8,
+    "precipitation": 0.4,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 22,
+    "peakgust": 56.2,
+    "sunshine": 206,
+    "pressure": null
+  }
+}

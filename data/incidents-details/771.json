@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "771",
+  "general:title": "OrgLeiter-Transport",
+  "general:date": "2006-07-27T15:37:00+02:00",
+  "general:location": "Offenbach / Queich",
+  "general:categorie": "LNA",
+  "general:length": "1.5",
+  "general:dateFormatted": "27.07.2006 15:37",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "206",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": " Aus dem Polizeibericht:<br><br>Offenbach,  Gemeinsame Presseerkl?rung der Polizeidirektion Landau und der Feuerwehr Offenbach \r\n <br><br>\r\n Offenbach Ein Blitzeinschlag verletzte am Donnerstagnachmittag sieben Einsatzkr?fte der Feuerwehr Offenbach zum Teil schwer. Die Wehr aus Offenbach wurde um 14.40 Uhr zu einem Fl?chenbrand am s?dlichen Ortsrand gerufen. Nachdem sie den Brand gel?scht hatten und damit besch?ftigt waren die Einsatzmittel in den Feuerwehrautos zu verstauen, schlug gegen 15.10 Uhr ein Blitz in unmittelbarer N?he der Einsatzkr?fte ein. Eine 39 j?hrige Feuerwehrfrau, die auf einem Feuerwehrauto stand, traf der Blitz am heftigsten. <br>Sechs weitere Einsatzkr?fte, die im Einzugbereich des Blitzeinschlages standen, wurden ebenfalls verletzt. Unmittelbar nach dem Einschlag verst?ndigte die Feuerwehr das DRK. Da der Ungl?cksort durch das zu diesem Zeitpunkt herrschende Gewitter f?r Rettungsfahrzeuge schwer anzufahren war, entschlossen sich die Einsatzkr?fte der Feuerwehr, die Verletzten zum Feuerwehrhaus zu bringen und dort ?rztlich versorgen zu lassen. <br>Mittlerweile waren dort drei Not?rzte und mehrere Krankenwagen eingetroffen. Ein Rettungshubschrauber brachte die 39 ? j?hrige Feuerwehrfrau in ein Karlsruher Krankenhaus. Bei ihr besteht nach jetzigen Erkenntnissen keine Lebensgefahr. Die weiteren Verletzten wurden zur Beobachtung in die Landauer Krankenh?user eingeliefert. Zum Ungl?ckzeitpunkt gingen in der S?dpfalz zum Teil heftige Gewitter nieder. <br>\r\n<br>\r\nDie Feuerwehr Landau w?nscht den Offenbacher Kameraden alles Gute und eine schnelle Genesung! ",
+  "general:visits": "1347",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "11",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "MTF 2",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-220.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-220.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+      "general:vehicleChassis": "VW LT",
+      "general:vehicleBuild": "Massong",
+      "general:vehicleMobilization": "12/04"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2,
+    "lng": 8.2
+  },
+  "meta:weather": {
+    "date": "2006-07-27",
+    "temperature": 24.8,
+    "temperature_min": 17.1,
+    "temperature_max": 32.9,
+    "precipitation": 18.4,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 15.5,
+    "peakgust": 63.7,
+    "sunshine": 618,
+    "pressure": null
+  }
+}

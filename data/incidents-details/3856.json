@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "3856",
+  "general:title": "Auslaufende Betriebsmittel",
+  "general:date": "2015-01-16T08:32:00+01:00",
+  "general:location": "Maximilianstraße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "16.01.2015 08:32",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "14",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "48",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "15",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "KLAF",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-263.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-263.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kleinalarmfahrzeug",
+      "general:vehicleChassis": "MB Sprinter",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "03/12"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "46",
+      "general:HiOrgName": "Notfallmanager DBAG",
+      "general:HiOrgLink": "http://www.db.de/site/bahn/de/standardnavigation/faq/notfallmanagement.html"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1983579,
+    "lng": 8.1251786
+  },
+  "meta:weather": {
+    "date": "2015-01-16",
+    "temperature": 2.4,
+    "temperature_min": 1.2,
+    "temperature_max": 5.5,
+    "precipitation": 10.3,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 20.9,
+    "peakgust": 78.8,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

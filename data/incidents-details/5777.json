@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "5777",
+  "general:title": "Brandsicherheitswache",
+  "general:date": "2019-01-09T19:00:00+01:00",
+  "general:location": "Mahlastraße",
+  "general:categorie": "Brandsicherheitswache",
+  "general:length": "3.0",
+  "general:dateFormatted": "09.01.2019 19:00",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "16",
+  "general:changed_on": "2019-01-09T19:24:04+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "73",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "MTF Wollmesheim",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1507.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1507.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+      "general:vehicleChassis": "Ford Transit",
+      "general:vehicleBuild": "<a href=\"http://www.compoint-fahrzeugbau.de\" target=\"new\">Compoint</a>",
+      "general:vehicleMobilization": "04/14"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.19641679999999,
+    "lng": 8.120505399999999
+  },
+  "meta:weather": {
+    "date": "2019-01-09",
+    "temperature": -0.5,
+    "temperature_min": -2.1,
+    "temperature_max": 0.3,
+    "precipitation": 1,
+    "snowfall": null,
+    "snowdepth": 10,
+    "winddirection": 308,
+    "windspeed": 35.2,
+    "peakgust": 71,
+    "sunshine": 42,
+    "pressure": 1016.4
+  }
+}

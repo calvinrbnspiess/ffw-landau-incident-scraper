@@ -1,0 +1,87 @@
+{
+  "general:einsatzid": "4468",
+  "general:title": "Auslaufende Betriebsmittel nach Unfall",
+  "general:date": "2016-11-10T23:01:00+01:00",
+  "general:location": "Ostring / Ostbahnstraße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "2.0",
+  "general:dateFormatted": "10.11.2016 23:01",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "264",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "7",
+  "general:EinsatzDescription": "<p>Polizeibericht: 10.11.2016, 23 Uhr</p>\n<p><strong>Fahrbahnteiler &uuml;bersehen</strong></p>\n<p><br />Am Donnerstagabend befuhr ein 25 j&auml;hriger Mann in seinem Pkw Audi den Ostring in Fahrtrichtung Nordring. In H&ouml;he des Cafe Klimt &uuml;bersah er aufgrund des schlechten Wetters und nicht angepasster Geschwindigkeit den dortigen Fahrbahnteiler. Er blieb an ihm h&auml;ngen und kam anschlie&szlig;end ins Schleudern. Die &Ouml;lwannne des Pkw wurde aufgerissen und verschmutzte die Stra&szlig;e. Das auslaufende &Ouml;l wurde zun&auml;chst von der Feuerwehr gebunden. Die Fahrbahn wurde anschlie&szlig;end von einer Fachfirma gereinigt. Der Audi war nicht mehr fahrbereit und musste abgeschleppt werden. Am Fahrbahnteiler entstand kein Schaden.</p>",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "51",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "RW 2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-209.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-209.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Rüstwagen",
+        "general:vehicleChassis": "MB 1425 4x4",
+        "general:vehicleBuild": "<a href=\"http://www.weschenfelder.com\" target=\"new\">Weschenfelder</a>",
+        "general:vehicleMobilization": "07/05"
+      },
+      {
+        "general:vehicleid": "15",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "KLAF",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-263.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-263.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kleinalarmfahrzeug",
+        "general:vehicleChassis": "MB Sprinter",
+        "general:vehicleBuild": "Eigen",
+        "general:vehicleMobilization": "03/12"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "27",
+        "general:HiOrgName": "Fachfirma Straßenreinigung",
+        "general:HiOrgLink": "http://www.brechtel-fahrbahnreinigung.de"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.197701,
+    "lng": 8.1197948
+  },
+  "meta:weather": {
+    "date": "2016-11-10",
+    "temperature": 3.4,
+    "temperature_min": 2.3,
+    "temperature_max": 5.2,
+    "precipitation": 9.1,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 36.7,
+    "peakgust": 87.5,
+    "sunshine": 146,
+    "pressure": null
+  }
+}

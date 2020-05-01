@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "5958",
+  "general:title": "Auslaufende Betriebsmittel aus PKW",
+  "general:date": "2019-06-05T00:08:00+02:00",
+  "general:location": "Siebenpfeiffer-Allee",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "05.06.2019 00:08",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "193",
+  "general:changed_on": "2019-06-05T00:15:46+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "5",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "15",
+      "general:vehicleVersion": "2",
+      "general:vehicleName": "KLAF",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-263.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-263.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kleinalarmfahrzeug",
+      "general:vehicleChassis": "MB Sprinter",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "03/12"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1899945,
+    "lng": 8.1222716
+  },
+  "meta:weather": {
+    "date": "2019-06-04",
+    "temperature": 21.5,
+    "temperature_min": 15.7,
+    "temperature_max": 29.2,
+    "precipitation": 0.3,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": 142,
+    "windspeed": 19.3,
+    "peakgust": 49,
+    "sunshine": 812,
+    "pressure": 1010.1
+  }
+}

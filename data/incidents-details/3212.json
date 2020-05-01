@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "3212",
+  "general:title": "Wasserschaden",
+  "general:date": "2013-01-05T18:19:00+01:00",
+  "general:location": "Theaterstraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.5",
+  "general:dateFormatted": "05.01.2013 18:19",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "13",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "10",
+  "general:EinsatzDescription": "",
+  "general:visits": "856",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "2",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "HLF 20/16-2",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-204.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-204.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+      "general:vehicleChassis": "IVECO 135E24W",
+      "general:vehicleBuild": "<a href=\"http://www.iveco-magirus.de/\" target=\"new\">Iveco-Magirus</a>",
+      "general:vehicleMobilization": "03/02"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.19920639999999,
+    "lng": 8.113705
+  },
+  "meta:weather": {
+    "date": "2013-01-05",
+    "temperature": 4.5,
+    "temperature_min": 3.7,
+    "temperature_max": 5.4,
+    "precipitation": 0.2,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 27,
+    "peakgust": 55.4,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

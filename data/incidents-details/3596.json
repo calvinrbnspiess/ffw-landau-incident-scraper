@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "3596",
+  "general:title": "Person in Aufzug",
+  "general:date": "2014-03-31T12:07:00+02:00",
+  "general:location": "Friedrich-Ebert-Straße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "31.03.2014 12:07",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "64",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "171",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1931182,
+    "lng": 8.1169738
+  },
+  "meta:weather": {
+    "date": "2014-03-31",
+    "temperature": 14.7,
+    "temperature_min": 12.6,
+    "temperature_max": 18.4,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 11.2,
+    "peakgust": 24.8,
+    "sunshine": 455,
+    "pressure": null
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "3104",
+  "general:title": "Ölspur",
+  "general:date": "2012-09-26T19:30:00+02:00",
+  "general:location": "Kreisel Haardt-, Horststraße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "0.5",
+  "general:dateFormatted": "26.09.2012 19:30",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "203",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "",
+  "general:visits": "221",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2034551,
+    "lng": 8.128521899999999
+  },
+  "meta:weather": {
+    "date": "2012-09-26",
+    "temperature": 10,
+    "temperature_min": 8,
+    "temperature_max": 13,
+    "precipitation": 3.9,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 23.8,
+    "peakgust": 53.6,
+    "sunshine": 12,
+    "pressure": null
+  }
+}

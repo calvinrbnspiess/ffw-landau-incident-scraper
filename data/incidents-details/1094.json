@@ -1,0 +1,80 @@
+{
+  "general:einsatzid": "1094",
+  "general:title": "Baum über Straße",
+  "general:date": "2007-05-25T09:59:00+02:00",
+  "general:location": "Nordring",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.5",
+  "general:dateFormatted": "25.05.2007 09:59",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "182",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "8",
+  "general:EinsatzDescription": "Pressemitteilung der Polizei Landau:<br><br> <b>An Baumkrone h?ngen geblieben</b><br>\r\nLandau. Am Morgen des Fr., 25.05.2007, blieb ein Lkw mit seinem Kastenaufbau beim Befahren des Nordringes an einer in die Fahrbahn ragenden Baumkrone h?ngen. Der Baum st?rzte dadurch um und besch?digte den Lkw dabei nicht unerheblich. Auch wurde der Bauzaun einer angrenzenden Baustelle in Mitleidenschaft gezogen.<br>\r\nZur Beseitigung des Baumes durch die Feuerwehr Landau mu?te der Nordring\r\nzwischen Neustadter Stra?e und Hindenburgstra?e f?r die Dauer von ca. 1 Stunde gesperrt werden.",
+  "general:visits": "895",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "2",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "LF 16-12-1 (heute: HLF 20/16-2)",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-204.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-204.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Löschgruppenfahrzeug",
+        "general:vehicleChassis": "IVECO 135E24W",
+        "general:vehicleBuild": "<a href=\"http://www.iveco-magirus.de/\" target=\"new\">Iveco-Magirus</a>",
+        "general:vehicleMobilization": "03/02"
+      },
+      {
+        "general:vehicleid": "11",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MTF 2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-220.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-220.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "VW LT",
+        "general:vehicleBuild": "Massong",
+        "general:vehicleMobilization": "12/04"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.2009173,
+    "lng": 8.1149723
+  },
+  "meta:weather": {
+    "date": "2007-05-25",
+    "temperature": 23.3,
+    "temperature_min": 18.9,
+    "temperature_max": 28.8,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 19.1,
+    "peakgust": 41.4,
+    "sunshine": 678,
+    "pressure": null
+  }
+}

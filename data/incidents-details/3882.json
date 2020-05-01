@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "3882",
+  "general:title": "PKW-Brand",
+  "general:date": "2015-02-20T14:11:00+01:00",
+  "general:location": "Kleiner Sand",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "0.5",
+  "general:dateFormatted": "20.02.2015 14:11",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "40",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "10",
+  "general:EinsatzDescription": "",
+  "general:visits": "84",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "60",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "HLF 20/16-1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+      "general:vehicleChassis": "IVECO FF 160 E 30",
+      "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+      "general:vehicleMobilization": "03/09"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1965566,
+    "lng": 8.1596716
+  },
+  "meta:weather": {
+    "date": "2015-02-20",
+    "temperature": 4.8,
+    "temperature_min": 0,
+    "temperature_max": 9.6,
+    "precipitation": 4.2,
+    "snowfall": null,
+    "snowdepth": 20,
+    "winddirection": null,
+    "windspeed": 32,
+    "peakgust": 73.8,
+    "sunshine": 380,
+    "pressure": null
+  }
+}

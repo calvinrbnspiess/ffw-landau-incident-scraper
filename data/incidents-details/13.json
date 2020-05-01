@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "13",
+  "general:title": "Brand von Müll",
+  "general:date": "2004-01-16T01:21:00+01:00",
+  "general:location": "Westring 18",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "0.5",
+  "general:dateFormatted": "16.01.2004 01:21",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "9",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "10",
+  "general:EinsatzDescription": "",
+  "general:visits": "526",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.19624,
+    "lng": 8.10867
+  },
+  "meta:weather": {
+    "date": "2004-01-16",
+    "temperature": 2.1,
+    "temperature_min": -0.3,
+    "temperature_max": 4,
+    "precipitation": 3.1,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 50,
+    "peakgust": 100.1,
+    "sunshine": 6,
+    "pressure": null
+  }
+}

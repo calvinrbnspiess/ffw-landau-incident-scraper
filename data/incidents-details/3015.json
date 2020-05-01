@@ -1,0 +1,80 @@
+{
+  "general:einsatzid": "3015",
+  "general:title": "Kleinbrand",
+  "general:date": "2012-05-23T01:36:00+02:00",
+  "general:location": "Dorfstraße",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.0",
+  "general:dateFormatted": "23.05.2012 01:36",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "115",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "10",
+  "general:EinsatzDescription": "",
+  "general:visits": "460",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "55",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "TSF-W Dammheim (heute: TSF-W Nußdorf)",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1504.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1504.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Tragkraftspritzenfahrzeug-Wasser",
+        "general:vehicleChassis": "IVECO Daily 65C18D",
+        "general:vehicleBuild": "Iveco Magirus Brandschutztechnik, jetzt: <a href=\"http://www.btg-goerlitz.biz/\" target=\"new\">Brandschutztechnik Görlitz</a>",
+        "general:vehicleMobilization": "06/08"
+      },
+      {
+        "general:vehicleid": "40",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MTF Dammheim",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-273.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-273.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "VW Bus",
+        "general:vehicleBuild": "",
+        "general:vehicleMobilization": "11/81"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "44",
+      "general:HiOrgName": "Pfalzwerke AG",
+      "general:HiOrgLink": "http://www.pfalzwerke.de/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.21985979999999,
+    "lng": 8.150514099999999
+  },
+  "meta:weather": {
+    "date": "2012-05-22",
+    "temperature": 17,
+    "temperature_min": 12.8,
+    "temperature_max": 22.5,
+    "precipitation": 0.9,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 14,
+    "peakgust": 40.3,
+    "sunshine": 420,
+    "pressure": null
+  }
+}

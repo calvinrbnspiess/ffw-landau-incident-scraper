@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "3165",
+  "general:title": "Verständigung Energie Südwest",
+  "general:date": "2012-11-28T16:40:00+01:00",
+  "general:location": "Gutleuthaus",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "28.11.2012 16:40",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "261",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "246",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2083826,
+    "lng": 8.1112329
+  },
+  "meta:weather": {
+    "date": "2012-11-28",
+    "temperature": 3.2,
+    "temperature_min": 1.9,
+    "temperature_max": 3.9,
+    "precipitation": 6.7,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 23.8,
+    "peakgust": 71.6,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

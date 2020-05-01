@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "3600",
+  "general:title": "PKW-Brand",
+  "general:date": "2014-04-04T01:01:00+02:00",
+  "general:location": "Kramstraße",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.0",
+  "general:dateFormatted": "04.04.2014 01:01",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "67",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "2",
+  "general:AmountPeople": "10",
+  "general:EinsatzDescription": "Gemeinsame Pressemitteilung der Staatsanwaltschaft Landau und der Kriminalinspektion Landau vom 04.04.2014:<br><br>\r\nDie Polizeiinspektion Landau wurde am Freitag, gegen 01.00 Uhr, zu einem PKW-Brand in der Landauer Innenstadt, Kramstraße, gerufen. Anwohner hatten die Flammen bemerkt. Die ebenfalls verständigte Feuerwehr konnte nicht verhindern, dass der Motorraum völlig ausbrannte, weiterer Schaden entstand jedoch nicht. Die ersten Überprüfungen in der Nacht ergaben keine Hinweise auf die Brandursache. Am Vormittag übernahm die Kriminalpolizei die Ermittlungen. Ersten Bewertungen zufolge liegen keine Hinweise auf eine Brandstiftung vor. Trotzdem wird nach Rücksprache mit der Staatsanwaltschaft Landau ein Brandsachverständiger eingeschaltet, der hier letztendlich Klarheit schaffen soll.",
+  "general:visits": "890",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "60",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "HLF 20/16-1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+      "general:vehicleChassis": "IVECO FF 160 E 30",
+      "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+      "general:vehicleMobilization": "03/09"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.2000101,
+    "lng": 8.1132695
+  },
+  "meta:weather": {
+    "date": "2014-04-03",
+    "temperature": 16.6,
+    "temperature_min": 13.7,
+    "temperature_max": 19.8,
+    "precipitation": 0.1,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 14,
+    "peakgust": 37.8,
+    "sunshine": 124,
+    "pressure": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "4773",
+  "general:title": "Auslaufende Betriebsmittel aus PKW",
+  "general:date": "2017-08-04T11:57:00+02:00",
+  "general:location": "Karl-Ziegler-Straße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "04.08.2017 11:57",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "244",
+  "general:changed_on": "2017-08-04T12:16:35+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "15",
+      "general:vehicleVersion": "2",
+      "general:vehicleName": "KLAF",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-263.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-263.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kleinalarmfahrzeug",
+      "general:vehicleChassis": "MB Sprinter",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "03/12"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1889988,
+    "lng": 8.1400758
+  },
+  "meta:weather": {
+    "date": "2017-08-04",
+    "temperature": 19,
+    "temperature_min": 16.3,
+    "temperature_max": 23.6,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 27.7,
+    "peakgust": 64.8,
+    "sunshine": 300,
+    "pressure": null
+  }
+}

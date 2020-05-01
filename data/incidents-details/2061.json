@@ -1,0 +1,104 @@
+{
+  "general:einsatzid": "2061",
+  "general:title": "Eingeklemmte Person",
+  "general:date": "2009-10-07T23:18:00+02:00",
+  "general:location": "Herrmann-Sauter-Strasse",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "07.10.2009 23:18",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "296",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "14",
+  "general:EinsatzDescription": " Pressemitteilung der <a href=\"http://www.polizei.rlp.de/internet/nav/15a/15a509c6-071a-9001-be59-2680a525fe06.htm\" target=\"_new\">Polizeidirektion Landau</a>:<br><br>\r\n<b>\r\nLandau , Eingequetscht\r\n \r\n </b>\r\n<br><br>\r\nVom eigenen BMW wurde am Mittwochabend ein 48 &#8211; j?hrigen Mann an der Garagenwand eingequetschte. Er stellte den BMW vor der Tiefgarageneinfahrt in der Hermann &#8211; Sauter &#8211; Stra?e ab und stieg aus, um das Tor zu ?ffnen. Als er bemerkte, dass das Fahrzeug zu rollen begann, ?ffnete er die Fahrert?r und wollte nachtr?glich die Handbremse ziehen. Das Fahrzeug rollte jedoch links gegen die Wand und quetschte ihn mit der Fahrert?r ein. Das herbeigerufene DRK und die Feuerwehr konnten ihn befreien. Er erlitt leichte Quetschungen an beiden Beinen, die in einem Krankenhaus behandelt wurden.",
+  "general:visits": "1539",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "45",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "KdoW",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-299.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-299.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kommandowagen",
+        "general:vehicleChassis": "VW Passat",
+        "general:vehicleBuild": "VW",
+        "general:vehicleMobilization": "03/05"
+      },
+      {
+        "general:vehicleid": "60",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "HLF 20/16-1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+        "general:vehicleChassis": "IVECO FF 160 E 30",
+        "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+        "general:vehicleMobilization": "03/09"
+      },
+      {
+        "general:vehicleid": "51",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "RW (heute: RW 2)",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-209.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-209.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Rüstwagen",
+        "general:vehicleChassis": "MB 1425 4x4",
+        "general:vehicleBuild": "<a href=\"http://www.weschenfelder.com\" target=\"new\">Weschenfelder</a>",
+        "general:vehicleMobilization": "07/05"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "31",
+        "general:HiOrgName": "Rettungsdienst",
+        "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.2046218,
+    "lng": 8.1187889
+  },
+  "meta:weather": {
+    "date": "2009-10-07",
+    "temperature": 18.2,
+    "temperature_min": 14.8,
+    "temperature_max": 22.4,
+    "precipitation": 0.9,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 26.6,
+    "peakgust": 69.1,
+    "sunshine": 276,
+    "pressure": null
+  }
+}

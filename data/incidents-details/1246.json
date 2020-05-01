@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "1246",
+  "general:title": "Auslaufende Betriebsmittel",
+  "general:date": "2007-10-06T20:20:00+02:00",
+  "general:location": "Neustadter Straße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "0.5",
+  "general:dateFormatted": "06.10.2007 20:20",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "327",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "391",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "0",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "KdoW2",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-308.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-308.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kommandowagen",
+      "general:vehicleChassis": "VW Passat",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "09/88"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2038773,
+    "lng": 8.1153846
+  },
+  "meta:weather": {
+    "date": "2007-10-06",
+    "temperature": 10,
+    "temperature_min": 6.8,
+    "temperature_max": 14.8,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 21.6,
+    "peakgust": 38.5,
+    "sunshine": 636,
+    "pressure": null
+  }
+}

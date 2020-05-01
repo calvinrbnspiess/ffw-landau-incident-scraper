@@ -1,0 +1,43 @@
+{
+  "general:einsatzid": "1548",
+  "general:title": "Alarmierung THW",
+  "general:date": "2008-07-28T23:54:00+02:00",
+  "general:location": "Offenbach",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "28.07.2008 23:54",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "217",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "496",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "47",
+      "general:HiOrgName": "THW OV Landau",
+      "general:HiOrgLink": "http://www.thw-landau.de"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.2,
+    "lng": 8.2
+  },
+  "meta:weather": {
+    "date": "2008-07-28",
+    "temperature": 23.9,
+    "temperature_min": 17.6,
+    "temperature_max": 31.3,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 14.8,
+    "peakgust": 40.7,
+    "sunshine": 576,
+    "pressure": null
+  }
+}

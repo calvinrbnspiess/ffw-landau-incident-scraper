@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "5875",
+  "general:title": "Ölspur",
+  "general:date": "2019-04-01T12:44:00+02:00",
+  "general:location": "Kraftgasse",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "01.04.2019 12:44",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "113",
+  "general:changed_on": "2019-04-01T12:48:46+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "15",
+      "general:vehicleVersion": "2",
+      "general:vehicleName": "KLAF",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-263.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-263.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kleinalarmfahrzeug",
+      "general:vehicleChassis": "MB Sprinter",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "03/12"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "94",
+      "general:HiOrgName": "Ordnungsabteilung",
+      "general:HiOrgLink": "http://www.landau.de/index.phtml?object=tx|1815.345.1&ModID=9&FID=343.49.1&sNavID=1815.54&mNavID=1815.3&La=1&TypSel=1.100"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1920945,
+    "lng": 8.1409814
+  },
+  "meta:weather": {
+    "date": "2019-04-01",
+    "temperature": 9.3,
+    "temperature_min": 3.7,
+    "temperature_max": 15.2,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 20.5,
+    "peakgust": 37.8,
+    "sunshine": 638,
+    "pressure": 1018.5
+  }
+}

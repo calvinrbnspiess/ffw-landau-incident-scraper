@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "600",
+  "general:title": "Tierk?rperbeseitigung",
+  "general:date": "2006-03-05T12:25:00+01:00",
+  "general:location": "Oberer Steinweg",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "05.03.2006 12:25",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "42",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "409",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "11",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "MTF 2",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-220.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-220.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+      "general:vehicleChassis": "VW LT",
+      "general:vehicleBuild": "Massong",
+      "general:vehicleMobilization": "12/04"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2124537,
+    "lng": 8.0883171
+  },
+  "meta:weather": {
+    "date": "2006-03-05",
+    "temperature": -3.4,
+    "temperature_min": -5.6,
+    "temperature_max": -0.2,
+    "precipitation": 0.6,
+    "snowfall": null,
+    "snowdepth": 180,
+    "winddirection": null,
+    "windspeed": 19.4,
+    "peakgust": 51.1,
+    "sunshine": 342,
+    "pressure": null
+  }
+}

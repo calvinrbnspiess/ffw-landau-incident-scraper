@@ -1,0 +1,218 @@
+{
+  "general:einsatzid": "410",
+  "general:title": "Überörtliche Hilfe - Unwettersch?den",
+  "general:date": "2005-06-29T21:30:00+02:00",
+  "general:location": "Rhein-Pfalz-Kreis",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "7.5",
+  "general:dateFormatted": "29.06.2005 21:30",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "121",
+  "picture:Picture": {
+    "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0506/050629_14.jpg",
+    "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0506/050629_14.jpg",
+    "picture:PictureFormat": "quer",
+    "picture:PictureDescription": "Einsatzstelle in Schifferstadt",
+    "picture:BufferPreview": "true",
+    "picture:BufferPicture": "false"
+  },
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "19",
+  "general:EinsatzDescription": "<b>Zusammenfassung</b><br><br>Auf Anforderung der Feuerwehr Schifferstadt ?ber?rtliche Hilfe nach schwerem Unwetter im Rhein-Pfalz-Kreis geleistet.<br>\r\nAn 14 Einsatzstellen wurden mittels Tauch- und Dieselpumpen Keller ausgepumpt. Im Einsatz waren insgesamt 6 Diesel- und 5 Tauchpumpen. Einsatzschwerpunkt f?r die Landauer Kr?fte war die Ortslage von Schifferstadt. Der FwA-?l (?lsanimat) leistete zudem noch Hilfe bei einem Einsatz in der Gemeinde Neuhofen. <br>\r\n Um halb f?nf r?ckten die eingesetzten Kr?fte der Feuerwehr Landau wieder ein.\r\nEinsatzende konnte gegen f?nf Uhr gegeben werden. <br> 2 Dieselpumpen mit Zubeh?r werden der Feuerwehr Schifferstadt weiterhin zur Verf?gung gestellt.<br><br>\r\nAus Lokalausgabe Schifferstadt der Tageszeitung \"<a href=\"http://www.rheinpfalz.de\" target=\"new\">Die Rheinpfalz</a>\":<br><br><font size=\"3\"> <b>Unwetter zwingt Hilfskr?fte in Dauereinsatz noch am Tag danach</font></b><br>\r\n <font size=\"3\"> STADT/LANDKREIS: Wehren pumpen Keller leer - Feuerwehrmann verletzt - TWL-Mitarbeiter reparieren - Rathaus-Center-Kunden greifen zu Schrubber</font><br>\r\n <b> Nach dem Unwetter vom Mittwochabend wurden gestern in der Stadt und im Landkreis weiter Sch?den beseitigt. Ein Feuerwehrmann der Berufsfeuerwehr Ludwigshafen wurde beim Einsatz in der Nacht zu Donnerstag leicht verletzt. Andere Personen kamen durch den sintflutartigen Regen mit Hagelschlag nicht zu Schaden. Die H?he der Sch?den durch den drastischen Wetterumsturz zwischen 19 und 21 Uhr l?sst sich nach Angaben von Feuerwehr und Polizei noch nicht beziffern. Heute will Landrat Schr?ter eine Schadensbilanz vorlegen.\r\n</b><br>\r\n  ..\r\n<br>\r\nIm Rhein-Pfalz-Kreis r?ckten die Freiwilligen Feuerwehren infolge des schweren Unwetters zu rund 1000 Eins?tzen aus. Zeitweise k?mpften laut Kreisverwaltung etwa 800 Kr?fte gegen die Folgen des Wolkenbruchs und zahlreicher Blitzeinschl?ge. Die Helfer kamen nicht nur aus allen Gemeinden des Kreisgebietes, sondern auch aus Meckenheim, Ha?loch, Lingenfeld und Landau. Der Schwerpunkt der Eins?tze lag in Schifferstadt, Neuhofen und umliegenden Gemeinden.<br>..<br>In Schifferstadt, wo ganze Stra?enz?ge bis zu 50 Zentimeter unter Wasser standen, z?hlte die Feuerwehr 280 Eins?tze. Die Unterf?hrungen waren total ?berflutet. Abgesperrt wurde die Bahnunterf?hrung Maxburgstra?e, in der zwei Autos unter den Wassermassen begraben waren. Die Insassen konnten ihre Fahrzeuge noch rechtzeitig verlassen. Gestern um 11 Uhr waren noch 60 Eins?tze zu erledigen, informierte Wehrleiter Hans Mattern. . ?Insgesamt waren die ganze Nacht 110 Feuerwehrleute mit 39 Fahrzeugen im Einsatz\", so Mattern.<br>..<br>\r\n<b> Ausgabe Speyer:</b><br><br>Im Landkreis k?mpften zeitweise rund 800 Kr?fte gegen die Folgen des Wolkenbruchs und von Blitzeinschl?gen. Die Helfer kamen nicht nur aus allen Gemeinden des Kreisgebietes, sondern auch zum Beispiel auch aus Meckenheim, Ha?loch und Landau. Nach ersten Sch?tzungen mussten sie alles in allem an etwa tausend Stellen in Aktion treten, wobei der Schwerpunkt in Schifferstadt und den Nachbarorten lag. In Schifferstadt selbst waren noch am Donnerstag gegen 9 Uhr vier Feuerwehren mit ungef?hr 50 Leuten im Einsatz. In erster Linie galt es, vollgelaufene Keller auszupumpen und ausgetretene Schadstoffe, wie zum Beispiel Heiz?l aus umgekippten Tanks, aufzufangen. Zus?tzlich waren unter anderem mehrere Br?nde zu l?schen, die auf Blitzeinschl?ge oder vom Regenwasser verursachte Kurzschl?sse zur?ckgingen. Selbst Kreisfeuerwehrinspekteur Alfred Hanewald, der mittlerweile schon 45 Jahre bei der Feuerwehr ist, kann sich an eine vergleichbare Situation im Rhein-Pfalz-Kreis nicht erinnern.\r\n<br>\r\n   ",
+  "general:visits": "819",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "1",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "ELW 1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-207.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-207.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Einsatzleitwagen",
+        "general:vehicleChassis": "VW LT",
+        "general:vehicleBuild": "<a href=\"http://www.hensel-fahrzeugbau.de\" target=\"new\">Hensel</a>",
+        "general:vehicleMobilization": "12/04"
+      },
+      {
+        "general:vehicleid": "45",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "KdoW",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-299.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-299.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kommandowagen",
+        "general:vehicleChassis": "VW Passat",
+        "general:vehicleBuild": "VW",
+        "general:vehicleMobilization": "03/05"
+      },
+      {
+        "general:vehicleid": "46",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MZF",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-259.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-259.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mehrzweckfahrzeug",
+        "general:vehicleChassis": "MB 1425 4x4",
+        "general:vehicleBuild": "<a href=\"http://www.weschenfelder.com\" target=\"new\">Weschenfelder</a>",
+        "general:vehicleMobilization": "04/05"
+      },
+      {
+        "general:vehicleid": "11",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MTF 2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-220.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-220.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "VW LT",
+        "general:vehicleBuild": "Massong",
+        "general:vehicleMobilization": "12/04"
+      },
+      {
+        "general:vehicleid": "0",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "KdoW2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-308.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-308.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kommandowagen",
+        "general:vehicleChassis": "VW Passat",
+        "general:vehicleBuild": "Eigen",
+        "general:vehicleMobilization": "09/88"
+      },
+      {
+        "general:vehicleid": "12",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "FwA Lima",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-240.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-240.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Lichtmastanhänger",
+        "general:vehicleChassis": "",
+        "general:vehicleBuild": "<a href=\"http://www.polyma.net\" target=\"new\">Polyma</a>",
+        "general:vehicleMobilization": "05/92"
+      },
+      {
+        "general:vehicleid": "22",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "FwA-Öl",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-297.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-297.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Ölsanimatanhänger",
+        "general:vehicleChassis": "",
+        "general:vehicleBuild": "Pfraum",
+        "general:vehicleMobilization": "12/82"
+      }
+    ]
+  },
+  "picture:Pictures": {
+    "picture:Picture": [
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0506/050629_14.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0506/050629_14.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "Einsatzstelle in Schifferstadt",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      },
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0506/050629_17.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0506/050629_17.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "Dieselpumpen werden in Betrieb genommen",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      },
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0506/050629_18.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0506/050629_18.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "Vollgelaufener Keller",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      },
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0506/050629_19.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0506/050629_19.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "Vollgelaufener Keller",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      },
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0506/050629_26.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0506/050629_26.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "Kompletter Garten steht ?ber 1m unter Wasser",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      },
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0506/050629_33.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0506/050629_33.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "?lsanimat wird aufgebaut",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      }
+    ]
+  },
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.19888599999999,
+    "lng": 8.1185622
+  },
+  "meta:weather": {
+    "date": "2005-06-29",
+    "temperature": 20.1,
+    "temperature_min": 14,
+    "temperature_max": 28.2,
+    "precipitation": 0.7,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 19.1,
+    "peakgust": 68.8,
+    "sunshine": 402,
+    "pressure": null
+  }
+}

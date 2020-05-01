@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "4575",
+  "general:title": "Person im Aufzug",
+  "general:date": "2017-02-06T10:54:00+01:00",
+  "general:location": "Friedrich-Ebert-Straße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "06.02.2017 10:54",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "54",
+  "general:changed_on": "2017-02-06T11:24:47+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1931182,
+    "lng": 8.1169738
+  },
+  "meta:weather": {
+    "date": "2017-02-06",
+    "temperature": 2.7,
+    "temperature_min": 1,
+    "temperature_max": 5.2,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 11.9,
+    "peakgust": 39.6,
+    "sunshine": 187,
+    "pressure": null
+  }
+}

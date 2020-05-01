@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "2084",
+  "general:title": "PKW-Brand",
+  "general:date": "2009-11-23T12:59:00+01:00",
+  "general:location": "Godramsteiner Straße",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.0",
+  "general:dateFormatted": "23.11.2009 12:59",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "319",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "746",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "58",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "TLF 20/40 SL (heute: PTLF 4000)",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2040.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2040.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Tanklöschfahrzeug",
+      "general:vehicleChassis": "MB 1832 AK 4x4 \"Actros\"",
+      "general:vehicleBuild": "<a href=\"http://www.lentner-gmbh.de\" target=\"new\">Lentner</a>",
+      "general:vehicleMobilization": "09/08"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.20725969999999,
+    "lng": 8.1085247
+  },
+  "meta:weather": {
+    "date": "2009-11-23",
+    "temperature": 7.2,
+    "temperature_min": 5.2,
+    "temperature_max": 8.7,
+    "precipitation": 12.7,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 61.9,
+    "peakgust": 128.9,
+    "sunshine": 84,
+    "pressure": null
+  }
+}

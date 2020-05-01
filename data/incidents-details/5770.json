@@ -1,0 +1,43 @@
+{
+  "general:einsatzid": "5770",
+  "general:title": "einfache Hilfeleistung",
+  "general:date": "2019-01-04T03:04:00+01:00",
+  "general:location": "Haardtstraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "04.01.2019 03:04",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "9",
+  "general:changed_on": "2019-01-04T09:00:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.2023372,
+    "lng": 8.1176815
+  },
+  "meta:weather": {
+    "date": "2019-01-04",
+    "temperature": -1,
+    "temperature_min": -2.3,
+    "temperature_max": 0.6,
+    "precipitation": 3.7,
+    "snowfall": null,
+    "snowdepth": 10,
+    "winddirection": 276,
+    "windspeed": 18.5,
+    "peakgust": 44,
+    "sunshine": 33,
+    "pressure": 1037.4
+  }
+}

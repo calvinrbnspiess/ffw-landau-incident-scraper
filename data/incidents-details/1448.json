@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "1448",
+  "general:title": "Technische Hilfeleistung",
+  "general:date": "2008-05-18T17:18:00+02:00",
+  "general:location": "Danziger Platz",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.0",
+  "general:dateFormatted": "18.05.2008 17:18",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "120",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "629",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "51",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "RW (heute: RW 2)",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-209.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-209.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Rüstwagen",
+      "general:vehicleChassis": "MB 1425 4x4",
+      "general:vehicleBuild": "<a href=\"http://www.weschenfelder.com\" target=\"new\">Weschenfelder</a>",
+      "general:vehicleMobilization": "07/05"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.20686430000001,
+    "lng": 8.142870199999999
+  },
+  "meta:weather": {
+    "date": "2008-05-18",
+    "temperature": 10.9,
+    "temperature_min": 7.6,
+    "temperature_max": 15.6,
+    "precipitation": 5,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 17.3,
+    "peakgust": 50,
+    "sunshine": 102,
+    "pressure": null
+  }
+}

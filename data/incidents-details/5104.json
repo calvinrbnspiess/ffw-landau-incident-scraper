@@ -1,0 +1,80 @@
+{
+  "general:einsatzid": "5104",
+  "general:title": "Öl auf Gewässer",
+  "general:date": "2018-04-23T19:33:00+02:00",
+  "general:location": "Godramstein, Queich",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.5",
+  "general:dateFormatted": "23.04.2018 19:33",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "153",
+  "general:changed_on": "2018-04-23T20:27:38+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "13",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "57",
+        "general:vehicleVersion": "2",
+        "general:vehicleName": "TSF-W Godramstein",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1503.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1503.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Tragkraftspritzenfahrzeug-Wasser",
+        "general:vehicleChassis": "IVECO Daily 65C18D",
+        "general:vehicleBuild": "Iveco Magirus Brandschutztechnik, jetzt: <a href=\"http://www.btg-goerlitz.biz/\" target=\"new\">Brandschutztechnik Görlitz</a>",
+        "general:vehicleMobilization": "06/08"
+      },
+      {
+        "general:vehicleid": "63",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "MTF Godramstein",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1505.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1505.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "VW T5",
+        "general:vehicleBuild": "<a href=\"http://www.auto-zotz.de\" target=\"new\">Auto Zotz</a>; Weschenfelder",
+        "general:vehicleMobilization": "02/08"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "74",
+      "general:HiOrgName": "FF Landau -Land-",
+      "general:HiOrgLink": "http://www.feuerwehr-landau-land.de"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.2113982,
+    "lng": 8.0760937
+  },
+  "meta:weather": {
+    "date": "2018-04-23",
+    "temperature": 15.4,
+    "temperature_min": 9.9,
+    "temperature_max": 20.4,
+    "precipitation": 1.2,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 257,
+    "windspeed": 32.2,
+    "peakgust": 70,
+    "sunshine": 158,
+    "pressure": 1015.2
+  }
+}

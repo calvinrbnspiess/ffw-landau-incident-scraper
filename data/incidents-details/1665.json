@@ -1,0 +1,43 @@
+{
+  "general:einsatzid": "1665",
+  "general:title": "Alarmierung THW",
+  "general:date": "2009-01-01T02:45:00+01:00",
+  "general:location": "Marktstraße",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "01.01.2009 02:45",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "4",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "1100",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1978936,
+    "lng": 8.1118758
+  },
+  "meta:weather": {
+    "date": "2009-01-01",
+    "temperature": -2.9,
+    "temperature_min": -6.7,
+    "temperature_max": 0.7,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 13,
+    "peakgust": 32.4,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

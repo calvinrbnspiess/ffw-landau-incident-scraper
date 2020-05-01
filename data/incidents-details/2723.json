@@ -1,0 +1,68 @@
+{
+  "general:einsatzid": "2723",
+  "general:title": "Messung",
+  "general:date": "2011-05-05T22:05:00+02:00",
+  "general:location": "Bereich Landau-Südliche Weinstraße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "2.0",
+  "general:dateFormatted": "05.05.2011 22:05",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "115",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "Aufgrund eines Brandes im baden-w?rtembergischen Rheinsheim und  der damit verbundenen Ausbreitung einer Rauchwolke in nordwestlicher Richtung f?hrte die Feuerwehr Landau gemeinsam mit Kr?ften des Gefahrstoffzuges S?dliche Weinstra?e (GW-AS Herxheim) Luftschadstoffmessungen durch. Im gesamten Einsatzgebiet wurden keine Feststellungen getroffen.  ",
+  "general:visits": "1350",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "17",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "Mef-G",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-258.JPG",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-258.JPG",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Messtruppfahrzeug",
+      "general:vehicleChassis": "VW Bus",
+      "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+      "general:vehicleMobilization": "08/91"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "51",
+        "general:HiOrgName": "FF Herxheim",
+        "general:HiOrgLink": "http://www.feuerwehr-herxheim.de/"
+      },
+      {
+        "general:HiOrgId": "53",
+        "general:HiOrgName": "GSZ Südliche Weinstraße",
+        "general:HiOrgLink": "http://www.suedliche-weinstrasse.de/weinstrasse/verwaltung/feuerwehr/gefahrstoffzug.php?navid=6"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.1947303,
+    "lng": 8.130766699999999
+  },
+  "meta:weather": {
+    "date": "2011-05-05",
+    "temperature": 10.7,
+    "temperature_min": 5.2,
+    "temperature_max": 16.7,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 16.9,
+    "peakgust": 44.3,
+    "sunshine": 780,
+    "pressure": null
+  }
+}

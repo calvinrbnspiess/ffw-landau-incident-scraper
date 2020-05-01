@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "537",
+  "general:title": "Ausgelaufene Betriebsmittel",
+  "general:date": "2005-12-04T17:06:00+01:00",
+  "general:location": "Zwischen Albersweiler und Eu?erthal",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.0",
+  "general:dateFormatted": "04.12.2005 17:06",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "246",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "389",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2196205,
+    "lng": 8.032028
+  },
+  "meta:weather": {
+    "date": "2005-12-04",
+    "temperature": 4.5,
+    "temperature_min": 3.5,
+    "temperature_max": 5.4,
+    "precipitation": 12.7,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 38.5,
+    "peakgust": 84.6,
+    "sunshine": 6,
+    "pressure": null
+  }
+}

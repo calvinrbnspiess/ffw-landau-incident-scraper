@@ -1,0 +1,43 @@
+{
+  "general:einsatzid": "2738",
+  "general:title": "Verständigung Energie Südwest",
+  "general:date": "2011-05-15T06:22:00+02:00",
+  "general:location": "Goethepark",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "15.05.2011 06:22",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "130",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "509",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "43",
+      "general:HiOrgName": "Energie Südwest AG",
+      "general:HiOrgLink": "http://www.energie-suedwest.de/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1947587,
+    "lng": 8.1068207
+  },
+  "meta:weather": {
+    "date": "2011-05-15",
+    "temperature": 8.2,
+    "temperature_min": 4.8,
+    "temperature_max": 15.2,
+    "precipitation": 2.3,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 19.8,
+    "peakgust": 55.1,
+    "sunshine": 408,
+    "pressure": null
+  }
+}

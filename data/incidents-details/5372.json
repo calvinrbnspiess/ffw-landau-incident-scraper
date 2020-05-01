@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "5372",
+  "general:title": "Flächenbrand klein",
+  "general:date": "2018-07-11T10:27:00+02:00",
+  "general:location": "Godramsteiner Straße",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "0.5",
+  "general:dateFormatted": "11.07.2018 10:27",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "418",
+  "general:changed_on": "2018-07-11T16:49:04+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "20",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.20725969999999,
+    "lng": 8.1085247
+  },
+  "meta:weather": {
+    "date": "2018-07-11",
+    "temperature": 14.5,
+    "temperature_min": 10.4,
+    "temperature_max": 22,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": 283,
+    "windspeed": 18.7,
+    "peakgust": 58,
+    "sunshine": 271,
+    "pressure": 1016.2
+  }
+}

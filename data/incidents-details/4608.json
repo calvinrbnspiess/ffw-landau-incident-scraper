@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "4608",
+  "general:title": "Tür öffnen dringend",
+  "general:date": "2017-03-06T11:08:00+01:00",
+  "general:location": "Im Steingebiß",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "06.03.2017 11:08",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "87",
+  "general:changed_on": "2017-03-06T11:24:10+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2080704,
+    "lng": 8.1049731
+  },
+  "meta:weather": {
+    "date": "2017-03-06",
+    "temperature": 3.3,
+    "temperature_min": 1.7,
+    "temperature_max": 7.1,
+    "precipitation": 0.7,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 37.8,
+    "peakgust": 72.4,
+    "sunshine": 137,
+    "pressure": null
+  }
+}

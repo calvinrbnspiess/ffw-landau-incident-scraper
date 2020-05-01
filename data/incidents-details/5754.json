@@ -1,0 +1,149 @@
+{
+  "general:einsatzid": "5754",
+  "general:title": "Gebäudebrand",
+  "general:date": "2018-12-29T11:24:00+01:00",
+  "general:location": "Hainfeld",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "5.5",
+  "general:dateFormatted": "29.12.2018 11:24",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "795",
+  "picture:Picture": {
+    "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/1812/5754-1.jpeg",
+    "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/1812/5754-1.jpeg",
+    "picture:PictureFormat": "quer",
+    "picture:PictureDescription": "",
+    "picture:BufferPreview": "true",
+    "picture:BufferPicture": "false"
+  },
+  "general:changed_on": "2018-12-31T11:48:16+01:00",
+  "general:AmountPA": "4",
+  "general:AmountPeople": "9",
+  "general:EinsatzDescription": "<p>Die Feuerwehr Landau unterst&uuml;tzte die Feuerwehr der Verbandsgemeinde Edenkoben bei einem ausgedehnten Geb&auml;udebrand in Hainfeld.</p>\n<p>Siehe auch Polizeibericht:</p>\n<h1 class=\"story-headline\">POL-PDLD: Brand eines Restaurants</h1>\n<div class=\"story-meta\"><span class=\"story-date sans\">29.12.2018 &ndash; 12:49</span></div>\n<div class=\"story-sharing cf\">&nbsp;</div>\n<div class=\"grid-col-1\">&nbsp;</div>\n<p><em><a class=\"story-city event-trigger\" title=\"News aus Hainfeld \" href=\"https://www.presseportal.de/blaulicht/r/Hainfeld\" data-category=\"citylink-story-view\" data-action=\"click\" data-label=\"Citylink in Meldungsansicht\">Hainfeld</a> (ots)</em> - In einem Restaurant im Ortskern in Hainfeld wurde um 09:57 Uhr am 29.12.2018 ein Vollbrand gemeldet. Personen wurden bislang nicht verletzt. Die H&ouml;he des Schadens sowie die Ursache stehen noch nicht fest. Die L&ouml;scharbeiten werden noch bis in die sp&auml;ten Nachmittagsstunden andauern. Es waren ca. 75 Personen und 14 Fahrzeuge der Feuerwehren und Rettungsdienste Edenkoben, Edesheim, Rhodt, Hainfeld und Maikammer im Einsatz sowie die Polizei Edenkoben.</p>",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "74",
+        "general:vehicleVersion": "2",
+        "general:vehicleName": "TGM 23-12",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1538.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1538.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Teleskopgelenkmast",
+        "general:vehicleChassis": "Mercedes Atego 1629, Teligent-Schaltung",
+        "general:vehicleBuild": "<a href=\"http://www.metz-online.de/\">Metz</a>",
+        "general:vehicleMobilization": "10/14"
+      },
+      {
+        "general:vehicleid": "58",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "PTLF 4000",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2040.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2040.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Pulvertanklöschfahrzeug",
+        "general:vehicleChassis": "MB 1832 AK 4x4 \"Actros\"",
+        "general:vehicleBuild": "<a href=\"http://www.lentner-gmbh.de\" target=\"new\">Lentner</a>",
+        "general:vehicleMobilization": "09/08"
+      },
+      {
+        "general:vehicleid": "24",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "SFI",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/kam/default.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/kam/default.jpg",
+          "picture:PictureFormat": "hoch",
+          "picture:PictureDescription": "Bild folgt",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "",
+        "general:vehicleChassis": "",
+        "general:vehicleBuild": "",
+        "general:vehicleMobilization": ""
+      }
+    ]
+  },
+  "picture:Pictures": {
+    "picture:Picture": [
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/1812/5754-1.jpeg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/1812/5754-1.jpeg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      },
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/1812/5754-2.jpeg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/1812/5754-2.jpeg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      },
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/1812/5754-3.jpeg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/1812/5754-3.jpeg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      }
+    ]
+  },
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "50",
+        "general:HiOrgName": "FF Edenkoben",
+        "general:HiOrgLink": "http://www.feuerwehr-edenkoben.de/"
+      },
+      {
+        "general:HiOrgId": "51",
+        "general:HiOrgName": "FF Herxheim",
+        "general:HiOrgLink": "http://www.feuerwehr-herxheim.de/"
+      },
+      {
+        "general:HiOrgId": "84",
+        "general:HiOrgName": "FF Edesheim",
+        "general:HiOrgLink": "http://www.feuerwehr-edesheim.de"
+      },
+      {
+        "general:HiOrgId": "93",
+        "general:HiOrgName": "FF Maikammer",
+        "general:HiOrgLink": "http://www.feuerwehr-maikammer.de/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.2573906,
+    "lng": 8.0993775
+  },
+  "meta:weather": {
+    "date": "2018-12-29",
+    "temperature": -1.4,
+    "temperature_min": -4.2,
+    "temperature_max": 0.9,
+    "precipitation": 0.1,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 274,
+    "windspeed": 23.4,
+    "peakgust": 78,
+    "sunshine": 0,
+    "pressure": 1034.2
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "4371",
+  "general:title": "Rauchwarnmelder",
+  "general:date": "2016-08-06T15:49:00+02:00",
+  "general:location": "An der Ziegelhütte",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "0.5",
+  "general:dateFormatted": "06.08.2016 15:49",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "190",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1967892,
+    "lng": 8.0892428
+  },
+  "meta:weather": {
+    "date": "2016-08-06",
+    "temperature": 16.3,
+    "temperature_min": 12.6,
+    "temperature_max": 22.8,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 15.8,
+    "peakgust": 34.2,
+    "sunshine": 412,
+    "pressure": null
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "general:einsatzid": "1565",
+  "general:title": "Alarmierung THW",
+  "general:date": "2008-08-04T09:35:00+02:00",
+  "general:location": "Vogesenstraße",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "04.08.2008 09:35",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "232",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": " Siehe <a href=\"http://berichte2.thw-landau.de/bericht_lesen.php?jahr=2008&bericht=346&z=2.9147491072796E+18\">Bericht</a> des THW OV Landau.",
+  "general:visits": "1146",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "47",
+      "general:HiOrgName": "THW OV Landau",
+      "general:HiOrgLink": "http://www.thw-landau.de"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1932123,
+    "lng": 8.1197053
+  },
+  "meta:weather": {
+    "date": "2008-08-04",
+    "temperature": 17.2,
+    "temperature_min": 13.9,
+    "temperature_max": 20.4,
+    "precipitation": 9.7,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 34.9,
+    "peakgust": 91.8,
+    "sunshine": 252,
+    "pressure": null
+  }
+}

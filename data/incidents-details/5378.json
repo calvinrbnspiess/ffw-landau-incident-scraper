@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "5378",
+  "general:title": "Brandnachschau",
+  "general:date": "2018-07-14T20:45:00+02:00",
+  "general:location": "Reiterstraße",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.0",
+  "general:dateFormatted": "14.07.2018 20:45",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "424",
+  "general:changed_on": "2018-07-15T06:46:39+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "8",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "59",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "LF 10/6",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1060.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1060.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Löschgruppenfahrzeug Nußdorf",
+      "general:vehicleChassis": "IVECO MAGIRUS FF 90 E 18 4x2",
+      "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"new\">Iveco Magirus</a>",
+      "general:vehicleMobilization": "11/08"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "31",
+      "general:HiOrgName": "Rettungsdienst",
+      "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1949325,
+    "lng": 8.1142441
+  },
+  "meta:weather": {
+    "date": "2018-07-14",
+    "temperature": 21.8,
+    "temperature_min": 17.7,
+    "temperature_max": 27.6,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": 56,
+    "windspeed": 11.7,
+    "peakgust": 32,
+    "sunshine": 620,
+    "pressure": 1017.6
+  }
+}

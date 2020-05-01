@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "3684",
+  "general:title": "LNA-Transport",
+  "general:date": "2014-07-09T12:21:00+02:00",
+  "general:location": "Edesheim",
+  "general:categorie": "LNA",
+  "general:length": "1.5",
+  "general:dateFormatted": "09.07.2014 12:21",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "147",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "516",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "14",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "MTF 3 (heute: MTF Dammheim)",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-304.JPG",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-304.JPG",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+      "general:vehicleChassis": "Mercedes",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "12/87"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "32",
+      "general:HiOrgName": "LNA",
+      "general:HiOrgLink": "https://www.suedliche-weinstrasse.de/de/landkreis/brandschutz/notarzt_orgaleiter.php"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.26270599999999,
+    "lng": 8.131542399999999
+  },
+  "meta:weather": {
+    "date": "2014-07-09",
+    "temperature": 9.9,
+    "temperature_min": 9.1,
+    "temperature_max": 11,
+    "precipitation": 8.1,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 41.8,
+    "peakgust": 78.8,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

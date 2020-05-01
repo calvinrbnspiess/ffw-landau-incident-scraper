@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "2273",
+  "general:title": "Ölspur",
+  "general:date": "2010-03-06T08:45:00+01:00",
+  "general:location": "Haardtstrasse",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "0.5",
+  "general:dateFormatted": "06.03.2010 08:45",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "127",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "",
+  "general:visits": "298",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2023372,
+    "lng": 8.1176815
+  },
+  "meta:weather": {
+    "date": "2010-03-06",
+    "temperature": -3.9,
+    "temperature_min": -7.5,
+    "temperature_max": -1.7,
+    "precipitation": 0.9,
+    "snowfall": null,
+    "snowdepth": 80,
+    "winddirection": null,
+    "windspeed": 36.4,
+    "peakgust": 88.2,
+    "sunshine": 48,
+    "pressure": null
+  }
+}

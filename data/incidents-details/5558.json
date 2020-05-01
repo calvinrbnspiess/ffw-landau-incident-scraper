@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "5558",
+  "general:title": "Auslaufende Betriebsmittel aus PKW",
+  "general:date": "2018-08-06T18:05:00+02:00",
+  "general:location": "Rheinstraße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "06.08.2018 18:05",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "604",
+  "general:changed_on": "2018-08-06T18:31:44+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "15",
+      "general:vehicleVersion": "2",
+      "general:vehicleName": "KLAF",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-263.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-263.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kleinalarmfahrzeug",
+      "general:vehicleChassis": "MB Sprinter",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "03/12"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1950013,
+    "lng": 8.1214256
+  },
+  "meta:weather": {
+    "date": "2018-08-06",
+    "temperature": 25,
+    "temperature_min": 18.8,
+    "temperature_max": 33,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": 117,
+    "windspeed": 16.8,
+    "peakgust": 34,
+    "sunshine": 806,
+    "pressure": 1015.3
+  }
+}

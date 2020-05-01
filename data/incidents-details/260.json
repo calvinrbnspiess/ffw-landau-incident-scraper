@@ -1,0 +1,118 @@
+{
+  "general:einsatzid": "260",
+  "general:title": "Verkehrsunfall eingeklemmte Person",
+  "general:date": "2004-12-20T09:00:00+01:00",
+  "general:location": "Autobahnspange",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.0",
+  "general:dateFormatted": "20.12.2004 09:00",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "243",
+  "picture:Picture": {
+    "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0412/041220_01.jpg",
+    "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0412/041220_01.jpg",
+    "picture:PictureFormat": "quer",
+    "picture:PictureDescription": "PKW liegt auf dem Dach zwischen Querspange und A65",
+    "picture:BufferPreview": "true",
+    "picture:BufferPicture": "false"
+  },
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "15",
+  "general:EinsatzDescription": " Beim Eintreffen der Feuerwehr keine Person eingeklemmt. Die Feuerwehr sicherte die Unfallstelle ab. <br><br>\r\nPolizeiinspektion Landau<br><br>\r\n\r\nPressemeldung vom 21. Dezember 2004, 13:48 Uhr<br>\r\n===============================================<br>\r\nEine 51 - j?hrige Peugeotfahrerin kam am Montagmorgen um 08.59\r\nUhr auf der Verbindungsspange vom Horstring zur L 509 auf eisglatter\r\nFahrbahn infolge eines Fahrfehlers ins Schleudern, kam von der Stra?e\r\nab, ?berschlug sich und blieb im Stra?engraben auf dem Dach liegen. Da\r\nzun?chst mitgeteilt wurde, dass die Fahrerin eingeklemmt sei und\r\nBenzin auslaufen w?rde, wurde die Feuerwehr Landau, DRK und Notarzt \r\nverst?ndigt. Die Fahrerin blieb jedoch unverletzt.<br><br>",
+  "general:visits": "1069",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "2",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "LF 16-12-1 (heute: HLF 20/16-2)",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-204.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-204.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Löschgruppenfahrzeug",
+        "general:vehicleChassis": "IVECO 135E24W",
+        "general:vehicleBuild": "<a href=\"http://www.iveco-magirus.de/\" target=\"new\">Iveco-Magirus</a>",
+        "general:vehicleMobilization": "03/02"
+      },
+      {
+        "general:vehicleid": "0",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "KdoW2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-308.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-308.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kommandowagen",
+        "general:vehicleChassis": "VW Passat",
+        "general:vehicleBuild": "Eigen",
+        "general:vehicleMobilization": "09/88"
+      },
+      {
+        "general:vehicleid": "53",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "KdoW 2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1501.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1501.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kommandowagen - Fahrzeug für den feuerwehrtechnischen Bediensteten",
+        "general:vehicleChassis": "Fiat Grande Punto",
+        "general:vehicleBuild": "Michael Schmidt mobile Kommunikation GmbH",
+        "general:vehicleMobilization": "12/07"
+      }
+    ]
+  },
+  "picture:Pictures": {
+    "picture:Picture": [
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0412/041220_01.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0412/041220_01.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "PKW liegt auf dem Dach zwischen Querspange und A65",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      },
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0412/041220_04.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0412/041220_04.jpg",
+        "picture:PictureFormat": "hoch",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      }
+    ]
+  },
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.19888599999999,
+    "lng": 8.1185622
+  },
+  "meta:weather": {
+    "date": "2004-12-20",
+    "temperature": -4.4,
+    "temperature_min": -6.2,
+    "temperature_max": -2.4,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 10,
+    "winddirection": null,
+    "windspeed": 24.5,
+    "peakgust": 44.3,
+    "sunshine": 474,
+    "pressure": null
+  }
+}

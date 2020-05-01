@@ -1,0 +1,68 @@
+{
+  "general:einsatzid": "6171",
+  "general:title": "Brandmeldeanlage",
+  "general:date": "2019-11-06T00:22:00+01:00",
+  "general:location": "Prießnitzweg",
+  "general:categorie": "Brandmeldeanlage",
+  "general:length": "1.0",
+  "general:dateFormatted": "06.11.2019 00:22",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "399",
+  "general:changed_on": "2019-11-06T00:39:18+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "10",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "60",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "HLF 20/16-1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+      "general:vehicleChassis": "IVECO FF 160 E 30",
+      "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+      "general:vehicleMobilization": "03/09"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "31",
+        "general:HiOrgName": "Rettungsdienst",
+        "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.1970217,
+    "lng": 8.104546
+  },
+  "meta:weather": {
+    "date": "2019-11-05",
+    "temperature": 6.5,
+    "temperature_min": 4.5,
+    "temperature_max": 10,
+    "precipitation": 1.2,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 235,
+    "windspeed": 23.7,
+    "peakgust": 73,
+    "sunshine": 264,
+    "pressure": 998.3
+  }
+}

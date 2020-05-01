@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "239",
+  "general:title": "Ausgelaufene Betriebsmittel nach VU",
+  "general:date": "2004-11-19T12:58:00+01:00",
+  "general:location": "Dammühlstraße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "19.11.2004 12:58",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "222",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "407",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "0",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "KdoW2",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-308.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-308.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kommandowagen",
+      "general:vehicleChassis": "VW Passat",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "09/88"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2024142,
+    "lng": 8.1245308
+  },
+  "meta:weather": {
+    "date": "2004-11-19",
+    "temperature": 1.1,
+    "temperature_min": -2.4,
+    "temperature_max": 6,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 51.8,
+    "peakgust": 127.8,
+    "sunshine": 318,
+    "pressure": null
+  }
+}

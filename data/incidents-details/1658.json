@@ -1,0 +1,72 @@
+{
+  "general:einsatzid": "1658",
+  "general:title": "PKW-Brand",
+  "general:date": "2008-12-24T19:05:00+01:00",
+  "general:location": "Burghofgasse",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.5",
+  "general:dateFormatted": "24.12.2008 19:05",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "317",
+  "picture:Picture": {
+    "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0812/081224_09.jpg",
+    "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0812/081224_09.jpg",
+    "picture:PictureFormat": "quer",
+    "picture:PictureDescription": "Brand des ersten PKW in der Burghofgasse",
+    "picture:BufferPreview": "true",
+    "picture:BufferPicture": "false"
+  },
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "2",
+  "general:AmountPeople": "7",
+  "general:EinsatzDescription": " P?nktlich zu den gem?tlichen Feiern des Heiligen Abends der Feuerwehrangeh?rigen im Kreise ihrer Familie wurde die Feuerwehr Landau zu einem PKW-Brand in die Burghausgasse gerufen. Vor Ort brannte ein VW im Motorbereich. Die Kr?fte hatten das Feuer rasch unter Kontrolle. Noch w?hrend den Nachl?scharbeiten kam eine B?rgerin und meldete einen Brand in einer Tiefgarage in unmittelbarer N?he. Hierzu siehe <a href=\"einsatz.php?nr=1659&lfdnr=318\">hier</a> mehr.",
+  "general:visits": "1521",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "2",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "LF 16-12-1 (heute: HLF 20/16-2)",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-204.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-204.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Löschgruppenfahrzeug",
+      "general:vehicleChassis": "IVECO 135E24W",
+      "general:vehicleBuild": "<a href=\"http://www.iveco-magirus.de/\" target=\"new\">Iveco-Magirus</a>",
+      "general:vehicleMobilization": "03/02"
+    }
+  },
+  "picture:Pictures": {
+    "picture:Picture": {
+      "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0812/081224_09.jpg",
+      "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0812/081224_09.jpg",
+      "picture:PictureFormat": "quer",
+      "picture:PictureDescription": "Brand des ersten PKW in der Burghofgasse",
+      "picture:BufferPreview": "true",
+      "picture:BufferPicture": "false"
+    }
+  },
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1996121,
+    "lng": 8.1111989
+  },
+  "meta:weather": {
+    "date": "2008-12-24",
+    "temperature": 2.1,
+    "temperature_min": 0.3,
+    "temperature_max": 4.9,
+    "precipitation": 0.1,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 11.5,
+    "peakgust": 34.6,
+    "sunshine": 354,
+    "pressure": null
+  }
+}

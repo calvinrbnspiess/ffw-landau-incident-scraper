@@ -1,0 +1,92 @@
+{
+  "general:einsatzid": "6282",
+  "general:title": "Technische Hilfeleistung kleinerer Art",
+  "general:date": "2020-01-28T19:13:00+01:00",
+  "general:location": "Godramsteiner Hauptstraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "2.0",
+  "general:dateFormatted": "28.01.2020 19:13",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "32",
+  "general:changed_on": "2020-01-28T20:31:06+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "5",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "24",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "SFI",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/kam/default.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/kam/default.jpg",
+          "picture:PictureFormat": "hoch",
+          "picture:PictureDescription": "Bild folgt",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "",
+        "general:vehicleChassis": "",
+        "general:vehicleBuild": "",
+        "general:vehicleMobilization": ""
+      },
+      {
+        "general:vehicleid": "63",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "MTF Godramstein",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1505.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1505.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "VW T5",
+        "general:vehicleBuild": "<a href=\"http://www.auto-zotz.de\" target=\"new\">Auto Zotz</a>; Weschenfelder",
+        "general:vehicleMobilization": "02/08"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "47",
+        "general:HiOrgName": "THW OV Landau",
+        "general:HiOrgLink": "http://www.thw-landau.de"
+      },
+      {
+        "general:HiOrgId": "98",
+        "general:HiOrgName": "Bauhof Landau",
+        "general:HiOrgLink": "http://www.ew-landau.de/index.phtml?mNavID=1804.9&sNavID=1804.85&La=1"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.2107795,
+    "lng": 8.078094799999999
+  },
+  "meta:weather": {
+    "date": "2020-01-28",
+    "temperature": 1.7,
+    "temperature_min": -0.8,
+    "temperature_max": 4.5,
+    "precipitation": 8.8,
+    "snowfall": null,
+    "snowdepth": 10,
+    "winddirection": 244,
+    "windspeed": 51.3,
+    "peakgust": 102,
+    "sunshine": 116,
+    "pressure": 1001.1
+  }
+}

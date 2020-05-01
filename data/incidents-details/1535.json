@@ -1,0 +1,43 @@
+{
+  "general:einsatzid": "1535",
+  "general:title": "Alarmierung THW",
+  "general:date": "2008-07-10T03:01:00+02:00",
+  "general:location": "Max-Planck-Straße",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "10.07.2008 03:01",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "205",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "517",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "47",
+      "general:HiOrgName": "THW OV Landau",
+      "general:HiOrgLink": "http://www.thw-landau.de"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.19048799999999,
+    "lng": 8.1386708
+  },
+  "meta:weather": {
+    "date": "2008-07-10",
+    "temperature": 21,
+    "temperature_min": 14.8,
+    "temperature_max": 27.8,
+    "precipitation": 3.7,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 24.8,
+    "peakgust": 55.8,
+    "sunshine": 732,
+    "pressure": null
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "general:einsatzid": "6348",
+  "general:title": "Amtshilfe",
+  "general:date": "2020-03-20T14:30:00+01:00",
+  "general:location": "Schneiderstraße",
+  "general:categorie": "LNA",
+  "general:length": "6.5",
+  "general:dateFormatted": "20.03.2020 14:30",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "97",
+  "general:changed_on": "2020-03-20T21:03:05+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "12",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "46",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "MZF",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-259.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-259.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mehrzweckfahrzeug",
+        "general:vehicleChassis": "MB 1425 4x4",
+        "general:vehicleBuild": "<a href=\"http://www.weschenfelder.com\" target=\"new\">Weschenfelder</a>",
+        "general:vehicleMobilization": "04/05"
+      },
+      {
+        "general:vehicleid": "71",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "MZF-Dekon",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1553.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1553.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mehrzweckfahrzeug Dekontamination",
+        "general:vehicleChassis": "MAN 8.180",
+        "general:vehicleBuild": "<a href=\"http://www.ziegler.de\" target=\"New\">Ziegler Brandschutztechnik</a>, Rendsburg",
+        "general:vehicleMobilization": "01/13"
+      },
+      {
+        "general:vehicleid": "77",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MTF 3",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1517.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1517.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "Opem Movano",
+        "general:vehicleBuild": "Compoint",
+        "general:vehicleMobilization": "10/15"
+      },
+      {
+        "general:vehicleid": "76",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "GW-Dekon P",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD8053.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD8053.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Gerätewagen Dekontamination Personal",
+        "general:vehicleChassis": "MAN TGM 18.340 4x4 BB",
+        "general:vehicleBuild": "<a href=\"http://www.freytag-karosseriebau.de/\" target=\"New\">Freytag Karosseriebau GmbH & Co. KG</a>",
+        "general:vehicleMobilization": "09/15"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1990387,
+    "lng": 8.1323321
+  },
+  "meta:weather": {
+    "date": "2020-03-20",
+    "temperature": 10.6,
+    "temperature_min": 5.4,
+    "temperature_max": 14.3,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 103,
+    "windspeed": 19.1,
+    "peakgust": 54,
+    "sunshine": 480,
+    "pressure": 1021.2
+  }
+}

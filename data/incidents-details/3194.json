@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "3194",
+  "general:title": "Verschmutzte Verkehrsfläche",
+  "general:date": "2012-12-27T19:35:00+01:00",
+  "general:location": "Unteres Rappenfeld",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.0",
+  "general:dateFormatted": "27.12.2012 19:35",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "288",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "309",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "58",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "TLF 20/40 SL (heute: PTLF 4000)",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2040.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2040.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Tanklöschfahrzeug",
+      "general:vehicleChassis": "MB 1832 AK 4x4 \"Actros\"",
+      "general:vehicleBuild": "<a href=\"http://www.lentner-gmbh.de\" target=\"new\">Lentner</a>",
+      "general:vehicleMobilization": "09/08"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1872736,
+    "lng": 8.1638893
+  },
+  "meta:weather": {
+    "date": "2012-12-27",
+    "temperature": 4.7,
+    "temperature_min": 2.8,
+    "temperature_max": 5.6,
+    "precipitation": 16.2,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 49.3,
+    "peakgust": 106.9,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

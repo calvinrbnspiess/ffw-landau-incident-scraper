@@ -1,0 +1,101 @@
+{
+  "general:einsatzid": "308",
+  "general:title": "PKW-Brand",
+  "general:date": "2005-02-17T01:02:00+01:00",
+  "general:location": "Ludowicistraße Höhe Nr. 21",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.0",
+  "general:dateFormatted": "17.02.2005 01:02",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "25",
+  "picture:Picture": {
+    "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0502/050217_02.jpg",
+    "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0502/050217_02.jpg",
+    "picture:PictureFormat": "quer",
+    "picture:PictureDescription": "1. PKW-Brand",
+    "picture:BufferPreview": "true",
+    "picture:BufferPicture": "false"
+  },
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "2",
+  "general:AmountPeople": "8",
+  "general:EinsatzDescription": "In der Nacht auf Donnerstag wurde die Feuerwehr Landau von der Polizei zu einem PKW-Brand gerufen.<br> \r\nIn der Ludowicistra?e brannte beim Eintreffen des L?schgruppenfahrzeuges ein Opel Astra im Motorbereich, die Flammen hatten schon auf die Fahrgastzelle ?bergegriffen. Unter Atemschutz konnte der Brand rasch abgel?scht werden.<br> Kurz nach der Alarmierung zum ersten PKW Brand wurde der Feuerwehr der Brand eines zweiten PKWs im Verlauf der Ludowicistra?e gemeldet. Weitere nachr?ckende Kr?fte wurden auf den Weg geschickt. <a href=\"einsatz.php?nr=309&lfdnr=26\">Siehe</a> zweiter Einsatz.<br><br>  ",
+  "general:visits": "451",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "53",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "KdoW 2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1501.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1501.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kommandowagen - Fahrzeug für den feuerwehrtechnischen Bediensteten",
+        "general:vehicleChassis": "Fiat Grande Punto",
+        "general:vehicleBuild": "Michael Schmidt mobile Kommunikation GmbH",
+        "general:vehicleMobilization": "12/07"
+      },
+      {
+        "general:vehicleid": "2",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "LF 16-12-1 (heute: HLF 20/16-2)",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-204.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-204.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Löschgruppenfahrzeug",
+        "general:vehicleChassis": "IVECO 135E24W",
+        "general:vehicleBuild": "<a href=\"http://www.iveco-magirus.de/\" target=\"new\">Iveco-Magirus</a>",
+        "general:vehicleMobilization": "03/02"
+      }
+    ]
+  },
+  "picture:Pictures": {
+    "picture:Picture": [
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0502/050217_02.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0502/050217_02.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "1. PKW-Brand",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      },
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0502/050217_07.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0502/050217_07.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "Opel Astra",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      }
+    ]
+  },
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1952827,
+    "lng": 8.1229128
+  },
+  "meta:weather": {
+    "date": "2005-02-17",
+    "temperature": -4.4,
+    "temperature_min": -5.2,
+    "temperature_max": -2.6,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 110,
+    "winddirection": null,
+    "windspeed": 15.8,
+    "peakgust": 74.2,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "4930",
+  "general:title": "Ölspur",
+  "general:date": "2017-12-15T13:35:00+01:00",
+  "general:location": "Badstraße/Westring",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "15.12.2017 13:35",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "397",
+  "general:changed_on": "2017-12-15T14:16:37+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1973002,
+    "lng": 8.1088168
+  },
+  "meta:weather": {
+    "date": "2017-12-15",
+    "temperature": 0.6,
+    "temperature_min": -0.2,
+    "temperature_max": 1.7,
+    "precipitation": 3.8,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 31.3,
+    "peakgust": 76.3,
+    "sunshine": 40,
+    "pressure": null
+  }
+}

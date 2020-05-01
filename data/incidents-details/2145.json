@@ -1,0 +1,50 @@
+{
+  "general:einsatzid": "2145",
+  "general:title": "Alarmierung THW",
+  "general:date": "2010-01-03T09:00:00+01:00",
+  "general:location": "Marktstraße",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "03.01.2010 09:00",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "3",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "569",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "47",
+        "general:HiOrgName": "THW OV Landau",
+        "general:HiOrgLink": "http://www.thw-landau.de"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.1978936,
+    "lng": 8.1118758
+  },
+  "meta:weather": {
+    "date": "2010-01-03",
+    "temperature": -3.8,
+    "temperature_min": -8,
+    "temperature_max": -2.2,
+    "precipitation": 0.9,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 26.3,
+    "peakgust": 64.1,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "general:einsatzid": "4664",
+  "general:title": "Flächenbrand groß",
+  "general:date": "2017-04-30T17:15:00+02:00",
+  "general:location": "Bei Weyher",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "5.0",
+  "general:dateFormatted": "30.04.2017 17:15",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "141",
+  "picture:Picture": {
+    "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/1704/4664-1.jpeg",
+    "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/1704/4664-1.jpeg",
+    "picture:PictureFormat": "quer",
+    "picture:PictureDescription": "",
+    "picture:BufferPreview": "true",
+    "picture:BufferPicture": "false"
+  },
+  "general:changed_on": "2017-05-01T12:16:45+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "5",
+  "general:EinsatzDescription": "<p>Die Feuerwehr Landau unterst&uuml;tzte die Wasserversorgung bei einem Waldbrand oberhalb von Weyher mit dem Tankl&ouml;schfahrzeug.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>Weiteres zu dem Einsatz:</p>\n<h3 class=\"story-headline\">POL-PDLD: Gemeinsame Pressemeldung von Polizei und Feuerwehr zum Waldbrand in Weyher</h3>\n<div class=\"story-meta\"><span class=\"story-date sans\">30.04.2017 &ndash; 20:57</span></div>\n<div class=\"grid-col-1\">&nbsp;</div>\n<p><em>Weyher (ots)</em> - 30.04.2017, 16.30 Uhr. Bei der Gleitschirmfliegerabsprungschanze oberhalb von Weyher geriet etwa ein Hektar Wald in Brand. Ursache d&uuml;rfte eine au&szlig;er Kontrolle geratene illegale Feuerstelle gewesen sein, die von zwei Campern betrieben wurde. Der Schaden wird auf ca. 20.000 Euro gesch&auml;tzt. Die Feuerwehr der Verbandsgemeinde Edenkoben wurde von den Wehren Maikammer, Landau, Ramberg und Annweiler unterst&uuml;tzt. Es waren 80 Feuerwehrleute und 16 Fahrzeuge im Einsatz. Das L&ouml;schwasser musste im Pendelverkehr zur Brandstelle im Wald herangefahren werden. Die beiden bislang noch unbekannten Camper waren im Alter von etwa 18 Jahren und trugen auff&auml;llige Tarnkleidung. Hinweise auf diese beiden Personen bitte an die Polizeiinspektion Edenkoben unter der Tel.-Nr. 06323/955-0 oder per E-Mail <a class=\"uri-mailto\" href=\"mailto:piedenkoben@polizei.rlp.de\">piedenkoben@polizei.rlp.de</a> .</p>",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "58",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "PTLF 4000",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2040.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2040.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Pulvertanklöschfahrzeug",
+      "general:vehicleChassis": "MB 1832 AK 4x4 \"Actros\"",
+      "general:vehicleBuild": "<a href=\"http://www.lentner-gmbh.de\" target=\"new\">Lentner</a>",
+      "general:vehicleMobilization": "09/08"
+    }
+  },
+  "picture:Pictures": {
+    "picture:Picture": {
+      "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/1704/4664-1.jpeg",
+      "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/1704/4664-1.jpeg",
+      "picture:PictureFormat": "quer",
+      "picture:PictureDescription": "",
+      "picture:BufferPreview": "true",
+      "picture:BufferPicture": "false"
+    }
+  },
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "48",
+        "general:HiOrgName": "FF Annweiler",
+        "general:HiOrgLink": "http://www.feuerwehr-annweiler.de/"
+      },
+      {
+        "general:HiOrgId": "50",
+        "general:HiOrgName": "FF Edenkoben",
+        "general:HiOrgLink": "http://www.feuerwehr-edenkoben.de/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.2682732,
+    "lng": 8.0843502
+  },
+  "meta:weather": {
+    "date": "2017-04-30",
+    "temperature": 10.7,
+    "temperature_min": 4,
+    "temperature_max": 17.4,
+    "precipitation": 0.1,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 23.4,
+    "peakgust": 48.2,
+    "sunshine": 801,
+    "pressure": null
+  }
+}

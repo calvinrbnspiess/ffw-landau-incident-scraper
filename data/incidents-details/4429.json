@@ -1,0 +1,74 @@
+{
+  "general:einsatzid": "4429",
+  "general:title": "PKW-Brand",
+  "general:date": "2016-09-27T09:39:00+02:00",
+  "general:location": "Lindenbergstraße",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.0",
+  "general:dateFormatted": "27.09.2016 09:39",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "231",
+  "general:changed_on": "2016-09-28T16:20:40+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "17",
+  "general:EinsatzDescription": "<p>Aus dem Polizeibericht:</p>\n<p><strong>Landau-Nu&szlig;dorf: 27.09.2016, 09.30 Uhr</strong></p>\n<p><strong>Auto f&auml;ngt Feuer</strong><br /><br />Nur kurze Zeit konnte sich ein 52 j&auml;hriger Mann &uuml;ber den Kauf eines Gebrauchtwagens freuen. Vom H&auml;ndler fuhr er mit seinem gekauften Opel Astra in Richtung Nu&szlig;dorf. Am Ortseingang fing das Auto an zu brennen. Der Fahrer konnte sich rechtzeitig in Sicherheit bringen. Den eintreffenden Polizeibeamten und einem anderen Verkehrsteilnehmer gelang es mittels Feuerl&ouml;scher den Motorbrand zu begrenzen. Die Feuerwehr l&ouml;schte dann endg&uuml;ltig den Brand. Ausl&ouml;ser des Brandes war vermutlich ein Kurzschluss der Batterie. Der Verk&auml;ufer kam vor Ort. Das Fahrzeug wurde abgeschleppt.</p>",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "60",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "HLF 20/16-1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+        "general:vehicleChassis": "IVECO FF 160 E 30",
+        "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+        "general:vehicleMobilization": "03/09"
+      },
+      {
+        "general:vehicleid": "55",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "TSF-W Nußdorf",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1504.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1504.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Tragkraftspritzenfahrzeug-Wasser",
+        "general:vehicleChassis": "IVECO Daily 65C18D",
+        "general:vehicleBuild": "Iveco Magirus Brandschutztechnik, jetzt: <a href=\"http://www.btg-goerlitz.biz/\" target=\"new\">Brandschutztechnik Görlitz</a>",
+        "general:vehicleMobilization": "06/08"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2225086,
+    "lng": 8.105749
+  },
+  "meta:weather": {
+    "date": "2016-09-27",
+    "temperature": 14.7,
+    "temperature_min": 11.8,
+    "temperature_max": 18.6,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 10.8,
+    "peakgust": 30.2,
+    "sunshine": 289,
+    "pressure": null
+  }
+}

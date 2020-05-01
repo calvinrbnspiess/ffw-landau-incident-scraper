@@ -1,0 +1,50 @@
+{
+  "general:einsatzid": "6169",
+  "general:title": "Verständigung Fachfirma",
+  "general:date": "2019-11-05T17:20:00+01:00",
+  "general:location": "Friedrich-Ebert-Straße",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "05.11.2019 17:20",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "397",
+  "general:changed_on": "2019-11-05T17:28:26+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "27",
+        "general:HiOrgName": "Fachfirma Straßenreinigung",
+        "general:HiOrgLink": "http://www.brechtel-fahrbahnreinigung.de"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.1931182,
+    "lng": 8.1169738
+  },
+  "meta:weather": {
+    "date": "2019-11-05",
+    "temperature": 6.5,
+    "temperature_min": 4.5,
+    "temperature_max": 10,
+    "precipitation": 1.2,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 235,
+    "windspeed": 23.7,
+    "peakgust": 73,
+    "sunshine": 264,
+    "pressure": 998.3
+  }
+}

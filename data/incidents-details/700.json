@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "700",
+  "general:title": "Tierk?rperbeseitigung",
+  "general:date": "2006-05-20T10:48:00+02:00",
+  "general:location": "Im Grünen Winkel",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "20.05.2006 10:48",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "136",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "480",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "19",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "ErkTrKW 1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD8501.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD8501.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Erkundungstruppwagen",
+      "general:vehicleChassis": "VW 181",
+      "general:vehicleBuild": "",
+      "general:vehicleMobilization": "09/75"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1854344,
+    "lng": 8.1110005
+  },
+  "meta:weather": {
+    "date": "2006-05-20",
+    "temperature": 9.1,
+    "temperature_min": 5.9,
+    "temperature_max": 12.7,
+    "precipitation": 10.4,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 46.8,
+    "peakgust": 156.6,
+    "sunshine": 126,
+    "pressure": null
+  }
+}

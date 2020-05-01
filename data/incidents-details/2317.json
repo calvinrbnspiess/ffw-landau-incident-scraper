@@ -1,0 +1,347 @@
+{
+  "general:einsatzid": "2317",
+  "general:title": "Unterstützung Ordnungsamt - Bombenentsch?rfung",
+  "general:date": "2010-05-10T08:00:00+02:00",
+  "general:location": "Südliches Stadtgebiet",
+  "general:categorie": "LNA",
+  "general:length": "5.0",
+  "general:dateFormatted": "10.05.2010 08:00",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "171",
+  "picture:Picture": {
+    "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/1005/100510_04.jpg",
+    "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/1005/100510_04.jpg",
+    "picture:PictureFormat": "hoch",
+    "picture:PictureDescription": "",
+    "picture:BufferPreview": "true",
+    "picture:BufferPicture": "false"
+  },
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "45",
+  "general:EinsatzDescription": " Bei einer Bombenentsch?rfung auf dem Gel?nde der ehemaligen Kaserne \"Estienne et Foch\" unterst?tzte die Feuerwehr das zust?ndige Ordnungsamt personell und materiell.<br>\r\nAn f?nf Stellen wurde die Absprerrung von der Feuerwehr vorgenommen, die Kommunikation und die F?hrungsunterst?tzung wurde mit dem Einsatzleitwagen 2 vorgenommen. Ein L?schzug stand zur Absicherung in Bereitschaft. Die Schnelleinsatzgruppe-Verpflegung ?bernahm die Versorgung der 110 eingesetzen Kr?fte von  Stadtverwaltung, dem Deutschen Roten Kreuz, Landes- wie auch Bundespolizei, Kampfmittelr?umdienst und Notfallmanager DB AG.   <br><br>\r\n\tPresse-Information der Stadtverwaltung Landau: \r\n<br><br>\r\n<b><U>Fliegerbombe entsch?rft\r\n</u></b><br><br>\r\nLandau, 10.05.2010 - &#8222;Es hat alles gut geklappt, die Bombe ist entsch?rft.&#8220; Ordnungsdezernent B?rgermeister Thomas Hirsch erkl?rte, dass die 250-Pfund-Bombe transportf?hig gemacht wurde und nun auf dem Weg nach Koblenz in das Zwischenlager des Kampfmittelr?umdienstes sei. Die Information der Anwohner innerhalb eines 300-Meter-Radius&#8216; und die R?umung der Wohnungen sowie die Absperrung der betroffenen Stra?en verlief reibungslos. Etwa 600 Anwohner mussten von morgens bis 12 Uhr ihre R?umlichkeiten verlassen.\r\n<br><br>\r\n&#8222;Zwei Drittel der Leute waren arbeiten, ein Teil war in der Stadt unterwegs&#8220;, berichteten Polizei und Ordnungsdienst. Sie kontrollierten, ob sich auch wirklich jeder an die R?umanordnung gehalten hat. Vereinzelte M?nner und Frauen wurden noch angetroffen und nochmals zum Gehen aufgefordert. Gerade mal neun Personen hatten sich im ?bergangsquartier in der kleinen Sporthalle des Schulzentrums Ost eingefunden. Hierher wurden auch die f?nf Anwohner gebracht, die von den bereit gestellten Rettungswagen des DRK abgeholt wurden, da sie nicht zu Fu? ihre Wohnung verlassen konnten, berichtete die organisatorische Leiterin des Landkreises S?dliche Weinstra?e und der Stadt Landau, Bettina Schreiber. \r\n<br><br>\r\nDie Kinder des Kindergartens &#8222;Haus f?r Kinder&#8220; in der Beethovenstra?e mussten ausweichen, da die Einrichtung wegen der Entsch?rfung geschlossen war. 85 von ihnen blieben zuhause, 15 besuchten das Gemeindehaus der Stiftskirche, das als Alternative zur Verf?gung stand. F?nf der Kleinsten wurden in der Villa Mahla betreut.\r\n<br><br>\r\nInsgesamt haben 110 Helfer von Feuerwehr, Polizei, DRK und Ordnungsamt dazu beigetragen, dass alle notwendigen Ma?nahmen ohne Probleme organisiert und durchgef?hrt werden konnten. Mitarbeiter des B?rgerb?ros der Stadtverwaltung informierten ?ber eine geschaltete Info-Hotline ?ber Einzelheiten. &#8222;Wir hatten am Wochenende jedoch auch viele Anrufe besorgter B?rger&#8220;, berichtete Peter Behrens, Leiter der Polizeiinspektion Landau. &#8222;Wir konnten sie jedoch beruhigen.&#8220; \r\n<br><br>\r\nUm 11.24 Uhr war es dann soweit. Nachdem von allen Seiten das OK kam, dass sich niemand mehr innerhalb des 300-Meter-Bereichs aufhielt, machte sich der Kampfmittelr?umdienst an die Arbeit. W?hrend der Entsch?rfung in weniger als zehn Minuten trafen sich die Vertreter der zust?ndigen Organisationen im Einsatzleitwagen vor Ort. Das Team von Bernd Heuer, R?umgruppenleiter Worms, konnte den Z?nder nach vorheriger Behandlung mit Kriech?l m?helos herausdrehen. Der erfahrene Kampfmittelr?umer hat schon ?ber 100 solcher gr??erer Kriegsbomben entsch?rft und sah bereits auf einen Blick, dass sich der Z?nder wohl gut entfernen lassen w?rde. Schutzkleidung trug die Truppe nicht: &#8222;Bei dieser Menge Sprengstoff w?rde das auch nichts helfen&#8220;, hie? es. Jedoch passiert nur in den seltensten F?llen etwas, betonte Heuer. \r\n&#8222;Allen Einsatzkr?ften, die mitgeholfen haben, den reibungslosen Ablauf der Entsch?rfung zu garantieren, m?chte ich herzlich danken&#8220;, so B?rgermeister Hirsch im Namen der Stadtspitze.\r\n",
+  "general:visits": "2539",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "1",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "ELW 1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-207.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-207.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Einsatzleitwagen",
+        "general:vehicleChassis": "VW LT",
+        "general:vehicleBuild": "<a href=\"http://www.hensel-fahrzeugbau.de\" target=\"new\">Hensel</a>",
+        "general:vehicleMobilization": "12/04"
+      },
+      {
+        "general:vehicleid": "45",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "KdoW",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-299.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-299.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kommandowagen",
+        "general:vehicleChassis": "VW Passat",
+        "general:vehicleBuild": "VW",
+        "general:vehicleMobilization": "03/05"
+      },
+      {
+        "general:vehicleid": "60",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "HLF 20/16-1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+        "general:vehicleChassis": "IVECO FF 160 E 30",
+        "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+        "general:vehicleMobilization": "03/09"
+      },
+      {
+        "general:vehicleid": "4",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "TGM 23-12",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-243.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-243.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Teleskopgelenkmast",
+        "general:vehicleChassis": "MAN 15.264",
+        "general:vehicleBuild": "<a href=\"http://www.bronto.ch/\" target=\"new\">Bronto Skylift</a>",
+        "general:vehicleMobilization": "11/98"
+      },
+      {
+        "general:vehicleid": "46",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MZF",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-259.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-259.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mehrzweckfahrzeug",
+        "general:vehicleChassis": "MB 1425 4x4",
+        "general:vehicleBuild": "<a href=\"http://www.weschenfelder.com\" target=\"new\">Weschenfelder</a>",
+        "general:vehicleMobilization": "04/05"
+      },
+      {
+        "general:vehicleid": "67",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "GW-A",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2056.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2056.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Gerätewagen Atemschutz",
+        "general:vehicleChassis": "MAN TGL 12.220",
+        "general:vehicleBuild": "<a href=\"http://www.hensel-fahrzeugbau.de\" target=\"new\">Hensel</a>",
+        "general:vehicleMobilization": "2011"
+      },
+      {
+        "general:vehicleid": "27",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MTF Arzheim - alt",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-252.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-252.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "VW Bus",
+        "general:vehicleBuild": "",
+        "general:vehicleMobilization": "08/85"
+      },
+      {
+        "general:vehicleid": "40",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MTF Dammheim",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-273.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-273.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "VW Bus",
+        "general:vehicleBuild": "",
+        "general:vehicleMobilization": "11/81"
+      },
+      {
+        "general:vehicleid": "30",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MTF Godramstein - alt",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-236.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-236.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "VW Bus",
+        "general:vehicleBuild": "",
+        "general:vehicleMobilization": "05/81"
+      },
+      {
+        "general:vehicleid": "32",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MTF Mörzheim - alt",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-246.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-246.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "VW Bus",
+        "general:vehicleBuild": "",
+        "general:vehicleMobilization": "03/87"
+      },
+      {
+        "general:vehicleid": "35",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MTF Nussdorf - alt",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-241.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-241.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "VW Bus",
+        "general:vehicleBuild": "",
+        "general:vehicleMobilization": "06/83"
+      },
+      {
+        "general:vehicleid": "37",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MTF Wollmesheim",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-271.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-271.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "VW Bus",
+        "general:vehicleBuild": "",
+        "general:vehicleMobilization": "07/82"
+      },
+      {
+        "general:vehicleid": "52",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "ELW 2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/SUEW-2000.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/SUEW-2000.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Einsatzleitwagen 2",
+        "general:vehicleChassis": "MB 1223",
+        "general:vehicleBuild": "<a href=\"http://www.hensel-fahrzeugbau.de\" target=\"new\">Hensel</a>",
+        "general:vehicleMobilization": "2006"
+      }
+    ]
+  },
+  "picture:Pictures": {
+    "picture:Picture": [
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/1005/100510_04.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/1005/100510_04.jpg",
+        "picture:PictureFormat": "hoch",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      },
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/1005/100510_07.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/1005/100510_07.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      },
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/1005/100510_16.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/1005/100510_16.jpg",
+        "picture:PictureFormat": "hoch",
+        "picture:PictureDescription": "Die Bombe auf der Ladefl?che - vorn die Fundstelle",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      },
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/1005/100510_21.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/1005/100510_21.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "B?rgermeister Thomas Hirsch (mitte) bedankt sich bei den Kr?ften, die bei der Bombenentsch?rfung beteiligt waren. Links Abteilungsleiter Ordnung- und Umwelt Thomas Scholly, rechts Bernd Heuer, R?umgruppenleiter Worms",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      }
+    ]
+  },
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "37",
+        "general:HiOrgName": "SEG-S",
+        "general:HiOrgLink": "http://kv-landau.drk.de/"
+      },
+      {
+        "general:HiOrgId": "36",
+        "general:HiOrgName": "SEG-B",
+        "general:HiOrgLink": "http://kv-landau.drk.de/"
+      },
+      {
+        "general:HiOrgId": "33",
+        "general:HiOrgName": "Org-Leiter",
+        "general:HiOrgLink": "https://www.suedliche-weinstrasse.de/de/landkreis/brandschutz/notarzt_orgaleiter.php"
+      },
+      {
+        "general:HiOrgId": "29",
+        "general:HiOrgName": "Bundespolizei",
+        "general:HiOrgLink": "http://www.bundespolizei.de/cln_049/nn_250566/DE/BPOLP__West/Abteilungen/Bad__Bergzabern/BPOLABT__bad__bergzabern__node.html?__nnn=true"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "46",
+        "general:HiOrgName": "Notfallmanager DBAG",
+        "general:HiOrgLink": "http://www.db.de/site/bahn/de/standardnavigation/faq/notfallmanagement.html"
+      },
+      {
+        "general:HiOrgId": "75",
+        "general:HiOrgName": "Kampfmittelräumdienst RLP (KMRD)",
+        "general:HiOrgLink": "http://www.add.rlp.de/Kommunale-und-hoheitliche-Aufgaben,-Soziales/Kampfmittelraeumdienst/"
+      },
+      {
+        "general:HiOrgId": "91",
+        "general:HiOrgName": "IuK-Gruppe",
+        "general:HiOrgLink": "http://www.suedwein12.de/index.php?option=com_content&view=article&id=36&Itemid=7"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.19888599999999,
+    "lng": 8.1185622
+  },
+  "meta:weather": {
+    "date": "2010-05-10",
+    "temperature": 9.6,
+    "temperature_min": 7.4,
+    "temperature_max": 12.5,
+    "precipitation": 0.1,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 12.6,
+    "peakgust": 40.7,
+    "sunshine": 6,
+    "pressure": null
+  }
+}

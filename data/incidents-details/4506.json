@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "4506",
+  "general:title": "PKW-Brand",
+  "general:date": "2016-12-20T15:10:00+01:00",
+  "general:location": "Weißenburger Straße",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.0",
+  "general:dateFormatted": "20.12.2016 15:10",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "290",
+  "general:changed_on": "2016-12-22T14:34:01+01:00",
+  "general:AmountPA": "2",
+  "general:AmountPeople": "11",
+  "general:EinsatzDescription": "<p><strong>Aus dem Polizeibericht:<br />Landau: 20. Dezember 2016, 15.10 - 17 Uhr</strong></p>\n<p><br /><strong>Mercedes f&auml;ngt Feuer</strong></p>\n<p><br />Eine Mercedesfahrerin fuhr in der Wei&szlig;enburger Stra&szlig;e stadteinw&auml;rts, als sie feststellte, dass ihre Lenkung schwerg&auml;ngig wurde und aus dem Motorraum Rauch aufstieg. Sie fuhr an die Seite und stieg aus. Pl&ouml;tzlich kamen Flammen aus dem Motorraum und griffen auf das Fahrzeug &uuml;ber. Die Feuerwehr Landau l&ouml;schte den Brand. Die Fahrbahn musste anschlie&szlig;end ges&auml;ubert werden. W&auml;hrend den L&ouml;scharbeiten kam es zu Verkehrsbehinderungen. Der Verkehr wurde bis zur Freigabe der rechten Fahrbahn durch die Polizei geregelt.</p>",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "60",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "HLF 20/16-1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+      "general:vehicleChassis": "IVECO FF 160 E 30",
+      "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+      "general:vehicleMobilization": "03/09"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1873759,
+    "lng": 8.113896
+  },
+  "meta:weather": {
+    "date": "2016-12-20",
+    "temperature": -1.3,
+    "temperature_min": -2.8,
+    "temperature_max": 0,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 16.6,
+    "peakgust": 36.7,
+    "sunshine": 165,
+    "pressure": null
+  }
+}

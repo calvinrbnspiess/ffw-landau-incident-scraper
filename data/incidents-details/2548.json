@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "2548",
+  "general:title": "Technische Hilfeleistung",
+  "general:date": "2010-10-17T09:55:00+02:00",
+  "general:location": "Drachenfelsstraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "17.10.2010 09:55",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "394",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "391",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "54",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "MTF 1 - alt",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1505.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1505.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+      "general:vehicleChassis": "VW T5",
+      "general:vehicleBuild": "<a href=\"http://www.auto-zotz.de\" target=\"new\">Auto Zotz</a>; Weschenfelder",
+      "general:vehicleMobilization": "02/08"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1914287,
+    "lng": 8.099933400000001
+  },
+  "meta:weather": {
+    "date": "2010-10-17",
+    "temperature": 3.3,
+    "temperature_min": 2.1,
+    "temperature_max": 4.4,
+    "precipitation": 0.4,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 29.5,
+    "peakgust": 56.2,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

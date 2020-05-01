@@ -1,0 +1,108 @@
+{
+  "general:einsatzid": "237",
+  "general:title": "Stromausfall",
+  "general:date": "2004-11-17T17:50:00+01:00",
+  "general:location": "Teile des Stadtgebietes - Arzheim und Wollmesheim",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "2.0",
+  "general:dateFormatted": "17.11.2004 17:50",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "220",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "24",
+  "general:EinsatzDescription": "Artikel aus <a href=\"http://www.rheinpfalz.de\" target=\"new\">Die Rheinpfalz</a>:<br>\r\n<b><font size=2>Zwei Stunden Stromausfall - Panne mit Klinikum-Generatoren\r\n</b></font><br><b>Westen Landaus im Dunkeln - Ursache: Brand in Station im Burgenviertel</b>\r\n<br>\r\nDer Brand einer Station der Energie S?dwest AG in der Hohenstaufenstra?e im Burgenviertel hat gestern gegen 17.30 Uhr die Stromversorgung in einem gro?en Teil der Stadt lahm gelegt. Wollmesheim, Arzheim, M?rzheim, Godramstein, Landau-S?dwest, Wollmesheimer H?he und Teilgebiete im Westen der Kernstadt waren nach RHEINPFALZ-Informationen f?r bis zu zwei Stunden ohne Strom.<br>\r\nAuch das Klinikum Landau war betroffen. Dort kam es zudem zu erheblichen Problemen mit der Energieversorgung, weil die Notstromgeneratoren nicht sofort ansprangen, wie Oberb?rgermeister Dr. Christof Wolff am Abend der RHEINPFALZ berichtete. Das h?tte in dem Krankenhaus zu dramatischen Szenen gef?hrt. \"Da lagen Leute auf dem OP-Tisch\", sagte Wolff, der ank?ndigte, dass man die Panne mit dem Notstromsystem umgehend aufarbeiten m?sse.\r\n<br>\r\nKurt Hechler, technischer Leiter der Energie S?dwest, teilte auf Anfrage mit, dass es durch den Brand in der Station im Burgenviertel zu einer Kettenreaktion gekommen sei. Das habe dazu gef?hrt, dass man den Ausgangspunkt des Stromausfalls einer 20-Kilovolt-Leitung erst habe lokalisieren m?ssen. Dies habe einige Zeit in Anspruch genommen. Gegen 19.15 Uhr sei die Stromversorgung weitgehend wieder sichergestellt gewesen, sagte Hechler. Das direkt betroffene Burgenviertel war zu diesem Zeitpunkt dem Technischen Leiter zufolge allerdings noch ohne \"Saft\". Bis Redaktionsschluss sollte aber auch dort die Versorgung wieder funktionieren, so Hechler.\r\n<br>\r\nBei Polizei und Feuerwehr gingen gestern ab 17.30 Uhr zahllose Anrufe betroffener B?rgerinnen und B?rger ein, die die Energie S?dwest unter den Notrufnummern nicht erreichen konnten. Allerdings konnten beide Stellen die B?rger zun?chst nicht n?her ?ber den Sachverhalt informieren, da sie selbst nicht wussten, was geschehen war. Die Feuerwehr war von der Energie S?dwest bis gegen 19 Uhr noch ?berhaupt nicht ?ber den Ausfall informiert worden, wie Stadtfeuerwehrinspekteur Dirk Hargesheimer der RHEINPFALZ mitteilte. Man habe allerdings auf eigene Initiative Fahrzeuge in die betroffenen Ortsteile geschickt, nachdem bekannt geworden sei, dass auch Telefonnetze ausgefallen seien. Das habe man nach R?ckfrage bei der Deutschen Telekom erfahren. Mit der Pr?senz von Feuerwehrleuten vor Ort wollte man sicherstellen, so Hargesheimer, dass die B?rger im Notfall direkt Kontakt mit der Feuerwehr aufnehmen k?nnen, wenn ihre Telefone nicht funktionierten.\r\n<br>\r\nEin Leser aus Godramstein berichtete, dass im dortigen Supermarkt im Dunkeln \"nichts mehr gegangen\" sei und die Kunden, die zun?chst eingeschlossen gewesen seien, weil sich die elektrischen T?ren nicht mehr ge?ffnet h?tten, gebeten worden seien, am n?chsten Tag wiederzukommen und dann zu bezahlen. In der Innenstadt fielen Ampeln aus, was teilweise zu erheblichen Verkehrsbehinderungen f?hrte, beispielsweise an der Kreuzung Godramsteiner Stra?e/Neustadter Stra?e.<br> (mk)<br>  ",
+  "general:visits": "580",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "1",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "ELW 1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-207.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-207.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Einsatzleitwagen",
+        "general:vehicleChassis": "VW LT",
+        "general:vehicleBuild": "<a href=\"http://www.hensel-fahrzeugbau.de\" target=\"new\">Hensel</a>",
+        "general:vehicleMobilization": "12/04"
+      },
+      {
+        "general:vehicleid": "2",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "LF 16-12-1 (heute: HLF 20/16-2)",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-204.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-204.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Löschgruppenfahrzeug",
+        "general:vehicleChassis": "IVECO 135E24W",
+        "general:vehicleBuild": "<a href=\"http://www.iveco-magirus.de/\" target=\"new\">Iveco-Magirus</a>",
+        "general:vehicleMobilization": "03/02"
+      },
+      {
+        "general:vehicleid": "3",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "TLF 16-25",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-312.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-312.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Tanklöschfahrzeug",
+        "general:vehicleChassis": "MB 1222",
+        "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+        "general:vehicleMobilization": "02/86"
+      },
+      {
+        "general:vehicleid": "54",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MTF 1 - alt",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1505.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1505.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "VW T5",
+        "general:vehicleBuild": "<a href=\"http://www.auto-zotz.de\" target=\"new\">Auto Zotz</a>; Weschenfelder",
+        "general:vehicleMobilization": "02/08"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1797705,
+    "lng": 8.082148799999999
+  },
+  "meta:weather": {
+    "date": "2004-11-17",
+    "temperature": 5.1,
+    "temperature_min": 2.8,
+    "temperature_max": 6.7,
+    "precipitation": 0.5,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 46.1,
+    "peakgust": 99.4,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

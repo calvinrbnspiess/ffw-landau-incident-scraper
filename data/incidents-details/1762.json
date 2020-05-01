@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "1762",
+  "general:title": "Wasserschaden",
+  "general:date": "2009-05-11T18:58:00+02:00",
+  "general:location": "Haardtstraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "11.05.2009 18:58",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "87",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "",
+  "general:visits": "512",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2023372,
+    "lng": 8.1176815
+  },
+  "meta:weather": {
+    "date": "2009-05-11",
+    "temperature": 12.8,
+    "temperature_min": 9.7,
+    "temperature_max": 16.6,
+    "precipitation": 5.3,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 16.2,
+    "peakgust": 43.9,
+    "sunshine": 24,
+    "pressure": null
+  }
+}

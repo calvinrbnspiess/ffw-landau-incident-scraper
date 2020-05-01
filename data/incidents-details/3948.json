@@ -1,0 +1,50 @@
+{
+  "general:einsatzid": "3948",
+  "general:title": "Verständigung Untere Wasserbehörde",
+  "general:date": "2015-05-11T16:29:00+02:00",
+  "general:location": "Albert-Einstein-Straße",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "11.05.2015 16:29",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "105",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "75",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "38",
+        "general:HiOrgName": "Untere Wasserbehörde",
+        "general:HiOrgLink": "http://www.landau.de/Verwaltung-Politik/Was-erledige-ich-wo-/index.php?ModID=9&object=tx%7c2644.1&FID=343.228.1&NavID=2644.16&La=1"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.1882438,
+    "lng": 8.134642699999999
+  },
+  "meta:weather": {
+    "date": "2015-05-11",
+    "temperature": 17.7,
+    "temperature_min": 10.8,
+    "temperature_max": 25.1,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 16.6,
+    "peakgust": 32,
+    "sunshine": 662,
+    "pressure": null
+  }
+}

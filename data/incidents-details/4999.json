@@ -1,0 +1,100 @@
+{
+  "general:einsatzid": "4999",
+  "general:title": "Ausgelaufene Betriebsmittel",
+  "general:date": "2018-01-16T12:51:00+01:00",
+  "general:location": "Südring",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.5",
+  "general:dateFormatted": "16.01.2018 12:51",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "50",
+  "picture:Picture": {
+    "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/1801/4999-1.jpeg",
+    "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/1801/4999-1.jpeg",
+    "picture:PictureFormat": "quer",
+    "picture:PictureDescription": "",
+    "picture:BufferPreview": "true",
+    "picture:BufferPicture": "false"
+  },
+  "general:changed_on": "2018-01-16T17:59:24+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "<p><em>Aus dem Polizeibericht:</em></p>\n<p>Landau (ots) - 16. Januar 2018, 12.35 Uhr Nach einem Arztbesuch setzte sich ein 27-j&auml;hriger BMW-Fahrer in sein Auto und fuhr von der Weissenburger Stra&szlig;e aus in Richtung Innenstadt. Er missachtete das Rotlicht der dortigen Lichtzeichenanlage und erfasste einen von links kommenden Mercedes-Kleinbus. Dieser wurde am Heck getroffen, drehte sich um die eigene Achse und blieb dann an einer Mauer stehen. Der Unfallverursacher fuhr ungebremst weiter in Richtung Innenstadt. Die Geschwindigkeit wurde auf &uuml;ber 100 Km von Unfallzeugen gesch&auml;tzt. Ungebremst fuhr der Fahrer &uuml;ber den Hagenauer Kreisel an der Kreuzung Xylanderstra&szlig;e/S&uuml;dring. Durch die Geschwindigkeit hob der der BMW an der Kreiseleinfassung ab und schleuderte durch die Luft &uuml;ber den Kreisel. Der BMW schlug dann auf der gegen&uuml;berliegenden Seite bei der Apotheke in einen abgestellten Ford Transit ein. Dessen Fahrer, ein 58-j&auml;hriger Mann hatte gerade Medikamente ausgeladen, als der BMW sein Fahrzeug traf. Der Mann blieb unverletzt und kam mit dem Schrecken davon. Der BMW-Fahrer, wohnhaft im Kreis S&uuml;dliche Weinstra&szlig;e, verletzte sich bei dem Aufprall leicht im Gesicht. Er war ansprechbar, kam jedoch vorsorglich ins Krankenhaus. Er stand erkennbar nicht unter Alkoholeinfluss. Er konnte sich aber nicht an die Vorf&auml;lle erinnern. Bei den beiden Unf&auml;llen wurden alle drei Fahrzeuge erheblich besch&auml;digt. Der BMW und der Ford Transit waren nicht mehr fahrbereit. Der Gesamtschaden wird auf rund 22.000 Euro gesch&auml;tzt. Da bei dem Unfall am Kreisel Betriebsstoffe und &Ouml;l ausgelaufen waren, musste die Fahrbahn durch eine Spezialfirma gereinigt werden. W&auml;hrend den Reinigungsarbeiten war der Kreisel f&uuml;r den Verkehr gesperrt. Der Verkehr wurde &ouml;rtlich umgeleitet.</p>",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "15",
+      "general:vehicleVersion": "2",
+      "general:vehicleName": "KLAF",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-263.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-263.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kleinalarmfahrzeug",
+      "general:vehicleChassis": "MB Sprinter",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "03/12"
+    }
+  },
+  "picture:Pictures": {
+    "picture:Picture": [
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/1801/4999-1.jpeg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/1801/4999-1.jpeg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      },
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/1801/4999-2.jpeg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/1801/4999-2.jpeg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      }
+    ]
+  },
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "31",
+        "general:HiOrgName": "Rettungsdienst",
+        "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "27",
+        "general:HiOrgName": "Fachfirma Straßenreinigung",
+        "general:HiOrgLink": "http://www.brechtel-fahrbahnreinigung.de"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.193743,
+    "lng": 8.1121746
+  },
+  "meta:weather": {
+    "date": "2018-01-16",
+    "temperature": 2.8,
+    "temperature_min": 0.6,
+    "temperature_max": 4.7,
+    "precipitation": 7.6,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 49,
+    "peakgust": 101.5,
+    "sunshine": 9,
+    "pressure": null
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "4516",
+  "general:title": "Containerbrand",
+  "general:date": "2016-12-29T02:05:00+01:00",
+  "general:location": "Schneiderstraße",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.0",
+  "general:dateFormatted": "29.12.2016 02:05",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "296",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "7",
+  "general:EinsatzDescription": "<p>Landau (ots) &ndash; Am fr&uuml;hen Donnerstagmorgen (29.12.) wurde ein in der Schneiderstra&szlig;e qualmender Kleidercontainer gemeldet. Eine Zeugin hatte zuvor gegen 2 Uhr zwei Jugendliche mit Kapuzenpullis in der N&auml;he des sp&auml;teren Brandortes gesehen. Die Jugendlichen waren auf dem Fu&szlig;weg in Richtung Hallenbad davongelaufen.</p>\n<p>Die Feuerwehr kam mit einem L&ouml;schfahrzeug und f&uuml;nf Einsatzkr&auml;ften vor Ort. Das Sicherheitsschloss des Altkleidercontainers musste aufgebrochen werden, um die Kleider im Container zu l&ouml;schen. Durch die starke Hitzeentwicklung wurde der Container zerst&ouml;rt und unbrauchbar. Der Schaden d&uuml;rfte rund 800 Euro betragen.</p>\n<p>Text: Polizeiinspektion Landau</p>",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "60",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "HLF 20/16-1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+      "general:vehicleChassis": "IVECO FF 160 E 30",
+      "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+      "general:vehicleMobilization": "03/09"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1990387,
+    "lng": 8.1323321
+  },
+  "meta:weather": {
+    "date": "2016-12-29",
+    "temperature": 0.4,
+    "temperature_min": -1.2,
+    "temperature_max": 1.7,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 26.6,
+    "peakgust": 43.9,
+    "sunshine": 337,
+    "pressure": null
+  }
+}

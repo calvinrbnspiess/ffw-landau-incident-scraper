@@ -1,0 +1,97 @@
+{
+  "general:einsatzid": "3704",
+  "general:title": "Baum über Straße",
+  "general:date": "2014-07-25T05:45:00+02:00",
+  "general:location": "Kirchhohl",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.5",
+  "general:dateFormatted": "25.07.2014 05:45",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "165",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "16",
+  "general:EinsatzDescription": " \"Baum auf Straße\" - mit diesem Einsatzstichwort wurde heute Morgen die Einheit Landau-Nußdorf in die Kirchhohl gerufen. Vor Ort fanden die Kameraden einen stattlichen Ast eines Nussbaumes vor, welcher ohne Fremdeinwirkung, vermutlich altersbedingt, abgebrochen war. Die Feuerwehr beseitigte diesen und reinigte die Fahrbahn.",
+  "general:visits": "705",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "45",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "KdoW",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-299.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-299.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kommandowagen",
+        "general:vehicleChassis": "VW Passat",
+        "general:vehicleBuild": "VW",
+        "general:vehicleMobilization": "03/05"
+      },
+      {
+        "general:vehicleid": "59",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "LF 10/6",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1060.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1060.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Löschgruppenfahrzeug Nußdorf",
+        "general:vehicleChassis": "IVECO MAGIRUS FF 90 E 18 4x2",
+        "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"new\">Iveco Magirus</a>",
+        "general:vehicleMobilization": "11/08"
+      },
+      {
+        "general:vehicleid": "71",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MZF-Dekon",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1553.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1553.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mehrzweckfahrzeug Dekontamination",
+        "general:vehicleChassis": "MAN 8.180",
+        "general:vehicleBuild": "<a href=\"http://www.ziegler.de\" target=\"New\">Ziegler Brandschutztechnik</a>, Rendsburg",
+        "general:vehicleMobilization": "01/13"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.2260557,
+    "lng": 8.1059938
+  },
+  "meta:weather": {
+    "date": "2014-07-25",
+    "temperature": 18.6,
+    "temperature_min": 13.7,
+    "temperature_max": 25.6,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 11.5,
+    "peakgust": 32.4,
+    "sunshine": 594,
+    "pressure": null
+  }
+}

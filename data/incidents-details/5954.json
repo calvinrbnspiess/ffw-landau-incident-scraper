@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "5954",
+  "general:title": "Brandsicherheitswache",
+  "general:date": "2019-06-02T17:00:00+02:00",
+  "general:location": "Mahlastraße",
+  "general:categorie": "Brandsicherheitswache",
+  "general:length": "4.0",
+  "general:dateFormatted": "02.06.2019 17:00",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "189",
+  "general:changed_on": "2019-06-02T17:03:01+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "72",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "MTF Mörzheim",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1506.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1506.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+      "general:vehicleChassis": "Ford Transit",
+      "general:vehicleBuild": "<a href=\"http://www.compoint-fahrzeugbau.de\" target=\"new\">Compoint</a>",
+      "general:vehicleMobilization": "04/14"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.19641679999999,
+    "lng": 8.120505399999999
+  },
+  "meta:weather": {
+    "date": "2019-06-02",
+    "temperature": 23.5,
+    "temperature_min": 18.9,
+    "temperature_max": 30.2,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": 150,
+    "windspeed": 16.5,
+    "peakgust": 39,
+    "sunshine": 893,
+    "pressure": 1016
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "4222",
+  "general:title": "Wassereintritt in Wohnung",
+  "general:date": "2016-04-12T17:59:00+02:00",
+  "general:location": "Karl-Scharfenberger-Weg",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "12.04.2016 17:59",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "69",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "6",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "60",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "HLF 20/16-1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+      "general:vehicleChassis": "IVECO FF 160 E 30",
+      "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+      "general:vehicleMobilization": "03/09"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1963257,
+    "lng": 8.0931055
+  },
+  "meta:weather": {
+    "date": "2016-04-12",
+    "temperature": 9.7,
+    "temperature_min": 6.9,
+    "temperature_max": 16.5,
+    "precipitation": 5.7,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 19.4,
+    "peakgust": 85,
+    "sunshine": 381,
+    "pressure": null
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "general:einsatzid": "6192",
+  "general:title": "Gasgeruch",
+  "general:date": "2019-11-21T21:05:00+01:00",
+  "general:location": "Im Häck, Albersweiler",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "21.11.2019 21:05",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "420",
+  "general:changed_on": "2019-11-21T21:25:48+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "75",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "GW-Mess",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1558.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1558.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Gerätewagen-Messtechnik",
+      "general:vehicleChassis": "Mercedes Sprinter 316 CDI, Automatik",
+      "general:vehicleBuild": "<a href=\"http://www.binz-automotive.com/\" target=\"New\">Binz, Ilmenau</a>",
+      "general:vehicleMobilization": "10/14"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "48",
+        "general:HiOrgName": "FF Annweiler",
+        "general:HiOrgLink": "http://www.feuerwehr-annweiler.de/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.2172207,
+    "lng": 8.0345932
+  },
+  "meta:weather": {
+    "date": "2019-11-21",
+    "temperature": 1.6,
+    "temperature_min": -0.6,
+    "temperature_max": 5.7,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 139,
+    "windspeed": 15.5,
+    "peakgust": 28,
+    "sunshine": 72,
+    "pressure": 1010.8
+  }
+}

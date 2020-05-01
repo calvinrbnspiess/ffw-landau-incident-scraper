@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "5820",
+  "general:title": "Auslaufende Betriebsmittel aus PKW",
+  "general:date": "2019-02-20T17:17:00+01:00",
+  "general:location": "Hardenburgstraße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "20.02.2019 17:17",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "59",
+  "general:changed_on": "2019-02-20T17:49:29+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "15",
+      "general:vehicleVersion": "2",
+      "general:vehicleName": "KLAF",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-263.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-263.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kleinalarmfahrzeug",
+      "general:vehicleChassis": "MB Sprinter",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "03/12"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1890624,
+    "lng": 8.0954017
+  },
+  "meta:weather": {
+    "date": "2019-02-20",
+    "temperature": 5.2,
+    "temperature_min": 2,
+    "temperature_max": 10.5,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 249,
+    "windspeed": 17.5,
+    "peakgust": 33,
+    "sunshine": 414,
+    "pressure": 1025
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "general:einsatzid": "3876",
+  "general:title": "Ausgelaufene Betriebsmittel",
+  "general:date": "2015-02-10T16:32:00+01:00",
+  "general:location": "Charles-de-Gaulle-Straße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "0.5",
+  "general:dateFormatted": "10.02.2015 16:32",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "34",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "72",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "15",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "KLAF",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-263.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-263.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kleinalarmfahrzeug",
+      "general:vehicleChassis": "MB Sprinter",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "03/12"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "27",
+        "general:HiOrgName": "Fachfirma Straßenreinigung",
+        "general:HiOrgLink": "http://www.brechtel-fahrbahnreinigung.de"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.1886967,
+    "lng": 8.112666599999999
+  },
+  "meta:weather": {
+    "date": "2015-02-10",
+    "temperature": 0.7,
+    "temperature_min": -0.4,
+    "temperature_max": 2.3,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 80,
+    "winddirection": null,
+    "windspeed": 15.8,
+    "peakgust": 33.8,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

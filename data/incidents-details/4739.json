@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "4739",
+  "general:title": "Brand Nebengebäude",
+  "general:date": "2017-07-01T02:15:00+02:00",
+  "general:location": "Mörlheim",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "0.5",
+  "general:dateFormatted": "01.07.2017 02:15",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "215",
+  "general:changed_on": "2017-07-01T02:55:00+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1873055,
+    "lng": 8.1647953
+  },
+  "meta:weather": {
+    "date": "2017-07-01",
+    "temperature": 12.8,
+    "temperature_min": 11.7,
+    "temperature_max": 15.6,
+    "precipitation": 1.2,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 36,
+    "peakgust": 66.6,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

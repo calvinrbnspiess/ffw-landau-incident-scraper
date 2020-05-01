@@ -1,0 +1,138 @@
+{
+  "general:einsatzid": "5071",
+  "general:title": "Gebäudebrand",
+  "general:date": "2018-03-21T18:07:00+01:00",
+  "general:location": "Friesenstraße",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.5",
+  "general:dateFormatted": "21.03.2018 18:07",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "121",
+  "general:changed_on": "2018-03-22T12:18:56+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "27",
+  "general:EinsatzDescription": "<p>Aus dem Polizeibericht:</p>\n<h1 class=\"story-headline\">POL-PDLD: Geschichte vom S&uuml;&szlig;en Brei</h1>\n<div class=\"story-meta\"><span class=\"story-date sans\">22.03.2018 &ndash; 12:06</span></div>\n<div class=\"story-sharing cf\">&nbsp;</div>\n<div class=\"grid-col-1\"><em>Landau (ots)</em> - 21. M&auml;rz 2018, 18.10 Uhr Am Mittwochabend musste die Feuerwehr zu einem Einsatz in die Friesenstra&szlig;e ausr&uuml;cken. Eine Hausfrau hatte einen Topf mit Butter auf den Herd gestellt und auf niedriger Stufe die Butter zerlaufen lassen. Sie war dann f&uuml;r kurze Zeit mit ihren Kindern au&szlig;er Haus gegangen. Der Hund blieb in der Wohnung zur&uuml;ck. Als die Frau mit den Kindern nach rund 15 Minuten zur&uuml;ckkehrte, kam ihr an der Haust&uuml;r au&szlig;er dem Hund auch eine Rauchwolke entgegen. In der K&uuml;che stellte sie den brennenden Topf auf dem Herd fest. Die Frau brachte ihre Kinder und den Hund in Sicherheit und verst&auml;ndigte die Feuerwehr. Diese erschien mit f&uuml;nf Fahrzeugen und 27 Mann vor Ort und l&ouml;schte den Brand. Ein Geb&auml;udeschaden entstand nicht. Zur&uuml;ck blieben lediglich ein schwarz angebrannter Edelstahltopf und eine schwarz gef&auml;rbte Edelstahlhaube. Auch die Decke und W&auml;nde in der K&uuml;che waren ru&szlig;geschw&auml;rzt und ben&ouml;tigen einen neuen Anstrich.</div>",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "1",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "ELW 1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-207.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-207.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Einsatzleitwagen",
+        "general:vehicleChassis": "VW LT",
+        "general:vehicleBuild": "<a href=\"http://www.hensel-fahrzeugbau.de\" target=\"new\">Hensel</a>",
+        "general:vehicleMobilization": "12/04"
+      },
+      {
+        "general:vehicleid": "24",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "SFI",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/kam/default.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/kam/default.jpg",
+          "picture:PictureFormat": "hoch",
+          "picture:PictureDescription": "Bild folgt",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "",
+        "general:vehicleChassis": "",
+        "general:vehicleBuild": "",
+        "general:vehicleMobilization": ""
+      },
+      {
+        "general:vehicleid": "60",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "HLF 20/16-1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+        "general:vehicleChassis": "IVECO FF 160 E 30",
+        "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+        "general:vehicleMobilization": "03/09"
+      },
+      {
+        "general:vehicleid": "74",
+        "general:vehicleVersion": "2",
+        "general:vehicleName": "TGM 23-12",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1538.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1538.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Teleskopgelenkmast",
+        "general:vehicleChassis": "Mercedes Atego 1629, Teligent-Schaltung",
+        "general:vehicleBuild": "<a href=\"http://www.metz-online.de/\">Metz</a>",
+        "general:vehicleMobilization": "10/14"
+      },
+      {
+        "general:vehicleid": "70",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "LF-KatS",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD8045.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD8045.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Löschgruppenfahrzeug Katastrophenschutz",
+        "general:vehicleChassis": "MAN TGM 13.250 4x4 BL FW",
+        "general:vehicleBuild": "<a href=\"http://www.lentner-gmbh.de\" target=\"new\">Josef Lentner GmbH</a>",
+        "general:vehicleMobilization": "09/12"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "31",
+        "general:HiOrgName": "Rettungsdienst",
+        "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.2003224,
+    "lng": 8.103553699999999
+  },
+  "meta:weather": {
+    "date": "2018-03-21",
+    "temperature": -0.4,
+    "temperature_min": -3.6,
+    "temperature_max": 3.1,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 10,
+    "winddirection": 84,
+    "windspeed": 14.5,
+    "peakgust": 36,
+    "sunshine": 652,
+    "pressure": 1028.2
+  }
+}

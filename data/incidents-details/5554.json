@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "5554",
+  "general:title": "Rauchentwicklung im Freien",
+  "general:date": "2018-08-04T22:15:00+02:00",
+  "general:location": "Frankfurter Straße",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.0",
+  "general:dateFormatted": "04.08.2018 22:15",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "600",
+  "general:changed_on": "2018-08-04T22:32:35+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "8",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "70",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "LF-KatS",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD8045.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD8045.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Löschgruppenfahrzeug Katastrophenschutz",
+      "general:vehicleChassis": "MAN TGM 13.250 4x4 BL FW",
+      "general:vehicleBuild": "<a href=\"http://www.lentner-gmbh.de\" target=\"new\">Josef Lentner GmbH</a>",
+      "general:vehicleMobilization": "09/12"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2056304,
+    "lng": 8.145813000000002
+  },
+  "meta:weather": {
+    "date": "2018-08-04",
+    "temperature": 28.4,
+    "temperature_min": 23.3,
+    "temperature_max": 34.7,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": 183,
+    "windspeed": 12.1,
+    "peakgust": 46,
+    "sunshine": 601,
+    "pressure": 1016
+  }
+}

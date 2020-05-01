@@ -1,0 +1,74 @@
+{
+  "general:einsatzid": "289",
+  "general:title": "Unterstützung Rettungsdienst",
+  "general:date": "2005-01-19T11:38:00+01:00",
+  "general:location": "Queichheimer Hauptstraße 237a",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.5",
+  "general:dateFormatted": "19.01.2005 11:38",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "11",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "406",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "53",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "KdoW 2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1501.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1501.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kommandowagen - Fahrzeug für den feuerwehrtechnischen Bediensteten",
+        "general:vehicleChassis": "Fiat Grande Punto",
+        "general:vehicleBuild": "Michael Schmidt mobile Kommunikation GmbH",
+        "general:vehicleMobilization": "12/07"
+      },
+      {
+        "general:vehicleid": "18",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "DTF",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-309.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-309.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Dekontaminationstransportfahrzeug",
+        "general:vehicleChassis": "MB L 410",
+        "general:vehicleBuild": "",
+        "general:vehicleMobilization": "03/85"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.19786,
+    "lng": 8.15702
+  },
+  "meta:weather": {
+    "date": "2005-01-19",
+    "temperature": 0.2,
+    "temperature_min": -1.2,
+    "temperature_max": 2.5,
+    "precipitation": 1.3,
+    "snowfall": null,
+    "snowdepth": 10,
+    "winddirection": null,
+    "windspeed": 36.7,
+    "peakgust": 81.4,
+    "sunshine": 162,
+    "pressure": null
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "general:einsatzid": "4522",
+  "general:title": "Tür öffnen dringend",
+  "general:date": "2017-01-04T13:16:00+01:00",
+  "general:location": "Im Justus",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "04.01.2017 13:16",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "4",
+  "general:changed_on": "2017-01-04T13:27:01+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "11",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "60",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "HLF 20/16-1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+      "general:vehicleChassis": "IVECO FF 160 E 30",
+      "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+      "general:vehicleMobilization": "03/09"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "31",
+        "general:HiOrgName": "Rettungsdienst",
+        "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.2086078,
+    "lng": 8.127674599999999
+  },
+  "meta:weather": {
+    "date": "2017-01-04",
+    "temperature": -1.4,
+    "temperature_min": -2.4,
+    "temperature_max": -0.5,
+    "precipitation": 1.9,
+    "snowfall": null,
+    "snowdepth": 20,
+    "winddirection": null,
+    "windspeed": 24.1,
+    "peakgust": 49.3,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

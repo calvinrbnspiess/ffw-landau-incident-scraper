@@ -1,0 +1,78 @@
+{
+  "general:einsatzid": "3382",
+  "general:title": "Ölspur",
+  "general:date": "2013-07-03T12:14:00+02:00",
+  "general:location": "Stadtgebiet",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "2.0",
+  "general:dateFormatted": "03.07.2013 12:14",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "176",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": " Aus dem Polizeibericht:<br><br><b>Ölspur\r\n</b><br><br>Eine defekte Dieselpumpe an einem PKW-Audi war der Grund für eine Dieselspur, die sich quer durch das Stadtgebiet, von der Horststraße beginnend bis nach Landau Mörlheim, zog. Mehrere Verkehrsteilnehmer hatten die Verunreinigung gegen 12:30 Uhr bei der Polizei gemeldet, die schließlich den Verursacher bei einem Autohaus feststellen konnte. Durch die Feuerwehr Landau wurde eine Firma mit der Straßenreinigung beauftragt. ",
+  "general:visits": "824",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "15",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "KLAF",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-263.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-263.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kleinalarmfahrzeug",
+      "general:vehicleChassis": "MB Sprinter",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "03/12"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "42",
+        "general:HiOrgName": "Straßenmeisterei",
+        "general:HiOrgLink": "http://www.lbm.rlp.de/icc/Internet/nav/c81/c815b7fe-563c-4216-0f1d-8770a7fd7276.htm"
+      },
+      {
+        "general:HiOrgId": "41",
+        "general:HiOrgName": "Autobahnmeisterei",
+        "general:HiOrgLink": "http://www.lbm.rlp.de/icc/Internet/nav/fd1/fd15b7fe-563c-4216-0f1d-8770a7fd7276.htm"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "27",
+        "general:HiOrgName": "Fachfirma Straßenreinigung",
+        "general:HiOrgLink": "http://www.brechtel-fahrbahnreinigung.de"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.19888599999999,
+    "lng": 8.1185622
+  },
+  "meta:weather": {
+    "date": "2013-07-03",
+    "temperature": 15.4,
+    "temperature_min": 13.8,
+    "temperature_max": 18.9,
+    "precipitation": 7.6,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 26.6,
+    "peakgust": 63.4,
+    "sunshine": 33,
+    "pressure": null
+  }
+}

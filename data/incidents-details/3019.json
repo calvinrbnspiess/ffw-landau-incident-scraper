@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "3019",
+  "general:title": "Tierrettung",
+  "general:date": "2012-05-25T09:20:00+02:00",
+  "general:location": "Industriestraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.0",
+  "general:dateFormatted": "25.05.2012 09:20",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "119",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "",
+  "general:visits": "413",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "45",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "KdoW",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-299.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-299.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kommandowagen",
+      "general:vehicleChassis": "VW Passat",
+      "general:vehicleBuild": "VW",
+      "general:vehicleMobilization": "03/05"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.19977429999999,
+    "lng": 8.1217226
+  },
+  "meta:weather": {
+    "date": "2012-05-25",
+    "temperature": 17.4,
+    "temperature_min": 13.3,
+    "temperature_max": 22.6,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 27.7,
+    "peakgust": 59.8,
+    "sunshine": 876,
+    "pressure": null
+  }
+}

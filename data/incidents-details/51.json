@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "51",
+  "general:title": "Brand einer Wellacryl-Platte",
+  "general:date": "2004-03-05T22:52:00+01:00",
+  "general:location": "Westring 20",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "0.5",
+  "general:dateFormatted": "05.03.2004 22:52",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "45",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "7",
+  "general:EinsatzDescription": "",
+  "general:visits": "486",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.19524999999999,
+    "lng": 8.10899
+  },
+  "meta:weather": {
+    "date": "2004-03-05",
+    "temperature": 0.1,
+    "temperature_min": -2.9,
+    "temperature_max": 4.7,
+    "precipitation": 2.3,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 27.4,
+    "peakgust": 47.5,
+    "sunshine": 492,
+    "pressure": null
+  }
+}

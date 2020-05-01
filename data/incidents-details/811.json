@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "811",
+  "general:title": "Tierk?rperbeseitigung",
+  "general:date": "2006-09-05T18:17:00+02:00",
+  "general:location": "Schlettstadter Straße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "05.09.2006 18:17",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "243",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "626",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "0",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "KdoW2",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-308.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-308.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kommandowagen",
+      "general:vehicleChassis": "VW Passat",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "09/88"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1933932,
+    "lng": 8.0885043
+  },
+  "meta:weather": {
+    "date": "2006-09-05",
+    "temperature": 17.9,
+    "temperature_min": 14.2,
+    "temperature_max": 23.3,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 11.2,
+    "peakgust": 31.3,
+    "sunshine": 558,
+    "pressure": null
+  }
+}

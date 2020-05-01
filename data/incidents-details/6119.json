@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "6119",
+  "general:title": "Überörtliche Hilfe",
+  "general:date": "2019-09-30T13:53:00+02:00",
+  "general:location": "Annweiler-Gräfenhausen",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "2.0",
+  "general:dateFormatted": "30.09.2019 13:53",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "348",
+  "general:changed_on": "2019-09-30T15:43:57+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "65",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "MTF 1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1513.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1513.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+      "general:vehicleChassis": "Ford Transit",
+      "general:vehicleBuild": "<a href=\"http://www.compoint-fahrzeugbau.de\" target=\"new\">Compoint</a>",
+      "general:vehicleMobilization": "06/11"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "48",
+      "general:HiOrgName": "FF Annweiler",
+      "general:HiOrgLink": "http://www.feuerwehr-annweiler.de/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.22354929999999,
+    "lng": 7.965722
+  },
+  "meta:weather": {
+    "date": "2019-09-30",
+    "temperature": 11.7,
+    "temperature_min": 10,
+    "temperature_max": 14.7,
+    "precipitation": 1.1,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": 249,
+    "windspeed": 43,
+    "peakgust": 118,
+    "sunshine": 97,
+    "pressure": 1010.8
+  }
+}

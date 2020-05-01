@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "5295",
+  "general:title": "Unwetter",
+  "general:date": "2018-06-11T16:32:00+02:00",
+  "general:location": "Finkenstraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.0",
+  "general:dateFormatted": "11.06.2018 16:32",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "343",
+  "general:changed_on": "2018-06-13T18:01:58+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "0",
+  "general:EinsatzDescription": "Wasser im Keller",
+  "general:visits": "0",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1976989,
+    "lng": 8.1370718
+  },
+  "meta:weather": {
+    "date": "2018-06-11",
+    "temperature": 18.4,
+    "temperature_min": 15.4,
+    "temperature_max": 22.9,
+    "precipitation": 9.7,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": 128,
+    "windspeed": 12.3,
+    "peakgust": 52,
+    "sunshine": 231,
+    "pressure": 1009.6
+  }
+}

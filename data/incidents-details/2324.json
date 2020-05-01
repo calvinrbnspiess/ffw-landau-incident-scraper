@@ -1,0 +1,33 @@
+{
+  "general:einsatzid": "2324",
+  "general:title": "Verständigung Leitstelle Südpfalz",
+  "general:date": "2010-05-23T13:43:00+02:00",
+  "general:location": "",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "23.05.2010 13:43",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "177",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": " Alarmierung der Feuerwehr Albersweiler zu Notfalltüröffnung",
+  "general:visits": "1253",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:weather": {
+    "date": "2010-05-23",
+    "temperature": 17,
+    "temperature_min": 11.9,
+    "temperature_max": 22.2,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 16.2,
+    "peakgust": 38.2,
+    "sunshine": 744,
+    "pressure": null
+  }
+}

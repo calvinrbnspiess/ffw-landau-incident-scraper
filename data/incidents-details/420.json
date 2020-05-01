@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "420",
+  "general:title": "Unwetterschaden",
+  "general:date": "2005-06-30T00:50:00+02:00",
+  "general:location": "Amselweg 72, Schifferstadt",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.0",
+  "general:dateFormatted": "30.06.2005 00:50",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "131",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "0",
+  "general:EinsatzDescription": "  <br><br>Siehe die <a href=\"einsatz.php?nr=410&lfdnr=121\">Zusammenfassung</a> ",
+  "general:visits": "479",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.37730879999999,
+    "lng": 8.3868881
+  },
+  "meta:weather": {
+    "date": "2005-06-29",
+    "temperature": 20.1,
+    "temperature_min": 14,
+    "temperature_max": 28.2,
+    "precipitation": 0.7,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 19.1,
+    "peakgust": 68.8,
+    "sunshine": 402,
+    "pressure": null
+  }
+}

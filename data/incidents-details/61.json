@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "61",
+  "general:title": "Person in Aufzug eingeschlossen",
+  "general:date": "2004-03-18T15:16:00+01:00",
+  "general:location": "Hainbachstraße 39",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "18.03.2004 15:16",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "52",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "6",
+  "general:EinsatzDescription": "",
+  "general:visits": "613",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.203736,
+    "lng": 8.1241814
+  },
+  "meta:weather": {
+    "date": "2004-03-18",
+    "temperature": 15.8,
+    "temperature_min": 12.1,
+    "temperature_max": 19.4,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 16.9,
+    "peakgust": 52.2,
+    "sunshine": 468,
+    "pressure": null
+  }
+}

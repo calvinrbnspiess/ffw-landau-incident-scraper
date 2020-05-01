@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "3683",
+  "general:title": "OrgLeiter-Transport",
+  "general:date": "2014-07-09T12:11:00+02:00",
+  "general:location": "Edesheim",
+  "general:categorie": "LNA",
+  "general:length": "1.5",
+  "general:dateFormatted": "09.07.2014 12:11",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "146",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "",
+  "general:visits": "419",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "53",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "KdoW 2",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1501.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1501.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kommandowagen - Fahrzeug für den feuerwehrtechnischen Bediensteten",
+      "general:vehicleChassis": "Fiat Grande Punto",
+      "general:vehicleBuild": "Michael Schmidt mobile Kommunikation GmbH",
+      "general:vehicleMobilization": "12/07"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "33",
+      "general:HiOrgName": "Org-Leiter",
+      "general:HiOrgLink": "https://www.suedliche-weinstrasse.de/de/landkreis/brandschutz/notarzt_orgaleiter.php"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.26270599999999,
+    "lng": 8.131542399999999
+  },
+  "meta:weather": {
+    "date": "2014-07-09",
+    "temperature": 9.9,
+    "temperature_min": 9.1,
+    "temperature_max": 11,
+    "precipitation": 8.1,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 41.8,
+    "peakgust": 78.8,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

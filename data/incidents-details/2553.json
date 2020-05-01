@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "2553",
+  "general:title": "Ölspur",
+  "general:date": "2010-10-19T17:45:00+02:00",
+  "general:location": "Haardtstraße / Horststraße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "0.5",
+  "general:dateFormatted": "19.10.2010 17:45",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "399",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "",
+  "general:visits": "232",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2023372,
+    "lng": 8.1176815
+  },
+  "meta:weather": {
+    "date": "2010-10-19",
+    "temperature": 3.6,
+    "temperature_min": 1.7,
+    "temperature_max": 5.3,
+    "precipitation": 3.7,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 36.4,
+    "peakgust": 63,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

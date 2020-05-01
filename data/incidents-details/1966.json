@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "1966",
+  "general:title": "Baum auf Straße",
+  "general:date": "2009-07-14T01:10:00+02:00",
+  "general:location": "Zweibrücker Straße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.0",
+  "general:dateFormatted": "14.07.2009 01:10",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "202",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "",
+  "general:AmountPeople": "0",
+  "general:EinsatzDescription": "",
+  "general:visits": "250",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.19209679999999,
+    "lng": 8.1094755
+  },
+  "meta:weather": {
+    "date": "2009-07-13",
+    "temperature": 18,
+    "temperature_min": 14.4,
+    "temperature_max": 23.5,
+    "precipitation": 27.2,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 16.6,
+    "peakgust": 59,
+    "sunshine": 246,
+    "pressure": null
+  }
+}

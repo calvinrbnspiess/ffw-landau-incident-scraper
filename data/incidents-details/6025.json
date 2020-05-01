@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "6025",
+  "general:title": "Auslaufende Betriebsmittel aus PKW",
+  "general:date": "2019-07-16T11:12:00+02:00",
+  "general:location": "Bauerngasse",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "16.07.2019 11:12",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "256",
+  "general:changed_on": "2019-07-16T11:17:11+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "15",
+      "general:vehicleVersion": "2",
+      "general:vehicleName": "KLAF",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-263.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-263.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kleinalarmfahrzeug",
+      "general:vehicleChassis": "MB Sprinter",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "03/12"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "27",
+      "general:HiOrgName": "Fachfirma Straßenreinigung",
+      "general:HiOrgLink": "http://www.brechtel-fahrbahnreinigung.de"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.2248283,
+    "lng": 8.1125907
+  },
+  "meta:weather": {
+    "date": "2019-07-16",
+    "temperature": 15.2,
+    "temperature_min": 9.2,
+    "temperature_max": 22.2,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": 120,
+    "windspeed": 12.7,
+    "peakgust": 36,
+    "sunshine": 797,
+    "pressure": 1017.7
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "883",
+  "general:title": "Verständigung Leitstelle",
+  "general:date": "2006-11-28T16:28:00+01:00",
+  "general:location": "Lustadt",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "28.11.2006 16:28",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "312",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "871",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2446061,
+    "lng": 8.2735506
+  },
+  "meta:weather": {
+    "date": "2006-11-28",
+    "temperature": 6.3,
+    "temperature_min": 2.7,
+    "temperature_max": 9.4,
+    "precipitation": 1,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 18.4,
+    "peakgust": 33.8,
+    "sunshine": 390,
+    "pressure": null
+  }
+}

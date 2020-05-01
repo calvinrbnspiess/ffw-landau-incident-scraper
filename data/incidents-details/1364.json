@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "1364",
+  "general:title": "Auslaufende Betriebsmittel",
+  "general:date": "2008-03-01T09:32:00+01:00",
+  "general:location": "Vogesenstraße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "0.5",
+  "general:dateFormatted": "01.03.2008 09:32",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "44",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": " Kein Einsatz f?r die Feuerwehr ",
+  "general:visits": "657",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "45",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "KdoW",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-299.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-299.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kommandowagen",
+      "general:vehicleChassis": "VW Passat",
+      "general:vehicleBuild": "VW",
+      "general:vehicleMobilization": "03/05"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1932123,
+    "lng": 8.1197053
+  },
+  "meta:weather": {
+    "date": "2008-03-01",
+    "temperature": 6.1,
+    "temperature_min": 0.1,
+    "temperature_max": 8,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 62.3,
+    "peakgust": 132.1,
+    "sunshine": 180,
+    "pressure": null
+  }
+}

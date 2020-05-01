@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "4538",
+  "general:title": "Verständigung EnergieSüdwest",
+  "general:date": "2017-01-13T12:27:00+01:00",
+  "general:location": "Pinselstraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "13.01.2017 12:27",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "17",
+  "general:changed_on": "2017-01-14T14:55:13+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1794521,
+    "lng": 8.0829278
+  },
+  "meta:weather": {
+    "date": "2017-01-13",
+    "temperature": -1.1,
+    "temperature_min": -2.8,
+    "temperature_max": 2.8,
+    "precipitation": 1.9,
+    "snowfall": null,
+    "snowdepth": 40,
+    "winddirection": null,
+    "windspeed": 60.1,
+    "peakgust": 148,
+    "sunshine": 25,
+    "pressure": null
+  }
+}

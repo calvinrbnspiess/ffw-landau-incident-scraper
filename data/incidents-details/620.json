@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "620",
+  "general:title": "Verständigung Baubetriebshof",
+  "general:date": "2006-03-11T09:35:00+01:00",
+  "general:location": "Kronstraße",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "11.03.2006 09:35",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "62",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "388",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1973056,
+    "lng": 8.113515399999999
+  },
+  "meta:weather": {
+    "date": "2006-03-11",
+    "temperature": -1,
+    "temperature_min": -6.5,
+    "temperature_max": 2.5,
+    "precipitation": 4.1,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 27,
+    "peakgust": 72.7,
+    "sunshine": 6,
+    "pressure": null
+  }
+}

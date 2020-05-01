@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "2622",
+  "general:title": "Öl auf Gewässer",
+  "general:date": "2011-01-09T11:01:00+01:00",
+  "general:location": "Birnbach",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "0.5",
+  "general:dateFormatted": "09.01.2011 11:01",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "17",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "",
+  "general:visits": "568",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "37",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "MTF Wollmesheim",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-271.JPG",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-271.JPG",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+      "general:vehicleChassis": "VW Bus",
+      "general:vehicleBuild": "",
+      "general:vehicleMobilization": "07/82"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1842268,
+    "lng": 8.1172709
+  },
+  "meta:weather": {
+    "date": "2011-01-09",
+    "temperature": 5.3,
+    "temperature_min": -0.6,
+    "temperature_max": 9.8,
+    "precipitation": 2.4,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 32,
+    "peakgust": 82.8,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

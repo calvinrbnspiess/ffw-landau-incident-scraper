@@ -1,0 +1,242 @@
+{
+  "general:einsatzid": "1345",
+  "general:title": "Überörtliche Hilfe - Grossbrand",
+  "general:date": "2008-02-18T15:14:00+01:00",
+  "general:location": "Bad Bergzabern",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "5.5",
+  "general:dateFormatted": "18.02.2008 15:14",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "25",
+  "picture:Picture": {
+    "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0802/080218_23.jpg",
+    "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0802/080218_23.jpg",
+    "picture:PictureFormat": "quer",
+    "picture:PictureDescription": "Brand in Bad Bergzabern beim Eintreffen",
+    "picture:BufferPreview": "true",
+    "picture:BufferPicture": "false"
+  },
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "2",
+  "general:AmountPeople": "29",
+  "general:EinsatzDescription": "?ber?rtliche Hilfe bei einem Gro?brand in der Innenstadt von Bad Bergzabern mit mehreren Fahrzeugen.<br> Von der Feuerwehr Bad Bergzabern wurde kurz nach Eintreffen des eigenen L?schzuges die Feuerwehr Landau zur Unterst?tzung mit dem Teleskopgelenkmast und einem  Tankl?schfahrzeug bei einem ausgedehnten Dachstuhlbrand gerufen. Zusammen mit den Kollegen aus Dahn wurde die Feuerwehr Landau im r?ckw?rtigen und seitlichen Bereich eingesetzt, w?hrend die Drehleitern aus Bad Bergzabern und dem els?ssischen Wissembourg auf der Kurtalstra?e eingestezt wurden. ?ber den Korb des Teleskopgelenkmastes konnten die Landauer Einsatzkr?fte  eine weitere Ausbreitung des Feuers auf ein benachbartes Haus und ein Anbau im Geb?udekomplex verhindert.<br>\r\nIm Einsatzverlauf stellte die Feuerwehr Landau mit einem L?schgruppenfahrzeug und zwei TSF aus den Einheiten Dammheim und Godramstein den Brandschutz f?r Bad Bergzabern in der Feuerwache sicher. W?hrend der Bereitschaft wurde das LF 16-12 zu einem brennenden Baum gerufen. An der Einsatzstelle verbrannte ein Landwirt landwirtschaftliche R?ckst?nde. Es war kein Einsatz f?r die Feuerwehr n?tig. <br> In der Feuerwache Bad Bergzabern unterst?tzten Atemschutzger?tewarte aus Landau die Kollegen aus Bad Bergzabern beim Aufbereiten der Technik.<br><br> Die Bilder wurden uns von der Feuerwehr Bad Bergzabern zur Verf?gung gestellt. Danke Dirk Garska!<br><br><b>Bad Bergzabern</b>, Gemeinsame Presseerkl?rung der Staatsanwaltschaft Landau und der Polizeidirektion Landau\r\n<br><br> \r\n \r\n\r\nBad Bergzabern Erfolgreich bek?mpften die Feuerwehren der Umgebung mit ca. 80 Einsatzkr?ften einen Dachstuhlbrand in der Kurtalstra?e. Dort brach kurz vor 15 Uhr aus bisher ungekl?rter Ursache im Dachgescho? einer B?ckerei ein Brand aus. Zum Zeitpunkt des Brandausbruches hielten sich wohl keine Personen im Geb?ude auf, welches die Feuerwehr sofort nach der Verst?ndigung durchsuchte. Mit vier Drehleitern der Wehren aus Bad Bergzabern, Wei?enburg, Dahn und Landau konnten die Einsatzkr?fte ein ?bergreifen der Flammen auf Nachbargeb?ude verhindern und den Brand erfolgreich bek?mpfen. Die L?scharbeiten sind soweit abgeschlossen. Die Schadensh?he steht noch nicht fest. Die B 427 als Durchgangsstra?e von Bad Bergzabern wurde auf unbestimmte Zeit voll gesperrt. Die ?rtliche Umleitung ist ausgeschildert. Die Kriminalpolizei und ein von der Staatsanwaltschaft Landau beauftragter Brandsachverst?ndiger nehmen die Ermittlungen zur Brandursache auf. \r\n\r\n      ",
+  "general:visits": "4983",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "4",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "TGM 23-12",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-243.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-243.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Teleskopgelenkmast",
+        "general:vehicleChassis": "MAN 15.264",
+        "general:vehicleBuild": "<a href=\"http://www.bronto.ch/\" target=\"new\">Bronto Skylift</a>",
+        "general:vehicleMobilization": "11/98"
+      },
+      {
+        "general:vehicleid": "6",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "TLF 24-50",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-264.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-264.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Tanklöschfahrzeug",
+        "general:vehicleChassis": "MB 1626",
+        "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+        "general:vehicleMobilization": "02/81"
+      },
+      {
+        "general:vehicleid": "45",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "KdoW",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-299.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-299.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kommandowagen",
+        "general:vehicleChassis": "VW Passat",
+        "general:vehicleBuild": "VW",
+        "general:vehicleMobilization": "03/05"
+      },
+      {
+        "general:vehicleid": "5",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "LF 16-12-2 (heute: )",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-256.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-256.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Löschgruppenfahrzeug",
+        "general:vehicleChassis": "MB 1222",
+        "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+        "general:vehicleMobilization": "06/88"
+      },
+      {
+        "general:vehicleid": "28",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "TSF Dammheim",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-250.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-250.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Tragkraftspritzenfahrzeug",
+        "general:vehicleChassis": "VW LT",
+        "general:vehicleBuild": "Metz",
+        "general:vehicleMobilization": "05/90"
+      },
+      {
+        "general:vehicleid": "29",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "TSF Godramstein",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-268.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-268.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Tragkraftspritzenfahrzeug",
+        "general:vehicleChassis": "VW LT",
+        "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+        "general:vehicleMobilization": "08/92"
+      }
+    ]
+  },
+  "picture:Pictures": {
+    "picture:Picture": [
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0802/080218_23.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0802/080218_23.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "Brand in Bad Bergzabern beim Eintreffen",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      },
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0802/080218_04.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0802/080218_04.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "Die Feuerwehr Landau mit TLF und...",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      },
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0802/080218_06.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0802/080218_06.jpg",
+        "picture:PictureFormat": "hoch",
+        "picture:PictureDescription": "... TGM im Einsatz.",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      },
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0802/080218_07.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0802/080218_07.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "Zusammen mit der DLK aus Dahn",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      },
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0802/080218_16.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0802/080218_16.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "Kontrolle",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      },
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0802/080218_27.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0802/080218_27.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "Brandnester",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      },
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0802/080219_39.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0802/080219_39.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      }
+    ]
+  },
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "51",
+        "general:HiOrgName": "FF Herxheim",
+        "general:HiOrgLink": "http://www.feuerwehr-herxheim.de/"
+      },
+      {
+        "general:HiOrgId": "52",
+        "general:HiOrgName": "FF Offenbach/Queich",
+        "general:HiOrgLink": "http://www.feuerwehroffenbach.de/"
+      },
+      {
+        "general:HiOrgId": "58",
+        "general:HiOrgName": "FF Bad Bergzabern",
+        "general:HiOrgLink": "http://www.ffw-bad-bergzabern.de/"
+      },
+      {
+        "general:HiOrgId": "59",
+        "general:HiOrgName": "FF Oberotterbach",
+        "general:HiOrgLink": "http://ffw-oberotterbach.de/"
+      },
+      {
+        "general:HiOrgId": "81",
+        "general:HiOrgName": "FF Dahn",
+        "general:HiOrgLink": "http://www.feuerwehr-dahn.de"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.1003724,
+    "lng": 7.999876700000001
+  },
+  "meta:weather": {
+    "date": "2008-02-18",
+    "temperature": 4.2,
+    "temperature_min": 0.9,
+    "temperature_max": 9.4,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 9,
+    "peakgust": 19.1,
+    "sunshine": 594,
+    "pressure": null
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "general:einsatzid": "2152",
+  "general:title": "Brandgeruch",
+  "general:date": "2010-01-16T05:53:00+01:00",
+  "general:location": "Litschenbecher Strasse",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.0",
+  "general:dateFormatted": "16.01.2010 05:53",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "9",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "4",
+  "general:AmountPeople": "18",
+  "general:EinsatzDescription": "Wegen Brandgeruch und undefinierbaren Ger?uschen an der Heizungsanlage in einem Wohnhaus, wurde am fr?hen Morgen der L?schzug Nu?dorf alarmiert.\r\nDie R?umlichkeiten wurden gel?ftet und die Heizungsanlage abgestellt.",
+  "general:visits": "1320",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "59",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "LF 10/6",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1060.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1060.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Löschgruppenfahrzeug Nußdorf",
+        "general:vehicleChassis": "IVECO MAGIRUS FF 90 E 18 4x2",
+        "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"new\">Iveco Magirus</a>",
+        "general:vehicleMobilization": "11/08"
+      },
+      {
+        "general:vehicleid": "35",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MTF Nussdorf - alt",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-241.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-241.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "VW Bus",
+        "general:vehicleBuild": "",
+        "general:vehicleMobilization": "06/83"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "31",
+        "general:HiOrgName": "Rettungsdienst",
+        "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.2270029,
+    "lng": 8.1082023
+  },
+  "meta:weather": {
+    "date": "2010-01-16",
+    "temperature": -3.7,
+    "temperature_min": -4.7,
+    "temperature_max": -0.6,
+    "precipitation": 8.6,
+    "snowfall": null,
+    "snowdepth": 90,
+    "winddirection": null,
+    "windspeed": 9,
+    "peakgust": 15.5,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

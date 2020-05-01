@@ -1,0 +1,43 @@
+{
+  "general:einsatzid": "3499",
+  "general:title": "Ölspur",
+  "general:date": "2013-11-11T15:28:00+01:00",
+  "general:location": "Schneiderstraße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "11.11.2013 15:28",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "291",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "",
+  "general:visits": "131",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "27",
+      "general:HiOrgName": "Fachfirma Straßenreinigung",
+      "general:HiOrgLink": "http://www.brechtel-fahrbahnreinigung.de"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1990387,
+    "lng": 8.1323321
+  },
+  "meta:weather": {
+    "date": "2013-11-11",
+    "temperature": 2.8,
+    "temperature_min": 1,
+    "temperature_max": 6.2,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 14.4,
+    "peakgust": 39.2,
+    "sunshine": 401,
+    "pressure": null
+  }
+}

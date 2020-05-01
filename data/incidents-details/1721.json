@@ -1,0 +1,43 @@
+{
+  "general:einsatzid": "1721",
+  "general:title": "PKW-Brand",
+  "general:date": "2009-03-06T15:36:00+01:00",
+  "general:location": "BAB 65",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "0.5",
+  "general:dateFormatted": "06.03.2009 15:36",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "51",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "16",
+  "general:EinsatzDescription": "",
+  "general:visits": "920",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.2542676,
+    "lng": 8.1502734
+  },
+  "meta:weather": {
+    "date": "2009-03-06",
+    "temperature": 0.1,
+    "temperature_min": -0.3,
+    "temperature_max": 1,
+    "precipitation": 6.4,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 31.7,
+    "peakgust": 59,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

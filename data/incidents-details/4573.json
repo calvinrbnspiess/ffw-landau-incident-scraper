@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "4573",
+  "general:title": "Tür öffnen dringend",
+  "general:date": "2017-02-05T10:43:00+01:00",
+  "general:location": "Thüringer Straße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "05.02.2017 10:43",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "52",
+  "general:changed_on": "2017-02-05T11:06:38+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2027177,
+    "lng": 8.136036899999999
+  },
+  "meta:weather": {
+    "date": "2017-02-05",
+    "temperature": 2.3,
+    "temperature_min": 0.4,
+    "temperature_max": 3.6,
+    "precipitation": 1.4,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 19.1,
+    "peakgust": 63.7,
+    "sunshine": 23,
+    "pressure": null
+  }
+}

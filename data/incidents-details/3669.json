@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "3669",
+  "general:title": "Kleinbrand",
+  "general:date": "2014-07-04T20:45:00+02:00",
+  "general:location": "Bahnhofstraße",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.0",
+  "general:dateFormatted": "04.07.2014 20:45",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "132",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "6",
+  "general:EinsatzDescription": "",
+  "general:visits": "220",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "57",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "TSF-W Godramstein",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1503.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1503.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Tragkraftspritzenfahrzeug-Wasser",
+      "general:vehicleChassis": "IVECO Daily 65C18D",
+      "general:vehicleBuild": "Iveco Magirus Brandschutztechnik, jetzt: <a href=\"http://www.btg-goerlitz.biz/\" target=\"new\">Brandschutztechnik Görlitz</a>",
+      "general:vehicleMobilization": "06/08"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.2080259,
+    "lng": 8.076752899999999
+  },
+  "meta:weather": {
+    "date": "2014-07-04",
+    "temperature": 21.6,
+    "temperature_min": 17.1,
+    "temperature_max": 27.3,
+    "precipitation": 0.6,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 14.4,
+    "peakgust": 50.8,
+    "sunshine": 471,
+    "pressure": null
+  }
+}

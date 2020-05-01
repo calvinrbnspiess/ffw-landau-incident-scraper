@@ -1,0 +1,43 @@
+{
+  "general:einsatzid": "3812",
+  "general:title": "Person in Notlage",
+  "general:date": "2014-11-11T17:27:00+01:00",
+  "general:location": "Horstschanze",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "11.11.2014 17:27",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "263",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "9",
+  "general:EinsatzDescription": "",
+  "general:visits": "72",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "31",
+      "general:HiOrgName": "Rettungsdienst",
+      "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.2056799,
+    "lng": 8.125802
+  },
+  "meta:weather": {
+    "date": "2014-11-11",
+    "temperature": 5.4,
+    "temperature_min": 3.3,
+    "temperature_max": 6.6,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 19.8,
+    "peakgust": 40,
+    "sunshine": 34,
+    "pressure": null
+  }
+}

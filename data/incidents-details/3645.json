@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "3645",
+  "general:title": "PKW-Brand",
+  "general:date": "2014-06-12T06:41:00+02:00",
+  "general:location": "BAB 65",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "0.5",
+  "general:dateFormatted": "12.06.2014 06:41",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "109",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "356",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "51",
+        "general:HiOrgName": "FF Herxheim",
+        "general:HiOrgLink": "http://www.feuerwehr-herxheim.de/"
+      },
+      {
+        "general:HiOrgId": "96",
+        "general:HiOrgName": "FF Insheim",
+        "general:HiOrgLink": "http://www.feuerwehr-insheim.de"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.2542676,
+    "lng": 8.1502734
+  },
+  "meta:weather": {
+    "date": "2014-06-12",
+    "temperature": 18.8,
+    "temperature_min": 15,
+    "temperature_max": 24.3,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 19.1,
+    "peakgust": 46.4,
+    "sunshine": 646,
+    "pressure": null
+  }
+}

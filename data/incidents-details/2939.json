@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "2939",
+  "general:title": "Wasserschaden",
+  "general:date": "2012-02-15T01:48:00+01:00",
+  "general:location": "Martin Greiff Straße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.5",
+  "general:dateFormatted": "15.02.2012 01:48",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "39",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "7",
+  "general:EinsatzDescription": " Aus dem Polizeibericht:<br><br>\r\nAm 15.02.12 gegen 01.45 Uhr teilte die Mieterin eines Anwesens im Stadtbereich Landau telefonisch mit, dass es bei ihr im Haus zu einem Wasserrohrbruch gekommen ist. Das Wasser schie?e aus einer br?chigen Wasserleitung im 1. Stock des Einfamilienhauses unkontrolliert in die Wohnung.\r\n<br>\r\nDie Wohnung sei bereits komplett ?berschwemmt. Die Feuerwehr wurde umgehend alarmiert und kam mit einem Fahrzeug und 7 Mann vor Ort. Dort wurde der Sachverhalt wie angegeben vorgefunden. Die 86-j?hrige alleinstehende Hausbesitzerin wohnte im Erdgescho? des Wohnhauses. Auf Klingeln und Rufen ?ffnete sie zun?chst nicht. Um an den Wasserhaupthahn im Keller zu gelangen, musste die verschlossene Kellert?r durch die FFW ge?ffnet werden. Durch den immensen Wasseraustritt entstand vermutlich hoher Sachschaden am und im Geb?ude. Die H?he des Schadens konnte noch nicht bestimmt werden. Auf Anraten der Feuerwehr wurde Strom- und Gaszufuhr abgeschaltet. Die verst?ndigte Tochter der Hausbesitzerin nahm sie in ihre Obhut. Die Mieterin quartiert sich bis auf weiteres in einem Landauer Hotel ein.\r\n  ",
+  "general:visits": "913",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "60",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "HLF 20/16-1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+      "general:vehicleChassis": "IVECO FF 160 E 30",
+      "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+      "general:vehicleMobilization": "03/09"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.205203,
+    "lng": 8.1187838
+  },
+  "meta:weather": {
+    "date": "2012-02-15",
+    "temperature": 0,
+    "temperature_min": -1.1,
+    "temperature_max": 1.2,
+    "precipitation": 2.5,
+    "snowfall": null,
+    "snowdepth": 70,
+    "winddirection": null,
+    "windspeed": 38.9,
+    "peakgust": 76.3,
+    "sunshine": 6,
+    "pressure": null
+  }
+}

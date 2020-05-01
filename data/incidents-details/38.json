@@ -1,0 +1,90 @@
+{
+  "general:einsatzid": "38",
+  "general:title": "Mülleimer-Brand",
+  "general:date": "2004-02-19T01:14:00+01:00",
+  "general:location": "Langstraße",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "0.5",
+  "general:dateFormatted": "19.02.2004 01:14",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "32",
+  "picture:Picture": {
+    "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0402/040219_14.jpg",
+    "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0402/040219_14.jpg",
+    "picture:PictureFormat": "quer",
+    "picture:PictureDescription": "Westring 10a",
+    "picture:BufferPreview": "true",
+    "picture:BufferPicture": "false"
+  },
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "10",
+  "general:EinsatzDescription": "Auch in der Nacht von Mittwoch auf Donnerstag wurde die Feuerwehr Landau zu Br?nden gerufen: Im Westring brannte im Hinterhof des Anwesens Nr.18 ein PKW. Der Opel Kadett Caravan brannte im Motorbereich. Mit einem Strahlrohr und zwei Mann unter Atemschutz konnte das Feuer l?schen. Bei den Aufr?umarbeiten wurde die Besatzung des L?schgruppenfahrzeugs zu einer Einsatzstelle in die Langstra?e gerufen. Hier brannte ein M?lltonne, diese konnte von den Anwohnern selbst gel?scht werden, ein Eingreifend er Feuerwehr war nicht mehr n?tig. Auf der Fahrt entdeckte die Besatz wiederum im Westring ein Feuer. Am Haus Nr. 10a brannten zwei M?llbeh?lter, diese wurden mit einem Strahlrohr abgel?scht. Nach eineinhalb Stunden konnten die Einsatzkr?fte der Feuerwehr Landau wieder einr?cken. ",
+  "general:visits": "394",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "2",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "LF 16-12-1 (heute: HLF 20/16-2)",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-204.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-204.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Löschgruppenfahrzeug",
+      "general:vehicleChassis": "IVECO 135E24W",
+      "general:vehicleBuild": "<a href=\"http://www.iveco-magirus.de/\" target=\"new\">Iveco-Magirus</a>",
+      "general:vehicleMobilization": "03/02"
+    }
+  },
+  "picture:Pictures": {
+    "picture:Picture": [
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0402/040219_14.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0402/040219_14.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "Westring 10a",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      },
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0402/040219_01.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0402/040219_01.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "PKW im Hof",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      },
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0402/040219_12.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0402/040219_12.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "von Westring 18",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      }
+    ]
+  },
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1984029,
+    "lng": 8.1088354
+  },
+  "meta:weather": {
+    "date": "2004-02-19",
+    "temperature": -1.9,
+    "temperature_min": -3.6,
+    "temperature_max": 0.3,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 33.1,
+    "peakgust": 72,
+    "sunshine": 174,
+    "pressure": null
+  }
+}

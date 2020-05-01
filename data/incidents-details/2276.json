@@ -1,0 +1,43 @@
+{
+  "general:einsatzid": "2276",
+  "general:title": "Verständigung Baubetriebshof",
+  "general:date": "2010-03-10T19:20:00+01:00",
+  "general:location": "Cornichonstrase, Vogesenstrasse",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "10.03.2010 19:20",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "130",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "306",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1913203,
+    "lng": 8.1141832
+  },
+  "meta:weather": {
+    "date": "2010-03-10",
+    "temperature": -2.8,
+    "temperature_min": -7.1,
+    "temperature_max": 1.4,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 60,
+    "winddirection": null,
+    "windspeed": 36.4,
+    "peakgust": 69.1,
+    "sunshine": 294,
+    "pressure": null
+  }
+}

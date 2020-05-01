@@ -1,0 +1,69 @@
+{
+  "general:einsatzid": "3368",
+  "general:title": "Verkehrsunfall",
+  "general:date": "2013-06-24T21:12:00+02:00",
+  "general:location": "K 13",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "2.0",
+  "general:dateFormatted": "24.06.2013 21:12",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "163",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "6",
+  "general:EinsatzDescription": "",
+  "general:visits": "649",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "55",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "TSF-W Dammheim (heute: TSF-W Nußdorf)",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1504.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1504.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Tragkraftspritzenfahrzeug-Wasser",
+      "general:vehicleChassis": "IVECO Daily 65C18D",
+      "general:vehicleBuild": "Iveco Magirus Brandschutztechnik, jetzt: <a href=\"http://www.btg-goerlitz.biz/\" target=\"new\">Brandschutztechnik Görlitz</a>",
+      "general:vehicleMobilization": "06/08"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "31",
+        "general:HiOrgName": "Rettungsdienst",
+        "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "27",
+        "general:HiOrgName": "Fachfirma Straßenreinigung",
+        "general:HiOrgLink": "http://www.brechtel-fahrbahnreinigung.de"
+      }
+    ]
+  },
+  "meta:weather": {
+    "date": "2013-06-24",
+    "temperature": 11.6,
+    "temperature_min": 9.1,
+    "temperature_max": 17.1,
+    "precipitation": 0.8,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 28.1,
+    "peakgust": 58.7,
+    "sunshine": 199,
+    "pressure": null
+  }
+}

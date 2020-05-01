@@ -1,0 +1,43 @@
+{
+  "general:einsatzid": "844",
+  "general:title": "Wasserschaden",
+  "general:date": "2006-10-20T15:18:00+02:00",
+  "general:location": "Hessengasse",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.0",
+  "general:dateFormatted": "20.10.2006 15:18",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "274",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "",
+  "general:visits": "591",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "43",
+      "general:HiOrgName": "Energie Südwest AG",
+      "general:HiOrgLink": "http://www.energie-suedwest.de/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1934878,
+    "lng": 8.0699231
+  },
+  "meta:weather": {
+    "date": "2006-10-20",
+    "temperature": 13.7,
+    "temperature_min": 11.2,
+    "temperature_max": 17.9,
+    "precipitation": 5.4,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 24.5,
+    "peakgust": 57.6,
+    "sunshine": 366,
+    "pressure": null
+  }
+}

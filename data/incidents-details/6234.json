@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "6234",
+  "general:title": "Wohnungsbrand",
+  "general:date": "2019-12-19T22:08:00+01:00",
+  "general:location": "Edenkoben",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "0.5",
+  "general:dateFormatted": "19.12.2019 22:08",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "462",
+  "general:changed_on": "2019-12-20T16:14:13+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "<p>Alarm f&uuml;r das Redundanzfahrzeug TGM nach Edenkoben - Fehlalarm</p>",
+  "general:visits": "0",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.283333,
+    "lng": 8.133333
+  },
+  "meta:weather": {
+    "date": "2019-12-19",
+    "temperature": 7.5,
+    "temperature_min": 4.7,
+    "temperature_max": 10.3,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 128,
+    "windspeed": 18,
+    "peakgust": 31,
+    "sunshine": 174,
+    "pressure": 1013.2
+  }
+}

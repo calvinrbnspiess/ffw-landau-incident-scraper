@@ -1,0 +1,93 @@
+{
+  "general:einsatzid": "2775",
+  "general:title": "LNA- und OrgLeiter-Transport",
+  "general:date": "2011-06-25T18:03:00+02:00",
+  "general:location": "Freimersheim",
+  "general:categorie": "LNA",
+  "general:length": "2.0",
+  "general:dateFormatted": "25.06.2011 18:03",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "166",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "838",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "65",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "MTF 1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1513.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1513.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+      "general:vehicleChassis": "Ford Transit",
+      "general:vehicleBuild": "<a href=\"http://www.compoint-fahrzeugbau.de\" target=\"new\">Compoint</a>",
+      "general:vehicleMobilization": "06/11"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "37",
+        "general:HiOrgName": "SEG-S",
+        "general:HiOrgLink": "http://kv-landau.drk.de/"
+      },
+      {
+        "general:HiOrgId": "33",
+        "general:HiOrgName": "Org-Leiter",
+        "general:HiOrgLink": "https://www.suedliche-weinstrasse.de/de/landkreis/brandschutz/notarzt_orgaleiter.php"
+      },
+      {
+        "general:HiOrgId": "32",
+        "general:HiOrgName": "LNA",
+        "general:HiOrgLink": "https://www.suedliche-weinstrasse.de/de/landkreis/brandschutz/notarzt_orgaleiter.php"
+      },
+      {
+        "general:HiOrgId": "50",
+        "general:HiOrgName": "FF Edenkoben",
+        "general:HiOrgLink": "http://www.feuerwehr-edenkoben.de/"
+      },
+      {
+        "general:HiOrgId": "53",
+        "general:HiOrgName": "GSZ Südliche Weinstraße",
+        "general:HiOrgLink": "http://www.suedliche-weinstrasse.de/weinstrasse/verwaltung/feuerwehr/gefahrstoffzug.php?navid=6"
+      },
+      {
+        "general:HiOrgId": "58",
+        "general:HiOrgName": "FF Bad Bergzabern",
+        "general:HiOrgLink": "http://www.ffw-bad-bergzabern.de/"
+      },
+      {
+        "general:HiOrgId": "71",
+        "general:HiOrgName": "FF Siebeldingen",
+        "general:HiOrgLink": "http://www.feuerwehr-siebeldingen.de"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.26992809999999,
+    "lng": 8.2255787
+  },
+  "meta:weather": {
+    "date": "2011-06-25",
+    "temperature": 13.3,
+    "temperature_min": 10,
+    "temperature_max": 15.6,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 23.4,
+    "peakgust": 61.6,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "6151",
+  "general:title": "Ölspur",
+  "general:date": "2019-10-22T13:36:00+02:00",
+  "general:location": "Salzhausgasse",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "0.5",
+  "general:dateFormatted": "22.10.2019 13:36",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "380",
+  "general:changed_on": "2019-10-22T14:02:05+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "15",
+      "general:vehicleVersion": "2",
+      "general:vehicleName": "KLAF",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-263.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-263.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kleinalarmfahrzeug",
+      "general:vehicleChassis": "MB Sprinter",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "03/12"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1981438,
+    "lng": 8.1118609
+  },
+  "meta:weather": {
+    "date": "2019-10-22",
+    "temperature": 11.1,
+    "temperature_min": 8.9,
+    "temperature_max": 14.3,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 115,
+    "windspeed": 11.5,
+    "peakgust": 33,
+    "sunshine": 320,
+    "pressure": 1023.8
+  }
+}

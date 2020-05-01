@@ -1,0 +1,51 @@
+{
+  "general:einsatzid": "2601",
+  "general:title": "Kontrolle eines Gefahrstoffbeh?lters",
+  "general:date": "2010-12-23T20:26:00+01:00",
+  "general:location": "",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "0.5",
+  "general:dateFormatted": "23.12.2010 20:26",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "441",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "",
+  "general:visits": "575",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "1",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "ELW 1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-207.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-207.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Einsatzleitwagen",
+      "general:vehicleChassis": "VW LT",
+      "general:vehicleBuild": "<a href=\"http://www.hensel-fahrzeugbau.de\" target=\"new\">Hensel</a>",
+      "general:vehicleMobilization": "12/04"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:weather": {
+    "date": "2010-12-23",
+    "temperature": 2.8,
+    "temperature_min": -1.4,
+    "temperature_max": 9.5,
+    "precipitation": 0.1,
+    "snowfall": null,
+    "snowdepth": 120,
+    "winddirection": null,
+    "windspeed": 19.8,
+    "peakgust": 50.4,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

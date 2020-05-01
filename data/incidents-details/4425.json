@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "4425",
+  "general:title": "Brennende Hecken",
+  "general:date": "2016-09-25T04:28:00+02:00",
+  "general:location": "Industriestraße",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "0.5",
+  "general:dateFormatted": "25.09.2016 04:28",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "227",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "6",
+  "general:EinsatzDescription": "<p>Aus dem Polizeibericht:</p>\n<p><strong>Hecke steht pl&ouml;tzlich in Flammen &ndash; Ursache unklar</strong></p>\n<p>Einen Heckenbrand in der Industriestra&szlig;e haben Zeugen am Sonntagmorgen um 4.20 Uhr der Polizei gemeldet. Bei der &Uuml;berpr&uuml;fung stellten die Beamten fest, dass ein Thujen-Zaun in der Hannah-Arendt-Stra&szlig;e brannte, die herbeigerufene Feuerwehr konnte das Feuer schnell l&ouml;schen. Die Ursache f&uuml;r den Brand ist unklar, es entstand ein Sachschaden von mindestens 750 Euro. Hinweise an die Polizei unter Telefon 06341 2870</p>",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "60",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "HLF 20/16-1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+      "general:vehicleChassis": "IVECO FF 160 E 30",
+      "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+      "general:vehicleMobilization": "03/09"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.19977429999999,
+    "lng": 8.1217226
+  },
+  "meta:weather": {
+    "date": "2016-09-25",
+    "temperature": 17.4,
+    "temperature_min": 13.2,
+    "temperature_max": 22.8,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 17.6,
+    "peakgust": 36.4,
+    "sunshine": 661,
+    "pressure": null
+  }
+}

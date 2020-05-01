@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "941",
+  "general:title": "Umgest?rzter Baum",
+  "general:date": "2007-01-18T19:12:00+01:00",
+  "general:location": "Am Jagdstock",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "18.01.2007 19:12",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "38",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "6",
+  "general:EinsatzDescription": "",
+  "general:visits": "518",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "3",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "TLF 16-25",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-312.JPG",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-312.JPG",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Tanklöschfahrzeug",
+      "general:vehicleChassis": "MB 1222",
+      "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+      "general:vehicleMobilization": "02/86"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1925762,
+    "lng": 8.0897939
+  },
+  "meta:weather": {
+    "date": "2007-01-18",
+    "temperature": 8.8,
+    "temperature_min": 7.5,
+    "temperature_max": 10.8,
+    "precipitation": 12,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 79.2,
+    "peakgust": 163.4,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

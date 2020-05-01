@@ -1,0 +1,238 @@
+[
+  {
+    "general:einsatzid": "20",
+    "general:title": "Brand von Müll",
+    "general:date": "2004-01-31T01:38:00+01:00",
+    "general:location": "Badstraße 10a",
+    "general:categorie": "Brandeinsatz",
+    "general:length": "1.0",
+    "general:dateFormatted": "31.01.2004 01:38",
+    "general:mediaAvailable": "true",
+    "general:virtualEinsatzId": "15",
+    "picture:Picture": {
+      "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0401/040131_01.jpg",
+      "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0401/040131_01.jpg",
+      "picture:PictureFormat": "quer",
+      "picture:PictureDescription": "Brennender M?ll",
+      "picture:BufferPreview": "true",
+      "picture:BufferPicture": "false"
+    },
+    "general:changed_on": "2017-01-02T18:35:35+01:00"
+  },
+  {
+    "general:einsatzid": "19",
+    "general:title": "Verkehrsunfall",
+    "general:date": "2004-01-30T20:54:00+01:00",
+    "general:location": "A65 Höhe Raststätte PW-Ost",
+    "general:categorie": "Techn. Hilfeleistung",
+    "general:length": "1.5",
+    "general:dateFormatted": "30.01.2004 20:54",
+    "general:mediaAvailable": "true",
+    "general:virtualEinsatzId": "14",
+    "picture:Picture": {
+      "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0401/040130_02.jpg",
+      "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0401/040130_02.jpg",
+      "picture:PictureFormat": "quer",
+      "picture:PictureDescription": "Peugeot auf dem Dach",
+      "picture:BufferPreview": "true",
+      "picture:BufferPicture": "false"
+    },
+    "general:changed_on": "2017-01-02T18:35:35+01:00"
+  },
+  {
+    "general:einsatzid": "18",
+    "general:title": "Brandmeldeanlage",
+    "general:date": "2004-01-27T15:32:00+01:00",
+    "general:location": "Seniorenresidenz",
+    "general:categorie": "Brandmeldeanlage",
+    "general:length": "0.5",
+    "general:dateFormatted": "27.01.2004 15:32",
+    "general:mediaAvailable": "false",
+    "general:virtualEinsatzId": "13",
+    "general:changed_on": "2017-01-02T18:35:35+01:00"
+  },
+  {
+    "general:einsatzid": "17",
+    "general:title": "Auslaufende Betriebsmittel nach Unfall",
+    "general:date": "2004-01-26T08:02:00+01:00",
+    "general:location": "Hindenburgstraße",
+    "general:categorie": "Gefahrstoffe",
+    "general:length": "0.5",
+    "general:dateFormatted": "26.01.2004 08:02",
+    "general:mediaAvailable": "false",
+    "general:virtualEinsatzId": "12",
+    "general:changed_on": "2017-01-02T18:35:35+01:00"
+  },
+  {
+    "general:einsatzid": "16",
+    "general:title": "Brand eines Schuppen",
+    "general:date": "2004-01-17T01:34:00+01:00",
+    "general:location": "Westring 16",
+    "general:categorie": "Brandeinsatz",
+    "general:length": "1.0",
+    "general:dateFormatted": "17.01.2004 01:34",
+    "general:mediaAvailable": "true",
+    "general:virtualEinsatzId": "11",
+    "picture:Picture": {
+      "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0401/040117_01.jpg",
+      "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0401/040117_01.jpg",
+      "picture:PictureFormat": "quer",
+      "picture:PictureDescription": "Kurz nach dem Eintreffen",
+      "picture:BufferPreview": "true",
+      "picture:BufferPicture": "false"
+    },
+    "general:changed_on": "2017-01-02T18:35:35+01:00"
+  },
+  {
+    "general:einsatzid": "15",
+    "general:title": "Brand eines Transporters",
+    "general:date": "2004-01-17T01:29:00+01:00",
+    "general:location": "Langstraße",
+    "general:categorie": "Brandeinsatz",
+    "general:length": "2.0",
+    "general:dateFormatted": "17.01.2004 01:29",
+    "general:mediaAvailable": "true",
+    "general:virtualEinsatzId": "10",
+    "picture:Picture": {
+      "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0401/040117_11.jpg",
+      "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0401/040117_11.jpg",
+      "picture:PictureFormat": "quer",
+      "picture:PictureDescription": "DC Sprinter",
+      "picture:BufferPreview": "true",
+      "picture:BufferPicture": "false"
+    },
+    "general:changed_on": "2017-01-02T18:35:35+01:00"
+  },
+  {
+    "general:einsatzid": "13",
+    "general:title": "Brand von Müll",
+    "general:date": "2004-01-16T01:21:00+01:00",
+    "general:location": "Westring 18",
+    "general:categorie": "Brandeinsatz",
+    "general:length": "0.5",
+    "general:dateFormatted": "16.01.2004 01:21",
+    "general:mediaAvailable": "false",
+    "general:virtualEinsatzId": "9",
+    "general:changed_on": "2017-01-02T18:35:35+01:00"
+  },
+  {
+    "general:einsatzid": "12",
+    "general:title": "Brand einer Straßenleuchte",
+    "general:date": "2004-01-14T17:24:00+01:00",
+    "general:location": "Mahlastraße",
+    "general:categorie": "Brandeinsatz",
+    "general:length": "0.5",
+    "general:dateFormatted": "14.01.2004 17:24",
+    "general:mediaAvailable": "false",
+    "general:virtualEinsatzId": "8",
+    "general:changed_on": "2017-01-02T18:35:35+01:00"
+  },
+  {
+    "general:einsatzid": "11",
+    "general:title": "Ausleuchten",
+    "general:date": "2004-01-13T21:18:00+01:00",
+    "general:location": "Bahngelände Höhe Wal-Mart",
+    "general:categorie": "Techn. Hilfeleistung",
+    "general:length": "1.0",
+    "general:dateFormatted": "13.01.2004 21:18",
+    "general:mediaAvailable": "true",
+    "general:virtualEinsatzId": "7",
+    "picture:Picture": {
+      "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0401/040113_15.jpg",
+      "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0401/040113_15.jpg",
+      "picture:PictureFormat": "hoch",
+      "picture:PictureDescription": "Puma",
+      "picture:BufferPreview": "true",
+      "picture:BufferPicture": "false"
+    },
+    "general:changed_on": "2017-01-02T18:35:35+01:00"
+  },
+  {
+    "general:einsatzid": "10",
+    "general:title": "Auslaufende Betriebsmittel / Ausleuchten",
+    "general:date": "2004-01-10T22:05:00+01:00",
+    "general:location": "B10 / LD-Godramstein",
+    "general:categorie": "Techn. Hilfeleistung",
+    "general:length": "2.0",
+    "general:dateFormatted": "10.01.2004 22:05",
+    "general:mediaAvailable": "true",
+    "general:virtualEinsatzId": "6",
+    "picture:Picture": {
+      "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0401/040110_52.jpg",
+      "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0401/040110_52.jpg",
+      "picture:PictureFormat": "quer",
+      "picture:PictureDescription": "Tank und Radaufh?ngung weg gerissen",
+      "picture:BufferPreview": "true",
+      "picture:BufferPicture": "false"
+    },
+    "general:changed_on": "2017-01-02T18:35:35+01:00"
+  },
+  {
+    "general:einsatzid": "9",
+    "general:title": "Kellerbrand",
+    "general:date": "2004-01-10T17:02:00+01:00",
+    "general:location": "Badstraße 2",
+    "general:categorie": "Brandeinsatz",
+    "general:length": "2.0",
+    "general:dateFormatted": "10.01.2004 17:02",
+    "general:mediaAvailable": "true",
+    "general:virtualEinsatzId": "5",
+    "picture:Picture": {
+      "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0401/040110_26.jpg",
+      "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0401/040110_26.jpg",
+      "picture:PictureFormat": "quer",
+      "picture:PictureDescription": "Einrichtungsgegenst?nde",
+      "picture:BufferPreview": "true",
+      "picture:BufferPicture": "false"
+    },
+    "general:changed_on": "2017-01-02T18:35:35+01:00"
+  },
+  {
+    "general:einsatzid": "8",
+    "general:title": "Umweltverschmutzung",
+    "general:date": "2004-01-09T17:26:00+01:00",
+    "general:location": "Bahnhofstraße / Godramstein",
+    "general:categorie": "Gefahrstoffe",
+    "general:length": "1.5",
+    "general:dateFormatted": "09.01.2004 17:26",
+    "general:mediaAvailable": "false",
+    "general:virtualEinsatzId": "4",
+    "general:changed_on": "2017-01-02T18:35:35+01:00"
+  },
+  {
+    "general:einsatzid": "7",
+    "general:title": "Tierrettung",
+    "general:date": "2004-01-04T11:40:00+01:00",
+    "general:location": "Schwanenweiher",
+    "general:categorie": "Techn. Hilfeleistung",
+    "general:length": "0.5",
+    "general:dateFormatted": "04.01.2004 11:40",
+    "general:mediaAvailable": "true",
+    "general:virtualEinsatzId": "3",
+    "general:changed_on": "2017-01-02T18:35:35+01:00"
+  },
+  {
+    "general:einsatzid": "6",
+    "general:title": "Bergung eines Kanaldeckels",
+    "general:date": "2004-01-01T04:22:00+01:00",
+    "general:location": "Reduit-/Schleusenstraße",
+    "general:categorie": "Techn. Hilfeleistung",
+    "general:length": "1.0",
+    "general:dateFormatted": "01.01.2004 04:22",
+    "general:mediaAvailable": "true",
+    "general:virtualEinsatzId": "2",
+    "general:changed_on": "2017-01-02T18:35:35+01:00"
+  },
+  {
+    "general:einsatzid": "5",
+    "general:title": "Böschungsbrand",
+    "general:date": "2004-01-01T02:24:00+01:00",
+    "general:location": "Mahlastraße",
+    "general:categorie": "Brandeinsatz",
+    "general:length": "0.5",
+    "general:dateFormatted": "01.01.2004 02:24",
+    "general:mediaAvailable": "false",
+    "general:virtualEinsatzId": "1",
+    "general:changed_on": "2017-01-02T18:35:35+01:00"
+  }
+]

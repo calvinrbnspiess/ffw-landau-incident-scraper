@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "2459",
+  "general:title": "Verletzte Person- Anforderung Rettungsdienst",
+  "general:date": "2010-06-22T21:28:00+02:00",
+  "general:location": "Haardtstraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "22.06.2010 21:28",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "309",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "7",
+  "general:EinsatzDescription": "Erstversorgung gest?rzter Person und Verst?ndigung Rettungsdienst  ",
+  "general:visits": "1273",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2023372,
+    "lng": 8.1176815
+  },
+  "meta:weather": {
+    "date": "2010-06-22",
+    "temperature": 13.3,
+    "temperature_min": 8,
+    "temperature_max": 19.1,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 13,
+    "peakgust": 31,
+    "sunshine": 660,
+    "pressure": null
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "2013",
+  "general:title": "Ölspur",
+  "general:date": "2009-07-25T08:43:00+02:00",
+  "general:location": "L 509",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "25.07.2009 08:43",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "248",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "",
+  "general:visits": "442",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1949993,
+    "lng": 8.162709800000002
+  },
+  "meta:weather": {
+    "date": "2009-07-25",
+    "temperature": 13.7,
+    "temperature_min": 10.9,
+    "temperature_max": 18.3,
+    "precipitation": 6.4,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 29.9,
+    "peakgust": 61.6,
+    "sunshine": 342,
+    "pressure": null
+  }
+}

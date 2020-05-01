@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "610",
+  "general:title": "Verständigung Baubetriebshof",
+  "general:date": "2006-03-07T09:00:00+01:00",
+  "general:location": "Mörlheimer Hauptstraße",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "07.03.2006 09:00",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "52",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "359",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1900713,
+    "lng": 8.164149199999999
+  },
+  "meta:weather": {
+    "date": "2006-03-07",
+    "temperature": -2.3,
+    "temperature_min": -4.6,
+    "temperature_max": 0.5,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 160,
+    "winddirection": null,
+    "windspeed": 23,
+    "peakgust": 47.2,
+    "sunshine": 222,
+    "pressure": null
+  }
+}

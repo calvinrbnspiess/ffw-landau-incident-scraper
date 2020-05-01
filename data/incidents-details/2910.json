@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "2910",
+  "general:title": "Verständigung",
+  "general:date": "2012-01-21T22:40:00+01:00",
+  "general:location": "Helmbachstraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "21.01.2012 22:40",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "10",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "486",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2047555,
+    "lng": 8.1392962
+  },
+  "meta:weather": {
+    "date": "2012-01-21",
+    "temperature": 2.9,
+    "temperature_min": -1.4,
+    "temperature_max": 6.5,
+    "precipitation": 6.8,
+    "snowfall": null,
+    "snowdepth": 20,
+    "winddirection": null,
+    "windspeed": 44.3,
+    "peakgust": 99.4,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

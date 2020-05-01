@@ -1,0 +1,143 @@
+{
+  "general:einsatzid": "5094",
+  "general:title": "Verkehrsunfall",
+  "general:date": "2018-04-17T21:13:00+02:00",
+  "general:location": "Landkommissärstraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "2.0",
+  "general:dateFormatted": "17.04.2018 21:13",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "143",
+  "picture:Picture": {
+    "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/1804/5094-1.jpeg",
+    "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/1804/5094-1.jpeg",
+    "picture:PictureFormat": "quer",
+    "picture:PictureDescription": "",
+    "picture:BufferPreview": "true",
+    "picture:BufferPicture": "false"
+  },
+  "general:changed_on": "2018-04-18T11:58:52+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "20",
+  "general:EinsatzDescription": "<h3><strong>Aus dem Polizeibericht:</strong></h3>\n<p><em>Landau (ots)</em> - 17. April 2018, 21.10 Uhr Bei einem riskanten &Uuml;berholman&ouml;ver verursachte ein 30-j&auml;hriger Autofahrer einen gr&ouml;&szlig;eren Unfallschaden. Er war mit seinem Audi A6 auf der Landkommiss&auml;rstra&szlig;e unterwegs, als er 100 Meter vor einer Rechtskurve noch zum &Uuml;berholen ansetzte. Als er den vor ihm fahrenden Pkw Chevrolet &uuml;berholt hatte, erkannte der Audi-Fahrer, dass noch zwei weitere Fahrzeuge vor dem Chevrolet fuhren. Er brach seinen &Uuml;berholvorgang ab, leitete eine starke Bremsung ein. Dabei verlor er die Kontrolle &uuml;ber sein Auto und kam rechts von der Fahrbahn ab. Er riss seitlich einen Zigarettenautomaten und eine Stra&szlig;enlaterne aus der Verankerung. Danach zerlegte er die Au&szlig;enbestuhlung einer dortigen Imbissbude (siehe Bild). Gl&uuml;cklicherweise hielten sich die G&auml;ste zu diesem Zeitpunkt nicht im Au&szlig;enbereich auf, sondern befanden sich im Innenbereich der Imbissbude. Der Audi stie&szlig; dann gegen einen geparkten Mazda und kam schlie&szlig;lich an einem Zaunelement zum Stehen. Der Audi und der Mazda waren nicht mehr fahrbereit und mussten abgeschleppt werden. Der angerichtete Gesamtschaden bel&auml;uft sich auf &uuml;ber 20.000 Euro. Der F&uuml;hrerschein des Unfallverursachers wurde wegen der begangenen Stra&szlig;enverkehrsgef&auml;hrdung sichergestellt.</p>",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "1",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "ELW 1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-207.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-207.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Einsatzleitwagen",
+        "general:vehicleChassis": "VW LT",
+        "general:vehicleBuild": "<a href=\"http://www.hensel-fahrzeugbau.de\" target=\"new\">Hensel</a>",
+        "general:vehicleMobilization": "12/04"
+      },
+      {
+        "general:vehicleid": "60",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "HLF 20/16-1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+        "general:vehicleChassis": "IVECO FF 160 E 30",
+        "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+        "general:vehicleMobilization": "03/09"
+      },
+      {
+        "general:vehicleid": "15",
+        "general:vehicleVersion": "2",
+        "general:vehicleName": "KLAF",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-263.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-263.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kleinalarmfahrzeug",
+        "general:vehicleChassis": "MB Sprinter",
+        "general:vehicleBuild": "Eigen",
+        "general:vehicleMobilization": "03/12"
+      },
+      {
+        "general:vehicleid": "51",
+        "general:vehicleVersion": "2",
+        "general:vehicleName": "RW 2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-209.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-209.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Rüstwagen",
+        "general:vehicleChassis": "MB 1425 4x4",
+        "general:vehicleBuild": "<a href=\"http://www.weschenfelder.com\" target=\"new\">Weschenfelder</a>",
+        "general:vehicleMobilization": "07/05"
+      }
+    ]
+  },
+  "picture:Pictures": {
+    "picture:Picture": {
+      "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/1804/5094-1.jpeg",
+      "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/1804/5094-1.jpeg",
+      "picture:PictureFormat": "quer",
+      "picture:PictureDescription": "",
+      "picture:BufferPreview": "true",
+      "picture:BufferPicture": "false"
+    }
+  },
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "43",
+        "general:HiOrgName": "Energie Südwest AG",
+        "general:HiOrgLink": "http://www.energie-suedwest.de/"
+      },
+      {
+        "general:HiOrgId": "31",
+        "general:HiOrgName": "Rettungsdienst",
+        "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.2013391,
+    "lng": 8.164198299999999
+  },
+  "meta:weather": {
+    "date": "2018-04-17",
+    "temperature": 15,
+    "temperature_min": 10.4,
+    "temperature_max": 21.2,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 153,
+    "windspeed": 10.8,
+    "peakgust": 31,
+    "sunshine": 766,
+    "pressure": 1024.1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "4578",
+  "general:title": "Kabelbrand",
+  "general:date": "2017-02-08T08:55:00+01:00",
+  "general:location": "Hamburger Straße",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.0",
+  "general:dateFormatted": "08.02.2017 08:55",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "57",
+  "general:changed_on": "2017-02-08T09:39:16+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "13",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2087315,
+    "lng": 8.1439032
+  },
+  "meta:weather": {
+    "date": "2017-02-08",
+    "temperature": 1,
+    "temperature_min": -1.8,
+    "temperature_max": 3.4,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 16.2,
+    "peakgust": 32.4,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

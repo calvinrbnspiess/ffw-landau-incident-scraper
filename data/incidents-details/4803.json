@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "4803",
+  "general:title": "Brandbekämpfung kleinerer Art",
+  "general:date": "2017-09-02T19:08:00+02:00",
+  "general:location": "Otto-Kießling-Straße",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "0.5",
+  "general:dateFormatted": "02.09.2017 19:08",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "274",
+  "general:changed_on": "2017-09-02T19:21:14+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1883901,
+    "lng": 8.119863
+  },
+  "meta:weather": {
+    "date": "2017-09-02",
+    "temperature": 11.8,
+    "temperature_min": 9.1,
+    "temperature_max": 17.5,
+    "precipitation": 7.6,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 12.6,
+    "peakgust": 31,
+    "sunshine": 193,
+    "pressure": null
+  }
+}

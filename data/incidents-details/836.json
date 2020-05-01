@@ -1,0 +1,133 @@
+{
+  "general:einsatzid": "836",
+  "general:title": "LNA-Transport",
+  "general:date": "2006-10-14T16:41:00+02:00",
+  "general:location": "Bad Bergzabern Edith-Stein-Klinik",
+  "general:categorie": "LNA",
+  "general:length": "6.5",
+  "general:dateFormatted": "14.10.2006 16:41",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "266",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "Transport des Leitenden Notarztes zu einem Brand in der Edith-Stein-Klinik in Bad Bergzabern. Siehe <a href=\"einsatz.php?nr=837&lfdnr=267\">Bericht</a>",
+  "general:visits": "1135",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "17",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "Mef-G",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-258.JPG",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-258.JPG",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Messtruppfahrzeug",
+      "general:vehicleChassis": "VW Bus",
+      "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+      "general:vehicleMobilization": "08/91"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "37",
+        "general:HiOrgName": "SEG-S",
+        "general:HiOrgLink": "http://kv-landau.drk.de/"
+      },
+      {
+        "general:HiOrgId": "36",
+        "general:HiOrgName": "SEG-B",
+        "general:HiOrgLink": "http://kv-landau.drk.de/"
+      },
+      {
+        "general:HiOrgId": "34",
+        "general:HiOrgName": "RTH Christoph 5 (LU)",
+        "general:HiOrgLink": "http://www.christoph5.info/"
+      },
+      {
+        "general:HiOrgId": "33",
+        "general:HiOrgName": "Org-Leiter",
+        "general:HiOrgLink": "https://www.suedliche-weinstrasse.de/de/landkreis/brandschutz/notarzt_orgaleiter.php"
+      },
+      {
+        "general:HiOrgId": "32",
+        "general:HiOrgName": "LNA",
+        "general:HiOrgLink": "https://www.suedliche-weinstrasse.de/de/landkreis/brandschutz/notarzt_orgaleiter.php"
+      },
+      {
+        "general:HiOrgId": "31",
+        "general:HiOrgName": "Rettungsdienst",
+        "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+      },
+      {
+        "general:HiOrgId": "30",
+        "general:HiOrgName": "Kriminalpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "48",
+        "general:HiOrgName": "FF Annweiler",
+        "general:HiOrgLink": "http://www.feuerwehr-annweiler.de/"
+      },
+      {
+        "general:HiOrgId": "52",
+        "general:HiOrgName": "FF Offenbach/Queich",
+        "general:HiOrgLink": "http://www.feuerwehroffenbach.de/"
+      },
+      {
+        "general:HiOrgId": "54",
+        "general:HiOrgName": "FüGr-TEL",
+        "general:HiOrgLink": "http://www.suedwein12.de/index.php?option=com_content&view=article&id=38&Itemid=6"
+      },
+      {
+        "general:HiOrgId": "58",
+        "general:HiOrgName": "FF Bad Bergzabern",
+        "general:HiOrgLink": "http://www.ffw-bad-bergzabern.de/"
+      },
+      {
+        "general:HiOrgId": "74",
+        "general:HiOrgName": "FF Landau -Land-",
+        "general:HiOrgLink": "http://www.feuerwehr-landau-land.de"
+      },
+      {
+        "general:HiOrgId": "91",
+        "general:HiOrgName": "Facheinheit IuK",
+        "general:HiOrgLink": "http://www.suedwein12.de/index.php?option=com_content&view=article&id=36&Itemid=7"
+      },
+      {
+        "general:HiOrgId": "91",
+        "general:HiOrgName": "Facheinheit IuK",
+        "general:HiOrgLink": "http://www.suedwein12.de/index.php?option=com_content&view=article&id=36&Itemid=7"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.097313,
+    "lng": 7.9869599
+  },
+  "meta:weather": {
+    "date": "2006-10-14",
+    "temperature": 11.1,
+    "temperature_min": 9.2,
+    "temperature_max": 13.6,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 21.6,
+    "peakgust": 45.7,
+    "sunshine": 84,
+    "pressure": null
+  }
+}

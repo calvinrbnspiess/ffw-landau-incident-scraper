@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "4067",
+  "general:title": "Brand",
+  "general:date": "2015-09-07T17:17:00+02:00",
+  "general:location": "Mörzheim",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.0",
+  "general:dateFormatted": "07.09.2015 17:17",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "222",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "Brand von Lagerholz",
+  "general:visits": "63",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "56",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "TSF-W Mörzheim",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1502.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1502.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Tragkraftspritzenfahrzeug-Wasser",
+      "general:vehicleChassis": "IVECO Daily 65C18D",
+      "general:vehicleBuild": "Iveco Magirus Brandschutztechnik, jetzt: <a href=\"http://www.btg-goerlitz.biz/\" target=\"new\">Brandschutztechnik Görlitz</a>",
+      "general:vehicleMobilization": "06/08"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1682983,
+    "lng": 8.073286699999999
+  },
+  "meta:weather": {
+    "date": "2015-09-07",
+    "temperature": 9.9,
+    "temperature_min": 7.3,
+    "temperature_max": 15.4,
+    "precipitation": 0.9,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 22,
+    "peakgust": 38.5,
+    "sunshine": 31,
+    "pressure": null
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "3313",
+  "general:title": "Ölspur",
+  "general:date": "2013-04-26T21:27:00+02:00",
+  "general:location": "Speyerer Straße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "26.04.2013 21:27",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "111",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "221",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.21990479999999,
+    "lng": 8.1439032
+  },
+  "meta:weather": {
+    "date": "2013-04-26",
+    "temperature": 13.1,
+    "temperature_min": 6.2,
+    "temperature_max": 18.7,
+    "precipitation": 15.4,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 26.3,
+    "peakgust": 67,
+    "sunshine": 72,
+    "pressure": null
+  }
+}

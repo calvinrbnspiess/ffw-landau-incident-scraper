@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "5349",
+  "general:title": "Brandsicherheitswache",
+  "general:date": "2018-06-15T18:00:00+02:00",
+  "general:location": "Mahlastraße",
+  "general:categorie": "Brandsicherheitswache",
+  "general:length": "6.5",
+  "general:dateFormatted": "15.06.2018 18:00",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "395",
+  "general:changed_on": "2018-06-18T15:33:16+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.19641679999999,
+    "lng": 8.120505399999999
+  },
+  "meta:weather": {
+    "date": "2018-06-15",
+    "temperature": 15.5,
+    "temperature_min": 11.8,
+    "temperature_max": 18.9,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": 174,
+    "windspeed": 8.7,
+    "peakgust": 32,
+    "sunshine": 43,
+    "pressure": 1017
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "2985",
+  "general:title": "Ausgelaufene Betriebsmittel nach Unfall",
+  "general:date": "2012-04-05T12:46:00+02:00",
+  "general:location": "Nordring / Haardtstraße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "05.04.2012 12:46",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "85",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "481",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "15",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "GW-Öl (heute: KLAF)",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-263.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-263.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Gerätewagen-Öl",
+      "general:vehicleChassis": "MB Sprinter",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "02/96"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2009863,
+    "lng": 8.117739000000002
+  },
+  "meta:weather": {
+    "date": "2012-04-05",
+    "temperature": 5.2,
+    "temperature_min": 3.1,
+    "temperature_max": 7.4,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 19.8,
+    "peakgust": 46.4,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

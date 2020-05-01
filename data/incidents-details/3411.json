@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "3411",
+  "general:title": "Wasser im Keller",
+  "general:date": "2013-07-25T14:15:00+02:00",
+  "general:location": "Walsheimer Weg",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "25.07.2013 14:15",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "204",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "5",
+  "general:EinsatzDescription": "",
+  "general:visits": "205",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "15",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "KLAF",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-263.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-263.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kleinalarmfahrzeug",
+      "general:vehicleChassis": "MB Sprinter",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "03/12"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.208858,
+    "lng": 8.103941
+  },
+  "meta:weather": {
+    "date": "2013-07-25",
+    "temperature": 22.1,
+    "temperature_min": 18.5,
+    "temperature_max": 27.3,
+    "precipitation": 1.7,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 11.9,
+    "peakgust": 33.5,
+    "sunshine": 639,
+    "pressure": null
+  }
+}

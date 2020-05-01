@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "3513",
+  "general:title": "Wohnungsbrand",
+  "general:date": "2013-12-01T18:37:00+01:00",
+  "general:location": "Alte Hintergasse ",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "0.5",
+  "general:dateFormatted": "01.12.2013 18:37",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "305",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "453",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1970594,
+    "lng": 8.140691499999999
+  },
+  "meta:weather": {
+    "date": "2013-12-01",
+    "temperature": 2.2,
+    "temperature_min": 1.1,
+    "temperature_max": 3.4,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 13,
+    "peakgust": 30.2,
+    "sunshine": 5,
+    "pressure": null
+  }
+}

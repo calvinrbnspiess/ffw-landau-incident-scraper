@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "3024",
+  "general:title": "Waldbrand",
+  "general:date": "2012-05-29T12:11:00+02:00",
+  "general:location": "Annweiler",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "5.0",
+  "general:dateFormatted": "29.05.2012 12:11",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "124",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": " Mit dem PTLF 20.000l L?schwasser transportiert. Siehe <a href=\"http://www.feuerwehr-annweiler.de/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=1279&cntnt01dateformat=%25d.%25m.%25Y&cntnt01returnid=15\" target=\"new\">hier</a>.",
+  "general:visits": "2826",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "58",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "TLF 20/40 SL (heute: PTLF 4000)",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2040.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2040.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Tanklöschfahrzeug",
+      "general:vehicleChassis": "MB 1832 AK 4x4 \"Actros\"",
+      "general:vehicleBuild": "<a href=\"http://www.lentner-gmbh.de\" target=\"new\">Lentner</a>",
+      "general:vehicleMobilization": "09/08"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "48",
+      "general:HiOrgName": "FF Annweiler",
+      "general:HiOrgLink": "http://www.feuerwehr-annweiler.de/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.2062599,
+    "lng": 7.972605300000001
+  },
+  "meta:weather": {
+    "date": "2012-05-29",
+    "temperature": 17.9,
+    "temperature_min": 11.8,
+    "temperature_max": 25.7,
+    "precipitation": 0.4,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 18.7,
+    "peakgust": 45.4,
+    "sunshine": 690,
+    "pressure": null
+  }
+}

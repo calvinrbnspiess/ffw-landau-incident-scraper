@@ -1,0 +1,50 @@
+{
+  "general:einsatzid": "2844",
+  "general:title": "Ausgelaufene Betriebsmittel nach Unfall",
+  "general:date": "2011-09-29T01:45:00+02:00",
+  "general:location": "Haardtstraße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "0.5",
+  "general:dateFormatted": "29.09.2011 01:45",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "235",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "281",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "27",
+        "general:HiOrgName": "Fachfirma Straßenreinigung",
+        "general:HiOrgLink": "http://www.brechtel-fahrbahnreinigung.de"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.2023372,
+    "lng": 8.1176815
+  },
+  "meta:weather": {
+    "date": "2011-09-28",
+    "temperature": 18,
+    "temperature_min": 14.9,
+    "temperature_max": 22.1,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 16.9,
+    "peakgust": 38.9,
+    "sunshine": 654,
+    "pressure": null
+  }
+}

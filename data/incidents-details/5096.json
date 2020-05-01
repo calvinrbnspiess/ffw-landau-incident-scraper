@@ -1,0 +1,43 @@
+{
+  "general:einsatzid": "5096",
+  "general:title": "Verständigung Fachfirma",
+  "general:date": "2018-04-18T18:38:00+02:00",
+  "general:location": "Virchowstraße",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "18.04.2018 18:38",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "145",
+  "general:changed_on": "2018-04-18T19:01:41+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "94",
+      "general:HiOrgName": "Ordnungsabteilung",
+      "general:HiOrgLink": "http://www.landau.de/index.phtml?object=tx|1815.345.1&ModID=9&FID=343.49.1&sNavID=1815.54&mNavID=1815.3&La=1&TypSel=1.100"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1906513,
+    "lng": 8.1108048
+  },
+  "meta:weather": {
+    "date": "2018-04-18",
+    "temperature": 18.1,
+    "temperature_min": 14.4,
+    "temperature_max": 23,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 91,
+    "windspeed": 18,
+    "peakgust": 43,
+    "sunshine": 777,
+    "pressure": 1029.3
+  }
+}

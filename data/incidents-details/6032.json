@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "6032",
+  "general:title": "Verständigung ILS",
+  "general:date": "2019-07-21T01:01:00+02:00",
+  "general:location": "Roschbach",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "21.07.2019 01:01",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "262",
+  "general:changed_on": "2019-07-21T06:44:19+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2462204,
+    "lng": 8.117484
+  },
+  "meta:weather": {
+    "date": "2019-07-20",
+    "temperature": 22,
+    "temperature_min": 17,
+    "temperature_max": 31.3,
+    "precipitation": 0.7,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": 182,
+    "windspeed": 23.3,
+    "peakgust": 72,
+    "sunshine": 617,
+    "pressure": 1012.9
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "general:einsatzid": "614",
+  "general:title": "Verständigung Baubetriebshof",
+  "general:date": "2006-03-08T11:15:00+01:00",
+  "general:location": "",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "08.03.2006 11:15",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "56",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "374",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:weather": {
+    "date": "2006-03-08",
+    "temperature": -0.7,
+    "temperature_min": -3.3,
+    "temperature_max": 5.4,
+    "precipitation": 11.6,
+    "snowfall": null,
+    "snowdepth": 150,
+    "winddirection": null,
+    "windspeed": 27.4,
+    "peakgust": 77.8,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

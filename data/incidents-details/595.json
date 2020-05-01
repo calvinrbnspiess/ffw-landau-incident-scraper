@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "595",
+  "general:title": "Alarmierung THW",
+  "general:date": "2006-02-24T05:46:00+01:00",
+  "general:location": "Böbingen",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "24.02.2006 05:46",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "38",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "410",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2842652,
+    "lng": 8.2364386
+  },
+  "meta:weather": {
+    "date": "2006-02-24",
+    "temperature": -1.2,
+    "temperature_min": -2.9,
+    "temperature_max": 1.7,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 27.4,
+    "peakgust": 57.6,
+    "sunshine": 72,
+    "pressure": null
+  }
+}

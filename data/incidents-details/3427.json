@@ -1,0 +1,43 @@
+{
+  "general:einsatzid": "3427",
+  "general:title": "Verständigung Fachfirma Straßenreinigung",
+  "general:date": "2013-07-31T08:39:00+02:00",
+  "general:location": "Weißenburger Straße",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "31.07.2013 08:39",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "220",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "",
+  "general:visits": "193",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "27",
+      "general:HiOrgName": "Fachfirma Straßenreinigung",
+      "general:HiOrgLink": "http://www.brechtel-fahrbahnreinigung.de"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1873759,
+    "lng": 8.113896
+  },
+  "meta:weather": {
+    "date": "2013-07-31",
+    "temperature": 19.7,
+    "temperature_min": 16.3,
+    "temperature_max": 25.7,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 26.3,
+    "peakgust": 64.8,
+    "sunshine": 434,
+    "pressure": null
+  }
+}

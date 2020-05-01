@@ -1,0 +1,73 @@
+{
+  "general:einsatzid": "1505",
+  "general:title": "Amtshilfe für Polizei",
+  "general:date": "2008-06-10T22:22:00+02:00",
+  "general:location": "Kronstraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.0",
+  "general:dateFormatted": "10.06.2008 22:22",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "176",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "8",
+  "general:EinsatzDescription": "",
+  "general:visits": "702",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "5",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "LF 16-12-2 (heute: )",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-256.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-256.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Löschgruppenfahrzeug",
+      "general:vehicleChassis": "MB 1222",
+      "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+      "general:vehicleMobilization": "06/88"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "31",
+        "general:HiOrgName": "Rettungsdienst",
+        "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "47",
+        "general:HiOrgName": "THW OV Landau",
+        "general:HiOrgLink": "http://www.thw-landau.de"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.1973056,
+    "lng": 8.113515399999999
+  },
+  "meta:weather": {
+    "date": "2008-06-10",
+    "temperature": 20.5,
+    "temperature_min": 16.3,
+    "temperature_max": 26.2,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 11.9,
+    "peakgust": 36,
+    "sunshine": 840,
+    "pressure": null
+  }
+}

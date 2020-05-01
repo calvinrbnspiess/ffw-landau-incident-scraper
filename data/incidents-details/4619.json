@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "4619",
+  "general:title": "Tür Öffnung",
+  "general:date": "2017-03-12T12:17:00+01:00",
+  "general:location": "Mengelsgasse",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.0",
+  "general:dateFormatted": "12.03.2017 12:17",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "98",
+  "general:changed_on": "2017-03-12T12:43:50+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "7",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "77",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "MTF 3",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1517.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1517.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+      "general:vehicleChassis": "Opem Movano",
+      "general:vehicleBuild": "Compoint",
+      "general:vehicleMobilization": "10/15"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1954199,
+    "lng": 8.112135199999999
+  },
+  "meta:weather": {
+    "date": "2017-03-12",
+    "temperature": 6.4,
+    "temperature_min": 2.6,
+    "temperature_max": 11.4,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 25.6,
+    "peakgust": 47.2,
+    "sunshine": 621,
+    "pressure": null
+  }
+}

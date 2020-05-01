@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "3370",
+  "general:title": "Mülleimer-Brand",
+  "general:date": "2013-06-26T02:15:00+02:00",
+  "general:location": "Ostbahnstraße",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "0.5",
+  "general:dateFormatted": "26.06.2013 02:15",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "165",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "5",
+  "general:EinsatzDescription": " Aus dem Polizeibericht:<br><br>Papierkorb angez?ndet<br>\r\nAm Mittwochmorgen gegen 02:00 Uhr z?ndete ein 20 j?hriger in der Ostbahnstra?e einen M?lleimer an, wobei er durch einen Zeugen beobachtet wurde, der unmittelbar die Polizei verst?ndigte. Die Streife konnte den Tatverd?chtigen, der sich in Begleitung eines 19 j?hrigen befand, im Rahmen einer Fahndung im Innenstadtbereich festnehmen. Da er nicht unerheblich alkoholisiert war, wurde er zur Verhinderung weiterer Straftaten in Gewahrsam genommen. Der Sachschaden wird mit ca.150 ? beziffert.",
+  "general:visits": "715",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "60",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "HLF 20/16-1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+      "general:vehicleChassis": "IVECO FF 160 E 30",
+      "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+      "general:vehicleMobilization": "03/09"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.197701,
+    "lng": 8.1197948
+  },
+  "meta:weather": {
+    "date": "2013-06-26",
+    "temperature": 10.3,
+    "temperature_min": 6.2,
+    "temperature_max": 16.2,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 16.9,
+    "peakgust": 36,
+    "sunshine": 325,
+    "pressure": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "4924",
+  "general:title": "Auslaufende Betriebsmittel aus PKW",
+  "general:date": "2017-12-13T16:29:00+01:00",
+  "general:location": "Albrecht-Dürer-Straße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "13.12.2017 16:29",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "392",
+  "general:changed_on": "2017-12-13T16:45:39+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "15",
+      "general:vehicleVersion": "2",
+      "general:vehicleName": "KLAF",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-263.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-263.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kleinalarmfahrzeug",
+      "general:vehicleChassis": "MB Sprinter",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "03/12"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2051284,
+    "lng": 8.1220311
+  },
+  "meta:weather": {
+    "date": "2017-12-13",
+    "temperature": 0.4,
+    "temperature_min": -1.4,
+    "temperature_max": 3.5,
+    "precipitation": 13.9,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 37.8,
+    "peakgust": 87.8,
+    "sunshine": 132,
+    "pressure": null
+  }
+}

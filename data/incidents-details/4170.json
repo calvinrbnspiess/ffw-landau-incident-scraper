@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "4170",
+  "general:title": "Gebäudebrand",
+  "general:date": "2016-02-01T22:25:00+01:00",
+  "general:location": "Leinsweiler/ Weinstraße",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "0.5",
+  "general:dateFormatted": "01.02.2016 22:25",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "18",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "20",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "74",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "TGM 23-12",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1538.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1538.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Teleskopgelenkmast",
+      "general:vehicleChassis": "Mercedes Atego 1629, Teligent-Schaltung",
+      "general:vehicleBuild": "<a href=\"http://www.metz-online.de/\">Metz</a>",
+      "general:vehicleMobilization": "10/14"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "74",
+      "general:HiOrgName": "FF Landau -Land-",
+      "general:HiOrgLink": "http://www.feuerwehr-landau-land.de"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1848724,
+    "lng": 8.01369
+  },
+  "meta:weather": {
+    "date": "2016-02-01",
+    "temperature": 8.3,
+    "temperature_min": 7.2,
+    "temperature_max": 9.5,
+    "precipitation": 0.2,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 62.6,
+    "peakgust": 107.3,
+    "sunshine": 1,
+    "pressure": null
+  }
+}

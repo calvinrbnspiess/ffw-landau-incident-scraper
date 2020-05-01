@@ -1,0 +1,43 @@
+{
+  "general:einsatzid": "2071",
+  "general:title": "Alarmierung THW",
+  "general:date": "2009-10-17T01:28:00+02:00",
+  "general:location": "Trappengasse",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "17.10.2009 01:28",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "306",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "386",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "47",
+      "general:HiOrgName": "THW OV Landau",
+      "general:HiOrgLink": "http://www.thw-landau.de"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1984682,
+    "lng": 8.114089700000001
+  },
+  "meta:weather": {
+    "date": "2009-10-16",
+    "temperature": 2.4,
+    "temperature_min": -0.7,
+    "temperature_max": 5.5,
+    "precipitation": 5.9,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 34.2,
+    "peakgust": 72,
+    "sunshine": 48,
+    "pressure": null
+  }
+}

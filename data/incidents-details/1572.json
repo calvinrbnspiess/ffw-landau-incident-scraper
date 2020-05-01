@@ -1,0 +1,50 @@
+{
+  "general:einsatzid": "1572",
+  "general:title": "Alarmierung THW",
+  "general:date": "2008-08-16T04:30:00+02:00",
+  "general:location": "An 44",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "16.08.2008 04:30",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "239",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "",
+  "general:visits": "498",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "47",
+        "general:HiOrgName": "THW OV Landau",
+        "general:HiOrgLink": "http://www.thw-landau.de"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.1984013,
+    "lng": 8.107522699999999
+  },
+  "meta:weather": {
+    "date": "2008-08-16",
+    "temperature": 15.6,
+    "temperature_min": 12,
+    "temperature_max": 21.6,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 9.4,
+    "peakgust": 25.9,
+    "sunshine": 684,
+    "pressure": null
+  }
+}

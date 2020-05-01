@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "652",
+  "general:title": "Verständigung Baubetriebshof",
+  "general:date": "2006-04-07T07:35:00+02:00",
+  "general:location": "Weglenburgstraße",
+  "general:categorie": "LNA",
+  "general:length": "1.0",
+  "general:dateFormatted": "07.04.2006 07:35",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "92",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "461",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1903638,
+    "lng": 8.095457999999999
+  },
+  "meta:weather": {
+    "date": "2006-04-07",
+    "temperature": 6.2,
+    "temperature_min": 2.2,
+    "temperature_max": 11.3,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 16.6,
+    "peakgust": 33.5,
+    "sunshine": 636,
+    "pressure": null
+  }
+}

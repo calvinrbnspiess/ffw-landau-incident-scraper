@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "1461",
+  "general:title": "Unwetterschaden",
+  "general:date": "2008-06-02T18:26:00+02:00",
+  "general:location": "Nußdorf-Kirchstraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "02.06.2008 18:26",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "133",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "7",
+  "general:EinsatzDescription": "",
+  "general:visits": "647",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "34",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "TSF Nussdorf",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-272.JPG",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-272.JPG",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Tragkraftspritzenfahrzeug",
+      "general:vehicleChassis": "VW LT",
+      "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+      "general:vehicleMobilization": "04/80"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2251518,
+    "lng": 8.1106553
+  },
+  "meta:weather": {
+    "date": "2008-06-02",
+    "temperature": 20.2,
+    "temperature_min": 14,
+    "temperature_max": 28.8,
+    "precipitation": 10.2,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 23.4,
+    "peakgust": 63.4,
+    "sunshine": 510,
+    "pressure": null
+  }
+}

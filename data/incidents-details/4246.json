@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "4246",
+  "general:title": "Ölspur",
+  "general:date": "2016-05-09T19:54:00+02:00",
+  "general:location": "L 510",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "09.05.2016 19:54",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "90",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1881456,
+    "lng": 8.0747447
+  },
+  "meta:weather": {
+    "date": "2016-05-09",
+    "temperature": 17.6,
+    "temperature_min": 12.2,
+    "temperature_max": 23.3,
+    "precipitation": 0.4,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 20.5,
+    "peakgust": 49.7,
+    "sunshine": 730,
+    "pressure": null
+  }
+}

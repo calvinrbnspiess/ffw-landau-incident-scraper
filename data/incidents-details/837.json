@@ -1,0 +1,224 @@
+{
+  "general:einsatzid": "837",
+  "general:title": "F?hrungsunterst?tzung",
+  "general:date": "2006-10-14T17:00:00+02:00",
+  "general:location": "Bad Bergzabern Edith-Stein-Klinik",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "6.5",
+  "general:dateFormatted": "14.10.2006 17:00",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "267",
+  "picture:Picture": {
+    "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0610/061014_02.jpg",
+    "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0610/061014_02.jpg",
+    "picture:PictureFormat": "quer",
+    "picture:PictureDescription": "Klinik",
+    "picture:BufferPreview": "true",
+    "picture:BufferPicture": "false"
+  },
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "13",
+  "general:EinsatzDescription": "F?hrungs?nterst?tzung durch Mitglieder der F?hrungsgruppe TEL und der Facheinheit Iuk bei einem Brand in der Edith-Stein-Klinik in Bad Bergzabern. Siehe Pressemitteilung:<br><br>\r\n<b>Brand in Edith-Stein-Fachklinik\r\n</b><br><br>\r\n<b>Bad Bergzabern</b> &#8211; Der Brand einer Teek?che in der Edith-Stein-Fachklinik in Bad Bergzabern f?hrte zu einem Gro?aufgebot der Rettungskr?fte &#8211; Wenige  betroffene Patienten &#8211; Schnelle Versorgung der Patienten durch Feuerwehr und Schnelleinsatzgruppen des DRK<br><br>\r\n\r\nUm 16:14 Uhr wurde die Feuerwehr ?ber die automatische Brandmeldeanlage in der Rehabilitationsklinik alarmiert. Die vorgehenden Trupps konnten den Brand im zweiten Obergescho? rasch unter Atemschutz erreichen und abl?schen. Zeitgleich wurden drei Patienten, die sich am Fenster bemerkbar machten, mit Fluchthauben aus dem Gefahrenbereich gebracht. Zwei Personen wurden mit einer leichten Rauchgasintoxikation ambulant behandelt. Insgesamt waren 17 Atemschutzger?tetr?ger mit einer  W?rmebildkamera im Einsatz. \r\n<br>\r\nDer betroffene Bereich musste ?ber mehrere Stunden durch L?fter der Feuerwehr entraucht werden. \r\n<br>\r\nDas Ereignis f?hrte im weiteren Verlauf zum Einsatz der Schnelleinsatzgruppen Sanit?t und Betreuung des DRK S?W und Landau.\r\n<br>\r\nDurch die Einsatzleitung und den ?rztlichen Leiter Prof. Dr. Masur wurden die 220 Patienten der gesamten Klinik ?ber die Situation informiert. 170 Patienten konnten wieder in ihre Zimmer, die sich nicht in dem betroffenen Bereich der Klinik befinden. Die 50 Patienten, die ein Zimmer im zweiten Obergescho? belegt hatten, wurden teilweise intern verlegt oder  nach Hause entlassen. \r\n<br>\r\nIm Einsatz waren insgesamt 86 Kr?fte der Feuerwehren der Verbandsgemeinde Bad Bergzabern, aus Annweiler, Landau-Land, Offenbach und der Stadt Landau, sowie 37 Helfer des Deutschen Roten Kreuzes der Schnelleinsatzgruppen aus dem Landkreis S?dliche Weinstra?e und der Stadt Landau. Landr?tin Theresia Riedmaier informierte sich vor Ort. Einsatzleiter Rudi G?tz, Kreisfeuerwehrinspekteur, wurde von seinem Stellvertreter Peter Stockmann, Stadtfeuerwehrinspekteur Dirk Hargesheimer, dem stellvertretenden Wehrleiter Udo Mertz, dem Leitenden Notarzt Dr. Quinkenstein, der Organisatorischen Leiterin Bettina Schreiber und den herbeigerufenen Mitarbeitern des Hauses unterst?tzt. \r\n<br>\r\nDie Schadensh?he bel?uft sich nach erster Einsch?tzung auf ca. 70.000 Euro. Die Brandursache wird von der Kriminalpolizei ermittelt.\r\n<br>\r\n ",
+  "general:visits": "2220",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "52",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "ELW 2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/SUEW-2000.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/SUEW-2000.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Einsatzleitwagen 2",
+        "general:vehicleChassis": "MB 1223",
+        "general:vehicleBuild": "<a href=\"http://www.hensel-fahrzeugbau.de\" target=\"new\">Hensel</a>",
+        "general:vehicleMobilization": "2006"
+      },
+      {
+        "general:vehicleid": "45",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "KdoW",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-299.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-299.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kommandowagen",
+        "general:vehicleChassis": "VW Passat",
+        "general:vehicleBuild": "VW",
+        "general:vehicleMobilization": "03/05"
+      },
+      {
+        "general:vehicleid": "54",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MTF 1 - alt",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1505.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1505.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "VW T5",
+        "general:vehicleBuild": "<a href=\"http://www.auto-zotz.de\" target=\"new\">Auto Zotz</a>; Weschenfelder",
+        "general:vehicleMobilization": "02/08"
+      },
+      {
+        "general:vehicleid": "27",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MTF Arzheim - alt",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-252.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-252.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "VW Bus",
+        "general:vehicleBuild": "",
+        "general:vehicleMobilization": "08/85"
+      }
+    ]
+  },
+  "picture:Pictures": {
+    "picture:Picture": [
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0610/061014_02.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0610/061014_02.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "Klinik",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      },
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0610/061014_04.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0610/061014_04.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "Teek?che",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      },
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0610/061014_07.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0610/061014_07.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "Etage",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      },
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0610/061014_14.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0610/061014_14.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "ELW 2",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      }
+    ]
+  },
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "37",
+        "general:HiOrgName": "SEG-S",
+        "general:HiOrgLink": "http://kv-landau.drk.de/"
+      },
+      {
+        "general:HiOrgId": "36",
+        "general:HiOrgName": "SEG-B",
+        "general:HiOrgLink": "http://kv-landau.drk.de/"
+      },
+      {
+        "general:HiOrgId": "34",
+        "general:HiOrgName": "RTH Christoph 5 (LU)",
+        "general:HiOrgLink": "http://www.christoph5.info/"
+      },
+      {
+        "general:HiOrgId": "33",
+        "general:HiOrgName": "Org-Leiter",
+        "general:HiOrgLink": "https://www.suedliche-weinstrasse.de/de/landkreis/brandschutz/notarzt_orgaleiter.php"
+      },
+      {
+        "general:HiOrgId": "32",
+        "general:HiOrgName": "LNA",
+        "general:HiOrgLink": "https://www.suedliche-weinstrasse.de/de/landkreis/brandschutz/notarzt_orgaleiter.php"
+      },
+      {
+        "general:HiOrgId": "31",
+        "general:HiOrgName": "Rettungsdienst",
+        "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+      },
+      {
+        "general:HiOrgId": "30",
+        "general:HiOrgName": "Kriminalpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "48",
+        "general:HiOrgName": "FF Annweiler",
+        "general:HiOrgLink": "http://www.feuerwehr-annweiler.de/"
+      },
+      {
+        "general:HiOrgId": "52",
+        "general:HiOrgName": "FF Offenbach/Queich",
+        "general:HiOrgLink": "http://www.feuerwehroffenbach.de/"
+      },
+      {
+        "general:HiOrgId": "54",
+        "general:HiOrgName": "FüGr-TEL",
+        "general:HiOrgLink": "http://www.suedwein12.de/index.php?option=com_content&view=article&id=38&Itemid=6"
+      },
+      {
+        "general:HiOrgId": "58",
+        "general:HiOrgName": "FF Bad Bergzabern",
+        "general:HiOrgLink": "http://www.ffw-bad-bergzabern.de/"
+      },
+      {
+        "general:HiOrgId": "74",
+        "general:HiOrgName": "FF Landau -Land-",
+        "general:HiOrgLink": "http://www.feuerwehr-landau-land.de"
+      },
+      {
+        "general:HiOrgId": "91",
+        "general:HiOrgName": "Facheinheit IuK",
+        "general:HiOrgLink": "http://www.suedwein12.de/index.php?option=com_content&view=article&id=36&Itemid=7"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.097313,
+    "lng": 7.9869599
+  },
+  "meta:weather": {
+    "date": "2006-10-14",
+    "temperature": 11.1,
+    "temperature_min": 9.2,
+    "temperature_max": 13.6,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 21.6,
+    "peakgust": 45.7,
+    "sunshine": 84,
+    "pressure": null
+  }
+}

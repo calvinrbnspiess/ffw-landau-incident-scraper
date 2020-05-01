@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "553",
+  "general:title": "Wasserschaden",
+  "general:date": "2005-12-30T10:56:00+01:00",
+  "general:location": "Reiterstraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.0",
+  "general:dateFormatted": "30.12.2005 10:56",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "262",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "418",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "0",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "KdoW2",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-308.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-308.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kommandowagen",
+      "general:vehicleChassis": "VW Passat",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "09/88"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1949325,
+    "lng": 8.1142441
+  },
+  "meta:weather": {
+    "date": "2005-12-30",
+    "temperature": -6.8,
+    "temperature_min": -7.8,
+    "temperature_max": -4.8,
+    "precipitation": 5.8,
+    "snowfall": null,
+    "snowdepth": 190,
+    "winddirection": null,
+    "windspeed": 12.2,
+    "peakgust": 40.7,
+    "sunshine": 354,
+    "pressure": null
+  }
+}

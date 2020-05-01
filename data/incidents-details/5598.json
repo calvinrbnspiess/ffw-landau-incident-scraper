@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "5598",
+  "general:title": "Geruchsbelästigung",
+  "general:date": "2018-09-06T07:39:00+02:00",
+  "general:location": "Landwehrstraße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "06.09.2018 07:39",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "644",
+  "general:changed_on": "2018-09-06T08:49:26+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "75",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "GW-Mess",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1558.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1558.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Gerätewagen-Messtechnik",
+      "general:vehicleChassis": "Mercedes Sprinter 316 CDI, Automatik",
+      "general:vehicleBuild": "<a href=\"http://www.binz-automotive.com/\" target=\"New\">Binz, Ilmenau</a>",
+      "general:vehicleMobilization": "10/14"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.19802319999999,
+    "lng": 8.123682
+  },
+  "meta:weather": {
+    "date": "2018-09-06",
+    "temperature": 18.2,
+    "temperature_min": 14.3,
+    "temperature_max": 24.1,
+    "precipitation": 17.9,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": 200,
+    "windspeed": 13.5,
+    "peakgust": 51,
+    "sunshine": 177,
+    "pressure": 1011.8
+  }
+}

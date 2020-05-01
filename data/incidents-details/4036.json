@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "4036",
+  "general:title": "Rauchwarnmelder",
+  "general:date": "2015-08-13T15:03:00+02:00",
+  "general:location": "Marktstraße",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "0.5",
+  "general:dateFormatted": "13.08.2015 15:03",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "192",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "0",
+  "general:EinsatzDescription": "Kein Einsatz erforderlich - Batterie  ",
+  "general:visits": "66",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1978936,
+    "lng": 8.1118758
+  },
+  "meta:weather": {
+    "date": "2015-08-13",
+    "temperature": 25.2,
+    "temperature_min": 18,
+    "temperature_max": 32.1,
+    "precipitation": 1.3,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 18.7,
+    "peakgust": 106.6,
+    "sunshine": 733,
+    "pressure": null
+  }
+}

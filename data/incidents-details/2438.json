@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "2438",
+  "general:title": "Unwetterschaden",
+  "general:date": "2010-06-09T21:30:00+02:00",
+  "general:location": "Speyerer Straße, Dammheim",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.0",
+  "general:dateFormatted": "09.06.2010 21:30",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "288",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "0",
+  "general:EinsatzDescription": "",
+  "general:visits": "217",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2211337,
+    "lng": 8.1503258
+  },
+  "meta:weather": {
+    "date": "2010-06-09",
+    "temperature": 19.3,
+    "temperature_min": 14.7,
+    "temperature_max": 26.3,
+    "precipitation": 32.6,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 20.2,
+    "peakgust": 95.4,
+    "sunshine": 474,
+    "pressure": null
+  }
+}

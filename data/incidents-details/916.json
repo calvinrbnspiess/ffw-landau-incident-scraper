@@ -1,0 +1,124 @@
+{
+  "general:einsatzid": "916",
+  "general:title": "Baum auf PKW",
+  "general:date": "2007-01-18T11:40:00+01:00",
+  "general:location": "Xylanderstraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.5",
+  "general:dateFormatted": "18.01.2007 11:40",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "13",
+  "picture:Picture": {
+    "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0701/070118_04.jpg",
+    "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0701/070118_04.jpg",
+    "picture:PictureFormat": "quer",
+    "picture:PictureDescription": "",
+    "picture:BufferPreview": "true",
+    "picture:BufferPicture": "false"
+  },
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "15",
+  "general:EinsatzDescription": "Das Sturmtief Kyrill forderte innerhalb von etwa 36 Stunden 56 Eins?tze von den Landauer \r\nFeuerwehrleuten. Weite Teile Mitteleuropas wurden am 18. Januar von den B?en des Sturmes\r\nheimgesucht. Auch am 19. Januar mussten noch zahlreiche Sturmsch?den beseitigt werden. \r\n<br><br>\r\nDen gr?ssten Anteil der Eins?tze verursachten B?ume, die umst?rzten oder drohten umzust?rzen. \r\nAuch andere Objekte wurden durch die B?en verweht und stellten eine Gef?hrdung f?r die \r\n?ffentlichkeit dar. An vielen Stellen im Stadtgebiet wurden Dachziegeln von den D?chern \r\ngewirbelt und richteten Sachschaden an. In den Bereichen der Langstra?e und des Nordringes\r\nhielten gr??ere B?ume den hohen Windgeschwindigkeiten nicht stand und blockierten die Stra?e. \r\nIm Bereich des Landauer Zoos fiel ein Baum auf das dortige Lokal \"Zoost?bel\". An dieser \r\nEinsatzstelle war die Feuerwehr Landau auf die Hilfe des THW OV Landau angewiesen, das mit dem \r\nAutokran des THW OV Neustadt an der Weinstra?e die Bergungsarbeiten unterst?tzte. Auf dem \r\nDach des Hochhauses in der Thomas-Nast-Stra?e hatten sich Teile der Dachumrandung gel?st und \r\nmussten entfernt werden. \r\n<br><br>\r\nAm Abend des 19. Januar hat sich die Lage entspannt. Laut <a hre=\"http://www.unwetterzentrale.de\">\r\nwww.unwetterzentrale.de </a> hat sich die Lage deutschlandweit entspannt. In wenigen Teilen \r\nDeutschlands gilt weiterhin die zweith?chste Warnstufe, so auch in Landau. F?r die restlichen \r\nLandesteile wird noch Warnstufe 3 von 5 ausgegeben. Derzeit ist noch vereinzelt mit Sturmboeen um\r\n80 km/h  zu rechnen, dies entspricht Windst?rke 9. \r\n<br><br>\r\nAuch in den n?chsten Tagen ist das Betreten von bewaldeten Gebieten noch sehr gef?hrlich. Mit dem \r\nUmst?rzen von angeschlagenen B?umen und dem Herabfallen von ?sten ist zu rechnen. Meiden Sie \r\nam Besten das Betreten von solchen Gebieten. ",
+  "general:visits": "1287",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "1",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "ELW 1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-207.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-207.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Einsatzleitwagen",
+        "general:vehicleChassis": "VW LT",
+        "general:vehicleBuild": "<a href=\"http://www.hensel-fahrzeugbau.de\" target=\"new\">Hensel</a>",
+        "general:vehicleMobilization": "12/04"
+      },
+      {
+        "general:vehicleid": "45",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "KdoW",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-299.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-299.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kommandowagen",
+        "general:vehicleChassis": "VW Passat",
+        "general:vehicleBuild": "VW",
+        "general:vehicleMobilization": "03/05"
+      },
+      {
+        "general:vehicleid": "2",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "LF 16-12-1 (heute: HLF 20/16-2)",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-204.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-204.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Löschgruppenfahrzeug",
+        "general:vehicleChassis": "IVECO 135E24W",
+        "general:vehicleBuild": "<a href=\"http://www.iveco-magirus.de/\" target=\"new\">Iveco-Magirus</a>",
+        "general:vehicleMobilization": "03/02"
+      }
+    ]
+  },
+  "picture:Pictures": {
+    "picture:Picture": [
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0701/070118_04.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0701/070118_04.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      },
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0701/070118_18.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0701/070118_18.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      }
+    ]
+  },
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1937656,
+    "lng": 8.112399
+  },
+  "meta:weather": {
+    "date": "2007-01-18",
+    "temperature": 8.8,
+    "temperature_min": 7.5,
+    "temperature_max": 10.8,
+    "precipitation": 12,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 79.2,
+    "peakgust": 163.4,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

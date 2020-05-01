@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "2882",
+  "general:title": "Messung",
+  "general:date": "2011-11-16T16:45:00+01:00",
+  "general:location": "Lustadt",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "2.0",
+  "general:dateFormatted": "16.11.2011 16:45",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "273",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "5",
+  "general:EinsatzDescription": " Unterst?tzung der Feuerwehr des Landkreises Germersheim bei Schadstoffmessungen. Siehe <a href=\"http://www.youtube.com/watch?v=tvBlRE1ykz8\" target=\"new\"> http://www.youtube.com/watch?v=tvBlRE1ykz8</a> ",
+  "general:visits": "1583",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "17",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "Mef-G",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-258.JPG",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-258.JPG",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Messtruppfahrzeug",
+      "general:vehicleChassis": "VW Bus",
+      "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+      "general:vehicleMobilization": "08/91"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2446061,
+    "lng": 8.2735506
+  },
+  "meta:weather": {
+    "date": "2011-11-16",
+    "temperature": -1.5,
+    "temperature_min": -3.7,
+    "temperature_max": -0.7,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 14.8,
+    "peakgust": 25.2,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "259",
+  "general:title": "Brand mehrerer PKW",
+  "general:date": "2004-12-20T00:52:00+01:00",
+  "general:location": "Langstrasse / Pestalozzistraße",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "0.5",
+  "general:dateFormatted": "20.12.2004 00:52",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "242",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "20",
+  "general:EinsatzDescription": " Kein Einsatz f?r die Feuerwehr n?tig.  ",
+  "general:visits": "498",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1984029,
+    "lng": 8.1088354
+  },
+  "meta:weather": {
+    "date": "2004-12-19",
+    "temperature": -1.1,
+    "temperature_min": -3.8,
+    "temperature_max": 0.9,
+    "precipitation": 2.8,
+    "snowfall": null,
+    "snowdepth": 20,
+    "winddirection": null,
+    "windspeed": 27.7,
+    "peakgust": 65.5,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

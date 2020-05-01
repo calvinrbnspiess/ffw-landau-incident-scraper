@@ -1,0 +1,43 @@
+{
+  "general:einsatzid": "6030",
+  "general:title": "Verständigung Fachfirma",
+  "general:date": "2019-07-20T19:02:00+02:00",
+  "general:location": "In den Grabengärten",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "20.07.2019 19:02",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "261",
+  "general:changed_on": "2019-07-20T19:13:51+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "98",
+      "general:HiOrgName": "Bauhof Landau",
+      "general:HiOrgLink": "http://www.ew-landau.de/index.phtml?mNavID=1804.9&sNavID=1804.85&La=1"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1954195,
+    "lng": 8.1280021
+  },
+  "meta:weather": {
+    "date": "2019-07-20",
+    "temperature": 22,
+    "temperature_min": 17,
+    "temperature_max": 31.3,
+    "precipitation": 0.7,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": 182,
+    "windspeed": 23.3,
+    "peakgust": 72,
+    "sunshine": 617,
+    "pressure": 1012.9
+  }
+}

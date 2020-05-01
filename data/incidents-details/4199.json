@@ -1,0 +1,68 @@
+{
+  "general:einsatzid": "4199",
+  "general:title": "Ölspur",
+  "general:date": "2016-03-12T16:12:00+01:00",
+  "general:location": "Industriestr. Ecke Reduitstr.",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "12.03.2016 16:12",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "46",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "",
+  "general:visits": "8",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "53",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "KdoW 2",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1501.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1501.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kommandowagen - Fahrzeug für den feuerwehrtechnischen Bediensteten",
+      "general:vehicleChassis": "Fiat Grande Punto",
+      "general:vehicleBuild": "Michael Schmidt mobile Kommunikation GmbH",
+      "general:vehicleMobilization": "12/07"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "27",
+        "general:HiOrgName": "Fachfirma Straßenreinigung",
+        "general:HiOrgLink": "http://www.brechtel-fahrbahnreinigung.de"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.1987263,
+    "lng": 8.1175188
+  },
+  "meta:weather": {
+    "date": "2016-03-12",
+    "temperature": 1.7,
+    "temperature_min": -0.8,
+    "temperature_max": 6,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 22.3,
+    "peakgust": 49.7,
+    "sunshine": 553,
+    "pressure": null
+  }
+}

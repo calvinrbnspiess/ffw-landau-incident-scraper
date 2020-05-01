@@ -1,0 +1,72 @@
+{
+  "general:einsatzid": "22",
+  "general:title": "Baum über Straße",
+  "general:date": "2004-01-31T23:48:00+01:00",
+  "general:location": "Lazarettstraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.0",
+  "general:dateFormatted": "31.01.2004 23:48",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "17",
+  "picture:Picture": {
+    "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0401/040131_09.jpg",
+    "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0401/040131_09.jpg",
+    "picture:PictureFormat": "quer",
+    "picture:PictureDescription": "Baum h?ngt in Lampenabspannung",
+    "picture:BufferPreview": "true",
+    "picture:BufferPicture": "false"
+  },
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "8",
+  "general:EinsatzDescription": "Sturmtief \"Queenie\" bereitete der Feuerwehr Landau zwei Eins?tze in der Nacht von Samstag auf Sonntag. Jeweils ein Baum ?ber der Stra?e war auf der L509 und in der Lazarettstra?e. Diese wurden von der Besatzung des L?schgruppenfahrzeuges der Feuerwehr Landau entfernt und die Stra?e von der Polizei wieder freigegeben.",
+  "general:visits": "402",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "2",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "LF 16-12-1 (heute: HLF 20/16-2)",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-204.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-204.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Löschgruppenfahrzeug",
+      "general:vehicleChassis": "IVECO 135E24W",
+      "general:vehicleBuild": "<a href=\"http://www.iveco-magirus.de/\" target=\"new\">Iveco-Magirus</a>",
+      "general:vehicleMobilization": "03/02"
+    }
+  },
+  "picture:Pictures": {
+    "picture:Picture": {
+      "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0401/040131_09.jpg",
+      "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0401/040131_09.jpg",
+      "picture:PictureFormat": "quer",
+      "picture:PictureDescription": "Baum h?ngt in Lampenabspannung",
+      "picture:BufferPreview": "true",
+      "picture:BufferPicture": "false"
+    }
+  },
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1893143,
+    "lng": 8.107628199999999
+  },
+  "meta:weather": {
+    "date": "2004-01-31",
+    "temperature": 4.1,
+    "temperature_min": -0.9,
+    "temperature_max": 7.7,
+    "precipitation": 1.2,
+    "snowfall": null,
+    "snowdepth": 140,
+    "winddirection": null,
+    "windspeed": 51.5,
+    "peakgust": 128.2,
+    "sunshine": 126,
+    "pressure": null
+  }
+}

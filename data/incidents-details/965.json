@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "965",
+  "general:title": "umgest?rzte B?ume",
+  "general:date": "2007-01-19T10:30:00+01:00",
+  "general:location": "Fort Landau",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "19.01.2007 10:30",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "61",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "8",
+  "general:EinsatzDescription": "",
+  "general:visits": "458",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "3",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "TLF 16-25",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-312.JPG",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-312.JPG",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Tanklöschfahrzeug",
+      "general:vehicleChassis": "MB 1222",
+      "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+      "general:vehicleMobilization": "02/86"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 26.1709454,
+    "lng": -80.11882419999999
+  },
+  "meta:weather": {
+    "date": "2007-01-19",
+    "temperature": 9.7,
+    "temperature_min": 7.7,
+    "temperature_max": 10.9,
+    "precipitation": 3.3,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 59,
+    "peakgust": 130.3,
+    "sunshine": 186,
+    "pressure": null
+  }
+}

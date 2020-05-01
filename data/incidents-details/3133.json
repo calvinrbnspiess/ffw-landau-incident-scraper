@@ -1,0 +1,72 @@
+{
+  "general:einsatzid": "3133",
+  "general:title": "Einsatz der Wärmebildkamera",
+  "general:date": "2012-10-27T10:16:00+02:00",
+  "general:location": "Böchingen",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.5",
+  "general:dateFormatted": "27.10.2012 10:16",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "230",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": " Unterst?tzung der Feuerwehr B?chingen und Landau-Land mit der W?rmebildkamera bei einem <a href=\"http://www.feuerwehr-landau-land.de/index.php/einsaetze?enterid=3155-1279-6631&bericht=b4415t56e\" target= \"new\">Kaminbrand</a>.",
+  "general:visits": "694",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "65",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "MTF 1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1513.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1513.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+      "general:vehicleChassis": "Ford Transit",
+      "general:vehicleBuild": "<a href=\"http://www.compoint-fahrzeugbau.de\" target=\"new\">Compoint</a>",
+      "general:vehicleMobilization": "06/11"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "74",
+        "general:HiOrgName": "FF Landau -Land-",
+        "general:HiOrgLink": "http://www.feuerwehr-landau-land.de"
+      },
+      {
+        "general:HiOrgId": "77",
+        "general:HiOrgName": "FF Böchingen"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.23725520000001,
+    "lng": 8.0905846
+  },
+  "meta:weather": {
+    "date": "2012-10-27",
+    "temperature": -1.1,
+    "temperature_min": -2,
+    "temperature_max": 0.6,
+    "precipitation": 6.1,
+    "snowfall": null,
+    "snowdepth": 10,
+    "winddirection": null,
+    "windspeed": 33.1,
+    "peakgust": 73.1,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

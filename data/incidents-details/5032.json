@@ -1,0 +1,83 @@
+{
+  "general:einsatzid": "5032",
+  "general:title": "Auslaufende Betriebsmittel aus PKW",
+  "general:date": "2018-02-17T02:11:00+01:00",
+  "general:location": "B38",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "2.0",
+  "general:dateFormatted": "17.02.2018 02:11",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "82",
+  "general:changed_on": "2018-02-17T07:18:34+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "7",
+  "general:EinsatzDescription": "<p>Aus dem Polizeibericht:</p>\n<p>&nbsp;</p>\n<p>Landau (ots) - Am 17.02.2018, gegen 01:20 Uhr kam es zu einem Unfall auf der A 65 Fahrtrichtung Ludwigshafen, in H&ouml;he der Anschlussstelle Landau-S&uuml;d. Ein 68j&auml;hriger aus Frankweiler kam mit seinem Pkw Audi Q3 an die Mittelleitplanke, verriss das Lenkrad abrupt nach rechts und kollidierte mit einem Verkehrsschild. In der Ausfahrt Landau S&uuml;d blieb der Pkw schlussendlich liegen. Durch den Aufprall wurde der Pkw massiv besch&auml;digt. Der Sachschaden bel&auml;uft sich auf ca. 20.000 Euro. Verletzt wurde der Fahrer nicht. Grund des Unfalls ist wohl der Sekundenschlaf des 68j&auml;hrigen gewesen. Er muss sich nun wegen Gef&auml;hrdung des Stra&szlig;enverkehrs strafrechtlich verantworten. Der Audi Q3 des 68j&auml;hrigen musste abgeschleppt und die Fahrbahn gereinigt werden, da Diesel austrat. So waren neben der Polizei auch die Autobahnmeisterei Kandel und die Landauer Feuerwehr im Einsatz.</p>",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "15",
+        "general:vehicleVersion": "2",
+        "general:vehicleName": "KLAF",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-263.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-263.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kleinalarmfahrzeug",
+        "general:vehicleChassis": "MB Sprinter",
+        "general:vehicleBuild": "Eigen",
+        "general:vehicleMobilization": "03/12"
+      },
+      {
+        "general:vehicleid": "58",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "PTLF 4000",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2040.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2040.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Pulvertanklöschfahrzeug",
+        "general:vehicleChassis": "MB 1832 AK 4x4 \"Actros\"",
+        "general:vehicleBuild": "<a href=\"http://www.lentner-gmbh.de\" target=\"new\">Lentner</a>",
+        "general:vehicleMobilization": "09/08"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "41",
+        "general:HiOrgName": "Autobahnmeisterei",
+        "general:HiOrgLink": "http://www.lbm.rlp.de/icc/Internet/nav/fd1/fd15b7fe-563c-4216-0f1d-8770a7fd7276.htm"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      }
+    ]
+  },
+  "meta:weather": {
+    "date": "2018-02-17",
+    "temperature": -0.8,
+    "temperature_min": -2.1,
+    "temperature_max": 1.5,
+    "precipitation": 6.6,
+    "snowfall": null,
+    "snowdepth": 70,
+    "winddirection": 72,
+    "windspeed": 20.9,
+    "peakgust": 41,
+    "sunshine": 0,
+    "pressure": 1023.1
+  }
+}

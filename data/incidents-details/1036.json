@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "1036",
+  "general:title": "Geplatzter Hydraulikschlauch",
+  "general:date": "2007-04-02T15:08:00+02:00",
+  "general:location": "Bodelschwinghstraße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "02.04.2007 15:08",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "130",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "749",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.20617050000001,
+    "lng": 8.106986
+  },
+  "meta:weather": {
+    "date": "2007-04-02",
+    "temperature": 11,
+    "temperature_min": 7.3,
+    "temperature_max": 15.9,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 16.2,
+    "peakgust": 36.4,
+    "sunshine": 708,
+    "pressure": null
+  }
+}

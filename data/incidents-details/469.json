@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "469",
+  "general:title": "Verschmutzte Verkehrsfläche",
+  "general:date": "2005-08-29T09:03:00+02:00",
+  "general:location": "L 509 Kreisel Mörlheim",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "2.0",
+  "general:dateFormatted": "29.08.2005 09:03",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "180",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "410",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "6",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "TLF 24-50",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-264.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-264.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Tanklöschfahrzeug",
+      "general:vehicleChassis": "MB 1626",
+      "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+      "general:vehicleMobilization": "02/81"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1949993,
+    "lng": 8.162709800000002
+  },
+  "meta:weather": {
+    "date": "2005-08-29",
+    "temperature": 20,
+    "temperature_min": 14.6,
+    "temperature_max": 26.3,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 14,
+    "peakgust": 32.4,
+    "sunshine": 792,
+    "pressure": null
+  }
+}

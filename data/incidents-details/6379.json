@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "6379",
+  "general:title": "Kleinbrand",
+  "general:date": "2020-04-19T22:13:00+02:00",
+  "general:location": "Am Bürgergraben",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.0",
+  "general:dateFormatted": "19.04.2020 22:13",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "128",
+  "general:changed_on": "2020-04-19T22:31:42+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "7",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "70",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "LF-KatS",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD8045.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD8045.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Löschgruppenfahrzeug Katastrophenschutz",
+      "general:vehicleChassis": "MAN TGM 13.250 4x4 BL FW",
+      "general:vehicleBuild": "<a href=\"http://www.lentner-gmbh.de\" target=\"new\">Josef Lentner GmbH</a>",
+      "general:vehicleMobilization": "09/12"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2019276,
+    "lng": 8.1079039
+  },
+  "meta:weather": {
+    "date": "2020-04-19",
+    "temperature": 13,
+    "temperature_min": 9.7,
+    "temperature_max": 16.9,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 137,
+    "windspeed": 19.5,
+    "peakgust": 52,
+    "sunshine": 593,
+    "pressure": 1015.5
+  }
+}

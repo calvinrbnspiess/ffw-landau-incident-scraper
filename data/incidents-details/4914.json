@@ -1,0 +1,74 @@
+{
+  "general:einsatzid": "4914",
+  "general:title": "Auslaufende Betriebsmittel aus LKW",
+  "general:date": "2017-12-05T08:02:00+01:00",
+  "general:location": "Maximilianstraße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "2.0",
+  "general:dateFormatted": "05.12.2017 08:02",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "383",
+  "general:changed_on": "2017-12-06T17:54:25+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "6",
+  "general:EinsatzDescription": "<p><strong>Aus dem Polizeibericht:</strong></p>\n<p><em>Landau (ots)</em> - 5. Dezember 2017, 8 Uhr Ein geplatzter Hydraulikschlauch an einem Radlader war verantwortlich, dass die Feuerwehr am Dienstagmorgen in die Maximilianstra&szlig;e ausr&uuml;cken musste. Vor Ort k&ouml;nnte das Hydraulik&ouml;l zum gr&ouml;&szlig;ten Teil durch die Feuerwehr auf der Stra&szlig;e gebunden werden. Geringe Mengen des &Ouml;ls gelangten in den Gully und in die Kanalisation, so dass die Untere Wasserbeh&ouml;rde vorsichtshalber informiert wurde.</p>",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "15",
+        "general:vehicleVersion": "2",
+        "general:vehicleName": "KLAF",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-263.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-263.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kleinalarmfahrzeug",
+        "general:vehicleChassis": "MB Sprinter",
+        "general:vehicleBuild": "Eigen",
+        "general:vehicleMobilization": "03/12"
+      },
+      {
+        "general:vehicleid": "46",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "MZF",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-259.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-259.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mehrzweckfahrzeug",
+        "general:vehicleChassis": "MB 1425 4x4",
+        "general:vehicleBuild": "<a href=\"http://www.weschenfelder.com\" target=\"new\">Weschenfelder</a>",
+        "general:vehicleMobilization": "04/05"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1983579,
+    "lng": 8.1251786
+  },
+  "meta:weather": {
+    "date": "2017-12-05",
+    "temperature": 0.8,
+    "temperature_min": -0.1,
+    "temperature_max": 1.7,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 30,
+    "winddirection": null,
+    "windspeed": 22.3,
+    "peakgust": 50,
+    "sunshine": 11,
+    "pressure": null
+  }
+}

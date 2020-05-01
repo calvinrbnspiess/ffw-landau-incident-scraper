@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "4810",
+  "general:title": "Überörtliche Hilfe PTLF",
+  "general:date": "2017-09-12T01:19:00+02:00",
+  "general:location": "Gommersheim",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "2.5",
+  "general:dateFormatted": "12.09.2017 01:19",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "281",
+  "general:changed_on": "2017-09-12T12:51:06+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "<p><strong>Pressemitteilung vom 12.09.2017: Presseteam der Feuerwehr Verbandsgemeinde Edenkoben</strong></p>\n<p>Am heutigen Dienstag, den 12.09.2017 gegen 0:45 Uhr, wurde die Feuerwehr zu einem Dachstuhlbrand in die Hauptstra&szlig;e in Gommersheim alarmiert. Beim Eintreffen der Feuerwehr stand das Objekt in Vollbrand.</p>\n<p>Durch die Feuerwehr wurde die Brandbek&auml;mpfung von der Geb&auml;udevorder- und r&uuml;ckseite durchgef&uuml;hrt. Zur Unterst&uuml;tzung der Einsatzma&szlig;nahmen wurde ein weiteres Hubrettungsfahrzeug der Feuerwehr Neustadt sowie zwei Tankl&ouml;schfahrzeuge der Feuerwehren Hassloch und Landau angefordert. Durch den</p>\n<p>schnellen und massiven Einsatz der Feuerwehr konnte eine Ausbreitung auf die beiden unmittelbar angrenzenden Nachbargeb&auml;ude verhindert werden.</p>\n<p>W&auml;hrend des Einsatzes kam es zum Einsturz des Dachstuhles. Zur Beurteilung der Geb&auml;udestandsicherheit wurde eine Baufachberaterin des THW Landau hinzugezogen. In der Folge wurden die noch einsturzgef&auml;hrdeten Geb&auml;udeteile durch die Kr&auml;fte des THW zur&uuml;ckgebaut. W&auml;hrend der Arbeiten musste die Hauptstra&szlig;e voll gesperrt werden. Im Laufe des Vormittags des 13.09.2017 ist damit zu rechnen, dass es noch zu Verkehrsbeeintr&auml;chtigungen in der Hauptstra&szlig;e kommt.</p>\n<p>Die umliegenden Geb&auml;ude wurden evakuiert und die betroffenen 7 Personen im Gemeindehaus vor&uuml;bergehend untergebracht und betreut.</p>\n<p>Die ca. 90 eingesetzten Kr&auml;fte aus den Wehren Gommersheim, B&ouml;bingen, Altdorf, Freimersheim und Edenkoben wurden durch die Wehren aus Neustadt, Hassloch, Landau und Maikammer unterst&uuml;tzt. Weiterhin waren die Polizei, das DRK, die First Responder, das THW und die Energieversorger sowie die Wasserwerke der Verbandsgemeinde Edenkoben alarmiert.</p>\n<p>Das Feuer ist gel&ouml;scht, die Nachl&ouml;scharbeiten dauern zurzeit noch an.</p>\n<p>&Uuml;ber die Schadensh&ouml;he k&ouml;nnen keine Aussagen getroffen werden. Die Kriminalpolizei hat Ermittlungen zur Brandursache aufgenommen.</p>\n<p>W&auml;hrend des laufenden Einsatzes in Gommersheim wurde der Feuerwehreinsatzzentrale in Edenkoben ein weiterer Einsatz in Freimersheim gemeldet. Hier kam es in der Hauptstra&szlig;e zu einem Wasserrohrbruch, in dessen Folge ein angrenzender Keller &uuml;berflutet wurde. Da es sich um einen Weinkeller handelte, wurde durch die Feuerwehr zun&auml;chst eine Messung auf G&auml;rgas durchgef&uuml;hrt. Die dabei gemessenen Kohlendioxidkonzentrationen machten es erforderlich, dass die Einsatzkr&auml;fte unter Atemschutz in den Keller vorgingen. Der Keller wurde durch die Feuerwehr ausgepumpt und die besch&auml;digte Wasserleitung durch den Notdienst der Wasserwerke der Verbandsgemeinde Edenkoben abgeschiebert. Der Einsatz war gegen 5:15 Uhr beendet.</p>\n<p>&nbsp;</p>\n<p>Text: Presseteam Feuerwehr Verbandsgemeinde Edenkoben</p>",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "58",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "PTLF 4000",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2040.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2040.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Pulvertanklöschfahrzeug",
+      "general:vehicleChassis": "MB 1832 AK 4x4 \"Actros\"",
+      "general:vehicleBuild": "<a href=\"http://www.lentner-gmbh.de\" target=\"new\">Lentner</a>",
+      "general:vehicleMobilization": "09/08"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2895906,
+    "lng": 8.2679378
+  },
+  "meta:weather": {
+    "date": "2017-09-11",
+    "temperature": 11.4,
+    "temperature_min": 9.7,
+    "temperature_max": 15.3,
+    "precipitation": 1.5,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 36,
+    "peakgust": 67,
+    "sunshine": 260,
+    "pressure": null
+  }
+}

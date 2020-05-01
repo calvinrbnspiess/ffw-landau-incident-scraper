@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "5031",
+  "general:title": "Brandsicherheitswache",
+  "general:date": "2018-02-16T19:00:00+01:00",
+  "general:location": "Jugendstil-Festhalle",
+  "general:categorie": "Brandsicherheitswache",
+  "general:length": "3.5",
+  "general:dateFormatted": "16.02.2018 19:00",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "81",
+  "general:changed_on": "2018-02-16T19:01:00+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.19574619999999,
+    "lng": 8.1205464
+  },
+  "meta:weather": {
+    "date": "2018-02-16",
+    "temperature": 2.9,
+    "temperature_min": 0.6,
+    "temperature_max": 6.5,
+    "precipitation": 0.6,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 192,
+    "windspeed": 13.8,
+    "peakgust": 39,
+    "sunshine": 187,
+    "pressure": 1025.4
+  }
+}

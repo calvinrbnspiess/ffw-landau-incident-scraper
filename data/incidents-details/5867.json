@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "5867",
+  "general:title": "Brandsicherheitswache",
+  "general:date": "2019-03-25T15:00:00+01:00",
+  "general:location": "Mahlastraße",
+  "general:categorie": "Brandsicherheitswache",
+  "general:length": "9.0",
+  "general:dateFormatted": "25.03.2019 15:00",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "105",
+  "general:changed_on": "2019-03-25T20:08:42+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.19641679999999,
+    "lng": 8.120505399999999
+  },
+  "meta:weather": {
+    "date": "2019-03-25",
+    "temperature": 3.4,
+    "temperature_min": 0.4,
+    "temperature_max": 10.2,
+    "precipitation": 1.7,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 291,
+    "windspeed": 30.7,
+    "peakgust": 77,
+    "sunshine": 345,
+    "pressure": 1023.7
+  }
+}

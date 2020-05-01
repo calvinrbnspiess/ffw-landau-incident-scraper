@@ -1,0 +1,33 @@
+{
+  "general:einsatzid": "2230",
+  "general:title": "Unwetterschaden",
+  "general:date": "2010-02-28T16:26:00+01:00",
+  "general:location": "Schelmeng?ssel",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.0",
+  "general:dateFormatted": "28.02.2010 16:26",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "85",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "0",
+  "general:EinsatzDescription": "",
+  "general:visits": "219",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:weather": {
+    "date": "2010-02-28",
+    "temperature": 5.5,
+    "temperature_min": 2.4,
+    "temperature_max": 11.5,
+    "precipitation": 0.8,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 62.6,
+    "peakgust": 163.8,
+    "sunshine": 354,
+    "pressure": null
+  }
+}

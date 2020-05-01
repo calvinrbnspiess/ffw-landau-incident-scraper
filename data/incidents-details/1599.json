@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "1599",
+  "general:title": "Überörtliche Hilfe",
+  "general:date": "2008-09-29T10:00:00+02:00",
+  "general:location": "Speyer",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "5.0",
+  "general:dateFormatted": "29.09.2008 10:00",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "265",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": " Unterst?tzung der Feuerwehr Speyer beim Brand einer Schreinerei. Pressebericht <a href=\"http://www.speyer-aktuell.de/html.php/modul/Article/op/displayrubrik/rub/html.php/modul/Article/op/read/nid/11935/rub/3\" target=\"new\">hier</a>",
+  "general:visits": "2316",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "4",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "TGM 23-12",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-243.JPG",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-243.JPG",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Teleskopgelenkmast",
+      "general:vehicleChassis": "MAN 15.264",
+      "general:vehicleBuild": "<a href=\"http://www.bronto.ch/\" target=\"new\">Bronto Skylift</a>",
+      "general:vehicleMobilization": "11/98"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "86",
+      "general:HiOrgName": "FF Speyer",
+      "general:HiOrgLink": "http://www.feuerwehr-speyer.de"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.3172765,
+    "lng": 8.441217199999999
+  },
+  "meta:weather": {
+    "date": "2008-09-29",
+    "temperature": 10.6,
+    "temperature_min": 7.2,
+    "temperature_max": 14.2,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 22,
+    "peakgust": 38.9,
+    "sunshine": 120,
+    "pressure": null
+  }
+}

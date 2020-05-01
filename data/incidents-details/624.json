@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "624",
+  "general:title": "Verständigung Baubetriebshof",
+  "general:date": "2006-03-13T10:00:00+01:00",
+  "general:location": "Leipziger Straße 4d",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "13.03.2006 10:00",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "66",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "397",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2037752,
+    "lng": 8.1466762
+  },
+  "meta:weather": {
+    "date": "2006-03-13",
+    "temperature": -5.2,
+    "temperature_min": -8.7,
+    "temperature_max": -0.7,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 30,
+    "winddirection": null,
+    "windspeed": 20.9,
+    "peakgust": 36.7,
+    "sunshine": 486,
+    "pressure": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "5915",
+  "general:title": "Brandsicherheitswache",
+  "general:date": "2019-05-04T19:00:00+02:00",
+  "general:location": "Mahlastraße",
+  "general:categorie": "Brandsicherheitswache",
+  "general:length": "4.0",
+  "general:dateFormatted": "04.05.2019 19:00",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "150",
+  "general:changed_on": "2019-05-04T19:00:34+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "65",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "MTF 1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1513.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1513.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+      "general:vehicleChassis": "Ford Transit",
+      "general:vehicleBuild": "<a href=\"http://www.compoint-fahrzeugbau.de\" target=\"new\">Compoint</a>",
+      "general:vehicleMobilization": "06/11"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.19641679999999,
+    "lng": 8.120505399999999
+  },
+  "meta:weather": {
+    "date": "2019-05-04",
+    "temperature": 3.6,
+    "temperature_min": -0.3,
+    "temperature_max": 6.8,
+    "precipitation": 2.3,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": 298,
+    "windspeed": 20.7,
+    "peakgust": 57,
+    "sunshine": 43,
+    "pressure": 1010.1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "604",
+  "general:title": "Verständigung Baubetriebshof",
+  "general:date": "2006-03-06T12:13:00+01:00",
+  "general:location": "Horstschanze",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "06.03.2006 12:13",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "46",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "360",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2056799,
+    "lng": 8.125802
+  },
+  "meta:weather": {
+    "date": "2006-03-06",
+    "temperature": -3.1,
+    "temperature_min": -5.1,
+    "temperature_max": 0.2,
+    "precipitation": 0.1,
+    "snowfall": null,
+    "snowdepth": 160,
+    "winddirection": null,
+    "windspeed": 28.1,
+    "peakgust": 58.7,
+    "sunshine": 162,
+    "pressure": null
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "general:einsatzid": "1711",
+  "general:title": "Überörtliche Hilfe - Kaminbrand",
+  "general:date": "2009-02-17T15:33:00+01:00",
+  "general:location": "Gossersweiler-Stein",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "2.5",
+  "general:dateFormatted": "17.02.2009 15:33",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "41",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": " Siehe <a href=\"http://www.feuerwehr-annweiler.de/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=781&cntnt01dateformat=%25d.%25m.%25Y&cntnt01returnid=15\" target=\"new\">Bericht</a> auf der Seite der Feuerwehr Annweiler ",
+  "general:visits": "2117",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "4",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "TGM 23-12",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-243.JPG",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-243.JPG",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Teleskopgelenkmast",
+      "general:vehicleChassis": "MAN 15.264",
+      "general:vehicleBuild": "<a href=\"http://www.bronto.ch/\" target=\"new\">Bronto Skylift</a>",
+      "general:vehicleMobilization": "11/98"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "44",
+        "general:HiOrgName": "Pfalzwerke AG",
+        "general:HiOrgLink": "http://www.pfalzwerke.de/"
+      },
+      {
+        "general:HiOrgId": "48",
+        "general:HiOrgName": "FF Annweiler",
+        "general:HiOrgLink": "http://www.feuerwehr-annweiler.de/"
+      },
+      {
+        "general:HiOrgId": "52",
+        "general:HiOrgName": "FF Offenbach/Queich",
+        "general:HiOrgLink": "http://www.feuerwehroffenbach.de/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.1594352,
+    "lng": 7.9261851
+  },
+  "meta:weather": {
+    "date": "2009-02-17",
+    "temperature": -0.5,
+    "temperature_min": -6,
+    "temperature_max": 2.3,
+    "precipitation": 2.4,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 32.8,
+    "peakgust": 63,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

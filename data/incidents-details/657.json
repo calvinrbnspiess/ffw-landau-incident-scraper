@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "657",
+  "general:title": "Verständigung Baubetriebshof",
+  "general:date": "2006-04-09T17:52:00+02:00",
+  "general:location": "Türkheimer Straße",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "09.04.2006 17:52",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "96",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "461",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1898837,
+    "lng": 8.0873865
+  },
+  "meta:weather": {
+    "date": "2006-04-09",
+    "temperature": 6.4,
+    "temperature_min": 3.8,
+    "temperature_max": 10,
+    "precipitation": 2.3,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 19.4,
+    "peakgust": 42.8,
+    "sunshine": 150,
+    "pressure": null
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "1058",
+  "general:title": "Brand - vor Ankunft gel?scht",
+  "general:date": "2007-05-03T01:34:00+02:00",
+  "general:location": "Waffenstraße",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "0.5",
+  "general:dateFormatted": "03.05.2007 01:34",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "150",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "682",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1975954,
+    "lng": 8.1108788
+  },
+  "meta:weather": {
+    "date": "2007-05-02",
+    "temperature": 12.5,
+    "temperature_min": 5.8,
+    "temperature_max": 19.8,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 26.6,
+    "peakgust": 56.5,
+    "sunshine": 840,
+    "pressure": null
+  }
+}

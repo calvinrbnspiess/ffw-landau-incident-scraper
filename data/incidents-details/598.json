@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "598",
+  "general:title": "Verständigung Baubetriebshof",
+  "general:date": "2006-02-24T22:08:00+01:00",
+  "general:location": "Woogstraße",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "24.02.2006 22:08",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "40",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "379",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.19696440000001,
+    "lng": 8.1332573
+  },
+  "meta:weather": {
+    "date": "2006-02-24",
+    "temperature": -1.2,
+    "temperature_min": -2.9,
+    "temperature_max": 1.7,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 27.4,
+    "peakgust": 57.6,
+    "sunshine": 72,
+    "pressure": null
+  }
+}

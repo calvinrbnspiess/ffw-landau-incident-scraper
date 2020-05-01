@@ -1,0 +1,68 @@
+{
+  "general:einsatzid": "5683",
+  "general:title": "Überörtliche Hilfe",
+  "general:date": "2018-11-11T10:24:00+01:00",
+  "general:location": "Albersweiler",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "11.11.2018 10:24",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "724",
+  "general:changed_on": "2018-11-11T10:56:07+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "6",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "75",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "GW-Mess",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1558.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1558.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Gerätewagen-Messtechnik",
+      "general:vehicleChassis": "Mercedes Sprinter 316 CDI, Automatik",
+      "general:vehicleBuild": "<a href=\"http://www.binz-automotive.com/\" target=\"New\">Binz, Ilmenau</a>",
+      "general:vehicleMobilization": "10/14"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "48",
+        "general:HiOrgName": "FF Annweiler",
+        "general:HiOrgLink": "http://www.feuerwehr-annweiler.de/"
+      },
+      {
+        "general:HiOrgId": "51",
+        "general:HiOrgName": "FF Herxheim",
+        "general:HiOrgLink": "http://www.feuerwehr-herxheim.de/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.2196205,
+    "lng": 8.032028
+  },
+  "meta:weather": {
+    "date": "2018-11-11",
+    "temperature": 10.6,
+    "temperature_min": 7.5,
+    "temperature_max": 13.5,
+    "precipitation": 1.9,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 216,
+    "windspeed": 30.6,
+    "peakgust": 66,
+    "sunshine": 466,
+    "pressure": 1011.4
+  }
+}

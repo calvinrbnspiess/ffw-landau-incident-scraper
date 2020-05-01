@@ -1,0 +1,74 @@
+{
+  "general:einsatzid": "602",
+  "general:title": "Tierk?rperbeseitigung",
+  "general:date": "2006-03-05T17:21:00+01:00",
+  "general:location": "Arbotstraße 26",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "05.03.2006 17:21",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "44",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "6",
+  "general:EinsatzDescription": " <p class=\"head6\">Drei tote V?gel werden untersucht</p>\r\n    <p class=\"text3\">Enten in M?rlheim, Fasan in Arzheim entdeckt</p>\r\n    <p><br>\r\n    Zwei tote Enten wurden gestern fr?h bei der Kl?ranlage in M?rlheim gefunden, \r\n    bereits am Sonntag wurde ein toter Fasan in Arzheim entdeckt. Das teilte die \r\n    Stadtverwaltung mit.<br>\r\n    Die st?dtische Abteilung f?r Brand- und Katastrophenschutz informierte \r\n    gestern, dass die V?gel von Feuerwehrleuten eingesammelt und zur \r\n    Erstuntersuchung ans Landesuntersuchungsamt in Koblenz versandt worden \r\n    seien. Dort werde gepr?ft, ob die Tiere mit dem Vogelgrippevirus H5N1 \r\n    infiziert sind. ?Sollte sich durch die Untersuchungsergebnisse ein \r\n    Handlungsbedarf ergeben, wird die Stadt Landau in Kooperation mit dem \r\n    zust?ndigen Veterin?ramt des Kreises S?dliche Weinstra?e unverz?glich die \r\n    erforderlichen Ma?nahmen ergreifen&quot;, hie? es in der Pressemitteilung von \r\n    gestern nachmittag.<br>\r\n    Zun?chst sei aber das Ergebnis der Untersuchung abzuwarten, mit dem nach \r\n    drei Tagen zu rechnen sei. (red)<br>\r\n&nbsp;</p>\r\n    <p class=\"text3\">Aus der Tageszeitung &quot;<a target=\"_blank\" href=\"http://www.rheinpfalz.de/\">Die \r\n    Rheinpfalz</a>&quot; vom Dienstag, den 07.03.2006",
+  "general:visits": "462",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "54",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MTF 1 - alt",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1505.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1505.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "VW T5",
+        "general:vehicleBuild": "<a href=\"http://www.auto-zotz.de\" target=\"new\">Auto Zotz</a>; Weschenfelder",
+        "general:vehicleMobilization": "02/08"
+      },
+      {
+        "general:vehicleid": "45",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "KdoW",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-299.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-299.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kommandowagen",
+        "general:vehicleChassis": "VW Passat",
+        "general:vehicleBuild": "VW",
+        "general:vehicleMobilization": "03/05"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.195,
+    "lng": 8.082139999999999
+  },
+  "meta:weather": {
+    "date": "2006-03-05",
+    "temperature": -3.4,
+    "temperature_min": -5.6,
+    "temperature_max": -0.2,
+    "precipitation": 0.6,
+    "snowfall": null,
+    "snowdepth": 180,
+    "winddirection": null,
+    "windspeed": 19.4,
+    "peakgust": 51.1,
+    "sunshine": 342,
+    "pressure": null
+  }
+}

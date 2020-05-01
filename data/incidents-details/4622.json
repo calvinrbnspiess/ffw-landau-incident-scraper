@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "4622",
+  "general:title": "Brandsicherheitswache",
+  "general:date": "2017-03-17T19:00:00+01:00",
+  "general:location": "Jugendstil-Festhalle",
+  "general:categorie": "Brandsicherheitswache",
+  "general:length": "4.0",
+  "general:dateFormatted": "17.03.2017 19:00",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "101",
+  "general:changed_on": "2017-03-17T19:00:02+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.19574619999999,
+    "lng": 8.1205464
+  },
+  "meta:weather": {
+    "date": "2017-03-17",
+    "temperature": 9.3,
+    "temperature_min": 5.9,
+    "temperature_max": 14.2,
+    "precipitation": 0.1,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 31.7,
+    "peakgust": 79.2,
+    "sunshine": 270,
+    "pressure": null
+  }
+}

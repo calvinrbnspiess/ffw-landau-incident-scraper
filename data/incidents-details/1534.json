@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "1534",
+  "general:title": "Amtshilfe für Polizei",
+  "general:date": "2008-07-09T06:00:00+02:00",
+  "general:location": "Xylanderstraße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "3.5",
+  "general:dateFormatted": "09.07.2008 06:00",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "204",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": " Die Feuerwehr Landau unterst?tzte die Kriminalpolizei. Die Fachberaterin Chemie gab den vorgehenden Einheiten der Polizei bei Wohnungsdurchsuchung telefonische Beratung. Zusammen mit dem Messtrupp wurde auch ein unbekannter Stoff untersucht. Mehr auf <a href=\"http://www.polizei.rlp.de/internet/nav/b4b/b4b70d73-c9a2-b001-be59-2680a525fe06&_ic_uCon=41e10735-055c-ea11-c5ec-3f110b42f27b&page=1&pagesize=10&press=true\" target=\"new\">Aktuelles</a> auf <a href=\"http://www.polizei.rlp.de\" target=\"new\">www.polizei.rlp.de</a>.<br><br>Siehe weiterer Bericht auf <a href=\"http://www.swr.de\" target=\"new\">www.swr.de</a>:<br><br><b>Ludwigshafen<br><br>\r\nLKA findet bei Razzia auch in Vorder- und S?dpfalz Drogen\r\n</b><br><br>\r\nDas Landeskriminalamt hat bei einer bundesweit angelegten Razzia auch in der Vorder- und S?dpfalz Drogen gefunden. Die Beamten entdeckten in Venningen, Landau, Speyer, Wachenheim und H?rdt illegale Substanzen. In Venningen hatte ein 26 Jahre alter Deutscher kleinere Mengen Rauschgift und weitere Grundstoffe in seiner Wohnung. Mit diesen Grundstoffen k?nnte er die Droge Amphetamin herstellen. In Landau, Speyer, Wachenheim und H?rdt stellten die Beamten insgesamt rund 2,5 Liter Gamma-Butyrolacton, kurz GBL, geringe Mengen Amphetamin und Marihuana sicher. In einem Fall fanden sie auch weitere Grundstoffe, aus denen Drogen produziert werden k?nnen. GBL ist eine Chemikalie aus der Industrie. Sie wandelt sich im K?rper von selbst in eine Droge um. In Deutschland ist der Chemiekonzern BASF der einzige Hersteller dieser Substanz. Deshalb meldet die BASF den Verkauf auch an das Bundeskriminalamt. Ob der entscheidende Tipp f?r die bundesweite Drogenrazzia von der BASF kam, wollte das Unternehmen am Morgen nicht best?tigen.   ",
+  "general:visits": "1696",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "17",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "Mef-G",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-258.JPG",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-258.JPG",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Messtruppfahrzeug",
+      "general:vehicleChassis": "VW Bus",
+      "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+      "general:vehicleMobilization": "08/91"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "30",
+      "general:HiOrgName": "Kriminalpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1937656,
+    "lng": 8.112399
+  },
+  "meta:weather": {
+    "date": "2008-07-09",
+    "temperature": 14.9,
+    "temperature_min": 10.9,
+    "temperature_max": 19.2,
+    "precipitation": 0.1,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 24.8,
+    "peakgust": 57.2,
+    "sunshine": 252,
+    "pressure": null
+  }
+}

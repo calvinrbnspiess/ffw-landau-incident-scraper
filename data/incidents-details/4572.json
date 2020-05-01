@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "4572",
+  "general:title": "Ölspur",
+  "general:date": "2017-02-04T16:35:00+01:00",
+  "general:location": "An der Kreuzmühle",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "0.5",
+  "general:dateFormatted": "04.02.2017 16:35",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "51",
+  "general:changed_on": "2017-02-04T16:58:10+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "15",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "KLAF",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-263.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-263.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kleinalarmfahrzeug",
+      "general:vehicleChassis": "MB Sprinter",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "03/12"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1984326,
+    "lng": 8.0897483
+  },
+  "meta:weather": {
+    "date": "2017-02-04",
+    "temperature": 3.1,
+    "temperature_min": 2,
+    "temperature_max": 4.9,
+    "precipitation": 9.2,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 32.8,
+    "peakgust": 82.8,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

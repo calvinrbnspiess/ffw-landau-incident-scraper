@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "2641",
+  "general:title": "Ausgelaufene Betriebsmittel",
+  "general:date": "2011-01-26T14:44:00+01:00",
+  "general:location": "Dorfstrasse",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "26.01.2011 14:44",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "34",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "371",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "0",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "KdoW2",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-308.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-308.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kommandowagen",
+      "general:vehicleChassis": "VW Passat",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "09/88"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "27",
+      "general:HiOrgName": "Fachfirma Straßenreinigung",
+      "general:HiOrgLink": "http://www.brechtel-fahrbahnreinigung.de"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.21985979999999,
+    "lng": 8.150514099999999
+  },
+  "meta:weather": {
+    "date": "2011-01-26",
+    "temperature": -0.7,
+    "temperature_min": -2.3,
+    "temperature_max": 0,
+    "precipitation": 5.3,
+    "snowfall": null,
+    "snowdepth": 40,
+    "winddirection": null,
+    "windspeed": 9.4,
+    "peakgust": 27.7,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

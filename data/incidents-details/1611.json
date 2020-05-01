@@ -1,0 +1,68 @@
+{
+  "general:einsatzid": "1611",
+  "general:title": "Überörtliche Hilfe",
+  "general:date": "2008-10-12T15:12:00+02:00",
+  "general:location": "Freimersheim",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.5",
+  "general:dateFormatted": "12.10.2008 15:12",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "276",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": " Siehe <a href=\"http://www.feuerwehr-edenkoben.de/Einsatze/Einsatze_2008/Brand_Freim__Muhle/brand_freim__muhle.html\" target=\"new\">Bericht</a> der Feuerwehr Edenkoben",
+  "general:visits": "2008",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "58",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "TLF 20/40 SL (heute: PTLF 4000)",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2040.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2040.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Tanklöschfahrzeug",
+      "general:vehicleChassis": "MB 1832 AK 4x4 \"Actros\"",
+      "general:vehicleBuild": "<a href=\"http://www.lentner-gmbh.de\" target=\"new\">Lentner</a>",
+      "general:vehicleMobilization": "09/08"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "50",
+        "general:HiOrgName": "FF Edenkoben",
+        "general:HiOrgLink": "http://www.feuerwehr-edenkoben.de/"
+      },
+      {
+        "general:HiOrgId": "51",
+        "general:HiOrgName": "FF Herxheim",
+        "general:HiOrgLink": "http://www.feuerwehr-herxheim.de/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.26992809999999,
+    "lng": 8.2255787
+  },
+  "meta:weather": {
+    "date": "2008-10-12",
+    "temperature": 14.6,
+    "temperature_min": 11.8,
+    "temperature_max": 18.3,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 17.3,
+    "peakgust": 41.4,
+    "sunshine": 438,
+    "pressure": null
+  }
+}

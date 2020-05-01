@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "2846",
+  "general:title": "Verständigung Leitstelle",
+  "general:date": "2011-09-30T20:06:00+02:00",
+  "general:location": "Offenbach",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "30.09.2011 20:06",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "237",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "473",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2,
+    "lng": 8.2
+  },
+  "meta:weather": {
+    "date": "2011-09-30",
+    "temperature": 16.8,
+    "temperature_min": 12.3,
+    "temperature_max": 21.4,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 17.6,
+    "peakgust": 40.7,
+    "sunshine": 654,
+    "pressure": null
+  }
+}

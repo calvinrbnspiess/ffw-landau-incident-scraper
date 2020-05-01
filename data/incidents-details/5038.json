@@ -1,0 +1,114 @@
+{
+  "general:einsatzid": "5038",
+  "general:title": "Auslaufende Betriebsmittel aus LKW",
+  "general:date": "2018-02-21T03:33:00+01:00",
+  "general:location": "Max-Planck-Straße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "2.0",
+  "general:dateFormatted": "21.02.2018 03:33",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "88",
+  "picture:Picture": {
+    "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/1802/5038-1.jpeg",
+    "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/1802/5038-1.jpeg",
+    "picture:PictureFormat": "quer",
+    "picture:PictureDescription": "",
+    "picture:BufferPreview": "true",
+    "picture:BufferPicture": "false"
+  },
+  "general:changed_on": "2018-02-21T09:44:37+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "10",
+  "general:EinsatzDescription": "<p>Aus dem Polizeibericht:</p>\n<p><em>Landau (ots)</em> - 21. Februar 2018, 3.25 Uhr Ein 50-j&auml;hriger Lieferfahrer einer Gro&szlig;b&auml;ckerei befuhr am Mittwochmorgen die L 509 in Richtung Innenstadt. Mit seinem 7,5- Tonner-Lkw kam er in H&ouml;he des &Auml;rztehauses aus bislang ungekl&auml;rten Gr&uuml;nden auf die Verkehrsinsel. Er rasierte zwei B&auml;ume ab und legte den Lkw quer &uuml;ber die Stra&szlig;e (siehe Bild). Die L 509 musste zur Bergung des Lkw bis 6.30 Uhr gesperrt werden. Der Verkehr wurde &ouml;rtlich durch Queichheim umgeleitet. Da bei dem Unfall auch Betriebsstoffe ausliefen war auch die Feuerwehr im Einsatz. Bei dem Unfall entstand ein Gesamtschaden von rund 30.000 Euro. Der Fahrer blieb unverletzt. Brot und Br&ouml;tchen gab es an diesem Tag etwas sp&auml;ter.</p>\n<p>&nbsp;</p>\n<p>Bildquelle: Polizei</p>",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "16",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "GW-G 2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-225.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-225.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Gerätewagen Gefahrgut 2",
+        "general:vehicleChassis": "MAN 9.163",
+        "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+        "general:vehicleMobilization": "08/96"
+      },
+      {
+        "general:vehicleid": "15",
+        "general:vehicleVersion": "2",
+        "general:vehicleName": "KLAF",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-263.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-263.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kleinalarmfahrzeug",
+        "general:vehicleChassis": "MB Sprinter",
+        "general:vehicleBuild": "Eigen",
+        "general:vehicleMobilization": "03/12"
+      },
+      {
+        "general:vehicleid": "58",
+        "general:vehicleVersion": "1",
+        "general:vehicleName": "PTLF 4000",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2040.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2040.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Pulvertanklöschfahrzeug",
+        "general:vehicleChassis": "MB 1832 AK 4x4 \"Actros\"",
+        "general:vehicleBuild": "<a href=\"http://www.lentner-gmbh.de\" target=\"new\">Lentner</a>",
+        "general:vehicleMobilization": "09/08"
+      }
+    ]
+  },
+  "picture:Pictures": {
+    "picture:Picture": {
+      "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/1802/5038-1.jpeg",
+      "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/1802/5038-1.jpeg",
+      "picture:PictureFormat": "quer",
+      "picture:PictureDescription": "",
+      "picture:BufferPreview": "true",
+      "picture:BufferPicture": "false"
+    }
+  },
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.19048799999999,
+    "lng": 8.1386708
+  },
+  "meta:weather": {
+    "date": "2018-02-21",
+    "temperature": -1.9,
+    "temperature_min": -4.3,
+    "temperature_max": 1,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 40,
+    "winddirection": 37,
+    "windspeed": 24.7,
+    "peakgust": 58,
+    "sunshine": 568,
+    "pressure": 1021.5
+  }
+}

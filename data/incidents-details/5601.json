@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "5601",
+  "general:title": "Tierrettung",
+  "general:date": "2018-09-09T20:48:00+02:00",
+  "general:location": "Stadtschreibergasse",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "09.09.2018 20:48",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "647",
+  "general:changed_on": "2018-09-09T21:16:39+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "15",
+      "general:vehicleVersion": "2",
+      "general:vehicleName": "KLAF",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-263.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-263.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kleinalarmfahrzeug",
+      "general:vehicleChassis": "MB Sprinter",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "03/12"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1957758,
+    "lng": 8.1129495
+  },
+  "meta:weather": {
+    "date": "2018-09-09",
+    "temperature": 18.1,
+    "temperature_min": 14.5,
+    "temperature_max": 24.8,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": 220,
+    "windspeed": 13,
+    "peakgust": 30,
+    "sunshine": 638,
+    "pressure": 1021.2
+  }
+}

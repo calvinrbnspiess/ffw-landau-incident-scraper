@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "4551",
+  "general:title": "Personensuche",
+  "general:date": "2017-01-21T18:29:00+01:00",
+  "general:location": "Queichheimer Hauptstraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "21.01.2017 18:29",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "30",
+  "general:changed_on": "2017-01-21T18:41:08+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1959657,
+    "lng": 8.1448155
+  },
+  "meta:weather": {
+    "date": "2017-01-21",
+    "temperature": -4.6,
+    "temperature_min": -7.3,
+    "temperature_max": -2.3,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 80,
+    "winddirection": null,
+    "windspeed": 22.3,
+    "peakgust": 39.2,
+    "sunshine": 481,
+    "pressure": null
+  }
+}

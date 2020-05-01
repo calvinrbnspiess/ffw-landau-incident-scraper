@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "24",
+  "general:title": "Auslaufende Betriebsmittel",
+  "general:date": "2004-02-02T11:50:00+01:00",
+  "general:location": "Danziger Platz",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "02.02.2004 11:50",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "19",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "414",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.20686430000001,
+    "lng": 8.142870199999999
+  },
+  "meta:weather": {
+    "date": "2004-02-02",
+    "temperature": 8.1,
+    "temperature_min": 7,
+    "temperature_max": 8.9,
+    "precipitation": 0.1,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 55.8,
+    "peakgust": 104,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

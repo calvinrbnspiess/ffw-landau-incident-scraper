@@ -1,0 +1,57 @@
+{
+  "general:einsatzid": "5603",
+  "general:title": "Technische Hilfeleistung kleinerer Art",
+  "general:date": "2018-09-10T19:05:00+02:00",
+  "general:location": "K 9",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.0",
+  "general:dateFormatted": "10.09.2018 19:05",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "649",
+  "general:changed_on": "2018-09-10T19:27:53+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "5",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "61",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "TSF-W Arzheim",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1511.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1511.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Tragkraftspritzenfahrzeug-Wasser",
+      "general:vehicleChassis": "IVECO Daily 65C17D",
+      "general:vehicleBuild": "<a href=\"http://www.adik-fahrzeugbau.de\" target=\"new\">ADIK Fahrzeugbau</a>",
+      "general:vehicleMobilization": "04/11"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:weather": {
+    "date": "2018-09-10",
+    "temperature": 20.6,
+    "temperature_min": 15.6,
+    "temperature_max": 26.7,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": 232,
+    "windspeed": 18,
+    "peakgust": 49,
+    "sunshine": 577,
+    "pressure": 1021.7
+  }
+}

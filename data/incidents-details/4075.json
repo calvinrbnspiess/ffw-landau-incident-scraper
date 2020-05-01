@@ -1,0 +1,68 @@
+{
+  "general:einsatzid": "4075",
+  "general:title": "Notfalltüröffnung",
+  "general:date": "2015-09-27T19:16:00+02:00",
+  "general:location": "Weißenburgerstraße ",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.0",
+  "general:dateFormatted": "27.09.2015 19:16",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "230",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "7",
+  "general:EinsatzDescription": " Aus dem Polizeibericht:<br><br><b>\r\nZweijähriger sperrt Mutter aus</b>\r\n<br><br>\r\nLandau: 27.09.2015, 19:00 Uhr\r\n<br><br>\r\nEine Anwohnerin eines Mehrfamilienhauses in der Weißenburger Straße teilte gestern Abend mit, dass sie sich auf dem Balkon befände und ihr zweijähriger Sohn sie aus Versehen ausgesperrt habe. Außerdem stünde ein Topf mit heißem Wasser auf dem Herd. DRK und Feuerwehr wurden verständigt und waren beim Eintreffen der Streife schon vor Ort. Nach Öffnung der Wohnungstür konnte bereits erheblicher Wasserdampf festgestellt werden, weshalb auch der Rauchmelder ausgelöst hatte. Die Wohnung wurde direkt belüftet, Mutter und Kind unverletzt vorsorglich dem DRK übergeben.",
+  "general:visits": "81",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "60",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "HLF 20/16-1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+      "general:vehicleChassis": "IVECO FF 160 E 30",
+      "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+      "general:vehicleMobilization": "03/09"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "31",
+        "general:HiOrgName": "Rettungsdienst",
+        "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.1873759,
+    "lng": 8.113896
+  },
+  "meta:weather": {
+    "date": "2015-09-27",
+    "temperature": 10.7,
+    "temperature_min": 7.8,
+    "temperature_max": 15.4,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 26.6,
+    "peakgust": 52.2,
+    "sunshine": 487,
+    "pressure": null
+  }
+}

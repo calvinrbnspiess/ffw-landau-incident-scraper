@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "975",
+  "general:title": "Alarmierung THW",
+  "general:date": "2007-01-19T18:56:00+01:00",
+  "general:location": "Kronstraße / Queich",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "19.01.2007 18:56",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "70",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "660",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1973056,
+    "lng": 8.113515399999999
+  },
+  "meta:weather": {
+    "date": "2007-01-19",
+    "temperature": 9.7,
+    "temperature_min": 7.7,
+    "temperature_max": 10.9,
+    "precipitation": 3.3,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 59,
+    "peakgust": 130.3,
+    "sunshine": 186,
+    "pressure": null
+  }
+}

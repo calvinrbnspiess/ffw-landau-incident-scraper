@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "2554",
+  "general:title": "Amtshilfe - Personensuche",
+  "general:date": "2010-10-19T20:35:00+02:00",
+  "general:location": "nördl. Stadtgebiet",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.0",
+  "general:dateFormatted": "19.10.2010 20:35",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "400",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "44",
+  "general:EinsatzDescription": "",
+  "general:visits": "531",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.19888599999999,
+    "lng": 8.1185622
+  },
+  "meta:weather": {
+    "date": "2010-10-19",
+    "temperature": 3.6,
+    "temperature_min": 1.7,
+    "temperature_max": 5.3,
+    "precipitation": 3.7,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 36.4,
+    "peakgust": 63,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

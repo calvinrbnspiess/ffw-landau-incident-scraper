@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "1564",
+  "general:title": "Verständigung Baubetriebshof",
+  "general:date": "2008-08-04T09:31:00+02:00",
+  "general:location": "Parkstraße",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "04.08.2008 09:31",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "231",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "",
+  "general:visits": "410",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.193244,
+    "lng": 8.110745999999999
+  },
+  "meta:weather": {
+    "date": "2008-08-04",
+    "temperature": 17.2,
+    "temperature_min": 13.9,
+    "temperature_max": 20.4,
+    "precipitation": 9.7,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 34.9,
+    "peakgust": 91.8,
+    "sunshine": 252,
+    "pressure": null
+  }
+}

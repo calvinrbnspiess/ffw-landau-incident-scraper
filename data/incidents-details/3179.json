@@ -1,0 +1,78 @@
+{
+  "general:einsatzid": "3179",
+  "general:title": "Überörtliche Hilfe - Technische Hilfe",
+  "general:date": "2012-12-15T22:33:00+01:00",
+  "general:location": "Böchingen",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.5",
+  "general:dateFormatted": "15.12.2012 22:33",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "273",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": " Aus dem Onlineangebot <a href=\"http://www.swr.de\">www.swr.de</a>:<br><br><b>B?chingen</b><br>\r\n80-j?hriger Mann vom Dach gerettet<br><br>\r\n\r\nFeuerwehrkr?fte aus B?chingen und Landau haben an Wochenende einen 80-j?hrigen Mann vom Dach eines Wohnhauses gerettet. Nach Polizeiangaben war der Mann aus einem Fenster aufs Dach gestiegen und drohte abzust?rzen. Zwei M?nner entdeckten den 80-j?hrigen, kletterten ihm nach und hielten ihn fest bis die Rettungskr?fte eintrafen. Er wurde in ein Krankenhaus eingeliefert. Warum der Mann aufs Dach geklettert war ist unklar.",
+  "general:visits": "1239",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "4",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "TGM 23-12",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-243.JPG",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-243.JPG",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Teleskopgelenkmast",
+      "general:vehicleChassis": "MAN 15.264",
+      "general:vehicleBuild": "<a href=\"http://www.bronto.ch/\" target=\"new\">Bronto Skylift</a>",
+      "general:vehicleMobilization": "11/98"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "44",
+        "general:HiOrgName": "Pfalzwerke AG",
+        "general:HiOrgLink": "http://www.pfalzwerke.de/"
+      },
+      {
+        "general:HiOrgId": "31",
+        "general:HiOrgName": "Rettungsdienst",
+        "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "74",
+        "general:HiOrgName": "FF Landau -Land-",
+        "general:HiOrgLink": "http://www.feuerwehr-landau-land.de"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.23725520000001,
+    "lng": 8.0905846
+  },
+  "meta:weather": {
+    "date": "2012-12-15",
+    "temperature": 5.4,
+    "temperature_min": 4.6,
+    "temperature_max": 6.3,
+    "precipitation": 2.3,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 37.1,
+    "peakgust": 73.1,
+    "sunshine": 132,
+    "pressure": null
+  }
+}

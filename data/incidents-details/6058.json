@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "6058",
+  "general:title": "Unterstützung Messkomponente",
+  "general:date": "2019-08-09T10:18:00+02:00",
+  "general:location": "Edesheimer Straße, Rhodt",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "3.0",
+  "general:dateFormatted": "09.08.2019 10:18",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "288",
+  "general:changed_on": "2019-08-09T13:28:08+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "75",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "GW-Mess",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1558.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1558.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Gerätewagen-Messtechnik",
+      "general:vehicleChassis": "Mercedes Sprinter 316 CDI, Automatik",
+      "general:vehicleBuild": "<a href=\"http://www.binz-automotive.com/\" target=\"New\">Binz, Ilmenau</a>",
+      "general:vehicleMobilization": "10/14"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "50",
+      "general:HiOrgName": "FF Edenkoben",
+      "general:HiOrgLink": "http://www.feuerwehr-edenkoben.de/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.2692108,
+    "lng": 8.109957999999999
+  },
+  "meta:weather": {
+    "date": "2019-08-09",
+    "temperature": 21.7,
+    "temperature_min": 18.8,
+    "temperature_max": 28.4,
+    "precipitation": 3.7,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": 165,
+    "windspeed": 21.3,
+    "peakgust": 65,
+    "sunshine": 225,
+    "pressure": 1010
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "general:einsatzid": "50",
+  "general:title": "Amtshilfe - Undichter Tank",
+  "general:date": "2004-03-04T15:12:00+01:00",
+  "general:location": "A65 Rastanlage PW-Ost",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "04.03.2004 15:12",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "44",
+  "picture:Picture": {
+    "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0403/040304_06.jpg",
+    "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0403/040304_06.jpg",
+    "picture:PictureFormat": "quer",
+    "picture:PictureDescription": "Zuziehen der Domdeckel",
+    "picture:BufferPreview": "true",
+    "picture:BufferPicture": "false"
+  },
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "2",
+  "general:AmountPeople": "14",
+  "general:EinsatzDescription": "Verkehrsdirektion Rheinpfalz\r\nPressemeldung vom 05.03.2004, 00:45 Uhr<br>\r\n--------------------------------------------------------------------------------<br>\r\nGemeinsame Presseinfo der Verkehrsdirektion Rheinpfalz und der Bundesgrenzschutzinspektion Kaiserslautern\r\n \r\nPolizei, Bundesgrenzschutz und Zoll fahnden im Grenzgebiet zu Frankreich; \r\n10. gemeinsame Gro?kontrolle am Donnerstag mit rund 170 Einsatzkr?ften; \r\n\r\nIm April 2002 wurde die Idee gemeinsamer Kontrollen auf h?chster Ebene geboren. Eine Intensivierung der Sicherheitskooperation zwischen dem Bundesgrenzschutz und der Polizei des Landes Rheinland - Pfalz war beschlossen und wurde auf den Weg gebracht.<br> \r\n...<br>\r\nBei der heutigen Kontrolle wurde erstmals auch die Bundestrasse 10 bei Annweiler und die Bundesautobahn 65 in das Kontrollkonzept aufgenommen. Somit wurde an 5 Kontrollstellen gleichzeitig der flie?ende Verkehr ?berpr?ft. Die Kontrollen begannen um 14.00 Uhr und wurden gegen 20.00 Uhr beendet.<br>...<br>\r\nIm Bereich der Bundesautobahn 65 wurde gegen 13:30 Uhr ein Gefahrguttransport beanstandet, da an diesem Fahrzeug ein Gefahrgutaustritt festgestellt wurde. Hierbei handelte es sich um geringe Mengen einer giftigen Substanz die auf dem Lkw kristallisiert war. Aufgrund dieser Feststellungen wurde die Feuerwehr Landau verst?ndigt, die mit 14 Einsatzkr?ften anr?ckte. Nachdem das Gefahrgut ca. 30 Minuten sp?ter ordnungsgem?? entsorgt war, wurde der Fahrer mit der Reinigung des LKW in einem Fachbetrieb beauftrag.<br>\r\n--------------------------------------------------------------------------------<br>\r\n \r\nVerkehrsdirektion Rheinpfalz\r\nWaldspitzweg 2\r\n67105 Schifferstadt\r\nTel: 06235-495309\r\n \r\n    ",
+  "general:visits": "404",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "1",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "ELW 1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-207.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-207.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Einsatzleitwagen",
+        "general:vehicleChassis": "VW LT",
+        "general:vehicleBuild": "<a href=\"http://www.hensel-fahrzeugbau.de\" target=\"new\">Hensel</a>",
+        "general:vehicleMobilization": "12/04"
+      },
+      {
+        "general:vehicleid": "5",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "LF 16-12-2 (heute: )",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-256.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-256.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Löschgruppenfahrzeug",
+        "general:vehicleChassis": "MB 1222",
+        "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+        "general:vehicleMobilization": "06/88"
+      },
+      {
+        "general:vehicleid": "16",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "GW-G 2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-225.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-225.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Gerätewagen Gefahrgut 2",
+        "general:vehicleChassis": "MAN 9.163",
+        "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+        "general:vehicleMobilization": "08/96"
+      },
+      {
+        "general:vehicleid": "17",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "Mef-G",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-258.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-258.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Messtruppfahrzeug",
+        "general:vehicleChassis": "VW Bus",
+        "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+        "general:vehicleMobilization": "08/91"
+      }
+    ]
+  },
+  "picture:Pictures": {
+    "picture:Picture": [
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0403/040304_06.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0403/040304_06.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "Zuziehen der Domdeckel",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      },
+      {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0403/040304_12.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0403/040304_12.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "Aufnehmen der kristallierten Fl?ssigkeit",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "false"
+      }
+    ]
+  },
+  "general:OtherHiOrgs": "",
+  "meta:weather": {
+    "date": "2004-03-04",
+    "temperature": 1.6,
+    "temperature_min": -0.4,
+    "temperature_max": 5.2,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 12.6,
+    "peakgust": 41,
+    "sunshine": 132,
+    "pressure": null
+  }
+}

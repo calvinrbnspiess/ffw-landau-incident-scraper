@@ -1,0 +1,43 @@
+{
+  "general:einsatzid": "1172",
+  "general:title": "Alarmierung THW",
+  "general:date": "2007-07-27T03:07:00+02:00",
+  "general:location": "Kronstraße",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "27.07.2007 03:07",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "256",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "663",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "47",
+      "general:HiOrgName": "THW OV Landau",
+      "general:HiOrgLink": "http://www.thw-landau.de"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1973056,
+    "lng": 8.113515399999999
+  },
+  "meta:weather": {
+    "date": "2007-07-27",
+    "temperature": 17.2,
+    "temperature_min": 15.5,
+    "temperature_max": 20.7,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 32.8,
+    "peakgust": 74.9,
+    "sunshine": 246,
+    "pressure": null
+  }
+}

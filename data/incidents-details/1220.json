@@ -1,0 +1,93 @@
+{
+  "general:einsatzid": "1220",
+  "general:title": "Überörtliche Hilfe",
+  "general:date": "2007-09-14T22:19:00+02:00",
+  "general:location": "Dahn",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "6.0",
+  "general:dateFormatted": "14.09.2007 22:19",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "301",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "8",
+  "general:EinsatzDescription": "Unterst?tzung der Feuerwehr Dahn mit ?lsanimat. Mehr siehe <a href=\"http://www.feuerwehr-dahn.de/images/Einsaetze/2007/oelunfall14.9.07/oelunfall14.9.07.htm\" target=\"new\">hier</a>. <br><br>Siehe Bericht der Tageszeitung <a href=\"http://www.rheinpfalz.de\" target=\"new\">Die Rheinpfalz</a>:<br><br>Hunderte Liter Heiz?l laufen in den Kanal<br><br>\r\nDAHN: Fehler beim Betanken eines Vorratstanks - Feuerwehr bannt Gefahr f?r Umwelt und verhindert Schaden an Kl?ranlage\r\n<br><br>\r\nBei der missgl?ckten Bef?llung eines privaten Tanks sind am Freitagabend in Dahn hunderte Liter Heiz?l in den Kanal geraten. Feuerwehr und Mitarbeiter der Verbandsgemeindewerke konnten verhindern, dass die Fl?ssigkeit in die Wieslauter gelangte. Die gesamte Wasgaustadt war am Abend und in der Nacht in einen penetranten Heiz?lgeruch geh?llt.\r\n<br><br>\r\nGegen 20 Uhr hatte ein Heiz?llieferant aus dem Landkreis aus seinem Tankwagen den Brennstoff in den Tank des dreigeschossigen Reihenhauses in der Drachenfelsstra?e gepumpt. Dabei lie? er vermutlich mehr Heiz?l ein, als im Tank Platz fand. Die ?bersch?ssige Menge - nach Sch?tzungen der Feuerwehr ?mehrere hundert Liter\", andere Beteiligte sprechen von ?weit ?ber 1000 Litern\" - bahnte sich ?ber die auf dem Dach endende Entl?ftung des Tanks einen Weg ins Freie. ?ber die Regenrinne landete der gr??te Teil der Fl?ssigkeit im Mischwasserkanal. Ein kleinerer Teil lief ?ber die Hauswand auf das Grundst?ck.\r\n<br><br>\r\nTrotz mehrerer ?lsperren, die die Feuerwehr in den Kanal einbaute, gelangten gro?e Mengen des Heiz?ls in die drei Kilometer entfernte Kl?ranlage am anderen Ende der Stadt. Dort konnte gerade noch rechtzeitig der Zulauf zum Kl?rbecken unterbrochen und ein gr??erer Schaden an der Kl?ranlage verhindert werden. Das mit Heiz?l durchsetzte Abwasser wurde im Regenwasserr?ckhaltebecken gesammelt.\r\n<br><br>\r\nDer Gefahrstoffzug des Landkreises S?dwestpfalz r?ckte an, um den umweltgef?hrdenden Stoff abzusaugen. Parallel dazu wurde die Feuerwehr Landau alarmiert, die ?ber ein Spezialger?t f?r solche Schadensf?lle verf?gt. ?ber einen schwimmenden Saugkorb wurde zun?chst die obere Wasserschicht abgesaugt und in einem mobilen ?labscheider das Heiz?l vom Wasser getrennt. Sp?ter konnte vom Grund des Beckens das weitgehend heiz?lfreie Wasser zum Einlauf der Kl?ranlage zur?ck gepumpt werden. Der auf diese Weise abgesonderte Gefahrstoff wurde von zwei Fahrzeugen einer Pirmasenser Spezialfirma aufgenommen. Erst gegen 5 Uhr am fr?hen Samstagmorgen waren diese Arbeiten abgeschlossen. Die Reinigungsarbeiten in der Kl?ranlage, die inzwischen wieder im Normalbetrieb l?uft, dauerten den ganzen Tag an.\r\n<br><br>\r\nNach Angaben von Einsatzleiter J?rgen Germann, stellvertretender Wehrleiter der Verbandsgemeinde-Feuerwehr Dahner Felsenland, wurde ein Gutachter eingeschaltet, um die Heizungsanlage des Geb?udes zu ?berpr?fen und ?ber weitere Ma?nahmen zu entscheiden, zum Beispiel einen eventuellen Bodenaustausch am Geb?ude oder die Sp?lung der gesamten Abwasserleitung zwischen Drachenfelsstra?e und Kl?ranlage. Bis heute Abend bleibt au?erdem eine von der Feuerwehr vorsorglich in der Wieslauter installierte ?lsperre in Betrieb, falls trotz aller Bem?hungen dennoch irgendwelche Heiz?lr?ckst?nde ?ber die Kl?ranlage in das Gew?sser gelangen sollten.\r\n<br><br>\r\nDie Kosten des Einsatzes lassen sich derzeit noch nicht beziffern. (hll)\r\n\r\n",
+  "general:visits": "1682",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "6",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "TLF 24-50",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-264.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-264.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Tanklöschfahrzeug",
+        "general:vehicleChassis": "MB 1626",
+        "general:vehicleBuild": "<a href=\"http://www.ziegler.de/index_de.php\" target=\"new\">Ziegler</a>",
+        "general:vehicleMobilization": "02/81"
+      },
+      {
+        "general:vehicleid": "46",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MZF",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-259.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-259.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mehrzweckfahrzeug",
+        "general:vehicleChassis": "MB 1425 4x4",
+        "general:vehicleBuild": "<a href=\"http://www.weschenfelder.com\" target=\"new\">Weschenfelder</a>",
+        "general:vehicleMobilization": "04/05"
+      },
+      {
+        "general:vehicleid": "22",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "FwA-Öl",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-297.JPG",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-297.JPG",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Ölsanimatanhänger",
+        "general:vehicleChassis": "",
+        "general:vehicleBuild": "Pfraum",
+        "general:vehicleMobilization": "12/82"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "81",
+      "general:HiOrgName": "FF Dahn",
+      "general:HiOrgLink": "http://www.feuerwehr-dahn.de"
+    }
+  },
+  "meta:weather": {
+    "date": "2007-09-14",
+    "temperature": 14.8,
+    "temperature_min": 10.6,
+    "temperature_max": 20.8,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 20.2,
+    "peakgust": 43.9,
+    "sunshine": 600,
+    "pressure": null
+  }
+}

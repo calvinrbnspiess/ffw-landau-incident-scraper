@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "4750",
+  "general:title": "Rauchwarnmelder",
+  "general:date": "2017-07-12T11:51:00+02:00",
+  "general:location": "Eschbach",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.0",
+  "general:dateFormatted": "12.07.2017 11:51",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "223",
+  "general:changed_on": "2017-07-13T12:17:49+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "74",
+      "general:vehicleVersion": "2",
+      "general:vehicleName": "TGM 23-12",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1538.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1538.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Teleskopgelenkmast",
+      "general:vehicleChassis": "Mercedes Atego 1629, Teligent-Schaltung",
+      "general:vehicleBuild": "<a href=\"http://www.metz-online.de/\">Metz</a>",
+      "general:vehicleMobilization": "10/14"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1738995,
+    "lng": 8.0188937
+  },
+  "meta:weather": {
+    "date": "2017-07-12",
+    "temperature": 15.7,
+    "temperature_min": 10.9,
+    "temperature_max": 19.1,
+    "precipitation": 2.5,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 33.5,
+    "peakgust": 76.3,
+    "sunshine": 95,
+    "pressure": null
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "general:einsatzid": "5380",
+  "general:title": "LNA Transport",
+  "general:date": "2018-07-15T10:18:00+02:00",
+  "general:location": "Insheim -> Herxheim",
+  "general:categorie": "LNA",
+  "general:length": "1.5",
+  "general:dateFormatted": "15.07.2018 10:18",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "426",
+  "general:changed_on": "2018-07-15T11:34:24+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "11",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "MTF 2",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-220.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-220.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+      "general:vehicleChassis": "VW LT",
+      "general:vehicleBuild": "Massong",
+      "general:vehicleMobilization": "12/04"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "31",
+        "general:HiOrgName": "Rettungsdienst",
+        "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+      },
+      {
+        "general:HiOrgId": "51",
+        "general:HiOrgName": "FF Herxheim",
+        "general:HiOrgLink": "http://www.feuerwehr-herxheim.de/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.1572343,
+    "lng": 8.143958999999999
+  },
+  "meta:weather": {
+    "date": "2018-07-15",
+    "temperature": 20.3,
+    "temperature_min": 16.2,
+    "temperature_max": 27.3,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": 108,
+    "windspeed": 14.1,
+    "peakgust": 58,
+    "sunshine": 386,
+    "pressure": 1015.3
+  }
+}

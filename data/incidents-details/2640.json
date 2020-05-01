@@ -1,0 +1,74 @@
+{
+  "general:einsatzid": "2640",
+  "general:title": "Überörtliche Hilfe - Grossbrand",
+  "general:date": "2011-01-26T07:55:00+01:00",
+  "general:location": "St. Martin",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "3.0",
+  "general:dateFormatted": "26.01.2011 07:55",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "33",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "1699",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "4",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "TGM 23-12",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-243.JPG",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-243.JPG",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Teleskopgelenkmast",
+      "general:vehicleChassis": "MAN 15.264",
+      "general:vehicleBuild": "<a href=\"http://www.bronto.ch/\" target=\"new\">Bronto Skylift</a>",
+      "general:vehicleMobilization": "11/98"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "50",
+        "general:HiOrgName": "FF Edenkoben",
+        "general:HiOrgLink": "http://www.feuerwehr-edenkoben.de/"
+      },
+      {
+        "general:HiOrgId": "51",
+        "general:HiOrgName": "FF Herxheim",
+        "general:HiOrgLink": "http://www.feuerwehr-herxheim.de/"
+      },
+      {
+        "general:HiOrgId": "92",
+        "general:HiOrgName": "FF Neustadt/Weinstraße",
+        "general:HiOrgLink": "http://www.fwnw.de"
+      },
+      {
+        "general:HiOrgId": "93",
+        "general:HiOrgName": "FF Maikammer",
+        "general:HiOrgLink": "http://www.feuerwehr-maikammer.de/"
+      }
+    ]
+  },
+  "meta:weather": {
+    "date": "2011-01-26",
+    "temperature": -0.7,
+    "temperature_min": -2.3,
+    "temperature_max": 0,
+    "precipitation": 5.3,
+    "snowfall": null,
+    "snowdepth": 40,
+    "winddirection": null,
+    "windspeed": 9.4,
+    "peakgust": 27.7,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

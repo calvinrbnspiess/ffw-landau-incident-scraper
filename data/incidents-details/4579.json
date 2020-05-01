@@ -1,0 +1,82 @@
+{
+  "general:einsatzid": "4579",
+  "general:title": "Führungsunterstützung Meßleitkomponente",
+  "general:date": "2017-02-08T07:53:00+01:00",
+  "general:location": "Überörtliche Hilfe Edenkoben",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "9.0",
+  "general:dateFormatted": "08.02.2017 07:53",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "58",
+  "general:changed_on": "2017-02-09T10:46:30+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "8",
+  "general:EinsatzDescription": "<p>Beim Brandeinsatz in Edenkoben wurde als Unterabschnitt Messen in der Feuerwache Landau die Messtrupps gef&uuml;hrt, Messungen durchgef&uuml;hrt und die Messwerte ausgewertet. Hierzu waren neben den drei Messfahrzeugen aus Landau, Annweiler und Neustadt die beiden ABC-Erkunder aus Ludwigshafen und Speyer im Einsatz. In der Fahrzeughalle wurden mit dem Gaschromatographen-Massenspektrometer (GC-MS) der BF Ludwigshafen Probennahmen der Messtrupps (Luftproben, Wischtest und Wasserproben) ausgemessen.</p>\n<p>Unter Leitung des GSZ-F&uuml;hrer Landau wurde in Zusammenarbeit mit F&uuml;hrungskr&auml;ften der BF Ludwigshafen und dem Gefahrstoff-Fachberater der Feuerwehr Landau die Messtrupps koodiniert und die erhaltenen Messwerte gewichtet und der EInsatzleitung als Lageberichte zur Verf&uuml;gung gestellt.</p>",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "75",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "GW-Mess",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1558.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1558.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Gerätewagen-Messtechnik",
+      "general:vehicleChassis": "Mercedes Sprinter 316 CDI, Automatik",
+      "general:vehicleBuild": "<a href=\"http://www.binz-automotive.com/\" target=\"New\">Binz, Ilmenau</a>",
+      "general:vehicleMobilization": "10/14"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "48",
+        "general:HiOrgName": "FF Annweiler",
+        "general:HiOrgLink": "http://www.feuerwehr-annweiler.de/"
+      },
+      {
+        "general:HiOrgId": "86",
+        "general:HiOrgName": "FF Speyer",
+        "general:HiOrgLink": "http://www.feuerwehr-speyer.de"
+      },
+      {
+        "general:HiOrgId": "92",
+        "general:HiOrgName": "FF Neustadt/Weinstraße",
+        "general:HiOrgLink": "http://www.fwnw.de"
+      },
+      {
+        "general:HiOrgId": "101",
+        "general:HiOrgName": "BF Ludwigshafen",
+        "general:HiOrgLink": "http://www.ludwigshafen.de/buergernah/rathaus/verwaltung/dezernat-2/2-17/"
+      },
+      {
+        "general:HiOrgId": "105",
+        "general:HiOrgName": "Fachberater Chemie"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.283333,
+    "lng": 8.133333
+  },
+  "meta:weather": {
+    "date": "2017-02-08",
+    "temperature": 1,
+    "temperature_min": -1.8,
+    "temperature_max": 3.4,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 16.2,
+    "peakgust": 32.4,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

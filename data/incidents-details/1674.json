@@ -1,0 +1,132 @@
+{
+  "general:einsatzid": "1674",
+  "general:title": "Alarmierung und Einsatz in der TEL-/IuK-Einheit Mitte",
+  "general:date": "2009-01-05T18:27:00+01:00",
+  "general:location": "Bad Bergzabern",
+  "general:categorie": "LNA",
+  "general:length": "6.0",
+  "general:dateFormatted": "05.01.2009 18:27",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "9",
+  "picture:Picture": {
+    "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0901/090105_05.jpg",
+    "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0901/090105_05.jpg",
+    "picture:PictureFormat": "quer",
+    "picture:PictureDescription": "ELW 2 auf dem Parkplatz der Sparkasse im Einsatz",
+    "picture:BufferPreview": "true",
+    "picture:BufferPicture": "false"
+  },
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "9",
+  "general:EinsatzDescription": "  Die Feuerwehr Landau alarmierte die F?hrungsgruppe TEL, die Gruppe Mitte der IuK sowie den ELW2 zum Einsatz der Feuerwehr Bad Bergzabern beim Vollbrand eines mehrgeschossigen Geb?udes in der verwinkelten Altstadt. F?hrungskr?fte und Mitglieder der IuK aus Landau wirkten in der TEL und im Betrieb des ELW2 mit.<br><br>Bericht aus der Tageszeitung <a href=\"http://www.rheinpfalz.de\" target=\"new\">Die Rheinpfalz</a>:<br><br>Bad Bergzabern: Hoher Schaden bei Schwelbrand<br><br>\r\n\r\nAus bisher ungekl?rter Ursache brach gestern Nachmittag in einem dreist?ckigen Geb?ude in der Pfarrgasse ein Schwelbrand aus. In dem Geb?ude befindet sich im Erdgeschoss eine zurzeit geschlossene Gastst?tte, dar?ber sind mehrere Wohnungen. Die massive Rauchentwicklung und die gro?e Hitze machten es der Feuerwehr unm?glich, in das Geb?ude zu gelangen. Gegen 18.30 Uhr flammte das Feuer nochmals auf, sodass aus den umliegenden Orten zus?tzliche Kr?fte nach Bad Bergzabern gerufen werden mussten. Auch aus Kandel und Landau r?ckten Feuerwehren an, weil zus?tzliche Drehleitern ben?tigt wurden. Nach Sch?tzung der Polizei waren mehr als 100 Feuerwehrleute im Einsatz. Auch gestern Abend konnte die ehemalige Gastst?tte noch nicht betreten werden. Die Feuerwehr versuchte ?ber die Drehleitern, den Brand zu l?schen. Zwei Bewohner aus Nachbargeb?uden mussten mit leichten Rauchverletzungen in das Krankenhaus in Bad Bergzabern gebracht werden. F?r acht Personen musste laut Polizei eine neue Bleibe gesucht werden, weil sie ihre Wohnungen nicht mehr betreten konnten. Zwischenzeitlich bestand die Gefahr, dass der Brand auf die Nachbargeb?ude ?bergreifen k?nnte. Der Schaden wird vorl?ufig auf 250.000 Euro gesch?tzt. Die Staatsanwaltschaft Landau wird einen Brandsachverst?ndigen beauftragen und hat die Ermittlungen ?bernommen. (jpa)<br><br>Weiterer Bericht auf der <a href=\"http://www.ffw-bad-bergzabern.de/\" target=\"new\">Seite</a> der Feuerwehr Bad Bergzabern      ",
+  "general:visits": "1888",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "54",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "MTF 1 - alt",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1505.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1505.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+      "general:vehicleChassis": "VW T5",
+      "general:vehicleBuild": "<a href=\"http://www.auto-zotz.de\" target=\"new\">Auto Zotz</a>; Weschenfelder",
+      "general:vehicleMobilization": "02/08"
+    }
+  },
+  "picture:Pictures": {
+    "picture:Picture": {
+      "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/0901/090105_05.jpg",
+      "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/0901/090105_05.jpg",
+      "picture:PictureFormat": "quer",
+      "picture:PictureDescription": "ELW 2 auf dem Parkplatz der Sparkasse im Einsatz",
+      "picture:BufferPreview": "true",
+      "picture:BufferPicture": "false"
+    }
+  },
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "31",
+        "general:HiOrgName": "Rettungsdienst",
+        "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "51",
+        "general:HiOrgName": "FF Herxheim",
+        "general:HiOrgLink": "http://www.feuerwehr-herxheim.de/"
+      },
+      {
+        "general:HiOrgId": "52",
+        "general:HiOrgName": "FF Offenbach/Queich",
+        "general:HiOrgLink": "http://www.feuerwehroffenbach.de/"
+      },
+      {
+        "general:HiOrgId": "54",
+        "general:HiOrgName": "FüGr-TEL",
+        "general:HiOrgLink": "http://www.suedwein12.de/index.php?option=com_content&view=article&id=38&Itemid=6"
+      },
+      {
+        "general:HiOrgId": "58",
+        "general:HiOrgName": "FF Bad Bergzabern",
+        "general:HiOrgLink": "http://www.ffw-bad-bergzabern.de/"
+      },
+      {
+        "general:HiOrgId": "59",
+        "general:HiOrgName": "FF Oberotterbach",
+        "general:HiOrgLink": "http://ffw-oberotterbach.de/"
+      },
+      {
+        "general:HiOrgId": "60",
+        "general:HiOrgName": "FF Böllenborn"
+      },
+      {
+        "general:HiOrgId": "61",
+        "general:HiOrgName": "FF Birkenhördt"
+      },
+      {
+        "general:HiOrgId": "62",
+        "general:HiOrgName": "FF Schweigen-Rechtenbach"
+      },
+      {
+        "general:HiOrgId": "90",
+        "general:HiOrgName": "FF Kandel",
+        "general:HiOrgLink": "http://www.feuerwehr-kandel.de/"
+      },
+      {
+        "general:HiOrgId": "91",
+        "general:HiOrgName": "IuK-Gruppe",
+        "general:HiOrgLink": "http://www.suedwein12.de/index.php?option=com_content&view=article&id=36&Itemid=7"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.1003724,
+    "lng": 7.999876700000001
+  },
+  "meta:weather": {
+    "date": "2009-01-05",
+    "temperature": -4.9,
+    "temperature_min": -6.6,
+    "temperature_max": -3.7,
+    "precipitation": 3.6,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 19.8,
+    "peakgust": 51.5,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

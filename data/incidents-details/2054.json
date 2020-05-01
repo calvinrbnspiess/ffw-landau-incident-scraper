@@ -1,0 +1,43 @@
+{
+  "general:einsatzid": "2054",
+  "general:title": "Alarmierung THW",
+  "general:date": "2009-09-16T22:19:00+02:00",
+  "general:location": "Offenbach",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "16.09.2009 22:19",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "289",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": " Alarmierung des THW OV Landau zu einer Eigentumssicherung",
+  "general:visits": "1420",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "47",
+      "general:HiOrgName": "THW OV Landau",
+      "general:HiOrgLink": "http://www.thw-landau.de"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.2,
+    "lng": 8.2
+  },
+  "meta:weather": {
+    "date": "2009-09-16",
+    "temperature": 13.7,
+    "temperature_min": 11.7,
+    "temperature_max": 17.7,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 28.8,
+    "peakgust": 59.8,
+    "sunshine": 24,
+    "pressure": null
+  }
+}

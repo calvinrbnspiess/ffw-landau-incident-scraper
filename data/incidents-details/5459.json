@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "5459",
+  "general:title": "Unwetter",
+  "general:date": "2018-07-21T16:04:00+02:00",
+  "general:location": "Am Gutleuthaus",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.0",
+  "general:dateFormatted": "21.07.2018 16:04",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "505",
+  "general:changed_on": "2018-07-25T19:27:25+02:00",
+  "general:AmountPA": "",
+  "general:AmountPeople": "",
+  "general:EinsatzDescription": "Wasser im Keller",
+  "general:visits": "0",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2083826,
+    "lng": 8.1112329
+  },
+  "meta:weather": {
+    "date": "2018-07-21",
+    "temperature": 17.5,
+    "temperature_min": 14.2,
+    "temperature_max": 22.2,
+    "precipitation": 6.1,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": 242,
+    "windspeed": 18,
+    "peakgust": 58,
+    "sunshine": 7,
+    "pressure": 1011.6
+  }
+}

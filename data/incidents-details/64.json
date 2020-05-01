@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "64",
+  "general:title": "Brand von Unrat",
+  "general:date": "2004-03-20T03:16:00+01:00",
+  "general:location": "Westbahnstraße 16",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "0.5",
+  "general:dateFormatted": "20.03.2004 03:16",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "55",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "11",
+  "general:EinsatzDescription": "",
+  "general:visits": "481",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1959038,
+    "lng": 8.110109399999999
+  },
+  "meta:weather": {
+    "date": "2004-03-20",
+    "temperature": 8.9,
+    "temperature_min": 6.7,
+    "temperature_max": 10.8,
+    "precipitation": 3.2,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 58.3,
+    "peakgust": 114.5,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

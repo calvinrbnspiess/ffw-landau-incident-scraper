@@ -1,0 +1,51 @@
+{
+  "general:einsatzid": "2892",
+  "general:title": "Unwetterschaden",
+  "general:date": "2011-12-09T10:58:00+01:00",
+  "general:location": "K13",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "2.0",
+  "general:dateFormatted": "09.12.2011 10:58",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "283",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "5",
+  "general:EinsatzDescription": "",
+  "general:visits": "414",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "55",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "TSF-W Dammheim (heute: TSF-W Nußdorf)",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1504.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1504.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Tragkraftspritzenfahrzeug-Wasser",
+      "general:vehicleChassis": "IVECO Daily 65C18D",
+      "general:vehicleBuild": "Iveco Magirus Brandschutztechnik, jetzt: <a href=\"http://www.btg-goerlitz.biz/\" target=\"new\">Brandschutztechnik Görlitz</a>",
+      "general:vehicleMobilization": "06/08"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:weather": {
+    "date": "2011-12-09",
+    "temperature": 3.5,
+    "temperature_min": 0.5,
+    "temperature_max": 7.7,
+    "precipitation": 5,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 49.7,
+    "peakgust": 122,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

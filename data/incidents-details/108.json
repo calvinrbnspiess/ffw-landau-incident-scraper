@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "108",
+  "general:title": "Auslaufende Betriebsmittel nach VU",
+  "general:date": "2004-05-24T19:05:00+02:00",
+  "general:location": "Annweilerstraße nach Kreisverwaltung S?W",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "24.05.2004 19:05",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "95",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "3",
+  "general:EinsatzDescription": "",
+  "general:visits": "526",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "0",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "KdoW2",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-308.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-308.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kommandowagen",
+      "general:vehicleChassis": "VW Passat",
+      "general:vehicleBuild": "Eigen",
+      "general:vehicleMobilization": "09/88"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1974683,
+    "lng": 8.091363099999999
+  },
+  "meta:weather": {
+    "date": "2004-05-24",
+    "temperature": 10.4,
+    "temperature_min": 5.6,
+    "temperature_max": 17.7,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 9.7,
+    "peakgust": 32.8,
+    "sunshine": 744,
+    "pressure": null
+  }
+}

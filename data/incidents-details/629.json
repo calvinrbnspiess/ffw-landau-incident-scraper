@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "629",
+  "general:title": "Verständigung Baubetriebshof",
+  "general:date": "2006-03-15T13:50:00+01:00",
+  "general:location": "August-Croissant-Straße / Neustadter Straße",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "15.03.2006 13:50",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "71",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "378",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.206506,
+    "lng": 8.115914799999999
+  },
+  "meta:weather": {
+    "date": "2006-03-15",
+    "temperature": -2.3,
+    "temperature_min": -4.8,
+    "temperature_max": -0.3,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 19.4,
+    "peakgust": 41.8,
+    "sunshine": 144,
+    "pressure": null
+  }
+}

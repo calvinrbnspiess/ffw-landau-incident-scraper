@@ -1,0 +1,50 @@
+{
+  "general:einsatzid": "2024",
+  "general:title": "Alarmierung THW",
+  "general:date": "2009-08-06T00:23:00+02:00",
+  "general:location": "Speyerer Straße",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "06.08.2009 00:23",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "259",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "432",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "47",
+        "general:HiOrgName": "THW OV Landau",
+        "general:HiOrgLink": "http://www.thw-landau.de"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.21990479999999,
+    "lng": 8.1439032
+  },
+  "meta:weather": {
+    "date": "2009-08-05",
+    "temperature": 19.8,
+    "temperature_min": 15.3,
+    "temperature_max": 24.8,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 14,
+    "peakgust": 32.4,
+    "sunshine": 846,
+    "pressure": null
+  }
+}

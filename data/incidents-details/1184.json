@@ -1,0 +1,43 @@
+{
+  "general:einsatzid": "1184",
+  "general:title": "Alarmierung THW",
+  "general:date": "2007-08-12T03:50:00+02:00",
+  "general:location": "Königstraße",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "12.08.2007 03:50",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "267",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "763",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "47",
+      "general:HiOrgName": "THW OV Landau",
+      "general:HiOrgLink": "http://www.thw-landau.de"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1976123,
+    "lng": 8.1154257
+  },
+  "meta:weather": {
+    "date": "2007-08-12",
+    "temperature": 17.9,
+    "temperature_min": 14.2,
+    "temperature_max": 22.8,
+    "precipitation": 2,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 8.3,
+    "peakgust": 60.8,
+    "sunshine": 288,
+    "pressure": null
+  }
+}

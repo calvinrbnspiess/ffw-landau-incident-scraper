@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "725",
+  "general:title": "Unwetterschaden",
+  "general:date": "2006-06-19T18:54:00+02:00",
+  "general:location": "Wieslauterstrasse",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.0",
+  "general:dateFormatted": "19.06.2006 18:54",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "160",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "Baum auf zwei PKW zers?gt und entfernt. ",
+  "general:visits": "792",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "51",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "RW (heute: RW 2)",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-209.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-209.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Rüstwagen",
+      "general:vehicleChassis": "MB 1425 4x4",
+      "general:vehicleBuild": "<a href=\"http://www.weschenfelder.com\" target=\"new\">Weschenfelder</a>",
+      "general:vehicleMobilization": "07/05"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2019201,
+    "lng": 8.1210528
+  },
+  "meta:weather": {
+    "date": "2006-06-19",
+    "temperature": 19.5,
+    "temperature_min": 15.1,
+    "temperature_max": 26.4,
+    "precipitation": 10,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 26.3,
+    "peakgust": 97.6,
+    "sunshine": 378,
+    "pressure": null
+  }
+}

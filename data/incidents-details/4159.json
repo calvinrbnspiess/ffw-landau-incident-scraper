@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "4159",
+  "general:title": "Ölspur",
+  "general:date": "2016-01-15T12:20:00+01:00",
+  "general:location": "Lindenbergstraße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "0.5",
+  "general:dateFormatted": "15.01.2016 12:20",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "7",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "",
+  "general:visits": "16",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2225086,
+    "lng": 8.105749
+  },
+  "meta:weather": {
+    "date": "2016-01-15",
+    "temperature": -1.4,
+    "temperature_min": -1.8,
+    "temperature_max": -0.4,
+    "precipitation": 2,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 42.5,
+    "peakgust": 90,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general:einsatzid": "4026",
+  "general:title": "Amtshilfe für Polizei",
+  "general:date": "2015-08-02T19:15:00+02:00",
+  "general:location": "Horstschanze",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "3.0",
+  "general:dateFormatted": "02.08.2015 19:15",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "182",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "Gemeinsame Presseerklärung \r\ndes Polizeipräsidiums Rheinpfalz und\r\nder Staatsanwaltschaft Landau und\r\nder Stadt Landau\r\n<br><br><b>\r\n(Landau)  \tEvakuierung zweier Mehrfamilienhäuser \r\nnach Leichenfund</b>\r\n<br><br>\r\nHeute Nachmittag, 02.08.2015, gegen 13.30 Uhr, wurden Polizei und DRK über den Fund einer leblosen Person informiert. Der 32-jährige Mann war von seinen Eltern in seiner Wohnung aufgefunden worden. Nachdem der Mann eine Verabredung nicht eingehalten hatte, seine Eltern ihn nicht erreichen konnten, hatten diese seine Wohnung aufgesucht.<br>\r\nAls die Rettungssanitäter des DRK in der Wohnung eintrafen, gab deren Kohlenmonoxid Warngerät ein Warnsignal.\r\n(Alle Teams des DRK sind standardmäßig mit diesen Warngeräten ausgestattet.)<br>\r\nDie Sanitäter brachten daraufhin unverzüglich die anwesendenPersonen aus der Wohnung in Sicherheit und alarmierten die Feuerwehr Landau. \r\nDurch die Feuerwehr wurde der leblose Bewohner aus seiner Wohnung transportiert. Der Notarzt stellte den Tod fest.\r\n<br><br>\r\nDie Wohnung des 35-Jährigen befindet sich in einem Mehrfamilienhaus mit insgesamt 15 Wohnungen. Dieses Anwesen ist durch den Keller mit einem weiteren Mehrfamilienhaus mit weiteren 10 Wohnungen verbunden. Insgesamt leben hier 29 Personen.\r\nDie Messungen der Feuerwehr ergaben in zwei Räumen der Wohnung des Toten erhöhte Kohlenmonoxid-Werte. Alle anderen Messungen verliefen negativ. Weder in anderen Räumen der Wohnung noch in anderen Bereichen beider Mehrfamilienhäuser konnte Kohlenmonoxid festgestellt werden. \r\nDie Ursache der erhöhten Werte in den beiden Räumen der Wohnung des Mannes, sowie die Todesursache sind derzeit ungeklärt.\r\n<br><br>\r\nUm eine Gefährdung der Bewohner auszuschließen, entschlossen sich die Polizei Landau und die Feuerwehr Landau gemeinsam, die beiden Anwesen zu evakuieren.\r\nAlle 29 Bewohner mussten ihre Wohnungen verlassen.\r\nDie meisten können die Nacht bei Verwandten oder Freunden verbringen. Fünf Personen mussten von der Stadt Landau untergebracht werden, für sie wurden in einer Pension Zimmer angemietet.\r\n<br><br>\r\nDer Leichnam wurde von der Polizei sichergestellt. Die Staatsanwaltschaft Landau beabsichtigt eine Obduktion zur Klärung der Todesursache durchführen zu lassen.\r\n<br><br>\r\nDie Feuerwehr Landau war mit drei Fahrzeugen und 14 Mann im Einsatz.\r\nDer Rettungsdienst hatte drei Rettungswagen, einen Notarztwagen und ein Führungsfahrzeug mit dem organisatorischen Leiter und dem Leitenden Notarzt eingesetzt.\r\n ",
+  "general:visits": "237",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "45",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "KdoW",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-299.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-299.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kommandowagen",
+        "general:vehicleChassis": "VW Passat",
+        "general:vehicleBuild": "VW",
+        "general:vehicleMobilization": "03/05"
+      },
+      {
+        "general:vehicleid": "65",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "MTF 1",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1513.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1513.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Mannschaftstransportfahrzeug",
+        "general:vehicleChassis": "Ford Transit",
+        "general:vehicleBuild": "<a href=\"http://www.compoint-fahrzeugbau.de\" target=\"new\">Compoint</a>",
+        "general:vehicleMobilization": "06/11"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "36",
+        "general:HiOrgName": "SEG-B",
+        "general:HiOrgLink": "http://kv-landau.drk.de/"
+      },
+      {
+        "general:HiOrgId": "32",
+        "general:HiOrgName": "LNA",
+        "general:HiOrgLink": "https://www.suedliche-weinstrasse.de/de/landkreis/brandschutz/notarzt_orgaleiter.php"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "94",
+        "general:HiOrgName": "Ordnungsabteilung",
+        "general:HiOrgLink": "http://www.landau.de/index.phtml?object=tx|1815.345.1&ModID=9&FID=343.49.1&sNavID=1815.54&mNavID=1815.3&La=1&TypSel=1.100"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.2056799,
+    "lng": 8.125802
+  },
+  "meta:weather": {
+    "date": "2015-08-02",
+    "temperature": 20.9,
+    "temperature_min": 14.2,
+    "temperature_max": 27.7,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 13.7,
+    "peakgust": 29.5,
+    "sunshine": 832,
+    "pressure": null
+  }
+}

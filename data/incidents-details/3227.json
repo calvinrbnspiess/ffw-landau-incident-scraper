@@ -1,0 +1,68 @@
+{
+  "general:einsatzid": "3227",
+  "general:title": "Kurzschluss in der Oberleitung",
+  "general:date": "2013-01-27T19:04:00+01:00",
+  "general:location": "Martin-Luther-Straße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.0",
+  "general:dateFormatted": "27.01.2013 19:04",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "28",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "6",
+  "general:EinsatzDescription": "",
+  "general:visits": "1003",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "51",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "RW 2",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-209.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-209.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Rüstwagen",
+      "general:vehicleChassis": "MB 1425 4x4",
+      "general:vehicleBuild": "<a href=\"http://www.weschenfelder.com\" target=\"new\">Weschenfelder</a>",
+      "general:vehicleMobilization": "07/05"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "43",
+        "general:HiOrgName": "Energie Südwest AG",
+        "general:HiOrgLink": "http://www.energie-suedwest.de/"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.195989,
+    "lng": 8.116804199999999
+  },
+  "meta:weather": {
+    "date": "2013-01-27",
+    "temperature": -1.2,
+    "temperature_min": -3.2,
+    "temperature_max": 0.5,
+    "precipitation": 1.1,
+    "snowfall": null,
+    "snowdepth": 70,
+    "winddirection": null,
+    "windspeed": 16.9,
+    "peakgust": 70.9,
+    "sunshine": 18,
+    "pressure": null
+  }
+}

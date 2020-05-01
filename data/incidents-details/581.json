@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "581",
+  "general:title": "Alarmierung THW",
+  "general:date": "2006-01-28T02:37:00+01:00",
+  "general:location": "Ostbahnstraße",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "28.01.2006 02:37",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "25",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "437",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.197701,
+    "lng": 8.1197948
+  },
+  "meta:weather": {
+    "date": "2006-01-28",
+    "temperature": -4,
+    "temperature_min": -8,
+    "temperature_max": 0,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": 50,
+    "winddirection": null,
+    "windspeed": 26.3,
+    "peakgust": 44.3,
+    "sunshine": 468,
+    "pressure": null
+  }
+}

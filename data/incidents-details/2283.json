@@ -1,0 +1,43 @@
+{
+  "general:einsatzid": "2283",
+  "general:title": "Alarmierung THW",
+  "general:date": "2010-03-15T22:57:00+01:00",
+  "general:location": "Max-Planck-Straße",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "15.03.2010 22:57",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "137",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "367",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "47",
+      "general:HiOrgName": "THW OV Landau",
+      "general:HiOrgLink": "http://www.thw-landau.de"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.19048799999999,
+    "lng": 8.1386708
+  },
+  "meta:weather": {
+    "date": "2010-03-15",
+    "temperature": 3.5,
+    "temperature_min": 0.9,
+    "temperature_max": 8.2,
+    "precipitation": 2,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 35.6,
+    "peakgust": 72.4,
+    "sunshine": 120,
+    "pressure": null
+  }
+}

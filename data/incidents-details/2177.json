@@ -1,0 +1,50 @@
+{
+  "general:einsatzid": "2177",
+  "general:title": "Alarmierung THW",
+  "general:date": "2010-02-23T04:06:00+01:00",
+  "general:location": "Wollmesheimer Hauptstrasse",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "23.02.2010 04:06",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "32",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "447",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "47",
+        "general:HiOrgName": "THW OV Landau",
+        "general:HiOrgLink": "http://www.thw-landau.de"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.1799382,
+    "lng": 8.077109
+  },
+  "meta:weather": {
+    "date": "2010-02-23",
+    "temperature": 5.8,
+    "temperature_min": 4.9,
+    "temperature_max": 6.8,
+    "precipitation": 3.9,
+    "snowfall": null,
+    "snowdepth": 20,
+    "winddirection": null,
+    "windspeed": 32.8,
+    "peakgust": 60.8,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

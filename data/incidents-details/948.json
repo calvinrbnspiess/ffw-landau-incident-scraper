@@ -1,0 +1,33 @@
+{
+  "general:einsatzid": "948",
+  "general:title": "Verständigung Leitstelle",
+  "general:date": "2007-01-18T19:42:00+01:00",
+  "general:location": "",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "18.01.2007 19:42",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "45",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "666",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:weather": {
+    "date": "2007-01-18",
+    "temperature": 8.8,
+    "temperature_min": 7.5,
+    "temperature_max": 10.8,
+    "precipitation": 12,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 79.2,
+    "peakgust": 163.4,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "6020",
+  "general:title": "Flächenbrand klein",
+  "general:date": "2019-07-12T07:29:00+02:00",
+  "general:location": "Weißenburger Straße",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "1.0",
+  "general:dateFormatted": "12.07.2019 07:29",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "251",
+  "general:changed_on": "2019-07-12T08:17:46+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "79",
+      "general:vehicleVersion": "2",
+      "general:vehicleName": "TLF 3000",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1231.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1231.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Tanklöschfahrzeug 3000",
+      "general:vehicleChassis": "Mercedes Atego 1527 AF 4x4, Teligent-Schaltung",
+      "general:vehicleBuild": "<a href=\"https://www.magirusgroup.com/de/de/home/\">Magirus</a>, Ulm",
+      "general:vehicleMobilization": "07/18"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1873759,
+    "lng": 8.113896
+  },
+  "meta:weather": {
+    "date": "2019-07-12",
+    "temperature": 14.9,
+    "temperature_min": 12,
+    "temperature_max": 20.3,
+    "precipitation": 26.2,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": 222,
+    "windspeed": 21.2,
+    "peakgust": 57,
+    "sunshine": 65,
+    "pressure": 1012.6
+  }
+}

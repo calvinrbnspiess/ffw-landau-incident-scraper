@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "2642",
+  "general:title": "Ölspur",
+  "general:date": "2011-01-26T17:08:00+01:00",
+  "general:location": "Hindenburgstraße",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "1.0",
+  "general:dateFormatted": "26.01.2011 17:08",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "35",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "",
+  "general:visits": "338",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "1",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "ELW 1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-207.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-207.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Einsatzleitwagen",
+      "general:vehicleChassis": "VW LT",
+      "general:vehicleBuild": "<a href=\"http://www.hensel-fahrzeugbau.de\" target=\"new\">Hensel</a>",
+      "general:vehicleMobilization": "12/04"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "27",
+      "general:HiOrgName": "Fachfirma Straßenreinigung",
+      "general:HiOrgLink": "http://www.brechtel-fahrbahnreinigung.de"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.2038683,
+    "lng": 8.110809399999999
+  },
+  "meta:weather": {
+    "date": "2011-01-26",
+    "temperature": -0.7,
+    "temperature_min": -2.3,
+    "temperature_max": 0,
+    "precipitation": 5.3,
+    "snowfall": null,
+    "snowdepth": 40,
+    "winddirection": null,
+    "windspeed": 9.4,
+    "peakgust": 27.7,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

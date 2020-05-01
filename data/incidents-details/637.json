@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "637",
+  "general:title": "LNA- und OrgLeiter-Transport",
+  "general:date": "2006-03-24T10:15:00+01:00",
+  "general:location": "B 10 Höhe Siebeldingen",
+  "general:categorie": "LNA",
+  "general:length": "2.0",
+  "general:dateFormatted": "24.03.2006 10:15",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "79",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "",
+  "general:visits": "512",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.2057529,
+    "lng": 8.0508357
+  },
+  "meta:weather": {
+    "date": "2006-03-24",
+    "temperature": 2.6,
+    "temperature_min": -1.5,
+    "temperature_max": 8.5,
+    "precipitation": 3.6,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 25.6,
+    "peakgust": 52.2,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

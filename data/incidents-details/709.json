@@ -1,0 +1,132 @@
+{
+  "general:einsatzid": "709",
+  "general:title": "Amtshilfe - Personensuche",
+  "general:date": "2006-05-25T10:01:00+02:00",
+  "general:location": "Bad Bergzabern",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "5.0",
+  "general:dateFormatted": "25.05.2006 10:01",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "145",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "Zur Personensuche hat die Freiwillige Feuerwehr Bad Bergzabern F?hrungsunterst?tzung durch den ELW 2 des Landkreises S?dliche Weinstra?e und der Stadt Landau angefordert. Die Gruppenf?hrer der F?hrungsgruppe Technische Einsatzleitung (F?Gr-TEL) sowie Information und Kommunikation (IuK) waren zur Unterst?tzung der Kameraden aus Bad Bergzabern vor Ort. <br> Die Person wurde durch die Rettungshundestaffel der Feuerwehren des Landkreises S?W gefunden und zur Beobachtung ins Klinikum Landau-S?dliche Weinstra?e in Bad Bergzabern verbracht. <br> Im Einsatz waren 100 Kr?fte aller Hilfsorganisationen. ",
+  "general:visits": "1405",
+  "general:vehicles": {
+    "general:vehicle": [
+      {
+        "general:vehicleid": "53",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "KdoW 2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1501.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1501.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Kommandowagen - Fahrzeug für den feuerwehrtechnischen Bediensteten",
+        "general:vehicleChassis": "Fiat Grande Punto",
+        "general:vehicleBuild": "Michael Schmidt mobile Kommunikation GmbH",
+        "general:vehicleMobilization": "12/07"
+      },
+      {
+        "general:vehicleid": "52",
+        "general:vehicleVersion": "0",
+        "general:vehicleName": "ELW 2",
+        "picture:Picture": {
+          "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/SUEW-2000.jpg",
+          "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/SUEW-2000.jpg",
+          "picture:PictureFormat": "quer",
+          "picture:PictureDescription": "",
+          "picture:BufferPreview": "true",
+          "picture:BufferPicture": "true"
+        },
+        "general:vehicleDescription": "Einsatzleitwagen 2",
+        "general:vehicleChassis": "MB 1223",
+        "general:vehicleBuild": "<a href=\"http://www.hensel-fahrzeugbau.de\" target=\"new\">Hensel</a>",
+        "general:vehicleMobilization": "2006"
+      }
+    ]
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "31",
+        "general:HiOrgName": "Rettungsdienst",
+        "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      },
+      {
+        "general:HiOrgId": "54",
+        "general:HiOrgName": "FüGr-TEL",
+        "general:HiOrgLink": "http://www.suedwein12.de/index.php?option=com_content&view=article&id=38&Itemid=6"
+      },
+      {
+        "general:HiOrgId": "58",
+        "general:HiOrgName": "FF Bad Bergzabern",
+        "general:HiOrgLink": "http://www.ffw-bad-bergzabern.de/"
+      },
+      {
+        "general:HiOrgId": "63",
+        "general:HiOrgName": "Rettungshundestaffel VII (FF SÜW)",
+        "general:HiOrgLink": "http://www.rettungshunde-facheinheit-rhot-7.org"
+      },
+      {
+        "general:HiOrgId": "64",
+        "general:HiOrgName": "Rettungshundestaffel IV (FF FT)",
+        "general:HiOrgLink": "http://www.rettungshundestaffel4.de/"
+      },
+      {
+        "general:HiOrgId": "65",
+        "general:HiOrgName": "Rettungshundestaffel VI (FF ZW)",
+        "general:HiOrgLink": "http://www.rettungshunde-zw.de/"
+      },
+      {
+        "general:HiOrgId": "66",
+        "general:HiOrgName": "Rettungshundestaffel MHD MZ",
+        "general:HiOrgLink": "http://www.malteser-mainz.de/"
+      },
+      {
+        "general:HiOrgId": "67",
+        "general:HiOrgName": "Rettungshundestaffel DRK Alzey",
+        "general:HiOrgLink": "http://www.rettungshundestaffel-alzey.com/"
+      },
+      {
+        "general:HiOrgId": "68",
+        "general:HiOrgName": "Rettungshundestaffel DRK DÜW",
+        "general:HiOrgLink": "http://www.kv-duew.drk.de/"
+      },
+      {
+        "general:HiOrgId": "69",
+        "general:HiOrgName": "Polizeihubschrauber",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/ueber-uns/die-organisation/polizeihubschrauber/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.1003724,
+    "lng": 7.999876700000001
+  },
+  "meta:weather": {
+    "date": "2006-05-25",
+    "temperature": 9,
+    "temperature_min": 7.7,
+    "temperature_max": 10.4,
+    "precipitation": 3.2,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 40.3,
+    "peakgust": 90,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

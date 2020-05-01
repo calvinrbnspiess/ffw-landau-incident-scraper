@@ -1,0 +1,68 @@
+{
+  "general:einsatzid": "5108",
+  "general:title": "Tür öffnen dringend",
+  "general:date": "2018-04-25T10:23:00+02:00",
+  "general:location": "Impflinger Straße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "1.5",
+  "general:dateFormatted": "25.04.2018 10:23",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "157",
+  "general:changed_on": "2018-04-25T17:15:11+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "10",
+  "general:EinsatzDescription": "<p><strong><span style=\"font-family: Calibri; font-size: medium;\">Landau. Am heutigen Morgen wurde die Freiwillige Feuerwehr Landau innerhalb kurzer Zeit zu zwei Eins&auml;tzen mit Menschenrettung alarmiert. Zun&auml;chst war um 10:23 Uhr im Ortsteil M&ouml;rzheim die &Ouml;ffnung einer T&uuml;r f&uuml;r den Rettungsdienst notwendig. W&auml;hrend das Hilfeleistungsl&ouml;schfahrzeug noch auf der R&uuml;ckfahrt dieses Einsatzes war, mussten die Einsatzkr&auml;fte zu einem Verkehrsunfall in den Ortsteil M&ouml;rlheim ausr&uuml;cken. </span></strong></p>\n<p><span style=\"font-family: Calibri; font-size: medium;\">&bdquo;Unter einer Notfallt&uuml;r&ouml;ffnung versteht man das gewaltsame Eindringen in eine verschlossene Wohnung auf Grund einer Notfallsituation&ldquo;, erkl&auml;rt Stadtfeuerwehrinspekteur Dirk Hargesheimer. Am heutigen Morgen vermuteten die Angeh&ouml;rigen einer &auml;lteren Person einen Notfall in der Wohnung des Betroffenen, so dass die Polizei, der Rettungsdienst und die Freiwillige Feuerwehr Landau alarmiert wurden. &bdquo;Nach dem gewaltsamen &Ouml;ffnen der Wohnungst&uuml;r, wurde die Person tats&auml;chlich in hilfloser Lage vorgefunden. Diese musste vom Rettungsdienst versorgt und in ein Krankenhaus eingeliefert werden&ldquo;, so Stadtfeuerwehrinspekteur Dirk Hargesheimer weiter. Die Freiwillige Feuerwehr Landau war bei diesem Einsatz mit zehn Personen im Einsatz. </span></p>\n<p><span style=\"font-family: Calibri; font-size: medium;\">W&auml;hrend der R&uuml;ckfahrt des Hilfeleistungsl&ouml;schfahrzeuges wurde die Freiwillige Feuerwehr Landau schlie&szlig;lich zusammen mit dem Rettungsdienst und der Polizei zu einem Verkehrsunfall am Kreisel Landau Zentrum in Fahrtrichtung Ludwigshafen alarmiert. Sowohl das Hilfeleistungsl&ouml;schfahrzeug als auch weitere Einsatzkr&auml;fte von der Freiwilligen Feuerwehr Landau fuhren sofort die neue Einsatzstelle an. Eine Autofahrerin war aus ungekl&auml;rten Gr&uuml;nden mit ihrem Smart innerhalb des Kreisels von der Fahrbahn abgekommen und auf der danebenliegenden Stra&szlig;e mit einem entgegenkommenden LKW zusammengesto&szlig;en. &bdquo;Helfer des THW Landau, die sich gerade auf dem Weg zu einer Eigentumssicherung befanden, leisteten beim Eintreffen der Rettungskr&auml;fte bereits erste Hilfe&ldquo;, sagt der stellvertretende Stadtfeuerwehrinspekteur Michael Bumb. Gemeinsam konnte die verletzte Person aus dem Unfallfahrzeug befreit und anschlie&szlig;end in Zusammenarbeit mit dem Rettungsdienst versorgt werden. Ein Rettungshubschrauber brachte die Person anschlie&szlig;end in ein Krankenhaus. Zu diesem Einsatz waren insgesamt 17 Personen der Freiwilligen Feuerwehr Landau ausger&uuml;ckt. (bhi)</span></p>\n<p><span style=\"font-family: Calibri; font-size: medium;\">&nbsp;</span></p>",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "60",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "HLF 20/16-1",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD2016.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD2016.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Hilfeleistungs-Löschgruppenfahrzeug",
+      "general:vehicleChassis": "IVECO FF 160 E 30",
+      "general:vehicleBuild": "<a href=\"http://www.ivecomagirus.net\" target=\"_new\">Iveco Magirus</a>",
+      "general:vehicleMobilization": "03/09"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "31",
+        "general:HiOrgName": "Rettungsdienst",
+        "general:HiOrgLink": "http://rd-suedpfalz.drk.de/"
+      },
+      {
+        "general:HiOrgId": "28",
+        "general:HiOrgName": "Schutzpolizei",
+        "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.1659799,
+    "lng": 8.0818183
+  },
+  "meta:weather": {
+    "date": "2018-04-25",
+    "temperature": 12.5,
+    "temperature_min": 7.3,
+    "temperature_max": 18,
+    "precipitation": 2.8,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 256,
+    "windspeed": 37.4,
+    "peakgust": 89,
+    "sunshine": 542,
+    "pressure": 1012.9
+  }
+}

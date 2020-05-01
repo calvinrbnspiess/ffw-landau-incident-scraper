@@ -1,0 +1,55 @@
+{
+  "general:einsatzid": "5565",
+  "general:title": "Baum auf Straße",
+  "general:date": "2018-08-09T14:44:00+02:00",
+  "general:location": "Speyerer Straße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "09.08.2018 14:44",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "611",
+  "general:changed_on": "2018-08-09T16:15:30+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "75",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "GW-Mess",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1558.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1558.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Gerätewagen-Messtechnik",
+      "general:vehicleChassis": "Mercedes Sprinter 316 CDI, Automatik",
+      "general:vehicleBuild": "<a href=\"http://www.binz-automotive.com/\" target=\"New\">Binz, Ilmenau</a>",
+      "general:vehicleMobilization": "10/14"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.21990479999999,
+    "lng": 8.1439032
+  },
+  "meta:weather": {
+    "date": "2018-08-09",
+    "temperature": 21.2,
+    "temperature_min": 14.5,
+    "temperature_max": 31.8,
+    "precipitation": 1.9,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": 161,
+    "windspeed": 31.5,
+    "peakgust": 111,
+    "sunshine": 420,
+    "pressure": 1012.8
+  }
+}

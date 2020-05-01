@@ -1,0 +1,43 @@
+{
+  "general:einsatzid": "2059",
+  "general:title": "Alarmierung THW",
+  "general:date": "2009-10-03T18:55:00+02:00",
+  "general:location": "Annweilerstraße",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "03.10.2009 18:55",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "294",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "571",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "47",
+      "general:HiOrgName": "THW OV Landau",
+      "general:HiOrgLink": "http://www.thw-landau.de"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.1953036,
+    "lng": 8.097370399999999
+  },
+  "meta:weather": {
+    "date": "2009-10-03",
+    "temperature": 10.7,
+    "temperature_min": 6.6,
+    "temperature_max": 15.1,
+    "precipitation": 0,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 30.6,
+    "peakgust": 72.7,
+    "sunshine": 444,
+    "pressure": null
+  }
+}

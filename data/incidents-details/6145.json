@@ -1,0 +1,72 @@
+{
+  "general:einsatzid": "6145",
+  "general:title": "Gefahrstoffeinsatz kleinerer Art",
+  "general:date": "2019-10-17T18:15:00+02:00",
+  "general:location": "Lauterecken, LK Kusel",
+  "general:categorie": "Gefahrstoffe",
+  "general:length": "6.0",
+  "general:dateFormatted": "17.10.2019 18:15",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "374",
+  "picture:Picture": {
+    "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/1910/6145-1.jpeg",
+    "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/1910/6145-1.jpeg",
+    "picture:PictureFormat": "quer",
+    "picture:PictureDescription": "",
+    "picture:BufferPreview": "true",
+    "picture:BufferPicture": "false"
+  },
+  "general:changed_on": "2019-10-18T12:04:42+02:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "4",
+  "general:EinsatzDescription": "<p>Unterst&uuml;tzung des Gefahrstoffzuges Kusel mit Fachberatung durch den Feuerwehr-Arzt nach einem Brand in einer Garage. Die beteiligten Einsatzkr&auml;fte wurden mit dem System des Biomonitorings erfasst.</p>",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "45",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "KdoW",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD-299.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD-299.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kommandowagen",
+      "general:vehicleChassis": "VW Passat",
+      "general:vehicleBuild": "VW",
+      "general:vehicleMobilization": "03/05"
+    }
+  },
+  "picture:Pictures": {
+    "picture:Picture": {
+      "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vorschaubilder/1910/6145-1.jpeg",
+      "picture:PictureUrl": "https://www.feuerwehr-landau.de/einsatz/einsatzbilder/vollbilder/1910/6145-1.jpeg",
+      "picture:PictureFormat": "quer",
+      "picture:PictureDescription": "",
+      "picture:BufferPreview": "true",
+      "picture:BufferPicture": "false"
+    }
+  },
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.65069219999999,
+    "lng": 7.590268600000001
+  },
+  "meta:weather": {
+    "date": "2019-10-17",
+    "temperature": 12.2,
+    "temperature_min": 10.4,
+    "temperature_max": 15.9,
+    "precipitation": 4.3,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": 222,
+    "windspeed": 25.8,
+    "peakgust": 58,
+    "sunshine": 96,
+    "pressure": 1013.2
+  }
+}

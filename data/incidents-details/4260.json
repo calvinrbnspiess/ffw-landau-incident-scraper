@@ -1,0 +1,68 @@
+{
+  "general:einsatzid": "4260",
+  "general:title": "Dachstuhlbrand",
+  "general:date": "2016-05-24T19:36:00+02:00",
+  "general:location": "Impflingen - Kirchstraße",
+  "general:categorie": "Brandeinsatz",
+  "general:length": "0.5",
+  "general:dateFormatted": "24.05.2016 19:36",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "103",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "5",
+  "general:EinsatzDescription": "",
+  "general:visits": "0",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "74",
+      "general:vehicleVersion": "1",
+      "general:vehicleName": "TGM 23-12",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1538.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1538.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Teleskopgelenkmast",
+      "general:vehicleChassis": "Mercedes Atego 1629, Teligent-Schaltung",
+      "general:vehicleBuild": "<a href=\"http://www.metz-online.de/\">Metz</a>",
+      "general:vehicleMobilization": "10/14"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": [
+      {
+        "general:HiOrgId": "56",
+        "general:HiOrgName": "FF Billigheim-Ingenheim",
+        "general:HiOrgLink": "http://www.feuerwehr-billigheim-ingenheim.de/"
+      },
+      {
+        "general:HiOrgId": "96",
+        "general:HiOrgName": "FF Insheim",
+        "general:HiOrgLink": "http://www.feuerwehr-insheim.de"
+      }
+    ]
+  },
+  "meta:geolocation": {
+    "lat": 49.16300349999999,
+    "lng": 8.1152528
+  },
+  "meta:weather": {
+    "date": "2016-05-24",
+    "temperature": 8,
+    "temperature_min": 7.3,
+    "temperature_max": 9.1,
+    "precipitation": 0.6,
+    "snowfall": null,
+    "snowdepth": null,
+    "winddirection": null,
+    "windspeed": 23.8,
+    "peakgust": 55.4,
+    "sunshine": 0,
+    "pressure": null
+  }
+}

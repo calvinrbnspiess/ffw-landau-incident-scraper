@@ -1,0 +1,61 @@
+{
+  "general:einsatzid": "3813",
+  "general:title": "Amtshilfe - Personensuche",
+  "general:date": "2014-11-13T17:40:00+01:00",
+  "general:location": "Bodelschwinghstraße",
+  "general:categorie": "Techn. Hilfeleistung",
+  "general:length": "0.5",
+  "general:dateFormatted": "13.11.2014 17:40",
+  "general:mediaAvailable": "true",
+  "general:virtualEinsatzId": "264",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "2",
+  "general:EinsatzDescription": "Vor der ersten Besprechung mit dre Polizei konnte die Person wieder aufgefunden werden. ",
+  "general:visits": "98",
+  "general:vehicles": {
+    "general:vehicle": {
+      "general:vehicleid": "53",
+      "general:vehicleVersion": "0",
+      "general:vehicleName": "KdoW 2",
+      "picture:Picture": {
+        "picture:PicturePreviewURL": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vorschaubilder/LD1501.jpg",
+        "picture:PictureUrl": "https://www.feuerwehr-landau.de/technik/fahrzeugbilder/vollbilder/LD1501.jpg",
+        "picture:PictureFormat": "quer",
+        "picture:PictureDescription": "",
+        "picture:BufferPreview": "true",
+        "picture:BufferPicture": "true"
+      },
+      "general:vehicleDescription": "Kommandowagen - Fahrzeug für den feuerwehrtechnischen Bediensteten",
+      "general:vehicleChassis": "Fiat Grande Punto",
+      "general:vehicleBuild": "Michael Schmidt mobile Kommunikation GmbH",
+      "general:vehicleMobilization": "12/07"
+    }
+  },
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": {
+    "general:HiOrg": {
+      "general:HiOrgId": "28",
+      "general:HiOrgName": "Schutzpolizei",
+      "general:HiOrgLink": "https://www.polizei.rlp.de/de/die-polizei/dienststellen/polizeipraesidium-rheinpfalz/polizeidirektion-landau/"
+    }
+  },
+  "meta:geolocation": {
+    "lat": 49.20617050000001,
+    "lng": 8.106986
+  },
+  "meta:weather": {
+    "date": "2014-11-13",
+    "temperature": 8,
+    "temperature_min": 6.5,
+    "temperature_max": 9.6,
+    "precipitation": 0.1,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 11.9,
+    "peakgust": 31,
+    "sunshine": 26,
+    "pressure": null
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "general:einsatzid": "552",
+  "general:title": "Alarmierung THW",
+  "general:date": "2005-12-25T19:26:00+01:00",
+  "general:location": "Ostbahnstraße 35",
+  "general:categorie": "LNA",
+  "general:length": "0.5",
+  "general:dateFormatted": "25.12.2005 19:26",
+  "general:mediaAvailable": "false",
+  "general:virtualEinsatzId": "261",
+  "general:changed_on": "2017-01-02T18:35:35+01:00",
+  "general:AmountPA": "0",
+  "general:AmountPeople": "1",
+  "general:EinsatzDescription": "",
+  "general:visits": "424",
+  "general:vehicles": "",
+  "picture:Pictures": "",
+  "general:OtherHiOrgs": "",
+  "meta:geolocation": {
+    "lat": 49.1981538,
+    "lng": 8.123434999999999
+  },
+  "meta:weather": {
+    "date": "2005-12-25",
+    "temperature": 1.1,
+    "temperature_min": -1.9,
+    "temperature_max": 2.5,
+    "precipitation": 0.2,
+    "snowfall": null,
+    "snowdepth": 0,
+    "winddirection": null,
+    "windspeed": 14.8,
+    "peakgust": 28.8,
+    "sunshine": 102,
+    "pressure": null
+  }
+}
