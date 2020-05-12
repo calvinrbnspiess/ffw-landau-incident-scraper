@@ -1,8 +1,8 @@
 {
-  "date": "2020-05-01T18:13:48.937Z",
-  "lastRequest": "https://www.feuerwehr-landau.de/mobile/einsatzDetails.php?id=6391",
-  "lastResponseFile": "data/raw/1588356828936-einsatzDetails.php-?id=6391.xml",
+  "date": "2020-05-12T07:14:39.714Z",
+  "lastRequest": "https://www.feuerwehr-landau.de/mobile/einsatzDetails.php?id=6397",
+  "lastResponseFile": "data/raw/1589267679713-einsatzDetails.php-?id=6397.xml",
   "idStart": 6381,
   "idEnd": 6400,
-  "idDetails": 6391
+  "idDetails": 6397
 }
